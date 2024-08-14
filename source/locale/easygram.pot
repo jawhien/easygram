@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 'easygram' '0.29'\n"
 "Report-Msgid-Bugs-To: 'jawhien@gmail.com'\n"
-"POT-Creation-Date: 2024-08-14 14:59+0300\n"
+"POT-Creation-Date: 2024-08-14 19:21+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,714 +18,972 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 
+#: source\emoji\__init__.py:3
 msgid "Slightly smiling face"
 msgstr ""
 
+#: source\emoji\__init__.py:4
 msgid "Smiling face"
 msgstr ""
 
+#: source\emoji\__init__.py:5
 msgid "Grinning face"
 msgstr ""
 
+#: source\emoji\__init__.py:6
 msgid "Smiling face with smiling eyes"
 msgstr ""
 
+#: source\emoji\__init__.py:7
 msgid "Smiling face with halo"
 msgstr ""
 
+#: source\emoji\__init__.py:8
 msgid "Grinning face with big eyes"
 msgstr ""
 
+#: source\emoji\__init__.py:9
 msgid "Grinning face with smiling eyes"
 msgstr ""
 
+#: source\emoji\__init__.py:10
 msgid "Grinning squinting face"
 msgstr ""
 
+#: source\emoji\__init__.py:11
 msgid "Grinning face with sweat"
 msgstr ""
 
+#: source\emoji\__init__.py:12
 msgid "Rolling on the floor laughing"
 msgstr ""
 
+#: source\emoji\__init__.py:13
 msgid "Face with tears of joy"
 msgstr ""
 
+#: source\emoji\__init__.py:14
 msgid "Beaming face with smiling eyes"
 msgstr ""
 
+#: source\emoji\__init__.py:15
 msgid "Smiling face with horns"
 msgstr ""
 
+#: source\emoji\__init__.py:16
 msgid "Angry face with horns"
 msgstr ""
 
+#: source\emoji\__init__.py:17
 msgid "Upside-down face"
 msgstr ""
 
+#: source\emoji\__init__.py:18
 msgid "Melting face"
 msgstr ""
 
+#: source\emoji\__init__.py:19
 msgid "Winking face"
 msgstr ""
 
+#: source\emoji\__init__.py:20
 msgid "Winking face with tongue"
 msgstr ""
 
+#: source\emoji\__init__.py:21
 msgid "Smiling face with open hands"
 msgstr ""
 
+#: source\emoji\__init__.py:22
 msgid "Smiling face with hearts"
 msgstr ""
 
+#: source\emoji\__init__.py:23
 msgid "Smiling face with heart-eyes"
 msgstr ""
 
+#: source\emoji\__init__.py:24
 msgid "Star-struck"
 msgstr ""
 
+#: source\emoji\__init__.py:25
 msgid "Face blowing a kiss"
 msgstr ""
 
+#: source\emoji\__init__.py:26
 msgid "Kissing face"
 msgstr ""
 
+#: source\emoji\__init__.py:27
 msgid "Kissing face with closed eyes"
 msgstr ""
 
+#: source\emoji\__init__.py:28
 msgid "Kissing face with smiling eyes"
 msgstr ""
 
+#: source\emoji\__init__.py:29
 msgid "Smiling face with tear"
 msgstr ""
 
+#: source\emoji\__init__.py:30
 msgid "Face savoring food"
 msgstr ""
 
+#: source\emoji\__init__.py:31
 msgid "Face with tongue"
 msgstr ""
 
+#: source\emoji\__init__.py:32
 msgid "Face with hand over mouth"
 msgstr ""
 
+#: source\emoji\__init__.py:33
 msgid "Face with open eyes and hand over mouth"
 msgstr ""
 
+#: source\emoji\__init__.py:34
 msgid "Zany face"
 msgstr ""
 
+#: source\emoji\__init__.py:35
 msgid "Squinting face with tongue"
 msgstr ""
 
+#: source\emoji\__init__.py:36
 msgid "Money-mouth face"
 msgstr ""
 
+#: source\emoji\__init__.py:37
 msgid "Face with peeking eye"
 msgstr ""
 
+#: source\emoji\__init__.py:38
 msgid "Shushing face"
 msgstr ""
 
+#: source\emoji\__init__.py:39
 msgid "Thinking face"
 msgstr ""
 
+#: source\emoji\__init__.py:40
 msgid "Saluting face"
 msgstr ""
 
+#: source\emoji\__init__.py:41
 msgid "Zipper-mouth face"
 msgstr ""
 
+#: source\emoji\__init__.py:42
 msgid "Face with raised eyebrow"
 msgstr ""
 
+#: source\emoji\__init__.py:43
 msgid "Neutral face"
 msgstr ""
 
+#: source\emoji\__init__.py:44
 msgid "Expressionless face"
 msgstr ""
 
+#: source\emoji\__init__.py:45
 msgid "Face without mouth"
 msgstr ""
 
+#: source\emoji\__init__.py:46
 msgid "Dotted line face"
 msgstr ""
 
+#: source\emoji\__init__.py:47
 msgid "Face in clouds"
 msgstr ""
 
+#: source\emoji\__init__.py:48
 msgid "Smirking face"
 msgstr ""
 
+#: source\emoji\__init__.py:49
 msgid "unamused face"
 msgstr ""
 
+#: source\emoji\__init__.py:50
 msgid "Face with rolling eyes"
 msgstr ""
 
+#: source\emoji\__init__.py:51
 msgid "Grimacing face"
 msgstr ""
 
+#: source\emoji\__init__.py:52
 msgid "Face exhaling"
 msgstr ""
 
+#: source\emoji\__init__.py:53
 msgid "Lying face"
 msgstr ""
 
+#: source\emoji\__init__.py:54
 msgid "Shaking face"
 msgstr ""
 
+#: source\emoji\__init__.py:55
 msgid "Relieved face"
 msgstr ""
 
+#: source\emoji\__init__.py:56
 msgid "Pensive face"
 msgstr ""
 
+#: source\emoji\__init__.py:57
 msgid "Sleepy face"
 msgstr ""
 
+#: source\emoji\__init__.py:58
 msgid "Drooling face"
 msgstr ""
 
+#: source\emoji\__init__.py:59
 msgid "Sleeping face"
 msgstr ""
 
+#: source\emoji\__init__.py:60
 msgid "Face with medical mask"
 msgstr ""
 
+#: source\emoji\__init__.py:61
 msgid "Face with thermometer"
 msgstr ""
 
+#: source\emoji\__init__.py:62
 msgid "Face with head-bandage"
 msgstr ""
 
+#: source\emoji\__init__.py:63
 msgid "Face with spiral eyes"
 msgstr ""
 
+#: source\emoji\__init__.py:64
 msgid "Exploding head"
 msgstr ""
 
+#: source\emoji\__init__.py:65
 msgid "Cowboy hat face"
 msgstr ""
 
+#: source\emoji\__init__.py:66
 msgid "Partying face"
 msgstr ""
 
+#: source\emoji\__init__.py:67
 msgid "Smiling face with sunglasses"
 msgstr ""
 
+#: source\emoji\__init__.py:68
 msgid "Nerd face"
 msgstr ""
 
+#: source\emoji\__init__.py:69
 msgid "Face with monocle"
 msgstr ""
 
+#: source\emoji\__init__.py:70
 msgid "Confused face"
 msgstr ""
 
+#: source\emoji\__init__.py:71
 msgid "Face with diagonal mouth"
 msgstr ""
 
+#: source\emoji\__init__.py:72
 msgid "Worried face"
 msgstr ""
 
+#: source\emoji\__init__.py:73
 msgid "Slightly frowning face"
 msgstr ""
 
+#: source\emoji\__init__.py:74
 msgid "Frowning face"
 msgstr ""
 
+#: source\emoji\__init__.py:75
 msgid "Face with open mouth"
 msgstr ""
 
+#: source\emoji\__init__.py:76
 msgid "Hushed face"
 msgstr ""
 
+#: source\emoji\__init__.py:77
 msgid "Astonished face"
 msgstr ""
 
+#: source\emoji\__init__.py:78
 msgid "Flushed face"
 msgstr ""
 
+#: source\emoji\__init__.py:79
 msgid "Pleading face"
 msgstr ""
 
+#: source\emoji\__init__.py:80
 msgid "Face holding back tears"
 msgstr ""
 
+#: source\emoji\__init__.py:81
 msgid "Frowning face with open mouth"
 msgstr ""
 
+#: source\emoji\__init__.py:82
 msgid "Anguished face"
 msgstr ""
 
+#: source\emoji\__init__.py:83
 msgid "Fearful face"
 msgstr ""
 
+#: source\emoji\__init__.py:84
 msgid "Anxious face with sweat"
 msgstr ""
 
+#: source\emoji\__init__.py:85
 msgid "Sad but relieved face"
 msgstr ""
 
+#: source\emoji\__init__.py:86
 msgid "Crying face"
 msgstr ""
 
+#: source\emoji\__init__.py:87
 msgid "Loudly crying face"
 msgstr ""
 
+#: source\emoji\__init__.py:88
 msgid "Face screaming in fear"
 msgstr ""
 
+#: source\emoji\__init__.py:89
 msgid "Confounded face"
 msgstr ""
 
+#: source\emoji\__init__.py:90
 msgid "Persevering face"
 msgstr ""
 
+#: source\emoji\__init__.py:91
 msgid "Disappointed face"
 msgstr ""
 
+#: source\emoji\__init__.py:92
 msgid "Downcast face with sweat"
 msgstr ""
 
+#: source\emoji\__init__.py:93
 msgid "Weary face"
 msgstr ""
 
+#: source\emoji\__init__.py:94
 msgid "Tired face"
 msgstr ""
 
+#: source\emoji\__init__.py:95
 msgid "Enraged face"
 msgstr ""
 
+#: source\emoji\__init__.py:96
 msgid "Angry face"
 msgstr ""
 
+#: source\emoji\__init__.py:97
 msgid "Face with symbols on mouth"
 msgstr ""
 
+#: source\emoji\__init__.py:98
 msgid "Skull"
 msgstr ""
 
+#: source\emoji\__init__.py:99
 msgid "Skull and crossbones"
 msgstr ""
 
+#: source\emoji\__init__.py:100
 msgid "Grinning cat"
 msgstr ""
 
+#: source\emoji\__init__.py:101
 msgid "Grinning cat with smiling eyes"
 msgstr ""
 
+#: source\emoji\__init__.py:102
 msgid "Cat with tears of joy"
 msgstr ""
 
+#: source\emoji\__init__.py:103
 msgid "Smiling cat with heart-eyes"
 msgstr ""
 
+#: source\emoji\__init__.py:104
 msgid "Cat with wry smile"
 msgstr ""
 
+#: source\emoji\__init__.py:105
 msgid "Kissing cat"
 msgstr ""
 
+#: source\emoji\__init__.py:106
 msgid "Weary cat"
 msgstr ""
 
+#: source\emoji\__init__.py:107
 msgid "Crying cat"
 msgstr ""
 
+#: source\emoji\__init__.py:108
 msgid "Pouting cat"
 msgstr ""
 
+#: source\emoji\__init__.py:109
 msgid "Thumbs up"
 msgstr ""
 
+#: source\emoji\__init__.py:110
 msgid "Thumbs down"
 msgstr ""
 
+#: source\emoji\__init__.py:111
 msgid "Clapping hands"
 msgstr ""
 
+#: source\emoji\__init__.py:112
 msgid "Raising hands"
 msgstr ""
 
+#: source\emoji\__init__.py:113
 msgid "Waving hand"
 msgstr ""
 
+#: source\emoji\__init__.py:114
 msgid "OK hand"
 msgstr ""
 
+#: source\emoji\__init__.py:115
 msgid "Pinching hand"
 msgstr ""
 
+#: source\emoji\__init__.py:116
 msgid "Victory hand"
 msgstr ""
 
+#: source\emoji\__init__.py:117
 msgid "Love-you gesture"
 msgstr ""
 
+#: source\emoji\__init__.py:118
 msgid "Sign of the horns"
 msgstr ""
 
+#: source\emoji\__init__.py:119
 msgid "Call me hand"
 msgstr ""
 
+#: source\emoji\__init__.py:120
 msgid "Middle finger"
 msgstr ""
 
+#: source\emoji\__init__.py:121
 msgid "Heart hands"
 msgstr ""
 
+#: source\gui\chat.py:119 source\gui\dialogs.py:2552
 msgid "Bot menu"
 msgstr ""
 
+#: source\gui\chat.py:123
 msgid "Bot keyboard"
 msgstr ""
 
+#: source\gui\chat.py:131
 msgid "Inline keyboard"
 msgstr ""
 
+#: source\gui\chat.py:135
 msgid "Emoji"
 msgstr ""
 
+#: source\gui\chat.py:150 source\gui\dialogs.py:866 source\gui\dialogs.py:2063
 msgid "Schedule message"
 msgstr ""
 
 #. TRANSLATORS: this is the label of the button in the file attachment dialog box.
+#: source\gui\chat.py:154 source\gui\chat.py:1237 source\gui\dialogs.py:872
+#: source\gui\dialogs.py:2068 source\gui\dialogs.py:2322
+#: source\gui\dialogs.py:2449
 msgid "Set date and time..."
 msgstr ""
 
+#: source\gui\chat.py:158 source\gui\dialogs.py:881 source\gui\dialogs.py:2077
+#: source\gui\dialogs.py:2327
 msgid "Without sound"
 msgstr ""
 
+#: source\gui\chat.py:161 source\gui\dialogs.py:398 source\gui\dialogs.py:889
+#: source\gui\dialogs.py:2334
 msgid "Send"
 msgstr ""
 
+#: source\gui\chat.py:166
 msgid "Remove reply"
 msgstr ""
 
+#: source\gui\chat.py:170 source\gui\dialogs.py:1536
 msgid "Scheduled messages"
 msgstr ""
 
+#: source\gui\chat.py:176
 msgid "Attach..."
 msgstr ""
 
+#: source\gui\chat.py:180
 msgid "Voice note"
 msgstr ""
 
+#: source\gui\chat.py:199
 msgid "Pinned messages"
 msgstr ""
 
+#: source\gui\chat.py:206 source\gui\chat.py:1507
 msgid "Mute"
 msgstr ""
 
+#: source\gui\chat.py:206 source\gui\chat.py:1509
 msgid "Unmute"
 msgstr ""
 
+#: source\gui\chat.py:214
 msgid "Join the channel"
 msgstr ""
 
+#: source\gui\chat.py:221 source\gui\dialogs.py:259 source\gui\dialogs.py:819
+#: source\gui\dialogs.py:1137 source\gui\dialogs.py:1566
+#: source\gui\dialogs.py:1750 source\gui\dialogs.py:1849
+#: source\gui\dialogs.py:1957 source\mediaPlayer\photo.py:26
 msgid "Close"
 msgstr ""
 
+#: source\gui\chat.py:405 source\gui\dialogs.py:1543
 msgid "Messages"
 msgstr ""
 
+#: source\gui\chat.py:408
 msgid "Message:"
 msgstr ""
 
+#: source\gui\chat.py:455
 #, python-brace-format
 msgid "Reply to {name}:"
 msgstr ""
 
+#: source\gui\chat.py:531 source\gui\vdm.py:97
 msgid "online"
 msgstr ""
 
+#: source\gui\chat.py:533 source\gui\vdm.py:99
 msgid "last seen recently"
 msgstr ""
 
+#: source\gui\chat.py:535 source\gui\vdm.py:101
 msgid "last seen within a week"
 msgstr ""
 
+#: source\gui\chat.py:537 source\gui\vdm.py:103
 msgid "last seen within a month"
 msgstr ""
 
+#: source\gui\chat.py:539 source\gui\vdm.py:105
 msgid "last seen never"
 msgstr ""
 
+#: source\gui\chat.py:541 source\gui\vdm.py:107
 #, python-brace-format
 msgid "last seen at {time}"
 msgstr ""
 
+#: source\gui\chat.py:543 source\gui\vdm.py:109
 #, python-brace-format
 msgid "last seen yesterday at {time}"
 msgstr ""
 
+#: source\gui\chat.py:545 source\gui\vdm.py:111
 #, python-brace-format
 msgid "last seen {date} at {time}"
 msgstr ""
 
+#: source\gui\chat.py:554
 #, python-brace-format
 msgid "Channel: {name}, {count} member"
 msgid_plural "Channel: {name}, {count} members"
 msgstr[0] ""
 msgstr[1] ""
 
+#: source\gui\chat.py:565
 #, python-brace-format
 msgid "Group: {name}, {count} member"
 msgid_plural "Group: {name}, {count} members"
 msgstr[0] ""
 msgstr[1] ""
 
+#: source\gui\chat.py:567
 #, python-brace-format
 msgid "Group: {name}, {status}, {count} member"
 msgid_plural "Group: {name}, {status}, {count} members"
 msgstr[0] ""
 msgstr[1] ""
 
+#: source\gui\chat.py:571 source\gui\vdm.py:192 source\gui\vdm.py:269
 msgid "Favorites"
 msgstr ""
 
+#: source\gui\chat.py:574 source\gui\vdm.py:187 source\gui\vdm.py:264
 msgid "Replies"
 msgstr ""
 
+#: source\gui\chat.py:578
 #, python-brace-format
 msgid "Bot: {name}"
 msgstr ""
 
+#: source\gui\chat.py:587
 msgid "Premium account"
 msgstr ""
 
+#: source\gui\chat.py:649 source\gui\__init__.py:203
 msgid "Skipped one-time voice message"
 msgstr ""
 
+#: source\gui\chat.py:796 source\gui\chat.py:812 source\gui\dialogs.py:1460
+#: source\gui\dialogs.py:1605
 msgid "Are you sure you want to delete this message?"
 msgstr ""
 
+#: source\gui\chat.py:796 source\gui\dialogs.py:1462
 msgid "Delete for everyone"
 msgstr ""
 
+#: source\gui\chat.py:812
 msgid "Delete for yourself"
 msgstr ""
 
+#: source\gui\chat.py:993 source\gui\chat.py:1008
 msgid "There are no links in this message."
 msgstr ""
 
+#: source\gui\chat.py:993 source\gui\chat.py:1008 source\gui\dialogs.py:1719
+#: source\gui\dialogs.py:1728 source\gui\settings.py:468
 msgid "Information"
 msgstr ""
 
+#: source\gui\chat.py:1056
 msgid "Voice and video messages in this chat are restricted!"
 msgstr ""
 
+#: source\gui\chat.py:1061 source\gui\dialogs.py:1291
+#: source\gui\dialogs.py:1364 source\gui\dialogs.py:1378
+#: source\gui\dialogs.py:1392 source\gui\dialogs.py:1408
+#: source\gui\dialogs.py:2379
 msgid "All files"
 msgstr ""
 
+#: source\gui\chat.py:1062 source\gui\dialogs.py:1297
+#: source\gui\dialogs.py:2380
 msgid "Select file"
 msgstr ""
 
+#: source\gui\chat.py:1147
 msgid "Unread messages"
 msgstr ""
 
+#: source\gui\chat.py:1222 source\gui\dialogs.py:1223
 msgid "The message is too long!"
 msgstr ""
 
+#: source\gui\chat.py:1222
 msgid "Send error"
 msgstr ""
 
+#: source\gui\chat.py:1227 source\gui\dialogs.py:985 source\gui\dialogs.py:2167
+#: source\gui\dialogs.py:2497
 msgid "You have not set the date and time!"
 msgstr ""
 
+#: source\gui\chat.py:1227 source\gui\chat.py:1488 source\gui\dialogs.py:465
+#: source\gui\dialogs.py:493 source\gui\dialogs.py:959
+#: source\gui\dialogs.py:966 source\gui\dialogs.py:972
+#: source\gui\dialogs.py:985 source\gui\dialogs.py:1049
+#: source\gui\dialogs.py:1215 source\gui\dialogs.py:1223
+#: source\gui\dialogs.py:1306 source\gui\dialogs.py:1338
+#: source\gui\dialogs.py:2167 source\gui\dialogs.py:2497
+#: source\gui\login.py:251 source\gui\login.py:278 source\gui\login.py:327
 msgid "Error"
 msgstr ""
 
+#: source\gui\chat.py:1246 source\gui\dialogs.py:954 source\gui\dialogs.py:1658
+#: source\gui\dialogs.py:2134 source\gui\dialogs.py:2444
 msgid "%d.%m.%Y at %H:%M"
 msgstr ""
 
+#: source\gui\chat.py:1247 source\gui\dialogs.py:955 source\gui\dialogs.py:2135
+#: source\gui\dialogs.py:2445
 #, python-brace-format
 msgid "Scheduled for: {date}"
 msgstr ""
 
+#: source\gui\chat.py:1488
 #, python-brace-format
 msgid ""
 "Failed to save file \"{name}\", such file already exists and name search "
 "limit exceeded."
 msgstr ""
 
+#: source\gui\chat.py:1700
 msgid "Comment:"
 msgstr ""
 
+#: source\gui\chat.py:1703
 msgid "Comments"
 msgstr ""
 
+#: source\gui\chat.py:1709
 msgid "Comments for: "
 msgstr ""
 
+#: source\gui\dialogs.py:80 source\gui\dialogs.py:2318
 msgid "Schedule"
 msgstr ""
 
+#: source\gui\dialogs.py:123
 msgid "Hour:"
 msgstr ""
 
+#: source\gui\dialogs.py:130
 msgid "Minute:"
 msgstr ""
 
+#: source\gui\dialogs.py:137 source\gui\dialogs.py:728
+#: source\gui\dialogs.py:1506 source\gui\dialogs.py:1689
+#: source\gui\dialogs.py:1884 source\gui\settings.py:388
 msgid "OK"
 msgstr ""
 
+#: source\gui\dialogs.py:142 source\gui\dialogs.py:403
+#: source\gui\dialogs.py:733 source\gui\dialogs.py:894
+#: source\gui\dialogs.py:1176 source\gui\dialogs.py:1474
+#: source\gui\dialogs.py:1693 source\gui\dialogs.py:1888
+#: source\gui\dialogs.py:2102 source\gui\dialogs.py:2340 source\gui\login.py:42
+#: source\gui\login.py:108 source\gui\login.py:143 source\gui\login.py:193
+#: source\gui\settings.py:393
 msgid "Cancel"
 msgstr ""
 
+#: source\gui\dialogs.py:182
 msgid "About the bot"
 msgstr ""
 
+#: source\gui\dialogs.py:184 source\gui\menu.py:214 source\gui\__init__.py:123
 msgid "About user"
 msgstr ""
 
+#: source\gui\dialogs.py:191 source\gui\login.py:167
 msgid "First name:"
 msgstr ""
 
+#: source\gui\dialogs.py:198 source\gui\login.py:174
 msgid "Last name:"
 msgstr ""
 
+#: source\gui\dialogs.py:208 source\gui\dialogs.py:1101
 msgid "About Me:"
 msgstr ""
 
+#: source\gui\dialogs.py:215 source\gui\login.py:30
 msgid "Phone number:"
 msgstr ""
 
+#: source\gui\dialogs.py:225
 msgid "User name:"
 msgstr ""
 
+#: source\gui\dialogs.py:235
 msgid "Birthday:"
 msgstr ""
 
+#: source\gui\dialogs.py:241
 msgid "Personal channel"
 msgstr ""
 
+#: source\gui\dialogs.py:247 source\gui\dialogs.py:1129
 msgid "ID:"
 msgstr ""
 
+#: source\gui\dialogs.py:255 source\gui\menu.py:16 source\gui\__init__.py:129
 msgid "Open chat"
 msgstr ""
 
+#: source\gui\dialogs.py:298
 #, python-brace-format
 msgid "{day}/{month}/{year}"
 msgstr ""
 
+#: source\gui\dialogs.py:300
 #, python-brace-format
 msgid "{day}/{month}"
 msgstr ""
 
+#: source\gui\dialogs.py:313
 #, python-brace-format
 msgid "Personal channel: {title}"
 msgstr ""
 
+#: source\gui\dialogs.py:319
 #, python-brace-format
 msgid "Clear history with {title}"
 msgstr ""
 
+#: source\gui\dialogs.py:323
 msgid "Are you sure you want to clear your history on this chat?"
 msgstr ""
 
+#: source\gui\dialogs.py:326
 msgid "Clear for all users"
 msgstr ""
 
+#: source\gui\dialogs.py:329
 msgid "Remove from chat list"
 msgstr ""
 
+#: source\gui\dialogs.py:334
 msgid "Yes"
 msgstr ""
 
+#: source\gui\dialogs.py:339
 msgid "No"
 msgstr ""
 
+#: source\gui\dialogs.py:375
 #, python-brace-format
 msgid "Voice note: {title}"
 msgstr ""
 
+#: source\gui\dialogs.py:390 source\gui\dialogs.py:422
 msgid "Start recording"
 msgstr ""
 
+#: source\gui\dialogs.py:395
 msgid "Delete after listening"
 msgstr ""
 
+#: source\gui\dialogs.py:417
 msgid "Stop recording"
 msgstr ""
 
+#: source\gui\dialogs.py:452
 msgid "Can't send empty messages!"
 msgstr ""
 
+#: source\gui\dialogs.py:452
 msgid "Info"
 msgstr ""
 
 #. Change the label of the button to show that the upload has already started.
+#: source\gui\dialogs.py:456
 msgid "Sending in progress..."
 msgstr ""
 
 #. Show an error if the file could not be saved.
+#: source\gui\dialogs.py:465
 msgid "An error occurred while writing the file."
 msgstr ""
 
+#: source\gui\dialogs.py:493
 msgid "An error occurred while converting the file."
 msgstr ""
 
+#: source\gui\dialogs.py:513
 msgid "Cancel the record and delete the message?"
 msgstr ""
 
+#: source\gui\dialogs.py:513 source\gui\login.py:72 source\gui\login.py:118
+#: source\gui\login.py:153 source\gui\login.py:203 source\gui\login.py:243
 msgid "Confirmation"
 msgstr ""
 
+#: source\gui\dialogs.py:526 source\gui\presentation.py:162
 #, python-brace-format
 msgid "Poll: {title}, anonymous poll"
 msgstr ""
 
+#: source\gui\dialogs.py:528 source\gui\presentation.py:166
 #, python-brace-format
 msgid "Poll: {title}, public poll"
 msgstr ""
 
+#: source\gui\dialogs.py:539
 msgid "Choose one or more answers"
 msgstr ""
 
+#: source\gui\dialogs.py:541 source\gui\dialogs.py:626
 msgid "Choose only one answer"
 msgstr ""
 
+#: source\gui\dialogs.py:567
 msgid "This poll is now closed."
 msgstr ""
 
+#: source\gui\dialogs.py:614 source\gui\presentation.py:164
 #, python-brace-format
 msgid "Quiz: {title}, anonymous quiz"
 msgstr ""
 
+#: source\gui\dialogs.py:616 source\gui\presentation.py:168
 #, python-brace-format
 msgid "Quiz: {title}, public quiz"
 msgstr ""
 
+#: source\gui\dialogs.py:636 source\gui\dialogs.py:690
 #, python-brace-format
 msgid "{text} ({p}%) - This is the wrong answer"
 msgstr ""
 
+#: source\gui\dialogs.py:638 source\gui\dialogs.py:692
 #, python-brace-format
 msgid "{text} ({p}%) - This is the correct answer"
 msgstr ""
 
+#: source\gui\dialogs.py:641 source\gui\dialogs.py:695
 #, python-brace-format
 msgid "{option}. Explanation: {text}"
 msgstr ""
 
+#: source\gui\dialogs.py:657
 msgid "Can't change answer in quiz mode."
 msgstr ""
 
+#: source\gui\dialogs.py:661
 msgid "This quiz is now closed."
 msgstr ""
 
+#: source\gui\dialogs.py:708
 msgid "Links"
 msgstr ""
 
+#: source\gui\dialogs.py:775 source\gui\__init__.py:148
 msgid "About Easygram"
 msgstr ""
 
+#: source\gui\dialogs.py:785
 msgid "Original text in English: © Eugene Poplavsky."
 msgstr ""
 
+#: source\gui\dialogs.py:787
 #, python-brace-format
 msgid ""
 "Easygram is distributed under the GNU GPLv3 open source license, with the "
@@ -735,520 +993,690 @@ msgid ""
 "{link}"
 msgstr ""
 
+#: source\gui\dialogs.py:788
 msgid "Easygram also includes a number of GNU GPL compatible components."
 msgstr ""
 
+#: source\gui\dialogs.py:790 source\gui\dialogs.py:792
+#: source\gui\dialogs.py:794 source\gui\dialogs.py:798
+#: source\gui\dialogs.py:802 source\gui\dialogs.py:808
 #, python-brace-format
 msgid ""
 "{name}, version: {version}\n"
 "{link}"
 msgstr ""
 
+#: source\gui\dialogs.py:847 source\gui\dialogs.py:1264
 msgid "File path:"
 msgstr ""
 
+#: source\gui\dialogs.py:858 source\gui\dialogs.py:1252
+#: source\gui\dialogs.py:2277
 msgid "Caption:"
 msgstr ""
 
+#: source\gui\dialogs.py:918
 msgid "Attach file"
 msgstr ""
 
+#: source\gui\dialogs.py:959
 msgid "No such file exists!"
 msgstr ""
 
+#: source\gui\dialogs.py:966
 msgid "The caption text is too long!"
 msgstr ""
 
+#: source\gui\dialogs.py:972
 msgid "No command to send!"
 msgstr ""
 
+#: source\gui\dialogs.py:1011
 msgid "Attach video"
 msgstr ""
 
+#: source\gui\dialogs.py:1023
 msgid "Attach audio"
 msgstr ""
 
+#: source\gui\dialogs.py:1028 source\gui\dialogs.py:1414
+#: source\gui\dialogs.py:2285
 msgid "Title:"
 msgstr ""
 
+#: source\gui\dialogs.py:1035 source\gui\dialogs.py:1421
+#: source\gui\dialogs.py:2295
 msgid "Performer:"
 msgstr ""
 
+#: source\gui\dialogs.py:1049
 msgid "Title required!"
 msgstr ""
 
+#: source\gui\dialogs.py:1057
 msgid "Attach photo"
 msgstr ""
 
+#: source\gui\dialogs.py:1068
 msgid "Attach animation"
 msgstr ""
 
+#: source\gui\dialogs.py:1076
 msgid "Attach document"
 msgstr ""
 
+#: source\gui\dialogs.py:1089 source\gui\menu.py:218
 msgid "About the channel"
 msgstr ""
 
+#: source\gui\dialogs.py:1094
 msgid "Name:"
 msgstr ""
 
+#: source\gui\dialogs.py:1107
 msgid "Member count:"
 msgstr ""
 
+#: source\gui\dialogs.py:1114
 msgid "Invite link:"
 msgstr ""
 
+#: source\gui\dialogs.py:1171
 msgid "Save"
 msgstr ""
 
+#: source\gui\dialogs.py:1185 source\gui\menu.py:82
 msgid "Edit message"
 msgstr ""
 
+#: source\gui\dialogs.py:1189
 msgid "Message text:"
 msgstr ""
 
+#: source\gui\dialogs.py:1215
 msgid "Can't send empty message!"
 msgstr ""
 
+#: source\gui\dialogs.py:1247
 msgid "Edit document"
 msgstr ""
 
+#: source\gui\dialogs.py:1259
 msgid "Override file..."
 msgstr ""
 
+#: source\gui\dialogs.py:1272 source\gui\settings.py:98
 msgid "Browse..."
 msgstr ""
 
+#: source\gui\dialogs.py:1277
 msgid "Cancel override file"
 msgstr ""
 
+#: source\gui\dialogs.py:1306
 msgid "This type of file is not supported!"
 msgstr ""
 
+#: source\gui\dialogs.py:1338
 msgid "The caption is too long!"
 msgstr ""
 
+#: source\gui\dialogs.py:1355
 msgid "Edit photo"
 msgstr ""
 
+#: source\gui\dialogs.py:1364
 msgid "All images"
 msgstr ""
 
+#: source\gui\dialogs.py:1369
 msgid "Edit video"
 msgstr ""
 
+#: source\gui\dialogs.py:1378
 msgid "All video files"
 msgstr ""
 
+#: source\gui\dialogs.py:1383
 msgid "Edit animation"
 msgstr ""
 
+#: source\gui\dialogs.py:1392
 msgid "All animation"
 msgstr ""
 
+#: source\gui\dialogs.py:1397
 msgid "Edit audio"
 msgstr ""
 
+#: source\gui\dialogs.py:1408
 msgid "All audio files"
 msgstr ""
 
+#: source\gui\dialogs.py:1445
 msgid "Edit voice note"
 msgstr ""
 
+#: source\gui\dialogs.py:1456 source\gui\dialogs.py:1605
 msgid "Delete message"
 msgstr ""
 
+#: source\gui\dialogs.py:1469 source\gui\dialogs.py:1561
+#: source\gui\dialogs.py:2265 source\gui\menu.py:86
 msgid "Delete"
 msgstr ""
 
+#: source\gui\dialogs.py:1495
 msgid "Successfully"
 msgstr ""
 
+#: source\gui\dialogs.py:1501
 #, python-brace-format
 msgid "File '{name}' saved in downloads"
 msgstr ""
 
+#: source\gui\dialogs.py:1511
 msgid "Show in Folder"
 msgstr ""
 
+#: source\gui\dialogs.py:1551
 msgid "Change..."
 msgstr ""
 
+#: source\gui\dialogs.py:1556
 msgid "Change time..."
 msgstr ""
 
+#: source\gui\dialogs.py:1670
 msgid "Reactions"
 msgstr ""
 
+#: source\gui\dialogs.py:1679
 msgid "Available reactions:"
 msgstr ""
 
+#: source\gui\dialogs.py:1719
 msgid "You cannot send reactions if anonymity is enabled!"
 msgstr ""
 
+#: source\gui\dialogs.py:1728
 msgid "There are no reactions available for this message!"
 msgstr ""
 
+#: source\gui\dialogs.py:1738
 msgid "Scheduled message"
 msgstr ""
 
+#: source\gui\dialogs.py:1743
 #, python-brace-format
 msgid "Message scheduled at {date}"
 msgstr ""
 
+#: source\gui\dialogs.py:1763
 msgid "Message Detail"
 msgstr ""
 
+#: source\gui\dialogs.py:1769
 msgid "Text message:"
 msgstr ""
 
+#: source\gui\dialogs.py:1773
 msgid "Voice message:"
 msgstr ""
 
+#: source\gui\dialogs.py:1777
 msgid "Audio message:"
 msgstr ""
 
+#: source\gui\dialogs.py:1781
 msgid "Video message:"
 msgstr ""
 
+#: source\gui\dialogs.py:1785
 msgid "Photo:"
 msgstr ""
 
+#: source\gui\dialogs.py:1790
 #, python-brace-format
 msgid "Document message: {filename}"
 msgstr ""
 
+#: source\gui\dialogs.py:1795 source\gui\dialogs.py:1810
 msgid "No caption"
 msgstr ""
 
+#: source\gui\dialogs.py:1797
 msgid "Registration message:"
 msgstr ""
 
+#: source\gui\dialogs.py:1799 source\gui\dialogs.py:1802
 msgid "Creation message:"
 msgstr ""
 
+#: source\gui\dialogs.py:1800 source\gui\presentation.py:195
 msgid "Supergroup created."
 msgstr ""
 
+#: source\gui\dialogs.py:1803
 msgid "Group created."
 msgstr ""
 
+#: source\gui\dialogs.py:1805
 msgid "Gif:"
 msgstr ""
 
+#: source\gui\dialogs.py:1812
 msgid "Call message:"
 msgstr ""
 
+#: source\gui\dialogs.py:1815
 msgid "Separator item:"
 msgstr ""
 
+#: source\gui\dialogs.py:1818
 msgid "Sticker:"
 msgstr ""
 
+#: source\gui\dialogs.py:1821 source\gui\dialogs.py:1875
 msgid "Emoji:"
 msgstr ""
 
+#: source\gui\dialogs.py:1827
 #, python-brace-format
 msgid "Views: {count}"
 msgstr ""
 
+#: source\gui\dialogs.py:1834
 #, python-brace-format
 msgid "Reactions: {reactions}"
 msgstr ""
 
+#: source\gui\dialogs.py:1837
 #, python-brace-format
 msgid "You sent a reaction {r}"
 msgstr ""
 
+#: source\gui\dialogs.py:1866
 msgid "Insert emoji"
 msgstr ""
 
+#: source\gui\dialogs.py:1922
 msgid "List of pinned messages"
 msgstr ""
 
+#: source\gui\dialogs.py:1929
 msgid "Messages:"
 msgstr ""
 
+#: source\gui\dialogs.py:1940
 msgid "Go to message"
 msgstr ""
 
+#: source\gui\dialogs.py:1947 source\gui\menu.py:40 source\gui\menu.py:206
 msgid "Unpin"
 msgstr ""
 
+#: source\gui\dialogs.py:1953
 msgid "Unpin all"
 msgstr ""
 
+#: source\gui\dialogs.py:1984
 msgid "Are you sure you want to unpin all messages in this chat?"
 msgstr ""
 
+#: source\gui\dialogs.py:1984
 msgid "Unpin all messages"
 msgstr ""
 
+#: source\gui\dialogs.py:2041
 msgid "Forward message"
 msgstr ""
 
+#: source\gui\dialogs.py:2050
 msgid "Chats:"
 msgstr ""
 
+#: source\gui\dialogs.py:2081
 msgid "Advanced options"
 msgstr ""
 
+#: source\gui\dialogs.py:2085
 msgid "Hide sender name"
 msgstr ""
 
+#: source\gui\dialogs.py:2089
 msgid "Remove caption"
 msgstr ""
 
+#: source\gui\dialogs.py:2097 source\gui\dialogs.py:2154
 msgid "Forward in this chat"
 msgstr ""
 
+#: source\gui\dialogs.py:2152
 #, python-brace-format
 msgid "Forward in {count} chat"
 msgid_plural "Forward in {count} chats"
 msgstr[0] ""
 msgstr[1] ""
 
+#: source\gui\dialogs.py:2249
 msgid "Files"
 msgstr ""
 
+#: source\gui\dialogs.py:2260
 msgid "Add..."
 msgstr ""
 
+#: source\gui\dialogs.py:2274
 msgid "Properties"
 msgstr ""
 
+#: source\gui\dialogs.py:2304
 msgid "Send without compression"
 msgstr ""
 
+#: source\gui\dialogs.py:2316
 msgid "Options"
 msgstr ""
 
+#: source\gui\dialogs.py:2362
 msgid "Attach files"
 msgstr ""
 
+#: source\gui\dialogs.py:2447
 msgid "When online"
 msgstr ""
 
+#: source\gui\login.py:12
 msgid "Enter the phone number"
 msgstr ""
 
+#: source\gui\login.py:21
 msgid "Country:"
 msgstr ""
 
+#: source\gui\login.py:22
 msgid "Country"
 msgstr ""
 
+#: source\gui\login.py:38 source\gui\login.py:104 source\gui\login.py:139
 msgid "Next"
 msgstr ""
 
+#: source\gui\login.py:72 source\gui\login.py:118 source\gui\login.py:153
+#: source\gui\login.py:203
 msgid "Do you want to stop the verification process?"
 msgstr ""
 
+#: source\gui\login.py:80
 msgid "Enter confirmation code"
 msgstr ""
 
+#: source\gui\login.py:88
 msgid "The code was sent to you via Telegram."
 msgstr ""
 
+#: source\gui\login.py:90
 msgid "The code was sent to you via SMS."
 msgstr ""
 
+#: source\gui\login.py:96
 msgid "Confirmation code:"
 msgstr ""
 
+#: source\gui\login.py:126
 msgid "Enter password"
 msgstr ""
 
+#: source\gui\login.py:132
 msgid "Password:"
 msgstr ""
 
+#: source\gui\login.py:161
 msgid "Registration"
 msgstr ""
 
+#: source\gui\login.py:181
 msgid "Terms of service"
 msgstr ""
 
+#: source\gui\login.py:189
 msgid "Register"
 msgstr ""
 
+#: source\gui\login.py:242
 #, python-brace-format
 msgid ""
 "The following phone number will be confirmed: +{code}{number}. This number "
 "is correct?"
 msgstr ""
 
+#: source\gui\login.py:251
 msgid "Incorrect phone number!"
 msgstr ""
 
+#: source\gui\login.py:278
 msgid "Incorrect confirmation code!"
 msgstr ""
 
+#: source\gui\login.py:327
 msgid "Incorrect password!"
 msgstr ""
 
+#: source\gui\menu.py:19
 msgid "Detailed view"
 msgstr ""
 
+#: source\gui\menu.py:22
 msgid "Copy text"
 msgstr ""
 
+#: source\gui\menu.py:26
 msgid "Save in downloads"
 msgstr ""
 
+#: source\gui\menu.py:32
 msgid "Reply"
 msgstr ""
 
+#: source\gui\menu.py:36 source\gui\menu.py:203
 msgid "Pin"
 msgstr ""
 
+#: source\gui\menu.py:45
 msgid "Go to quoted message"
 msgstr ""
 
+#: source\gui\menu.py:49
 #, python-brace-format
 msgid "Comments: {count}"
 msgstr ""
 
+#: source\gui\menu.py:53
 msgid "Go to original message"
 msgstr ""
 
+#: source\gui\menu.py:57
 msgid "Add to favorites"
 msgstr ""
 
+#: source\gui\menu.py:61
 msgid "Forward"
 msgstr ""
 
+#: source\gui\menu.py:66
 msgid "Add reaction"
 msgstr ""
 
+#: source\gui\menu.py:74
 #, python-brace-format
 msgid "Remove reaction {r}"
 msgstr ""
 
+#: source\gui\menu.py:78
 msgid "Open profile"
 msgstr ""
 
+#: source\gui\menu.py:199
 msgid "Open"
 msgstr ""
 
+#: source\gui\menu.py:210
 msgid "Mark as read"
 msgstr ""
 
+#: source\gui\menu.py:222 source\gui\menu.py:245
 msgid "Leave channel"
 msgstr ""
 
+#: source\gui\menu.py:226 source\gui\menu.py:249
 msgid "Leave group"
 msgstr ""
 
+#: source\gui\menu.py:230
 msgid "Clear history"
 msgstr ""
 
+#: source\gui\menu.py:245
 msgid "Are you sure you want to leave this channel?"
 msgstr ""
 
+#: source\gui\menu.py:249
 msgid "Are you sure you want to leave this group?"
 msgstr ""
 
+#: source\gui\menu.py:274
 msgid "Show window"
 msgstr ""
 
+#: source\gui\menu.py:277
 msgid "Exit"
 msgstr ""
 
+#: source\gui\presentation.py:26 source\gui\presentation.py:42
 msgid "You"
 msgstr ""
 
+#: source\gui\presentation.py:29 source\gui\presentation.py:45
+#: source\gui\presentation.py:99 source\gui\presentation.py:238
+#: source\gui\presentation.py:255
 msgid "Deleted user"
 msgstr ""
 
+#: source\gui\presentation.py:90
 msgid "Contains keyboard"
 msgstr ""
 
+#: source\gui\presentation.py:96 source\gui\presentation.py:100
+#: source\gui\presentation.py:102
 #, python-brace-format
 msgid "Forwarded from {name}"
 msgstr ""
 
+#: source\gui\presentation.py:131
 #, python-brace-format
 msgid "Received {count} reply"
 msgid_plural "Received {count} replies"
 msgstr[0] ""
 msgstr[1] ""
 
+#: source\gui\presentation.py:157
 #, python-brace-format
 msgid "Document {name} ({size}) {caption}"
 msgstr ""
 
+#: source\gui\presentation.py:159
 #, python-brace-format
 msgid "Document {name} {caption}"
 msgstr ""
 
+#: source\gui\presentation.py:175
 #, python-brace-format
 msgid "Audio {title} - {performer} ({h}:{m}:{s}) ({size}) {caption}"
 msgstr ""
 
+#: source\gui\presentation.py:177
 #, python-brace-format
 msgid "Audio {title} - {performer} ({h}:{m}:{s}) {caption}"
 msgstr ""
 
+#: source\gui\presentation.py:183
 #, python-brace-format
 msgid "Video ({h}:{m}:{s}) ({size}) {caption}"
 msgstr ""
 
+#: source\gui\presentation.py:185
 #, python-brace-format
 msgid "Video ({h}:{m}:{s}) {caption}"
 msgstr ""
 
+#: source\gui\presentation.py:188
 #, python-brace-format
 msgid "Photo {caption}"
 msgstr ""
 
+#: source\gui\presentation.py:191
 #, python-brace-format
 msgid "Gif {caption}"
 msgstr ""
 
+#: source\gui\presentation.py:193
 msgid "The user is now in telegram."
 msgstr ""
 
 #. TRANSLATORS: This is the text of the message when the user creates a group.
+#: source\gui\presentation.py:198
 msgid "Group created"
 msgstr ""
 
+#: source\gui\presentation.py:202
 msgid "This group has become a supergroup."
 msgstr ""
 
+#: source\gui\presentation.py:206
 msgid "One-time voice message"
 msgstr ""
 
+#: source\gui\presentation.py:208
 msgid "Voice message"
 msgstr ""
 
+#: source\gui\presentation.py:211
 #, python-brace-format
 msgid "{name} {h}:{m}:{s} ({size})"
 msgstr ""
 
+#: source\gui\presentation.py:213
 #, python-brace-format
 msgid "{name} {h}:{m}:{s}"
 msgstr ""
 
+#: source\gui\presentation.py:216
 msgid "(listened)"
 msgstr ""
 
+#: source\gui\presentation.py:218
 msgid "(not listened)"
 msgstr ""
 
 #. TRANSLATORS: this is the message when a user has joined a group
+#: source\gui\presentation.py:233
 msgid "joined the group"
 msgstr ""
 
 #. TRANSLATORS: this is the message when someone added a new user to the group
+#: source\gui\presentation.py:241
 #, python-brace-format
 msgid "added {users}"
 msgstr ""
 
 #. TRANSLATORS: This is the message when a user leaves the group.
+#: source\gui\presentation.py:252
 msgid "left the group"
 msgstr ""
 
 #. TRANSLATORS: This is the message when someone has been removed from the group.
+#: source\gui\presentation.py:257
 #, python-brace-format
 msgid "removed {user}"
 msgstr ""
@@ -1259,508 +1687,707 @@ msgstr ""
 #. except storage.NoItemError:
 #. chat = storage.chats.get(message.chatId)
 #. senderName = chat.title
+#: source\gui\presentation.py:266
 msgid "joined the group via invite link"
 msgstr ""
 
+#: source\gui\presentation.py:271
 msgid "Pinned message"
 msgstr ""
 
+#: source\gui\presentation.py:275
 #, python-brace-format
 msgid "Changed the title to: {title}"
 msgstr ""
 
+#: source\gui\presentation.py:280
 #, python-brace-format
 msgid "Video message {h}:{m}:{s} ({size})"
 msgstr ""
 
+#: source\gui\presentation.py:282
 #, python-brace-format
 msgid "Video message {h}:{m}:{s}"
 msgstr ""
 
+#: source\gui\presentation.py:284
 msgid "Expired voice message"
 msgstr ""
 
+#: source\gui\presentation.py:287
 msgid "Unsupported message type"
 msgstr ""
 
+#: source\gui\presentation.py:297
 #, python-brace-format
 msgid "Pinned message: {name}: {message}..."
 msgstr ""
 
+#: source\gui\presentation.py:304 source\gui\presentation.py:312
+#: source\gui\presentation.py:319
 #, python-brace-format
 msgid "In reply to {name}: {message}..."
 msgstr ""
 
+#: source\gui\presentation.py:322
 msgid "Bytes"
 msgstr ""
 
+#: source\gui\presentation.py:322
 msgid "KB"
 msgstr ""
 
+#: source\gui\presentation.py:322
 msgid "MB"
 msgstr ""
 
+#: source\gui\presentation.py:322
 msgid "GB"
 msgstr ""
 
+#: source\gui\presentation.py:322
 msgid "TB"
 msgstr ""
 
+#: source\gui\presentation.py:322
 msgid "PB"
 msgstr ""
 
+#: source\gui\presentation.py:322
 msgid "EB"
 msgstr ""
 
+#: source\gui\presentation.py:322
 msgid "ZB"
 msgstr ""
 
+#: source\gui\presentation.py:322
 msgid "YB"
 msgstr ""
 
+#: source\gui\presentation.py:328
 msgid "I don't know what to call such a big size!"
 msgstr ""
 
+#: source\gui\settings.py:19
 #, python-brace-format
 msgid "{program} preferences"
 msgstr ""
 
+#: source\gui\settings.py:33
 msgid "General settings"
 msgstr ""
 
+#: source\gui\settings.py:38
 msgid "Interface"
 msgstr ""
 
+#: source\gui\settings.py:43
 msgid "Default"
 msgstr ""
 
+#: source\gui\settings.py:51
 msgid "Language (Restart required):"
 msgstr ""
 
+#: source\gui\settings.py:58
 msgid "Minimize on tray instead of exit"
 msgstr ""
 
+#: source\gui\settings.py:62
 msgid "Confirmation before closing"
 msgstr ""
 
+#: source\gui\settings.py:66
 msgid "Show sender in system tray"
 msgstr ""
 
+#: source\gui\settings.py:70
 msgid "Close chats by pressing the ESCAPE key"
 msgstr ""
 
+#: source\gui\settings.py:74
 msgid "Play event sounds"
 msgstr ""
 
+#: source\gui\settings.py:80
 msgid "Downloads"
 msgstr ""
 
+#: source\gui\settings.py:83
 msgid "Path to save files:"
 msgstr ""
 
+#: source\gui\settings.py:105
 msgid "Logging"
 msgstr ""
 
+#: source\gui\settings.py:107
 msgid "Enable logging (restart required)"
 msgstr ""
 
 #. TRANSLATORS: This is a logging option.
+#: source\gui\settings.py:112
 msgid "Infos"
 msgstr ""
 
+#: source\gui\settings.py:112
 msgid "Warnings"
 msgstr ""
 
+#: source\gui\settings.py:112
 msgid "Errors"
 msgstr ""
 
+#: source\gui\settings.py:112
 msgid "Debug"
 msgstr ""
 
+#: source\gui\settings.py:116
 msgid "Logging level:"
 msgstr ""
 
+#: source\gui\settings.py:122
 msgid "Flush log on startup"
 msgstr ""
 
+#: source\gui\settings.py:126
 msgid "Log rotation"
 msgstr ""
 
+#: source\gui\settings.py:135
 msgid "chats settings"
 msgstr ""
 
+#: source\gui\settings.py:140
 msgid "Send messages by pressing enter"
 msgstr ""
 
+#: source\gui\settings.py:144
 msgid "Sequentially play voice messages and audio files in chats"
 msgstr ""
 
+#: source\gui\settings.py:148
 msgid "Automatically start recording a voice message"
 msgstr ""
 
+#: source\gui\settings.py:152
 msgid "Show emoji button"
 msgstr ""
 
+#: source\gui\settings.py:156
 msgid ""
 "Disable Markdown markup (if there are issues with the messages being sent)"
 msgstr ""
 
+#: source\gui\settings.py:160
 msgid "Don't show dialog box \"Message scheduled\""
 msgstr ""
 
+#: source\gui\settings.py:164
 msgid "Use new search style in chat and message lists"
 msgstr ""
 
 #. TRANSLATORS: this is an option when selecting the quality of voice messages.
+#: source\gui\settings.py:170
 msgid "Auto (optimal: approximately 550 kB/Min)"
 msgstr ""
 
 #. TRANSLATORS: this is an option when selecting the quality of voice messages.
+#: source\gui\settings.py:172
 msgid "Very high (approximately 1.6 mB/Min)"
 msgstr ""
 
 #. TRANSLATORS: this is an option when selecting the quality of voice messages.
+#: source\gui\settings.py:174
 msgid "High (approximately 950 kB/Min)"
 msgstr ""
 
 #. TRANSLATORS: this is an option when selecting the quality of voice messages.
+#: source\gui\settings.py:176
 msgid "Medium (approximately 630 kB/Min)"
 msgstr ""
 
 #. TRANSLATORS: this is an option when selecting the quality of voice messages.
+#: source\gui\settings.py:178
 msgid "Low (approximately 330 kB/Min)"
 msgstr ""
 
 #. TRANSLATORS: this is an option when selecting the quality of voice messages.
+#: source\gui\settings.py:180
 msgid "Very low (approximately 220 kB/Min)"
 msgstr ""
 
+#: source\gui\settings.py:184
 msgid "Voice message quality:"
 msgstr ""
 
+#: source\gui\settings.py:190
 msgid "Display size for:"
 msgstr ""
 
+#: source\gui\settings.py:192
 msgid "Documents"
 msgstr ""
 
+#: source\gui\settings.py:196
 msgid "Voice messages"
 msgstr ""
 
+#: source\gui\settings.py:200
 msgid "Audio messages"
 msgstr ""
 
+#: source\gui\settings.py:204
 msgid "Video messages"
 msgstr ""
 
+#: source\gui\settings.py:214
 msgid "Speech settings"
 msgstr ""
 
+#: source\gui\settings.py:219
 msgid "Speech module settings"
 msgstr ""
 
+#: source\gui\settings.py:221
 msgid "Enable speech"
 msgstr ""
 
+#: source\gui\settings.py:225
 msgid "Allow use of Microsoft Speech API"
 msgstr ""
 
+#: source\gui\settings.py:229
 msgid "Prefer using the Microsoft Speech API"
 msgstr ""
 
+#: source\gui\settings.py:233
 msgid "Always interrupt speech before new notifications"
 msgstr ""
 
+#: source\gui\settings.py:237
 msgid "Interrupt speaking before starting recording"
 msgstr ""
 
+#: source\gui\settings.py:243
 msgid "Speech notifications settings"
 msgstr ""
 
 #. TRANSLATORS: These are the options for reading notifications.
+#: source\gui\settings.py:246 source\gui\settings.py:284
 msgid "Always"
 msgstr ""
 
+#: source\gui\settings.py:246
 msgid "In the foreground"
 msgstr ""
 
+#: source\gui\settings.py:246 source\gui\settings.py:284
 msgid "Never"
 msgstr ""
 
+#: source\gui\settings.py:251
 msgid "Network Status Changes:"
 msgstr ""
 
+#: source\gui\settings.py:259
 msgid "Incoming messages:"
 msgstr ""
 
+#: source\gui\settings.py:267
 msgid "Outgoing messages:"
 msgstr ""
 
+#: source\gui\settings.py:273
 msgid "Speak outgoing messages only after confirmation by the server"
 msgstr ""
 
+#: source\gui\settings.py:278
 msgid "Chat actions:"
 msgstr ""
 
+#: source\gui\settings.py:289
 msgid "Media player:"
 msgstr ""
 
+#: source\gui\settings.py:301
 msgid "Devices settings"
 msgstr ""
 
+#: source\gui\settings.py:307
 msgid "Microphone:"
 msgstr ""
 
+#: source\gui\settings.py:329
 msgid "Speakers:"
 msgstr ""
 
+#: source\gui\settings.py:353
+msgid "File storage"
+msgstr ""
+
+#: source\gui\settings.py:361
+msgid "Statistics:"
+msgstr ""
+
+#: source\gui\settings.py:362
+msgid "Name"
+msgstr ""
+
+#: source\gui\settings.py:365
+msgid "Clear storage"
+msgstr ""
+
+#: source\gui\settings.py:374
 msgid "General"
 msgstr ""
 
+#: source\gui\settings.py:375 source\gui\__init__.py:84
 msgid "Chats"
 msgstr ""
 
+#: source\gui\settings.py:376
 msgid "Speech"
 msgstr ""
 
+#: source\gui\settings.py:377
 msgid "Devices"
 msgstr ""
 
+#: source\gui\settings.py:378
+msgid "Storage"
+msgstr ""
+
+#: source\gui\settings.py:397
 msgid "Apply"
 msgstr ""
 
+#: source\gui\settings.py:430
+#, python-brace-format
+msgid "Disk usage: {size}, {count} file"
+msgid_plural "Disk usage: {size}, {count} files"
+msgstr[0] ""
+msgstr[1] ""
+
+#: source\gui\settings.py:433
+msgid ""
+"Are you sure you want to clear storage? After this, all local copies of "
+"files from the cache will be deleted. This action cannot be undone!"
+msgstr ""
+
+#: source\gui\settings.py:433
+msgid "Warning"
+msgstr ""
+
+#: source\gui\settings.py:468
 msgid "Restart the application to apply the new language settings."
 msgstr ""
 
+#: source\gui\vdm.py:139
 msgid "Seen"
 msgstr ""
 
+#: source\gui\vdm.py:141
 msgid "Not seen"
 msgstr ""
 
+#: source\gui\vdm.py:162 source\mediaPlayer\player.py:125
 msgid "Playing"
 msgstr ""
 
+#: source\gui\vdm.py:164
 msgid "Paused"
 msgstr ""
 
+#: source\gui\vdm.py:166
 msgid "Stopped"
 msgstr ""
 
+#: source\gui\vdm.py:168
 msgid "Played"
 msgstr ""
 
+#: source\gui\vdm.py:170
 msgid "Loading"
 msgstr ""
 
+#: source\gui\vdm.py:173
 msgid "Pinned"
 msgstr ""
 
+#: source\gui\vdm.py:183 source\gui\vdm.py:260
 #, python-brace-format
 msgid "{name} (channel)"
 msgstr ""
 
+#: source\gui\vdm.py:185 source\gui\vdm.py:262
 #, python-brace-format
 msgid "{name} (group)"
 msgstr ""
 
+#: source\gui\vdm.py:190 source\gui\vdm.py:267
 #, python-brace-format
 msgid "{name} (bot)"
 msgstr ""
 
+#: source\gui\vdm.py:196 source\gui\vdm.py:273
 #, python-brace-format
 msgid "{title} (online)"
 msgstr ""
 
+#: source\gui\vdm.py:203 source\gui\vdm.py:280
 msgid "(pinned)"
 msgstr ""
 
+#: source\gui\vdm.py:207 source\gui\__init__.py:707
 #, python-brace-format
 msgid "{count} unread message"
 msgid_plural "{count} unread messages"
 msgstr[0] ""
 msgstr[1] ""
 
+#: source\gui\vdm.py:210
 #, python-brace-format
 msgid "{count} mention"
 msgid_plural "{count} mentions"
 msgstr[0] ""
 msgstr[1] ""
 
+#: source\gui\vdm.py:213
 msgid "New reaction"
 msgid_plural "New reactions"
 msgstr[0] ""
 msgstr[1] ""
 
+#: source\gui\vdm.py:299
 msgid "Music"
 msgstr ""
 
+#: source\gui\vdm.py:299
 msgid "Video"
 msgstr ""
 
+#: source\gui\vdm.py:299
 msgid "Photo"
 msgstr ""
 
+#: source\gui\vdm.py:299
 msgid "Animation"
 msgstr ""
 
+#: source\gui\vdm.py:299
 msgid "Document"
 msgstr ""
 
+#: source\gui\__init__.py:46
 msgid "Offline"
 msgstr ""
 
+#: source\gui\__init__.py:89
 msgid "Loading chats..."
 msgstr ""
 
+#: source\gui\__init__.py:101 source\gui\__init__.py:686
 #, python-brace-format
 msgid "Chats ({0})"
 msgstr ""
 
+#: source\gui\__init__.py:105
 msgid "Contacts"
 msgstr ""
 
+#: source\gui\__init__.py:140 source\gui\__init__.py:473
 #, python-brace-format
 msgid "Contacts ({0})"
 msgstr ""
 
+#: source\gui\__init__.py:144
 msgid "Preferences"
 msgstr ""
 
+#: source\gui\__init__.py:358
 msgid "Your chats"
 msgstr ""
 
+#: source\gui\__init__.py:372
 msgid "Are you sure you want to close application?"
 msgstr ""
 
+#: source\gui\__init__.py:372
 msgid "Exit the program"
 msgstr ""
 
+#: source\gui\__init__.py:420
 msgid "Loading..."
 msgstr ""
 
+#: source\gui\__init__.py:440
 msgid "Invalid verification code!"
 msgstr ""
 
+#: source\gui\__init__.py:442
 msgid "Invalid password!"
 msgstr ""
 
+#: source\gui\__init__.py:449
 msgid "Authorisation Error"
 msgstr ""
 
+#: source\gui\__init__.py:618
 msgid "Updating..."
 msgstr ""
 
+#: source\gui\__init__.py:620
 msgid "Ready"
 msgstr ""
 
+#: source\gui\__init__.py:622
 msgid "Connecting..."
 msgstr ""
 
 #. We display the notification separately from the main system tray icon, because after the notification is shown, the icon is not clickable from the keyboard.
+#: source\gui\__init__.py:696
 #, python-brace-format
 msgid "You have a new message from {title}"
 msgstr ""
 
+#: source\gui\__init__.py:696
 msgid "You have a new message"
 msgstr ""
 
+#: source\mediaPlayer\gui.py:32 source\mediaPlayer\gui.py:68
+#: source\mediaPlayer\__init__.py:105
 #, python-brace-format
 msgid "Time: {t}/{l}"
 msgstr ""
 
+#: source\mediaPlayer\gui.py:35 source\mediaPlayer\gui.py:57
 #, python-brace-format
 msgid "Playback rate: {rate}"
 msgstr ""
 
+#: source\mediaPlayer\gui.py:38
 msgid "Player control panel"
 msgstr ""
 
+#: source\mediaPlayer\gui.py:60
 msgid "Media player"
 msgstr ""
 
+#: source\mediaPlayer\gui.py:135
 msgid "Audio player"
 msgstr ""
 
+#: source\mediaPlayer\gui.py:138 source\mediaPlayer\gui.py:143
 #, python-brace-format
 msgid "Now playing: {title} - {artist}"
 msgstr ""
 
+#: source\mediaPlayer\gui.py:150
 msgid "Video player"
 msgstr ""
 
+#: source\mediaPlayer\photo.py:12
 msgid "Photo viewer"
 msgstr ""
 
+#: source\mediaPlayer\player.py:131
 msgid "Stop"
 msgstr ""
 
+#: source\mediaPlayer\player.py:136
 msgid "Pause"
 msgstr ""
 
+#: source\mediaPlayer\player.py:150 source\mediaPlayer\player.py:163
+#: source\mediaPlayer\__init__.py:53 source\mediaPlayer\__init__.py:59
+#: source\mediaPlayer\__init__.py:65 source\mediaPlayer\__init__.py:71
+#: source\mediaPlayer\__init__.py:77 source\mediaPlayer\__init__.py:83
+#: source\mediaPlayer\__init__.py:89 source\mediaPlayer\__init__.py:95
+#: source\mediaPlayer\__init__.py:101
 msgid "Nothing is playing"
 msgstr ""
 
+#: source\mediaPlayer\player.py:159 source\mediaPlayer\player.py:172
 #, python-brace-format
 msgid "Volume {v}"
 msgstr ""
 
+#: source\mediaPlayer\player.py:208 source\mediaPlayer\player.py:214
+#: source\mediaPlayer\player.py:220
 #, python-brace-format
 msgid "Playback rate {rate}"
 msgstr ""
 
+#: source\mediaPlayer\utils.py:21
 msgid "Default playback device"
 msgstr ""
 
+#: source\objects\__init__.py:463
 #, python-brace-format
 msgid "Scheduled at {time}"
 msgstr ""
 
+#: source\objects\__init__.py:465
 #, python-brace-format
 msgid "Scheduled {date} at {time}"
 msgstr ""
 
+#: source\objects\__init__.py:467
 #, python-brace-format
 msgid "Sent at {time}"
 msgstr ""
 
+#: source\objects\__init__.py:469
 #, python-brace-format
 msgid "Sent {date} at {time}"
 msgstr ""
 
+#: source\objects\__init__.py:471
 #, python-brace-format
 msgid "Sending... at {time}"
 msgstr ""
 
+#: source\objects\__init__.py:473
 #, python-brace-format
 msgid "Sending... {date} at {time}"
 msgstr ""
 
+#: source\objects\__init__.py:475
 #, python-brace-format
 msgid "Received at {time}"
 msgstr ""
 
+#: source\objects\__init__.py:477
 #, python-brace-format
 msgid "Received {date} at {time}"
 msgstr ""
 
+#: source\objects\__init__.py:488
 msgid "Outgoing"
 msgstr ""
 
+#: source\objects\__init__.py:490
 msgid "Incoming"
 msgstr ""
 
+#: source\objects\__init__.py:492
 msgid "Cancelled"
 msgstr ""
 
+#: source\objects\__init__.py:494
 msgid "Missed"
 msgstr ""
 
+#: source\objects\__init__.py:496
 msgid "Declined"
 msgstr ""
 
+#: source\objects\__init__.py:500
 msgid "video call"
 msgstr ""
 
+#: source\objects\__init__.py:502
 msgid "audio call"
 msgstr ""
