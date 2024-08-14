@@ -1,0 +1,1794 @@
+# Easygram localization
+# Copyright (C) 2021 - 2022 Eugene  Poplavsky
+# This file is distributed under the same license as the 'easygram' package.
+# Eugene Poplavsky <jawhien@gmail.com>, 2021 - 2022
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Easygram 0.30\n"
+"Report-Msgid-Bugs-To: 'jawhien@gmail.com'\n"
+"POT-Creation-Date: 2024-08-03 18:08+0300\n"
+"PO-Revision-Date: 2024-08-03 18:54+0300\n"
+"Last-Translator: Peter Ivanovich <piatro97@gmail.com>\n"
+"Language-Team: Neyman Agayev <neyman1993@gmail.com> <neyman1993@gmail.com>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-KeywordsList: N_\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Slightly smiling face"
+msgstr "Hafif güler yüz"
+
+msgid "Smiling face"
+msgstr "Gülen yüz"
+
+msgid "Grinning face"
+msgstr "Sırıtan yüz"
+
+msgid "Smiling face with smiling eyes"
+msgstr "Gülümseyen gözlerle güler yüz"
+
+msgid "Smiling face with halo"
+msgstr "Işık halkalı gülümseme"
+
+msgid "Grinning face with big eyes"
+msgstr "Ağzı açık gülümseyen yüz"
+
+msgid "Grinning face with smiling eyes"
+msgstr "Gülümseyen gözlerle sırıtan yüz"
+
+msgid "Grinning squinting face"
+msgstr "Kapalı gözlerle ağzı açık sırıtma"
+
+msgid "Grinning face with sweat"
+msgstr "Soğuk terli ağzı açık gülümseme"
+
+msgid "Rolling on the floor laughing"
+msgstr "Gülmekten yerlere yatan yüz"
+
+msgid "Face with tears of joy"
+msgstr "Sevinç gözyaşları"
+
+msgid "Beaming face with smiling eyes"
+msgstr "Gülen gözlerle sırıtma"
+
+msgid "Smiling face with horns"
+msgstr "boynuzlu gülen yüz"
+
+msgid "Angry face with horns"
+msgstr "boynuzlu kızgın yüz"
+
+msgid "Upside-down face"
+msgstr "Ters döndürülmüş yüz"
+
+msgid "Melting face"
+msgstr "eriyen yüz"
+
+msgid "Winking face"
+msgstr "Göz kırpan yüz"
+
+msgid "Winking face with tongue"
+msgstr "Ağzı açık göz kırpan yüz"
+
+msgid "Smiling face with open hands"
+msgstr "Kucaklayarak gülümseme"
+
+msgid "Smiling face with hearts"
+msgstr "3 kalpli gülümseyen yüz"
+
+msgid "Smiling face with heart-eyes"
+msgstr "kalp gözlü gülümseme"
+
+msgid "Star-struck"
+msgstr "yıldız çarpmış"
+
+msgid "Face blowing a kiss"
+msgstr "öpücük gönderen yüz"
+
+msgid "Kissing face"
+msgstr "öpen yüz"
+
+msgid "Kissing face with closed eyes"
+msgstr "Kapalı gözlerle öpen yüz"
+
+msgid "Kissing face with smiling eyes"
+msgstr "gülen gözlerle öpen yüz"
+
+msgid "Smiling face with tear"
+msgstr "gözü yaşlı gülümseyen yüz"
+
+msgid "Face savoring food"
+msgstr "lezzetli yiyecek beğenen yüz"
+
+msgid "Face with tongue"
+msgstr "dil dışarıda"
+
+msgid "Face with hand over mouth"
+msgstr "eliyle ağzını kapatan yüz"
+
+msgid "Face with open eyes and hand over mouth"
+msgstr "gözleri açık ve eliyle ağzını kapatan yüz"
+
+msgid "Zany face"
+msgstr "çılgın surat"
+
+msgid "Squinting face with tongue"
+msgstr "dil dışarıda ve gözler kapalı"
+
+msgid "Money-mouth face"
+msgstr "para ağızlı yüz"
+
+msgid "Face with peeking eye"
+msgstr "gizlice bakan yüz"
+
+msgid "Shushing face"
+msgstr "sus işareti yapan yüz"
+
+msgid "Thinking face"
+msgstr "düşünen yüz"
+
+msgid "Saluting face"
+msgstr "selamlayan yüz"
+
+msgid "Zipper-mouth face"
+msgstr "ağzı fermuarlı yüz"
+
+msgid "Face with raised eyebrow"
+msgstr "tek kaşı çatık yüz"
+
+msgid "Neutral face"
+msgstr "duygusuz yüz"
+
+msgid "Expressionless face"
+msgstr "ifadesiz yüz"
+
+msgid "Face without mouth"
+msgstr "ağzı olmayan yüz"
+
+msgid "Dotted line face"
+msgstr "noktalı çizgili yüz"
+
+msgid "Face in clouds"
+msgstr "bulutlardaki yüz"
+
+msgid "Smirking face"
+msgstr "imalı gülümseme"
+
+msgid "unamused face"
+msgstr "Eğlencesiz yüz"
+
+msgid "Face with rolling eyes"
+msgstr "gözlerini deviren yüz"
+
+msgid "Grimacing face"
+msgstr "dişlerini gösteren yüz"
+
+msgid "Face exhaling"
+msgstr "nefes veren yüz"
+
+msgid "Lying face"
+msgstr "yalan söyleyen yüz"
+
+msgid "Shaking face"
+msgstr "sallanan yüz"
+
+msgid "Relieved face"
+msgstr "rahatlamış yüz"
+
+msgid "Pensive face"
+msgstr "düşünceli yüz"
+
+msgid "Sleepy face"
+msgstr "uykulu yüz"
+
+msgid "Drooling face"
+msgstr "salya akıtan yüz"
+
+msgid "Sleeping face"
+msgstr "uyuyan yüz"
+
+msgid "Face with medical mask"
+msgstr "maskeli yüz"
+
+msgid "Face with thermometer"
+msgstr "ağzında termometre olan yüz"
+
+msgid "Face with head-bandage"
+msgstr "kafası sarılı yüz"
+
+msgid "Face with spiral eyes"
+msgstr "sarmal gözlü yüz"
+
+msgid "Exploding head"
+msgstr "patlayan kafa"
+
+msgid "Cowboy hat face"
+msgstr "kovboy şapkalı yüz"
+
+msgid "Partying face"
+msgstr "partide eğlenen yüz"
+
+msgid "Smiling face with sunglasses"
+msgstr "güneş gözlüklü gülümseme"
+
+msgid "Nerd face"
+msgstr "ukala yüz"
+
+msgid "Face with monocle"
+msgstr "tek cam gözlüklü yüz"
+
+msgid "Confused face"
+msgstr "kafası karışık yüz"
+
+msgid "Face with diagonal mouth"
+msgstr "yamuk ağızlı yüz"
+
+msgid "Worried face"
+msgstr "endişeli yüz"
+
+msgid "Slightly frowning face"
+msgstr "biraz asık surat"
+
+msgid "Frowning face"
+msgstr "asık surat"
+
+msgid "Face with open mouth"
+msgstr "ağzı açık yüz"
+
+msgid "Hushed face"
+msgstr "şaşkın yüz"
+
+msgid "Astonished face"
+msgstr "afallamış yüz"
+
+msgid "Flushed face"
+msgstr "kızarmış ve şaşkın yüz"
+
+msgid "Pleading face"
+msgstr "yalvaran yüz"
+
+msgid "Face holding back tears"
+msgstr "gözleri dolmuş yüz"
+
+msgid "Frowning face with open mouth"
+msgstr "hoşnutsuz yüz"
+
+msgid "Anguished face"
+msgstr "kederli yüz"
+
+msgid "Fearful face"
+msgstr "korkulu yüz"
+
+msgid "Anxious face with sweat"
+msgstr "terli ve endişeli yüz"
+
+msgid "Sad but relieved face"
+msgstr "üzgün ama rahatlamış yüz"
+
+msgid "Crying face"
+msgstr "ağlayan yüz"
+
+msgid "Loudly crying face"
+msgstr "avaz ağlayan yüz"
+
+msgid "Face screaming in fear"
+msgstr "korkuyla çığlık atan yüz"
+
+msgid "Confounded face"
+msgstr "kafası çok karışık yüz"
+
+msgid "Persevering face"
+msgstr "kararlı yüz"
+
+msgid "Disappointed face"
+msgstr "memnuniyetsiz yüz"
+
+msgid "Downcast face with sweat"
+msgstr "soğuk ter"
+
+msgid "Weary face"
+msgstr "çok yorgun"
+
+msgid "Tired face"
+msgstr "yorgun yüz"
+
+msgid "Enraged face"
+msgstr "somurtkan yüz"
+
+msgid "Angry face"
+msgstr "öfkeli yüz"
+
+msgid "Face with symbols on mouth"
+msgstr "ağzında semboller olan yüz"
+
+msgid "Skull"
+msgstr "kafatası"
+
+msgid "Skull and crossbones"
+msgstr "kuru kafa"
+
+msgid "Grinning cat"
+msgstr "sırıtan kedi"
+
+msgid "Grinning cat with smiling eyes"
+msgstr "gülen gözlerle sırıtan kedi"
+
+msgid "Cat with tears of joy"
+msgstr "sevinç gözyaşları döken kedi"
+
+msgid "Smiling cat with heart-eyes"
+msgstr "kalp gözlü gülümseyen kedi"
+
+msgid "Cat with wry smile"
+msgstr "iğneleyici kedi yüzü"
+
+msgid "Kissing cat"
+msgstr "öpen kedi"
+
+msgid "Weary cat"
+msgstr "korkuyla bağıran kedi"
+
+msgid "Crying cat"
+msgstr "ağlayan kedi"
+
+msgid "Pouting cat"
+msgstr "somurtan kedi"
+
+msgid "Thumbs up"
+msgstr "Başparmak yukarı"
+
+msgid "Thumbs down"
+msgstr "Başparmak aşağı\\"
+
+msgid "Clapping hands"
+msgstr "el çırpma"
+
+msgid "Raising hands"
+msgstr "eller havaya"
+
+msgid "Waving hand"
+msgstr "el sallama"
+
+msgid "OK hand"
+msgstr "tamam işareti"
+
+msgid "Pinching hand"
+msgstr "kıstırma hareketi yapan el"
+
+msgid "Victory hand"
+msgstr "zafer işareti"
+
+msgid "Love-you gesture"
+msgstr "seni seviyorum işareti"
+
+msgid "Sign of the horns"
+msgstr "boynuz işareti"
+
+msgid "Call me hand"
+msgstr "beni ara işareti"
+
+msgid "Middle finger"
+msgstr "orta parmak"
+
+msgid "Heart hands"
+msgstr "kalp oluşturan eller"
+
+msgid "Offline"
+msgstr "Çevrimdışı"
+
+msgid "Chats"
+msgstr "Sohbetler"
+
+msgid "Loading chats..."
+msgstr "Sohbetler yükleniyor..."
+
+#, python-brace-format
+msgid "Chats ({0})"
+msgstr "Sohbetler ({0})"
+
+msgid "Contacts"
+msgstr "Kişiler"
+
+msgid "About user"
+msgstr "Kullanıcı hakkında"
+
+msgid "Open chat"
+msgstr "Sohbeti aç"
+
+#, python-brace-format
+msgid "Contacts ({0})"
+msgstr "Kişiler ({0})"
+
+msgid "Preferences"
+msgstr "Ayarlar"
+
+msgid "About Easygram"
+msgstr "Easygram Hakkında"
+
+msgid "Skipped one-time voice message"
+msgstr "Tek seferlik sesli mesaj atlandı"
+
+msgid "Your chats"
+msgstr "Sohbetleriniz"
+
+msgid "Are you sure you want to close application?"
+msgstr "Uygulamayı kapatmak istediğinize emin misiniz?"
+
+msgid "Exit the program"
+msgstr "Programdan çıkış"
+
+msgid "Loading..."
+msgstr "Yükleniyor..."
+
+msgid "Invalid verification code!"
+msgstr "Doğrulama kodunu girin"
+
+msgid "Invalid password!"
+msgstr "Yanlış şifre!"
+
+msgid "Authorisation Error"
+msgstr "Yetkilendirme Hatası"
+
+msgid "Updating..."
+msgstr "Güncelleme..."
+
+msgid "Ready"
+msgstr "Hazır"
+
+msgid "Connecting..."
+msgstr "Bağlanıyor..."
+
+#, python-brace-format
+msgid "You have a new message from {title}"
+msgstr "{title} 'dan yeni bir mesajınız var"
+
+msgid "You have a new message"
+msgstr "Yeni bir mesajınız var"
+
+#, python-brace-format
+msgid "{count} unread message"
+msgid_plural "{count} unread messages"
+msgstr[0] "{count} okunmamış mesaj"
+msgstr[1] "{count} okunmamış mesajlar"
+
+msgid "Bot menu"
+msgstr "Bot menüsü"
+
+msgid "Emoji"
+msgstr "Emoji"
+
+msgid "Schedule message"
+msgstr "Mesajı Zamanla"
+
+#. TRANSLATORS: this is the label of the button in the file attachment dialog box.
+msgid "Set date and time..."
+msgstr "Tarih ve saati ayarlayın..."
+
+msgid "Without sound"
+msgstr "Sessiz"
+
+msgid "Send"
+msgstr "Gönder"
+
+msgid "Remove reply"
+msgstr "Yanıtı kaldır"
+
+msgid "Scheduled messages"
+msgstr "Zamanlanmış mesajlar"
+
+msgid "Attach..."
+msgstr "Ekle..."
+
+msgid "Voice note"
+msgstr "Sesli mesaj"
+
+msgid "Pinned messages"
+msgstr "Sabitlenmiş mesajlar"
+
+msgid "Mute"
+msgstr "Sesi kapat"
+
+msgid "Unmute"
+msgstr "Sesi aç"
+
+msgid "Join the channel"
+msgstr "Kanala Katıl"
+
+msgid "Close"
+msgstr "Kapat"
+
+msgid "Messages"
+msgstr "Mesajlar"
+
+msgid "Message:"
+msgstr "Mesaj:"
+
+#, python-brace-format
+msgid "Reply to {name}:"
+msgstr "Yanıt  {name}:"
+
+msgid "online"
+msgstr "çevrimiçi"
+
+msgid "last seen recently"
+msgstr "son görülme yakınlarda"
+
+msgid "last seen within a week"
+msgstr "son görülme bir hafta içinde"
+
+msgid "last seen within a month"
+msgstr "son görülme bir ay içinde"
+
+msgid "last seen never"
+msgstr "son görülme uzun zaman önce "
+
+#, python-brace-format
+msgid "last seen at {time}"
+msgstr "son görülme {time}"
+
+#, python-brace-format
+msgid "last seen yesterday at {time}"
+msgstr "son görülme dün {time}"
+
+#, python-brace-format
+msgid "last seen {date} at {time}"
+msgstr "son görülme {date} в {time}"
+
+#, python-brace-format
+msgid "Channel: {name}, {count} member"
+msgid_plural "Channel: {name}, {count} members"
+msgstr[0] "Kanal: {name}, {count} üye"
+msgstr[1] "Kanal: {name}, {count} üyeler"
+
+#, python-brace-format
+msgid "Group: {name}, {count} member"
+msgid_plural "Group: {name}, {count} members"
+msgstr[0] "Grup: {name}, {count} üye"
+msgstr[1] "Grup: {name}, {count} üyeler"
+
+#, python-brace-format
+msgid "Group: {name}, {status}, {count} member"
+msgid_plural "Group: {name}, {status}, {count} members"
+msgstr[0] "Grup: {name}, {status}, {count} üye"
+msgstr[1] "Grup: {name}, {status}, {count} üyeler"
+
+msgid "Favorites"
+msgstr "Kayıtlı mesajlar"
+
+msgid "Replies"
+msgstr "Yanıtlar"
+
+#, python-brace-format
+msgid "Bot: {name}"
+msgstr "Bot: {name}"
+
+msgid "Premium account"
+msgstr "Premium Hesap"
+
+msgid "Are you sure you want to delete this message?"
+msgstr "Bu mesajı silmek istediğinizden emin misiniz?"
+
+msgid "Delete for everyone"
+msgstr "Herkesten sil"
+
+msgid "Delete for yourself"
+msgstr "Benden sil"
+
+msgid "There are no links in this message."
+msgstr "Bu mesajda bağlantı yok."
+
+msgid "Information"
+msgstr "Bilgi"
+
+msgid "Voice and video messages in this chat are restricted!"
+msgstr "Bu sohbette sesli ve görüntülü mesajlar kısıtlanmıştır!"
+
+msgid "All files"
+msgstr "Tüm dosyalar"
+
+msgid "Select file"
+msgstr "Dosya seç"
+
+msgid "Unread messages"
+msgstr "Okunmamış mesajlar"
+
+msgid "The message is too long!"
+msgstr "Mesaj çok uzun!"
+
+msgid "Send error"
+msgstr "Gönderme hatası"
+
+msgid "You have not set the date and time!"
+msgstr "Tarih ve saati belirlemediniz!"
+
+msgid "Error"
+msgstr "Hata"
+
+msgid "%d.%m.%Y at %H:%M"
+msgstr "%d.%m.%Y %H:%M"
+
+#, python-brace-format
+msgid "Scheduled for: {date}"
+msgstr "{date}: İçin planlandı"
+
+#, python-brace-format
+msgid ""
+"Failed to save file \"{name}\", such file already exists and name search "
+"limit exceeded."
+msgstr ""
+"Dosya kaydedilemedi  \"{name}\", böyle bir dosya zaten var ve ad arama "
+"sınırı aşıldı."
+
+msgid "Comment:"
+msgstr "Yorum:"
+
+msgid "Comments"
+msgstr "Yorumlar"
+
+msgid "Comments for: "
+msgstr "Yorumlar:"
+
+msgid "Schedule"
+msgstr "Zamanla"
+
+msgid "Hour:"
+msgstr "Saat:"
+
+msgid "Minute:"
+msgstr "Dakika:"
+
+msgid "OK"
+msgstr "tamam"
+
+msgid "Cancel"
+msgstr "İptal"
+
+msgid "About the bot"
+msgstr "Bot hakkında"
+
+msgid "First name:"
+msgstr "Ad:"
+
+msgid "Last name:"
+msgstr "Soyad:"
+
+msgid "About Me:"
+msgstr "Hakkında:"
+
+msgid "Phone number:"
+msgstr "Telefon numarası:"
+
+msgid "User name:"
+msgstr "Kullanıcı adı:"
+
+msgid "Birthday:"
+msgstr "Doğum günü:"
+
+msgid "Personal channel"
+msgstr "Kişisel kanal"
+
+msgid "ID:"
+msgstr "ID:"
+
+#, python-brace-format
+msgid "{day}/{month}/{year}"
+msgstr "{day}.{month}.{year}"
+
+#, python-brace-format
+msgid "{day}/{month}"
+msgstr "{day}.{month}"
+
+#, python-brace-format
+msgid "Personal channel: {title}"
+msgstr "Kişisel kanal: {title}"
+
+#, python-brace-format
+msgid "Clear history with {title}"
+msgstr "Geçmişi {title} ile temizle"
+
+msgid "Are you sure you want to clear your history on this chat?"
+msgstr "Bu sohbetteki geçmişi temizlemek istediğinizden emin misiniz?"
+
+msgid "Clear for all users"
+msgstr "Tüm kullanıcılar için temizle"
+
+msgid "Remove from chat list"
+msgstr "Sohbet listesinden kaldır"
+
+msgid "Yes"
+msgstr "Evet"
+
+msgid "No"
+msgstr "Hayır"
+
+#, python-brace-format
+msgid "Voice note: {title}"
+msgstr "Sesli mesaj: {title}"
+
+msgid "Start recording"
+msgstr "Kayda başla"
+
+msgid "Delete after listening"
+msgstr "Oynatıldıktan sonra sil"
+
+msgid "Stop recording"
+msgstr "Kaydı durdur"
+
+msgid "Can't send empty messages!"
+msgstr "Boş mesaj gönderemezsiniz!"
+
+msgid "Info"
+msgstr "Bilgi"
+
+msgid "Sending in progress..."
+msgstr "Gönderiliyor..."
+
+msgid "An error occurred while writing the file."
+msgstr "Dosya yazılırken bir hata oluştu."
+
+msgid "An error occurred while converting the file."
+msgstr "Dosyayı dönüştürürken bir hata oluştu."
+
+msgid "Cancel the record and delete the message?"
+msgstr "Kayıt iptal edilip mesaj silinsin mi?"
+
+msgid "Confirmation"
+msgstr "Onay"
+
+#, python-brace-format
+msgid "Poll: {title}, anonymous poll"
+msgstr "Anket: {title}, anonim anket"
+
+#, python-brace-format
+msgid "Poll: {title}, public poll"
+msgstr "Anket: {title}, genel anket"
+
+msgid "Choose one or more answers"
+msgstr "Bir veya daha fazla  cevap seçin"
+
+msgid "Choose only one answer"
+msgstr "Yalnızca bir cevap seçin"
+
+msgid "This poll is now closed."
+msgstr "Bu sınav kapalı"
+
+#, python-brace-format
+msgid "Quiz: {title}, anonymous quiz"
+msgstr "Sınav: {title}, anonim sınav"
+
+#, python-brace-format
+msgid "Quiz: {title}, public quiz"
+msgstr "Sınav: {title}, genel sınav"
+
+#, python-brace-format
+msgid "{text} ({p}%) - This is the wrong answer"
+msgstr "{text} ({p}%) - Bu yanlış cevap"
+
+#, python-brace-format
+msgid "{text} ({p}%) - This is the correct answer"
+msgstr "{text} ({p}%) - Bu doğru cevap"
+
+#, python-brace-format
+msgid "{option}. Explanation: {text}"
+msgstr "{option}. Açıklama: {text}"
+
+msgid "Can't change answer in quiz mode."
+msgstr "Sınav modunda cevabı değiştiremezsiniz."
+
+msgid "This quiz is now closed."
+msgstr "Bu sınav kapalı"
+
+msgid "Links"
+msgstr "Bağlantılar"
+
+msgid "Original text in English: © Eugene Poplavsky."
+msgstr "Türkçeye çeviren: © Neyman Agayev."
+
+#, python-brace-format
+msgid ""
+"Easygram is distributed under the GNU GPLv3 open source license, with the "
+"exception of certain additional components and Microsoft redistributable "
+"code. By using or distributing Easygram, you agree to be bound by the terms "
+"of the license agreement. The text of the license can be found at:\n"
+"{link}"
+msgstr ""
+"Easygram, bazı ek bileşenler ve Microsoft'un yeniden dağıtılabilir kodu "
+"dışında açık kaynaklı GNU GPLv3 lisansı altında dağıtılır. Easygram'ı "
+"kullanarak veya dağıtarak, lisans sözleşmesinin şartlarına uymayı kabul "
+"etmiş olursunuz. Lisans metnine buradan ulaşabilirsiniz:\\n\n"
+"{link}\\"
+
+msgid "Easygram also includes a number of GNU GPL compatible components."
+msgstr "Easygram ayrıca GNU GPL ile uyumlu bir dizi bileşen içerir."
+
+#, python-brace-format
+msgid ""
+"{name}, version: {version}\n"
+"{link}"
+msgstr ""
+"{name}, sürüm: {version}\n"
+"{link}"
+
+msgid "File path:"
+msgstr "Dosya konumu:"
+
+msgid "Caption:"
+msgstr "Başlık:"
+
+msgid "Attach file"
+msgstr "Dosya ekle"
+
+msgid "No such file exists!"
+msgstr "Böyle bir dosya yok!"
+
+msgid "The caption text is too long!"
+msgstr "Başlık metni çok uzun!"
+
+msgid "No command to send!"
+msgstr "Gönderilecek komut yok!"
+
+msgid "Attach video"
+msgstr "Video ekle"
+
+msgid "Attach audio"
+msgstr "Ses ekle"
+
+msgid "Title:"
+msgstr "Başlık:"
+
+msgid "Performer:"
+msgstr "Sanatçı:"
+
+msgid "Title required!"
+msgstr "Başlık gerekli!"
+
+msgid "Attach photo"
+msgstr "Fotoğraf ekle"
+
+msgid "Attach animation"
+msgstr "Animasyon ekle"
+
+msgid "Attach document"
+msgstr "Belge ekle"
+
+msgid "About the channel"
+msgstr "Kanal hakkında"
+
+msgid "Name:"
+msgstr "İsim:"
+
+msgid "Member count:"
+msgstr "Üye sayısı:"
+
+msgid "Invite link:"
+msgstr "Davet bağlantısı:"
+
+msgid "Save"
+msgstr "Kaydet"
+
+msgid "Edit message"
+msgstr "Mesajı düzenle"
+
+msgid "Message text:"
+msgstr "Mesaj metni:"
+
+msgid "Can't send empty message!"
+msgstr "Boş mesaj gönderilemiyor!"
+
+msgid "Edit document"
+msgstr "Belgeyi düzenle"
+
+msgid "Override file..."
+msgstr "Dosyayı değiştir..."
+
+msgid "Browse..."
+msgstr "Gözat"
+
+msgid "Cancel override file"
+msgstr "Dosya değiştirmeyi iptal et"
+
+msgid "This type of file is not supported!"
+msgstr "Bu dosya türü desteklenmiyor!"
+
+msgid "The caption is too long!"
+msgstr "Başlık çok uzun!"
+
+msgid "Edit photo"
+msgstr "Fotoğrafı düzenle"
+
+msgid "All images"
+msgstr "Tüm resimler"
+
+msgid "Edit video"
+msgstr "Videoyu düzenle"
+
+msgid "All video files"
+msgstr "Tüm video dosyaları"
+
+msgid "Edit animation"
+msgstr "Animasyonu değiştir"
+
+msgid "All animation"
+msgstr "Tüm animasyonlar"
+
+msgid "Edit audio"
+msgstr "Sesi düzenle"
+
+msgid "All audio files"
+msgstr "Tüm ses dosyaları"
+
+msgid "Edit voice note"
+msgstr "Sesli mesajı düzenle"
+
+msgid "Delete message"
+msgstr "Mesajı sil"
+
+msgid "Delete"
+msgstr "Sil"
+
+msgid "Successfully"
+msgstr "Başarılı"
+
+#, python-brace-format
+msgid "File '{name}' saved in downloads"
+msgstr "Dosya '{name}' indirilenlere kaydedildi"
+
+msgid "Show in Folder"
+msgstr "Klasörde göster"
+
+msgid "Change..."
+msgstr "Değiştir..."
+
+msgid "Change time..."
+msgstr "Zamanı değiştir..."
+
+msgid "Reactions"
+msgstr "Tepkiler"
+
+msgid "Available reactions:"
+msgstr "Mevcut tepkiler:"
+
+msgid "You cannot send reactions if anonymity is enabled!"
+msgstr "Anonimsinizse tepki gönderemezsiniz!"
+
+msgid "There are no reactions available for this message!"
+msgstr "Bu mesaj için mevcut tepki yok!"
+
+msgid "Scheduled message"
+msgstr "Zamanlanmış mesaj"
+
+#, python-brace-format
+msgid "Message scheduled at {date}"
+msgstr "Mesaj {date} tarihine planlandı"
+
+msgid "Message Detail"
+msgstr "Mesajla ilgili bilgiler"
+
+msgid "Text message:"
+msgstr "Kısa mesaj:"
+
+msgid "Voice message:"
+msgstr "Sesli mesaj:"
+
+msgid "Audio message:"
+msgstr "Mesaj ses içeriyor:"
+
+msgid "Video message:"
+msgstr "Video:"
+
+msgid "Photo:"
+msgstr "Fotoğraf:"
+
+#, python-brace-format
+msgid "Document message: {filename}"
+msgstr "Mesajda belge var: {filename}"
+
+msgid "No caption"
+msgstr "Başlık yok"
+
+msgid "Registration message:"
+msgstr "Kayıt olma mesajı:"
+
+msgid "Creation message:"
+msgstr "Oluşturma mesajı:"
+
+msgid "Supergroup created."
+msgstr "Süper grup oluşturuldu."
+
+msgid "Group created."
+msgstr "Grup oluşturuldu."
+
+msgid "Gif:"
+msgstr "GIF:"
+
+msgid "Call message:"
+msgstr "Çağrı mesajı:"
+
+msgid "Separator item:"
+msgstr "Ayırıcı:"
+
+msgid "Sticker:"
+msgstr "Çıkartma:"
+
+msgid "Emoji:"
+msgstr "Emoji:"
+
+#, python-brace-format
+msgid "Views: {count}"
+msgstr "Görüntülemeler {count}"
+
+#, python-brace-format
+msgid "Reactions: {reactions}"
+msgstr "Tepkiler : {reactions}"
+
+#, python-brace-format
+msgid "You sent a reaction {r}"
+msgstr "Siz tepki gönderdiniz  {r}"
+
+msgid "Insert emoji"
+msgstr "Emoji ekle"
+
+msgid "List of pinned messages"
+msgstr "Sabitlenmiş mesaj listesi"
+
+msgid "Messages:"
+msgstr "Mesajlar:"
+
+msgid "Go to message"
+msgstr "Mesaja git"
+
+msgid "Unpin"
+msgstr "Sabitlemeyi Kaldır"
+
+msgid "Unpin all"
+msgstr "Tüm mesajların sabitlenmesini kaldır"
+
+msgid "Are you sure you want to unpin all messages in this chat?"
+msgstr ""
+"Bu sohbetteki tüm mesajların sabitlemesini kaldırmak istediğinizden emin "
+"misiniz?"
+
+msgid "Unpin all messages"
+msgstr "Tüm mesajların sabitlenmesini kaldır"
+
+msgid "Forward message"
+msgstr "Mesajı ilet"
+
+msgid "Chats:"
+msgstr "Sohbetler:"
+
+msgid "Advanced options"
+msgstr "Gelişmiş seçenekler"
+
+msgid "Hide sender name"
+msgstr "Gönderenin  ismini gizle"
+
+msgid "Remove caption"
+msgstr "Başlığı kaldır"
+
+msgid "Forward in this chat"
+msgstr "Bu sohbete ilet\\"
+
+#, python-brace-format
+msgid "Forward in {count} chat"
+msgid_plural "Forward in {count} chats"
+msgstr[0] "İlet {count} sohpete"
+msgstr[1] "İlet {count} sohbetlere"
+
+msgid "Files"
+msgstr "Dosyalar"
+
+msgid "Add..."
+msgstr "Ekle"
+
+msgid "Properties"
+msgstr "Özellikler"
+
+msgid "Send without compression"
+msgstr "Sıkıştırmadan gönder"
+
+msgid "Options"
+msgstr "Seçenekler"
+
+msgid "Attach files"
+msgstr "Dosya ekle"
+
+msgid "When online"
+msgstr "Çevrimiçi olduğunda"
+
+msgid "Enter the phone number"
+msgstr "\tTelefon numaranızı girin"
+
+msgid "Country:"
+msgstr "Ülke:"
+
+msgid "Country"
+msgstr "Ülke"
+
+msgid "Next"
+msgstr "Sonraki"
+
+msgid "Do you want to stop the verification process?"
+msgstr "Doğrulama işlemini durdurmak istiyor musunuz?"
+
+msgid "Enter confirmation code"
+msgstr "Doğrulama kodunu girin"
+
+msgid "The code was sent to you via Telegram."
+msgstr "Kod size Telegram aracılığıyla gönderildi."
+
+msgid "The code was sent to you via SMS."
+msgstr "Kod size SMS ile gönderildi."
+
+msgid "Confirmation code:"
+msgstr "Doğrulama kodu:"
+
+msgid "Enter password"
+msgstr "Şifreyi girin"
+
+msgid "Password:"
+msgstr "Şifre:"
+
+msgid "Registration"
+msgstr "Kayıt"
+
+msgid "Terms of service"
+msgstr "Kullanım Koşulları"
+
+msgid "Register"
+msgstr "Kayıt ol"
+
+#, python-brace-format
+msgid ""
+"The following phone number will be confirmed: +{code}{number}. This number "
+"is correct?"
+msgstr ""
+"Aşağıdaki telefon numarası onaylanacaktır: +{code}{number}. Bu numara doğru "
+"mu?"
+
+msgid "Incorrect phone number!"
+msgstr "Yanlış telefon numarası!"
+
+msgid "Incorrect confirmation code!"
+msgstr "Doğrulama kodu Yanlış!"
+
+msgid "Incorrect password!"
+msgstr "Yanlış şifre!"
+
+msgid "Detailed view"
+msgstr "Detaylı görüntüleme"
+
+msgid "Copy text"
+msgstr "Metni kopyala"
+
+msgid "Save in downloads"
+msgstr "İndirilenlere kaydet"
+
+msgid "Reply"
+msgstr "Yanıtla"
+
+msgid "Pin"
+msgstr "Sabitle"
+
+msgid "Go to quoted message"
+msgstr "Alıntılanan mesaja git"
+
+#, python-brace-format
+msgid "Comments: {count}"
+msgstr "Yorumlar: {count}"
+
+msgid "Go to original message"
+msgstr "Orijinal mesaja git"
+
+msgid "Add to favorites"
+msgstr "Kayıtlı mesajlara ekle"
+
+msgid "Forward"
+msgstr "İlet"
+
+msgid "Add reaction"
+msgstr "Tepki ekle"
+
+#, python-brace-format
+msgid "Remove reaction {r}"
+msgstr "Tepkiyi kaldır {r}"
+
+msgid "Open profile"
+msgstr "Profili aç"
+
+msgid "Open"
+msgstr "Aç"
+
+msgid "Mark as read"
+msgstr "Okundu olarak işaretle"
+
+msgid "Leave channel"
+msgstr "Kanaldan ayrıl"
+
+msgid "Leave group"
+msgstr "Gruptan ayrıl"
+
+msgid "Clear history"
+msgstr "Geçmişi temizle"
+
+msgid "Are you sure you want to leave this channel?"
+msgstr "Kanaldan ayrılmak istediğinizden emin misiniz?"
+
+msgid "Are you sure you want to leave this group?"
+msgstr "Gruptan ayrılmak istediğinizden emin misiniz?"
+
+msgid "Show window"
+msgstr "Pencereyi göster"
+
+msgid "Exit"
+msgstr "Çıkış"
+
+msgid "You"
+msgstr "Siz"
+
+msgid "Deleted user"
+msgstr "Silinen kullanıcı"
+
+#, python-brace-format
+msgid "Forwarded from {name}"
+msgstr "{name} 'dan iletildi"
+
+#, python-brace-format
+msgid "Received {count} reply"
+msgid_plural "Received {count} replies"
+msgstr[0] "Alındı  {count} yanıt"
+msgstr[1] "Alındı {count} yanıtlar"
+
+#, python-brace-format
+msgid "Document {name} ({size}) {caption}"
+msgstr "Belge {name} ({size}) {caption}"
+
+#, python-brace-format
+msgid "Document {name} {caption}"
+msgstr "Belge {name} {caption}"
+
+#, python-brace-format
+msgid "Audio {title} - {performer} ({h}:{m}:{s}) ({size}) {caption}"
+msgstr "Ses {title} - {performer} ({h}:{m}:{s}) ({size}) {caption}"
+
+#, python-brace-format
+msgid "Audio {title} - {performer} ({h}:{m}:{s}) {caption}"
+msgstr "Ses {title} - {performer} ({h}:{m}:{s}) {caption}"
+
+#, python-brace-format
+msgid "Video ({h}:{m}:{s}) ({size}) {caption}"
+msgstr "Video ({h}:{m}:{s}) ({size}) {caption}"
+
+#, python-brace-format
+msgid "Video ({h}:{m}:{s}) {caption}"
+msgstr "Video ({h}:{m}:{s}) {caption}"
+
+#, python-brace-format
+msgid "Photo {caption}"
+msgstr "Fotoğraf {caption}"
+
+#, python-brace-format
+msgid "Gif {caption}"
+msgstr "Gif {caption}"
+
+msgid "The user is now in telegram."
+msgstr "Kullanıcı artık Telegram'da."
+
+#. TRANSLATORS: This is the text of the message when the user creates a group.
+msgid "Group created"
+msgstr "Grup oluşturuldu"
+
+msgid "This group has become a supergroup."
+msgstr "Grup süper gruba yükseltildi"
+
+msgid "One-time voice message"
+msgstr "Tek seferlik sesli mesaj"
+
+msgid "Voice message"
+msgstr "Sesli mesaj"
+
+#, python-brace-format
+msgid "{name} {h}:{m}:{s} ({size})"
+msgstr "{name} {h}:{m}:{s} ({size})"
+
+#, python-brace-format
+msgid "{name} {h}:{m}:{s}"
+msgstr "{name} {h}:{m}:{s}"
+
+msgid "(listened)"
+msgstr "(Oynatıldı)"
+
+msgid "(not listened)"
+msgstr "(Oynatılmadı)"
+
+#. TRANSLATORS: this is the message when a user has joined a group
+msgid "joined the group"
+msgstr "gruba katıldı"
+
+#. TRANSLATORS: this is the message when someone added a new user to the group
+#, python-brace-format
+msgid "added {users}"
+msgstr "{users} ekledi"
+
+#. TRANSLATORS: This is the message when a user leaves the group.
+msgid "left the group"
+msgstr "gruptan ayrıldı"
+
+#. TRANSLATORS: This is the message when someone has been removed from the group.
+#, python-brace-format
+msgid "removed {user}"
+msgstr "{user} kaldırıldı"
+
+msgid "joined the group via invite link"
+msgstr "Davet bağlantısıyla gruba katıldı"
+
+msgid "Pinned message"
+msgstr "Mesajı sabitledi"
+
+#, python-brace-format
+msgid "Changed the title to: {title}"
+msgstr "Başlığı şu şekilde değiştirdi: {title}"
+
+#, python-brace-format
+msgid "Video message {h}:{m}:{s} ({size})"
+msgstr "Görüntülü Mesaj {h}:{m}:{s} ({size})"
+
+#, python-brace-format
+msgid "Video message {h}:{m}:{s}"
+msgstr "Görüntülü Mesaj  {h}:{m}:{s}"
+
+msgid "Expired voice message"
+msgstr "Süresi dolmuş sesli mesaj"
+
+msgid "Unsupported message type"
+msgstr "Desteklenmeyen mesaj türü"
+
+#, python-brace-format
+msgid "Pinned message: {name}: {message}..."
+msgstr "Mesajı sabitledi: {name}: {message}..."
+
+#, python-brace-format
+msgid "In reply to {name}: {message}..."
+msgstr "Yanıt olarak  {name}: {message}..."
+
+msgid "Bytes"
+msgstr "Bayt\\"
+
+msgid "KB"
+msgstr "KB"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "TB"
+msgstr "TB"
+
+msgid "PB"
+msgstr "PB"
+
+msgid "EB"
+msgstr "EB"
+
+msgid "ZB"
+msgstr "ZB"
+
+msgid "YB"
+msgstr "YB"
+
+msgid "I don't know what to call such a big size!"
+msgstr "Bu kadar büyük bir boyuta ne diyeceğimi bilmiyorum!"
+
+#, python-brace-format
+msgid "{program} preferences"
+msgstr "ayarlar {program}"
+
+msgid "General settings"
+msgstr "Genel Ayarlar"
+
+msgid "Interface"
+msgstr "Arayüz"
+
+msgid "Minimize on tray instead of exit"
+msgstr "Çıkış yerine tepside simge durumuna küçült"
+
+msgid "Confirmation before closing"
+msgstr "Kapanmadan önce onay"
+
+msgid "Show sender in system tray"
+msgstr "Göndereni sistem tepsisinde göster"
+
+msgid "Close chats by pressing the ESCAPE key"
+msgstr "ESCAPE tuşuna basarak sohbetleri kapat"
+
+msgid "Play event sounds"
+msgstr "Etkinlik seslerini çal"
+
+msgid "Downloads"
+msgstr "İndirilenler"
+
+msgid "Path to save files:"
+msgstr "Dosyaları kaydetme konumu::"
+
+msgid "Logging"
+msgstr "Günlük kaydı"
+
+msgid "Enable logging (restart required)"
+msgstr "Günlüğe kaydetmeyi etkinleştir (yeniden başlatma gerektirir)"
+
+#. TRANSLATORS: This is a logging option.
+msgid "Infos"
+msgstr "Bilgi"
+
+msgid "Warnings"
+msgstr "Uyarılar"
+
+msgid "Errors"
+msgstr "Hatalar"
+
+msgid "Debug"
+msgstr "Hata ayıklama"
+
+msgid "Logging level:"
+msgstr "Günlük tutma seviyesi:"
+
+msgid "Flush log on startup"
+msgstr "Başlangıçta günlüğü temizle\\"
+
+msgid "Log rotation"
+msgstr "Günlük döndürme"
+
+msgid "chats settings"
+msgstr "sohbet ayarları"
+
+msgid "Send messages by pressing enter"
+msgstr "Enter tuşuna basarak mesaj gönder"
+
+msgid "Sequentially play voice messages and audio files in chats"
+msgstr "Sohbetlerde sesli mesajların ve ses dosyalarının art arda oynatılması"
+
+msgid "Automatically start recording a voice message"
+msgstr "Sesli mesajı otomatik olarak kaydetmeye başlayın"
+
+msgid "Show emoji button"
+msgstr "Emoji düğmesini göster"
+
+msgid ""
+"Disable Markdown markup (if there are issues with the messages being sent)"
+msgstr ""
+"Markdown işaretlemesini devre dışı bırakın (gönderilen mesajlarla ilgili "
+"sorunlar varsa)"
+
+msgid "Don't show dialog box \"Message scheduled\""
+msgstr "\"Mesaj zamanlandı\" iletişim kutusunu gösterme"
+
+msgid "Use new search style in chat and message lists"
+msgstr "Sohbet ve mesaj listelerinde yeni arama stilini kullanın"
+
+#. TRANSLATORS: this is an option when selecting the quality of voice messages.
+msgid "Auto (optimal: approximately 550 kB/Min)"
+msgstr "Otomatik (optimum: yaklaşık 550 kB / Dakikada)\\"
+
+#. TRANSLATORS: this is an option when selecting the quality of voice messages.
+msgid "Very high (approximately 1.6 mB/Min)"
+msgstr "çok yüksek (yaklaşık 1.6 mB/dakikada)"
+
+#. TRANSLATORS: this is an option when selecting the quality of voice messages.
+msgid "High (approximately 950 kB/Min)"
+msgstr "Yüksek (yaklaşık 950 kB / dakikada)"
+
+#. TRANSLATORS: this is an option when selecting the quality of voice messages.
+msgid "Medium (approximately 630 kB/Min)"
+msgstr "Orta (yaklaşık 630 kB / Dakikada)"
+
+#. TRANSLATORS: this is an option when selecting the quality of voice messages.
+msgid "Low (approximately 330 kB/Min)"
+msgstr "Düşük (yaklaşık 330 kB / Dakikada)"
+
+#. TRANSLATORS: this is an option when selecting the quality of voice messages.
+msgid "Very low (approximately 220 kB/Min)"
+msgstr "Çok düşük (yaklaşık 220 kB /dakikada)"
+
+msgid "Voice message quality:"
+msgstr "Sesli mesajların kalitesi:"
+
+msgid "Display size for:"
+msgstr "Boyutu göster:"
+
+msgid "Documents"
+msgstr "Belgelerin"
+
+msgid "Voice messages"
+msgstr "Sesli mesajların"
+
+msgid "Audio messages"
+msgstr "Ses"
+
+msgid "Video messages"
+msgstr "Video"
+
+msgid "Speech settings"
+msgstr "Konuşma ayarları"
+
+msgid "Speech module settings"
+msgstr "Konuşma modülü ayarları"
+
+msgid "Enable speech"
+msgstr "Konuşmayı etkinleştir"
+
+msgid "Allow use of Microsoft Speech API"
+msgstr "Microsoft Speech API kullanımına izin ver"
+
+msgid "Prefer using the Microsoft Speech API"
+msgstr "Microsoft Speech API'yi kullanmayı tercih edin"
+
+msgid "Always interrupt speech before new notifications"
+msgstr "Yeni bildirim alındığında herzaman konuşmayı kes."
+
+msgid "Interrupt speaking before starting recording"
+msgstr "Kayda başlamadan önce konuşmayı kes"
+
+msgid "Speech notifications settings"
+msgstr "Sesli bildirim ayarları"
+
+#. TRANSLATORS: These are the options for reading notifications.
+msgid "Always"
+msgstr "Her zaman"
+
+msgid "In the foreground"
+msgstr "Ön planda"
+
+msgid "Never"
+msgstr "Asla"
+
+msgid "Network Status Changes:"
+msgstr "Ağ Durumu Değişiklikleri:"
+
+msgid "Incoming messages:"
+msgstr "Gelen mesajlar:"
+
+msgid "Outgoing messages:"
+msgstr "Giden mesajlar:"
+
+msgid "Speak outgoing messages only after confirmation by the server"
+msgstr "Giden mesajları yalnızca sunucudan  onay aldıktan sonra seslendir"
+
+msgid "Chat actions:"
+msgstr "Sohbet eylemleri:"
+
+msgid "Media player:"
+msgstr "Medya oynatıcı:"
+
+msgid "Devices settings"
+msgstr "Cihaz ayarları"
+
+msgid "Microphone:"
+msgstr "Mikrofon:"
+
+msgid "Speakers:"
+msgstr "Hoparlörler"
+
+msgid "General"
+msgstr "Genel"
+
+msgid "Speech"
+msgstr "Konuşma"
+
+msgid "Devices"
+msgstr "Cihazlar"
+
+msgid "Apply"
+msgstr "Uygula"
+
+msgid "Seen"
+msgstr "Okundu"
+
+msgid "Not seen"
+msgstr "Okunmadı"
+
+msgid "Playing"
+msgstr "Oynatılıyor"
+
+msgid "Paused"
+msgstr "Duraklatıldı"
+
+msgid "Stopped"
+msgstr "Durduruldu"
+
+msgid "Played"
+msgstr "Oynatıldı"
+
+msgid "Loading"
+msgstr "Yükleniyor"
+
+msgid "Pinned"
+msgstr "Sabitlendi"
+
+#, python-brace-format
+msgid "{name} (channel)"
+msgstr "{name} (kanal)"
+
+#, python-brace-format
+msgid "{name} (group)"
+msgstr "{name} (grup)"
+
+#, python-brace-format
+msgid "{name} (bot)"
+msgstr "{name} (bot)"
+
+#, python-brace-format
+msgid "{title} (online)"
+msgstr "{title} (çevrimiçi)"
+
+msgid "(pinned)"
+msgstr "(sabitlendi)"
+
+#, python-brace-format
+msgid "{count} mention"
+msgid_plural "{count} mentions"
+msgstr[0] "{count} bahsedildi"
+msgstr[1] "{count} bahsetmeler"
+
+msgid "New reaction"
+msgid_plural "New reactions"
+msgstr[0] "Yeni tepki"
+msgstr[1] "Yeni tepkiler"
+
+msgid "Music"
+msgstr "Müzik"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Photo"
+msgstr "Fotoğraf"
+
+msgid "Animation"
+msgstr "Animasyon"
+
+msgid "Document"
+msgstr "Belge"
+
+msgid "Nothing is playing"
+msgstr "Hiçbir şey oynatılmıyor"
+
+#, python-brace-format
+msgid "Time: {t}/{l}"
+msgstr "Zaman: {t}/{l}"
+
+#, python-brace-format
+msgid "Playback rate: {rate}"
+msgstr "Oynatma hızı: {rate}"
+
+msgid "Player control panel"
+msgstr "Oynatıcı kontrol paneli"
+
+msgid "Media player"
+msgstr "Medya oynatıcı"
+
+msgid "Audio player"
+msgstr "Ses oynatıcı"
+
+#, python-brace-format
+msgid "Now playing: {title} - {artist}"
+msgstr "Şuanda oynatılıyor:  {title} - {artist}"
+
+msgid "Video player"
+msgstr "Video Oynatıcı"
+
+msgid "Photo viewer"
+msgstr "Fotoğraf görüntüleyici"
+
+msgid "Stop"
+msgstr "Durdur"
+
+msgid "Pause"
+msgstr "Duraklat"
+
+#, python-brace-format
+msgid "Volume {v}"
+msgstr "Ses seviyesi {v}"
+
+#, python-brace-format
+msgid "Playback rate {rate}"
+msgstr "Oynatma hızı  {rate}"
+
+msgid "Default playback device"
+msgstr "Varsayılan oynatma cihazı"
+
+#, python-brace-format
+msgid "Scheduled at {time}"
+msgstr "{time} planlandı"
+
+#, python-brace-format
+msgid "Scheduled {date} at {time}"
+msgstr "Planlandı {date} {time} "
+
+#, python-brace-format
+msgid "Sent at {time}"
+msgstr "Gönderildi {time}"
+
+#, python-brace-format
+msgid "Sent {date} at {time}"
+msgstr "Gönderildi {date} {time}"
+
+#, python-brace-format
+msgid "Sending... at {time}"
+msgstr "Gönderme... {time}"
+
+#, python-brace-format
+msgid "Sending... {date} at {time}"
+msgstr "Gönderme... {date} {time}"
+
+#, python-brace-format
+msgid "Received at {time}"
+msgstr "Alındı {time}"
+
+#, python-brace-format
+msgid "Received {date} at {time}"
+msgstr "Alındı {date} {time}"
+
+msgid "Outgoing"
+msgstr "Giden"
+
+msgid "Incoming"
+msgstr "Gelen"
+
+msgid "Cancelled"
+msgstr "İptal edildi"
+
+msgid "Missed"
+msgstr "Cevapsız"
+
+msgid "Declined"
+msgstr "Reddedildi"
+
+msgid "video call"
+msgstr "görüntülü arama"
+
+msgid "audio call"
+msgstr "sesli arama"
+
+msgid "Selects a contact"
+msgstr "Kişiyi seçiyor"
+
+msgid "Selects location"
+msgstr "Konumu seçiyor"
+
+msgid "Selects a sticker"
+msgstr "Bir çıkartma seçiyor"
+
+msgid "Recording video"
+msgstr "Görüntülü mesaj kaydediyor"
+
+msgid "Recording voice"
+msgstr "Sesli mesaj kaydediyor"
+
+msgid "Start playing game"
+msgstr "Oyunu oynamaya başlar"
+
+msgid "Typing"
+msgstr "Yazıyor"
+
+msgid "Sending a file"
+msgstr "Dosya gönderiyor"
+
+msgid "Sending a photo"
+msgstr "Fotoğraf gönderiyor"
+
+msgid "Sending a video"
+msgstr "Video gönderiyor"
+
+msgid "Sending an audio"
+msgstr "Ses gönderiyor"
+
+msgid "Watching animations"
+msgstr "Animasyonu inceliyor"

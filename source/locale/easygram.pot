@@ -1,0 +1,1766 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the 'easygram' package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 'easygram' '0.29'\n"
+"Report-Msgid-Bugs-To: 'jawhien@gmail.com'\n"
+"POT-Creation-Date: 2024-08-14 14:59+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "Slightly smiling face"
+msgstr ""
+
+msgid "Smiling face"
+msgstr ""
+
+msgid "Grinning face"
+msgstr ""
+
+msgid "Smiling face with smiling eyes"
+msgstr ""
+
+msgid "Smiling face with halo"
+msgstr ""
+
+msgid "Grinning face with big eyes"
+msgstr ""
+
+msgid "Grinning face with smiling eyes"
+msgstr ""
+
+msgid "Grinning squinting face"
+msgstr ""
+
+msgid "Grinning face with sweat"
+msgstr ""
+
+msgid "Rolling on the floor laughing"
+msgstr ""
+
+msgid "Face with tears of joy"
+msgstr ""
+
+msgid "Beaming face with smiling eyes"
+msgstr ""
+
+msgid "Smiling face with horns"
+msgstr ""
+
+msgid "Angry face with horns"
+msgstr ""
+
+msgid "Upside-down face"
+msgstr ""
+
+msgid "Melting face"
+msgstr ""
+
+msgid "Winking face"
+msgstr ""
+
+msgid "Winking face with tongue"
+msgstr ""
+
+msgid "Smiling face with open hands"
+msgstr ""
+
+msgid "Smiling face with hearts"
+msgstr ""
+
+msgid "Smiling face with heart-eyes"
+msgstr ""
+
+msgid "Star-struck"
+msgstr ""
+
+msgid "Face blowing a kiss"
+msgstr ""
+
+msgid "Kissing face"
+msgstr ""
+
+msgid "Kissing face with closed eyes"
+msgstr ""
+
+msgid "Kissing face with smiling eyes"
+msgstr ""
+
+msgid "Smiling face with tear"
+msgstr ""
+
+msgid "Face savoring food"
+msgstr ""
+
+msgid "Face with tongue"
+msgstr ""
+
+msgid "Face with hand over mouth"
+msgstr ""
+
+msgid "Face with open eyes and hand over mouth"
+msgstr ""
+
+msgid "Zany face"
+msgstr ""
+
+msgid "Squinting face with tongue"
+msgstr ""
+
+msgid "Money-mouth face"
+msgstr ""
+
+msgid "Face with peeking eye"
+msgstr ""
+
+msgid "Shushing face"
+msgstr ""
+
+msgid "Thinking face"
+msgstr ""
+
+msgid "Saluting face"
+msgstr ""
+
+msgid "Zipper-mouth face"
+msgstr ""
+
+msgid "Face with raised eyebrow"
+msgstr ""
+
+msgid "Neutral face"
+msgstr ""
+
+msgid "Expressionless face"
+msgstr ""
+
+msgid "Face without mouth"
+msgstr ""
+
+msgid "Dotted line face"
+msgstr ""
+
+msgid "Face in clouds"
+msgstr ""
+
+msgid "Smirking face"
+msgstr ""
+
+msgid "unamused face"
+msgstr ""
+
+msgid "Face with rolling eyes"
+msgstr ""
+
+msgid "Grimacing face"
+msgstr ""
+
+msgid "Face exhaling"
+msgstr ""
+
+msgid "Lying face"
+msgstr ""
+
+msgid "Shaking face"
+msgstr ""
+
+msgid "Relieved face"
+msgstr ""
+
+msgid "Pensive face"
+msgstr ""
+
+msgid "Sleepy face"
+msgstr ""
+
+msgid "Drooling face"
+msgstr ""
+
+msgid "Sleeping face"
+msgstr ""
+
+msgid "Face with medical mask"
+msgstr ""
+
+msgid "Face with thermometer"
+msgstr ""
+
+msgid "Face with head-bandage"
+msgstr ""
+
+msgid "Face with spiral eyes"
+msgstr ""
+
+msgid "Exploding head"
+msgstr ""
+
+msgid "Cowboy hat face"
+msgstr ""
+
+msgid "Partying face"
+msgstr ""
+
+msgid "Smiling face with sunglasses"
+msgstr ""
+
+msgid "Nerd face"
+msgstr ""
+
+msgid "Face with monocle"
+msgstr ""
+
+msgid "Confused face"
+msgstr ""
+
+msgid "Face with diagonal mouth"
+msgstr ""
+
+msgid "Worried face"
+msgstr ""
+
+msgid "Slightly frowning face"
+msgstr ""
+
+msgid "Frowning face"
+msgstr ""
+
+msgid "Face with open mouth"
+msgstr ""
+
+msgid "Hushed face"
+msgstr ""
+
+msgid "Astonished face"
+msgstr ""
+
+msgid "Flushed face"
+msgstr ""
+
+msgid "Pleading face"
+msgstr ""
+
+msgid "Face holding back tears"
+msgstr ""
+
+msgid "Frowning face with open mouth"
+msgstr ""
+
+msgid "Anguished face"
+msgstr ""
+
+msgid "Fearful face"
+msgstr ""
+
+msgid "Anxious face with sweat"
+msgstr ""
+
+msgid "Sad but relieved face"
+msgstr ""
+
+msgid "Crying face"
+msgstr ""
+
+msgid "Loudly crying face"
+msgstr ""
+
+msgid "Face screaming in fear"
+msgstr ""
+
+msgid "Confounded face"
+msgstr ""
+
+msgid "Persevering face"
+msgstr ""
+
+msgid "Disappointed face"
+msgstr ""
+
+msgid "Downcast face with sweat"
+msgstr ""
+
+msgid "Weary face"
+msgstr ""
+
+msgid "Tired face"
+msgstr ""
+
+msgid "Enraged face"
+msgstr ""
+
+msgid "Angry face"
+msgstr ""
+
+msgid "Face with symbols on mouth"
+msgstr ""
+
+msgid "Skull"
+msgstr ""
+
+msgid "Skull and crossbones"
+msgstr ""
+
+msgid "Grinning cat"
+msgstr ""
+
+msgid "Grinning cat with smiling eyes"
+msgstr ""
+
+msgid "Cat with tears of joy"
+msgstr ""
+
+msgid "Smiling cat with heart-eyes"
+msgstr ""
+
+msgid "Cat with wry smile"
+msgstr ""
+
+msgid "Kissing cat"
+msgstr ""
+
+msgid "Weary cat"
+msgstr ""
+
+msgid "Crying cat"
+msgstr ""
+
+msgid "Pouting cat"
+msgstr ""
+
+msgid "Thumbs up"
+msgstr ""
+
+msgid "Thumbs down"
+msgstr ""
+
+msgid "Clapping hands"
+msgstr ""
+
+msgid "Raising hands"
+msgstr ""
+
+msgid "Waving hand"
+msgstr ""
+
+msgid "OK hand"
+msgstr ""
+
+msgid "Pinching hand"
+msgstr ""
+
+msgid "Victory hand"
+msgstr ""
+
+msgid "Love-you gesture"
+msgstr ""
+
+msgid "Sign of the horns"
+msgstr ""
+
+msgid "Call me hand"
+msgstr ""
+
+msgid "Middle finger"
+msgstr ""
+
+msgid "Heart hands"
+msgstr ""
+
+msgid "Bot menu"
+msgstr ""
+
+msgid "Bot keyboard"
+msgstr ""
+
+msgid "Inline keyboard"
+msgstr ""
+
+msgid "Emoji"
+msgstr ""
+
+msgid "Schedule message"
+msgstr ""
+
+#. TRANSLATORS: this is the label of the button in the file attachment dialog box.
+msgid "Set date and time..."
+msgstr ""
+
+msgid "Without sound"
+msgstr ""
+
+msgid "Send"
+msgstr ""
+
+msgid "Remove reply"
+msgstr ""
+
+msgid "Scheduled messages"
+msgstr ""
+
+msgid "Attach..."
+msgstr ""
+
+msgid "Voice note"
+msgstr ""
+
+msgid "Pinned messages"
+msgstr ""
+
+msgid "Mute"
+msgstr ""
+
+msgid "Unmute"
+msgstr ""
+
+msgid "Join the channel"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Messages"
+msgstr ""
+
+msgid "Message:"
+msgstr ""
+
+#, python-brace-format
+msgid "Reply to {name}:"
+msgstr ""
+
+msgid "online"
+msgstr ""
+
+msgid "last seen recently"
+msgstr ""
+
+msgid "last seen within a week"
+msgstr ""
+
+msgid "last seen within a month"
+msgstr ""
+
+msgid "last seen never"
+msgstr ""
+
+#, python-brace-format
+msgid "last seen at {time}"
+msgstr ""
+
+#, python-brace-format
+msgid "last seen yesterday at {time}"
+msgstr ""
+
+#, python-brace-format
+msgid "last seen {date} at {time}"
+msgstr ""
+
+#, python-brace-format
+msgid "Channel: {name}, {count} member"
+msgid_plural "Channel: {name}, {count} members"
+msgstr[0] ""
+msgstr[1] ""
+
+#, python-brace-format
+msgid "Group: {name}, {count} member"
+msgid_plural "Group: {name}, {count} members"
+msgstr[0] ""
+msgstr[1] ""
+
+#, python-brace-format
+msgid "Group: {name}, {status}, {count} member"
+msgid_plural "Group: {name}, {status}, {count} members"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Favorites"
+msgstr ""
+
+msgid "Replies"
+msgstr ""
+
+#, python-brace-format
+msgid "Bot: {name}"
+msgstr ""
+
+msgid "Premium account"
+msgstr ""
+
+msgid "Skipped one-time voice message"
+msgstr ""
+
+msgid "Are you sure you want to delete this message?"
+msgstr ""
+
+msgid "Delete for everyone"
+msgstr ""
+
+msgid "Delete for yourself"
+msgstr ""
+
+msgid "There are no links in this message."
+msgstr ""
+
+msgid "Information"
+msgstr ""
+
+msgid "Voice and video messages in this chat are restricted!"
+msgstr ""
+
+msgid "All files"
+msgstr ""
+
+msgid "Select file"
+msgstr ""
+
+msgid "Unread messages"
+msgstr ""
+
+msgid "The message is too long!"
+msgstr ""
+
+msgid "Send error"
+msgstr ""
+
+msgid "You have not set the date and time!"
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
+msgid "%d.%m.%Y at %H:%M"
+msgstr ""
+
+#, python-brace-format
+msgid "Scheduled for: {date}"
+msgstr ""
+
+#, python-brace-format
+msgid ""
+"Failed to save file \"{name}\", such file already exists and name search "
+"limit exceeded."
+msgstr ""
+
+msgid "Comment:"
+msgstr ""
+
+msgid "Comments"
+msgstr ""
+
+msgid "Comments for: "
+msgstr ""
+
+msgid "Schedule"
+msgstr ""
+
+msgid "Hour:"
+msgstr ""
+
+msgid "Minute:"
+msgstr ""
+
+msgid "OK"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "About the bot"
+msgstr ""
+
+msgid "About user"
+msgstr ""
+
+msgid "First name:"
+msgstr ""
+
+msgid "Last name:"
+msgstr ""
+
+msgid "About Me:"
+msgstr ""
+
+msgid "Phone number:"
+msgstr ""
+
+msgid "User name:"
+msgstr ""
+
+msgid "Birthday:"
+msgstr ""
+
+msgid "Personal channel"
+msgstr ""
+
+msgid "ID:"
+msgstr ""
+
+msgid "Open chat"
+msgstr ""
+
+#, python-brace-format
+msgid "{day}/{month}/{year}"
+msgstr ""
+
+#, python-brace-format
+msgid "{day}/{month}"
+msgstr ""
+
+#, python-brace-format
+msgid "Personal channel: {title}"
+msgstr ""
+
+#, python-brace-format
+msgid "Clear history with {title}"
+msgstr ""
+
+msgid "Are you sure you want to clear your history on this chat?"
+msgstr ""
+
+msgid "Clear for all users"
+msgstr ""
+
+msgid "Remove from chat list"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+#, python-brace-format
+msgid "Voice note: {title}"
+msgstr ""
+
+msgid "Start recording"
+msgstr ""
+
+msgid "Delete after listening"
+msgstr ""
+
+msgid "Stop recording"
+msgstr ""
+
+msgid "Can't send empty messages!"
+msgstr ""
+
+msgid "Info"
+msgstr ""
+
+#. Change the label of the button to show that the upload has already started.
+msgid "Sending in progress..."
+msgstr ""
+
+#. Show an error if the file could not be saved.
+msgid "An error occurred while writing the file."
+msgstr ""
+
+msgid "An error occurred while converting the file."
+msgstr ""
+
+msgid "Cancel the record and delete the message?"
+msgstr ""
+
+msgid "Confirmation"
+msgstr ""
+
+#, python-brace-format
+msgid "Poll: {title}, anonymous poll"
+msgstr ""
+
+#, python-brace-format
+msgid "Poll: {title}, public poll"
+msgstr ""
+
+msgid "Choose one or more answers"
+msgstr ""
+
+msgid "Choose only one answer"
+msgstr ""
+
+msgid "This poll is now closed."
+msgstr ""
+
+#, python-brace-format
+msgid "Quiz: {title}, anonymous quiz"
+msgstr ""
+
+#, python-brace-format
+msgid "Quiz: {title}, public quiz"
+msgstr ""
+
+#, python-brace-format
+msgid "{text} ({p}%) - This is the wrong answer"
+msgstr ""
+
+#, python-brace-format
+msgid "{text} ({p}%) - This is the correct answer"
+msgstr ""
+
+#, python-brace-format
+msgid "{option}. Explanation: {text}"
+msgstr ""
+
+msgid "Can't change answer in quiz mode."
+msgstr ""
+
+msgid "This quiz is now closed."
+msgstr ""
+
+msgid "Links"
+msgstr ""
+
+msgid "About Easygram"
+msgstr ""
+
+msgid "Original text in English: © Eugene Poplavsky."
+msgstr ""
+
+#, python-brace-format
+msgid ""
+"Easygram is distributed under the GNU GPLv3 open source license, with the "
+"exception of certain additional components and Microsoft redistributable "
+"code. By using or distributing Easygram, you agree to be bound by the terms "
+"of the license agreement. The text of the license can be found at:\n"
+"{link}"
+msgstr ""
+
+msgid "Easygram also includes a number of GNU GPL compatible components."
+msgstr ""
+
+#, python-brace-format
+msgid ""
+"{name}, version: {version}\n"
+"{link}"
+msgstr ""
+
+msgid "File path:"
+msgstr ""
+
+msgid "Caption:"
+msgstr ""
+
+msgid "Attach file"
+msgstr ""
+
+msgid "No such file exists!"
+msgstr ""
+
+msgid "The caption text is too long!"
+msgstr ""
+
+msgid "No command to send!"
+msgstr ""
+
+msgid "Attach video"
+msgstr ""
+
+msgid "Attach audio"
+msgstr ""
+
+msgid "Title:"
+msgstr ""
+
+msgid "Performer:"
+msgstr ""
+
+msgid "Title required!"
+msgstr ""
+
+msgid "Attach photo"
+msgstr ""
+
+msgid "Attach animation"
+msgstr ""
+
+msgid "Attach document"
+msgstr ""
+
+msgid "About the channel"
+msgstr ""
+
+msgid "Name:"
+msgstr ""
+
+msgid "Member count:"
+msgstr ""
+
+msgid "Invite link:"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Edit message"
+msgstr ""
+
+msgid "Message text:"
+msgstr ""
+
+msgid "Can't send empty message!"
+msgstr ""
+
+msgid "Edit document"
+msgstr ""
+
+msgid "Override file..."
+msgstr ""
+
+msgid "Browse..."
+msgstr ""
+
+msgid "Cancel override file"
+msgstr ""
+
+msgid "This type of file is not supported!"
+msgstr ""
+
+msgid "The caption is too long!"
+msgstr ""
+
+msgid "Edit photo"
+msgstr ""
+
+msgid "All images"
+msgstr ""
+
+msgid "Edit video"
+msgstr ""
+
+msgid "All video files"
+msgstr ""
+
+msgid "Edit animation"
+msgstr ""
+
+msgid "All animation"
+msgstr ""
+
+msgid "Edit audio"
+msgstr ""
+
+msgid "All audio files"
+msgstr ""
+
+msgid "Edit voice note"
+msgstr ""
+
+msgid "Delete message"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Successfully"
+msgstr ""
+
+#, python-brace-format
+msgid "File '{name}' saved in downloads"
+msgstr ""
+
+msgid "Show in Folder"
+msgstr ""
+
+msgid "Change..."
+msgstr ""
+
+msgid "Change time..."
+msgstr ""
+
+msgid "Reactions"
+msgstr ""
+
+msgid "Available reactions:"
+msgstr ""
+
+msgid "You cannot send reactions if anonymity is enabled!"
+msgstr ""
+
+msgid "There are no reactions available for this message!"
+msgstr ""
+
+msgid "Scheduled message"
+msgstr ""
+
+#, python-brace-format
+msgid "Message scheduled at {date}"
+msgstr ""
+
+msgid "Message Detail"
+msgstr ""
+
+msgid "Text message:"
+msgstr ""
+
+msgid "Voice message:"
+msgstr ""
+
+msgid "Audio message:"
+msgstr ""
+
+msgid "Video message:"
+msgstr ""
+
+msgid "Photo:"
+msgstr ""
+
+#, python-brace-format
+msgid "Document message: {filename}"
+msgstr ""
+
+msgid "No caption"
+msgstr ""
+
+msgid "Registration message:"
+msgstr ""
+
+msgid "Creation message:"
+msgstr ""
+
+msgid "Supergroup created."
+msgstr ""
+
+msgid "Group created."
+msgstr ""
+
+msgid "Gif:"
+msgstr ""
+
+msgid "Call message:"
+msgstr ""
+
+msgid "Separator item:"
+msgstr ""
+
+msgid "Sticker:"
+msgstr ""
+
+msgid "Emoji:"
+msgstr ""
+
+#, python-brace-format
+msgid "Views: {count}"
+msgstr ""
+
+#, python-brace-format
+msgid "Reactions: {reactions}"
+msgstr ""
+
+#, python-brace-format
+msgid "You sent a reaction {r}"
+msgstr ""
+
+msgid "Insert emoji"
+msgstr ""
+
+msgid "List of pinned messages"
+msgstr ""
+
+msgid "Messages:"
+msgstr ""
+
+msgid "Go to message"
+msgstr ""
+
+msgid "Unpin"
+msgstr ""
+
+msgid "Unpin all"
+msgstr ""
+
+msgid "Are you sure you want to unpin all messages in this chat?"
+msgstr ""
+
+msgid "Unpin all messages"
+msgstr ""
+
+msgid "Forward message"
+msgstr ""
+
+msgid "Chats:"
+msgstr ""
+
+msgid "Advanced options"
+msgstr ""
+
+msgid "Hide sender name"
+msgstr ""
+
+msgid "Remove caption"
+msgstr ""
+
+msgid "Forward in this chat"
+msgstr ""
+
+#, python-brace-format
+msgid "Forward in {count} chat"
+msgid_plural "Forward in {count} chats"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Files"
+msgstr ""
+
+msgid "Add..."
+msgstr ""
+
+msgid "Properties"
+msgstr ""
+
+msgid "Send without compression"
+msgstr ""
+
+msgid "Options"
+msgstr ""
+
+msgid "Attach files"
+msgstr ""
+
+msgid "When online"
+msgstr ""
+
+msgid "Enter the phone number"
+msgstr ""
+
+msgid "Country:"
+msgstr ""
+
+msgid "Country"
+msgstr ""
+
+msgid "Next"
+msgstr ""
+
+msgid "Do you want to stop the verification process?"
+msgstr ""
+
+msgid "Enter confirmation code"
+msgstr ""
+
+msgid "The code was sent to you via Telegram."
+msgstr ""
+
+msgid "The code was sent to you via SMS."
+msgstr ""
+
+msgid "Confirmation code:"
+msgstr ""
+
+msgid "Enter password"
+msgstr ""
+
+msgid "Password:"
+msgstr ""
+
+msgid "Registration"
+msgstr ""
+
+msgid "Terms of service"
+msgstr ""
+
+msgid "Register"
+msgstr ""
+
+#, python-brace-format
+msgid ""
+"The following phone number will be confirmed: +{code}{number}. This number "
+"is correct?"
+msgstr ""
+
+msgid "Incorrect phone number!"
+msgstr ""
+
+msgid "Incorrect confirmation code!"
+msgstr ""
+
+msgid "Incorrect password!"
+msgstr ""
+
+msgid "Detailed view"
+msgstr ""
+
+msgid "Copy text"
+msgstr ""
+
+msgid "Save in downloads"
+msgstr ""
+
+msgid "Reply"
+msgstr ""
+
+msgid "Pin"
+msgstr ""
+
+msgid "Go to quoted message"
+msgstr ""
+
+#, python-brace-format
+msgid "Comments: {count}"
+msgstr ""
+
+msgid "Go to original message"
+msgstr ""
+
+msgid "Add to favorites"
+msgstr ""
+
+msgid "Forward"
+msgstr ""
+
+msgid "Add reaction"
+msgstr ""
+
+#, python-brace-format
+msgid "Remove reaction {r}"
+msgstr ""
+
+msgid "Open profile"
+msgstr ""
+
+msgid "Open"
+msgstr ""
+
+msgid "Mark as read"
+msgstr ""
+
+msgid "Leave channel"
+msgstr ""
+
+msgid "Leave group"
+msgstr ""
+
+msgid "Clear history"
+msgstr ""
+
+msgid "Are you sure you want to leave this channel?"
+msgstr ""
+
+msgid "Are you sure you want to leave this group?"
+msgstr ""
+
+msgid "Show window"
+msgstr ""
+
+msgid "Exit"
+msgstr ""
+
+msgid "You"
+msgstr ""
+
+msgid "Deleted user"
+msgstr ""
+
+msgid "Contains keyboard"
+msgstr ""
+
+#, python-brace-format
+msgid "Forwarded from {name}"
+msgstr ""
+
+#, python-brace-format
+msgid "Received {count} reply"
+msgid_plural "Received {count} replies"
+msgstr[0] ""
+msgstr[1] ""
+
+#, python-brace-format
+msgid "Document {name} ({size}) {caption}"
+msgstr ""
+
+#, python-brace-format
+msgid "Document {name} {caption}"
+msgstr ""
+
+#, python-brace-format
+msgid "Audio {title} - {performer} ({h}:{m}:{s}) ({size}) {caption}"
+msgstr ""
+
+#, python-brace-format
+msgid "Audio {title} - {performer} ({h}:{m}:{s}) {caption}"
+msgstr ""
+
+#, python-brace-format
+msgid "Video ({h}:{m}:{s}) ({size}) {caption}"
+msgstr ""
+
+#, python-brace-format
+msgid "Video ({h}:{m}:{s}) {caption}"
+msgstr ""
+
+#, python-brace-format
+msgid "Photo {caption}"
+msgstr ""
+
+#, python-brace-format
+msgid "Gif {caption}"
+msgstr ""
+
+msgid "The user is now in telegram."
+msgstr ""
+
+#. TRANSLATORS: This is the text of the message when the user creates a group.
+msgid "Group created"
+msgstr ""
+
+msgid "This group has become a supergroup."
+msgstr ""
+
+msgid "One-time voice message"
+msgstr ""
+
+msgid "Voice message"
+msgstr ""
+
+#, python-brace-format
+msgid "{name} {h}:{m}:{s} ({size})"
+msgstr ""
+
+#, python-brace-format
+msgid "{name} {h}:{m}:{s}"
+msgstr ""
+
+msgid "(listened)"
+msgstr ""
+
+msgid "(not listened)"
+msgstr ""
+
+#. TRANSLATORS: this is the message when a user has joined a group
+msgid "joined the group"
+msgstr ""
+
+#. TRANSLATORS: this is the message when someone added a new user to the group
+#, python-brace-format
+msgid "added {users}"
+msgstr ""
+
+#. TRANSLATORS: This is the message when a user leaves the group.
+msgid "left the group"
+msgstr ""
+
+#. TRANSLATORS: This is the message when someone has been removed from the group.
+#, python-brace-format
+msgid "removed {user}"
+msgstr ""
+
+#. try:
+#. sender = storage.users.get(message.sender.id)
+#. senderName = _("Deleted user") if sender.type == objects.type_user_deleted else sender.firstAndLast
+#. except storage.NoItemError:
+#. chat = storage.chats.get(message.chatId)
+#. senderName = chat.title
+msgid "joined the group via invite link"
+msgstr ""
+
+msgid "Pinned message"
+msgstr ""
+
+#, python-brace-format
+msgid "Changed the title to: {title}"
+msgstr ""
+
+#, python-brace-format
+msgid "Video message {h}:{m}:{s} ({size})"
+msgstr ""
+
+#, python-brace-format
+msgid "Video message {h}:{m}:{s}"
+msgstr ""
+
+msgid "Expired voice message"
+msgstr ""
+
+msgid "Unsupported message type"
+msgstr ""
+
+#, python-brace-format
+msgid "Pinned message: {name}: {message}..."
+msgstr ""
+
+#, python-brace-format
+msgid "In reply to {name}: {message}..."
+msgstr ""
+
+msgid "Bytes"
+msgstr ""
+
+msgid "KB"
+msgstr ""
+
+msgid "MB"
+msgstr ""
+
+msgid "GB"
+msgstr ""
+
+msgid "TB"
+msgstr ""
+
+msgid "PB"
+msgstr ""
+
+msgid "EB"
+msgstr ""
+
+msgid "ZB"
+msgstr ""
+
+msgid "YB"
+msgstr ""
+
+msgid "I don't know what to call such a big size!"
+msgstr ""
+
+#, python-brace-format
+msgid "{program} preferences"
+msgstr ""
+
+msgid "General settings"
+msgstr ""
+
+msgid "Interface"
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid "Language (Restart required):"
+msgstr ""
+
+msgid "Minimize on tray instead of exit"
+msgstr ""
+
+msgid "Confirmation before closing"
+msgstr ""
+
+msgid "Show sender in system tray"
+msgstr ""
+
+msgid "Close chats by pressing the ESCAPE key"
+msgstr ""
+
+msgid "Play event sounds"
+msgstr ""
+
+msgid "Downloads"
+msgstr ""
+
+msgid "Path to save files:"
+msgstr ""
+
+msgid "Logging"
+msgstr ""
+
+msgid "Enable logging (restart required)"
+msgstr ""
+
+#. TRANSLATORS: This is a logging option.
+msgid "Infos"
+msgstr ""
+
+msgid "Warnings"
+msgstr ""
+
+msgid "Errors"
+msgstr ""
+
+msgid "Debug"
+msgstr ""
+
+msgid "Logging level:"
+msgstr ""
+
+msgid "Flush log on startup"
+msgstr ""
+
+msgid "Log rotation"
+msgstr ""
+
+msgid "chats settings"
+msgstr ""
+
+msgid "Send messages by pressing enter"
+msgstr ""
+
+msgid "Sequentially play voice messages and audio files in chats"
+msgstr ""
+
+msgid "Automatically start recording a voice message"
+msgstr ""
+
+msgid "Show emoji button"
+msgstr ""
+
+msgid ""
+"Disable Markdown markup (if there are issues with the messages being sent)"
+msgstr ""
+
+msgid "Don't show dialog box \"Message scheduled\""
+msgstr ""
+
+msgid "Use new search style in chat and message lists"
+msgstr ""
+
+#. TRANSLATORS: this is an option when selecting the quality of voice messages.
+msgid "Auto (optimal: approximately 550 kB/Min)"
+msgstr ""
+
+#. TRANSLATORS: this is an option when selecting the quality of voice messages.
+msgid "Very high (approximately 1.6 mB/Min)"
+msgstr ""
+
+#. TRANSLATORS: this is an option when selecting the quality of voice messages.
+msgid "High (approximately 950 kB/Min)"
+msgstr ""
+
+#. TRANSLATORS: this is an option when selecting the quality of voice messages.
+msgid "Medium (approximately 630 kB/Min)"
+msgstr ""
+
+#. TRANSLATORS: this is an option when selecting the quality of voice messages.
+msgid "Low (approximately 330 kB/Min)"
+msgstr ""
+
+#. TRANSLATORS: this is an option when selecting the quality of voice messages.
+msgid "Very low (approximately 220 kB/Min)"
+msgstr ""
+
+msgid "Voice message quality:"
+msgstr ""
+
+msgid "Display size for:"
+msgstr ""
+
+msgid "Documents"
+msgstr ""
+
+msgid "Voice messages"
+msgstr ""
+
+msgid "Audio messages"
+msgstr ""
+
+msgid "Video messages"
+msgstr ""
+
+msgid "Speech settings"
+msgstr ""
+
+msgid "Speech module settings"
+msgstr ""
+
+msgid "Enable speech"
+msgstr ""
+
+msgid "Allow use of Microsoft Speech API"
+msgstr ""
+
+msgid "Prefer using the Microsoft Speech API"
+msgstr ""
+
+msgid "Always interrupt speech before new notifications"
+msgstr ""
+
+msgid "Interrupt speaking before starting recording"
+msgstr ""
+
+msgid "Speech notifications settings"
+msgstr ""
+
+#. TRANSLATORS: These are the options for reading notifications.
+msgid "Always"
+msgstr ""
+
+msgid "In the foreground"
+msgstr ""
+
+msgid "Never"
+msgstr ""
+
+msgid "Network Status Changes:"
+msgstr ""
+
+msgid "Incoming messages:"
+msgstr ""
+
+msgid "Outgoing messages:"
+msgstr ""
+
+msgid "Speak outgoing messages only after confirmation by the server"
+msgstr ""
+
+msgid "Chat actions:"
+msgstr ""
+
+msgid "Media player:"
+msgstr ""
+
+msgid "Devices settings"
+msgstr ""
+
+msgid "Microphone:"
+msgstr ""
+
+msgid "Speakers:"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Chats"
+msgstr ""
+
+msgid "Speech"
+msgstr ""
+
+msgid "Devices"
+msgstr ""
+
+msgid "Apply"
+msgstr ""
+
+msgid "Restart the application to apply the new language settings."
+msgstr ""
+
+msgid "Seen"
+msgstr ""
+
+msgid "Not seen"
+msgstr ""
+
+msgid "Playing"
+msgstr ""
+
+msgid "Paused"
+msgstr ""
+
+msgid "Stopped"
+msgstr ""
+
+msgid "Played"
+msgstr ""
+
+msgid "Loading"
+msgstr ""
+
+msgid "Pinned"
+msgstr ""
+
+#, python-brace-format
+msgid "{name} (channel)"
+msgstr ""
+
+#, python-brace-format
+msgid "{name} (group)"
+msgstr ""
+
+#, python-brace-format
+msgid "{name} (bot)"
+msgstr ""
+
+#, python-brace-format
+msgid "{title} (online)"
+msgstr ""
+
+msgid "(pinned)"
+msgstr ""
+
+#, python-brace-format
+msgid "{count} unread message"
+msgid_plural "{count} unread messages"
+msgstr[0] ""
+msgstr[1] ""
+
+#, python-brace-format
+msgid "{count} mention"
+msgid_plural "{count} mentions"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "New reaction"
+msgid_plural "New reactions"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Video"
+msgstr ""
+
+msgid "Photo"
+msgstr ""
+
+msgid "Animation"
+msgstr ""
+
+msgid "Document"
+msgstr ""
+
+msgid "Offline"
+msgstr ""
+
+msgid "Loading chats..."
+msgstr ""
+
+#, python-brace-format
+msgid "Chats ({0})"
+msgstr ""
+
+msgid "Contacts"
+msgstr ""
+
+#, python-brace-format
+msgid "Contacts ({0})"
+msgstr ""
+
+msgid "Preferences"
+msgstr ""
+
+msgid "Your chats"
+msgstr ""
+
+msgid "Are you sure you want to close application?"
+msgstr ""
+
+msgid "Exit the program"
+msgstr ""
+
+msgid "Loading..."
+msgstr ""
+
+msgid "Invalid verification code!"
+msgstr ""
+
+msgid "Invalid password!"
+msgstr ""
+
+msgid "Authorisation Error"
+msgstr ""
+
+msgid "Updating..."
+msgstr ""
+
+msgid "Ready"
+msgstr ""
+
+msgid "Connecting..."
+msgstr ""
+
+#. We display the notification separately from the main system tray icon, because after the notification is shown, the icon is not clickable from the keyboard.
+#, python-brace-format
+msgid "You have a new message from {title}"
+msgstr ""
+
+msgid "You have a new message"
+msgstr ""
+
+#, python-brace-format
+msgid "Time: {t}/{l}"
+msgstr ""
+
+#, python-brace-format
+msgid "Playback rate: {rate}"
+msgstr ""
+
+msgid "Player control panel"
+msgstr ""
+
+msgid "Media player"
+msgstr ""
+
+msgid "Audio player"
+msgstr ""
+
+#, python-brace-format
+msgid "Now playing: {title} - {artist}"
+msgstr ""
+
+msgid "Video player"
+msgstr ""
+
+msgid "Photo viewer"
+msgstr ""
+
+msgid "Stop"
+msgstr ""
+
+msgid "Pause"
+msgstr ""
+
+msgid "Nothing is playing"
+msgstr ""
+
+#, python-brace-format
+msgid "Volume {v}"
+msgstr ""
+
+#, python-brace-format
+msgid "Playback rate {rate}"
+msgstr ""
+
+msgid "Default playback device"
+msgstr ""
+
+#, python-brace-format
+msgid "Scheduled at {time}"
+msgstr ""
+
+#, python-brace-format
+msgid "Scheduled {date} at {time}"
+msgstr ""
+
+#, python-brace-format
+msgid "Sent at {time}"
+msgstr ""
+
+#, python-brace-format
+msgid "Sent {date} at {time}"
+msgstr ""
+
+#, python-brace-format
+msgid "Sending... at {time}"
+msgstr ""
+
+#, python-brace-format
+msgid "Sending... {date} at {time}"
+msgstr ""
+
+#, python-brace-format
+msgid "Received at {time}"
+msgstr ""
+
+#, python-brace-format
+msgid "Received {date} at {time}"
+msgstr ""
+
+msgid "Outgoing"
+msgstr ""
+
+msgid "Incoming"
+msgstr ""
+
+msgid "Cancelled"
+msgstr ""
+
+msgid "Missed"
+msgstr ""
+
+msgid "Declined"
+msgstr ""
+
+msgid "video call"
+msgstr ""
+
+msgid "audio call"
+msgstr ""
