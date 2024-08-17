@@ -8,7 +8,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 'easygram' '0.29'\n"
 "Report-Msgid-Bugs-To: 'jawhien@gmail.com'\n"
+<<<<<<< Updated upstream
 "POT-Creation-Date: 2024-08-14 19:21+0300\n"
+=======
+"POT-Creation-Date: 2024-08-17 13:28+0300\n"
+>>>>>>> Stashed changes
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1029,6 +1033,30 @@ msgstr ""
 msgid "When online"
 msgstr ""
 
+msgid "Seen"
+msgstr ""
+
+msgid "Not seen"
+msgstr ""
+
+msgid "Playing"
+msgstr ""
+
+msgid "Paused"
+msgstr ""
+
+msgid "Stopped"
+msgstr ""
+
+msgid "Played"
+msgstr ""
+
+msgid "Loading"
+msgstr ""
+
+msgid "Pinned"
+msgstr ""
+
 msgid "Enter the phone number"
 msgstr ""
 
@@ -1559,30 +1587,6 @@ msgid "Warning"
 msgstr ""
 
 msgid "Restart the application to apply the new language settings."
-msgstr ""
-
-msgid "Seen"
-msgstr ""
-
-msgid "Not seen"
-msgstr ""
-
-msgid "Playing"
-msgstr ""
-
-msgid "Paused"
-msgstr ""
-
-msgid "Stopped"
-msgstr ""
-
-msgid "Played"
-msgstr ""
-
-msgid "Loading"
-msgstr ""
-
-msgid "Pinned"
 msgstr ""
 
 #, python-brace-format
