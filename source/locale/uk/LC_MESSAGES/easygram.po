@@ -1,0 +1,1850 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: 'jawhien@gmail.com'\n"
+"POT-Creation-Date: 2024-08-19 13:27+0300\n"
+"PO-Revision-Date: 2024-08-19 20:26+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk_UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.4.4\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "Slightly smiling face"
+msgstr ""
+
+msgid "Smiling face"
+msgstr ""
+
+msgid "Grinning face"
+msgstr ""
+
+msgid "Smiling face with smiling eyes"
+msgstr ""
+
+msgid "Smiling face with halo"
+msgstr ""
+
+msgid "Grinning face with big eyes"
+msgstr ""
+
+msgid "Grinning face with smiling eyes"
+msgstr ""
+
+msgid "Grinning squinting face"
+msgstr ""
+
+msgid "Grinning face with sweat"
+msgstr ""
+
+msgid "Rolling on the floor laughing"
+msgstr ""
+
+msgid "Face with tears of joy"
+msgstr ""
+
+msgid "Beaming face with smiling eyes"
+msgstr ""
+
+msgid "Smiling face with horns"
+msgstr ""
+
+msgid "Angry face with horns"
+msgstr ""
+
+msgid "Upside-down face"
+msgstr ""
+
+msgid "Melting face"
+msgstr ""
+
+msgid "Winking face"
+msgstr ""
+
+msgid "Winking face with tongue"
+msgstr ""
+
+msgid "Smiling face with open hands"
+msgstr ""
+
+msgid "Smiling face with hearts"
+msgstr ""
+
+msgid "Smiling face with heart-eyes"
+msgstr ""
+
+msgid "Star-struck"
+msgstr ""
+
+msgid "Face blowing a kiss"
+msgstr ""
+
+msgid "Kissing face"
+msgstr ""
+
+msgid "Kissing face with closed eyes"
+msgstr ""
+
+msgid "Kissing face with smiling eyes"
+msgstr ""
+
+msgid "Smiling face with tear"
+msgstr ""
+
+msgid "Face savoring food"
+msgstr ""
+
+msgid "Face with tongue"
+msgstr ""
+
+msgid "Face with hand over mouth"
+msgstr ""
+
+msgid "Face with open eyes and hand over mouth"
+msgstr ""
+
+msgid "Zany face"
+msgstr ""
+
+msgid "Squinting face with tongue"
+msgstr ""
+
+msgid "Money-mouth face"
+msgstr ""
+
+msgid "Face with peeking eye"
+msgstr ""
+
+msgid "Shushing face"
+msgstr ""
+
+msgid "Thinking face"
+msgstr ""
+
+msgid "Saluting face"
+msgstr ""
+
+msgid "Zipper-mouth face"
+msgstr ""
+
+msgid "Face with raised eyebrow"
+msgstr ""
+
+msgid "Neutral face"
+msgstr ""
+
+msgid "Expressionless face"
+msgstr ""
+
+msgid "Face without mouth"
+msgstr ""
+
+msgid "Dotted line face"
+msgstr ""
+
+msgid "Face in clouds"
+msgstr ""
+
+msgid "Smirking face"
+msgstr ""
+
+msgid "unamused face"
+msgstr ""
+
+msgid "Face with rolling eyes"
+msgstr ""
+
+msgid "Grimacing face"
+msgstr ""
+
+msgid "Face exhaling"
+msgstr ""
+
+msgid "Lying face"
+msgstr ""
+
+msgid "Shaking face"
+msgstr ""
+
+msgid "Relieved face"
+msgstr ""
+
+msgid "Pensive face"
+msgstr ""
+
+msgid "Sleepy face"
+msgstr ""
+
+msgid "Drooling face"
+msgstr ""
+
+msgid "Sleeping face"
+msgstr ""
+
+msgid "Face with medical mask"
+msgstr ""
+
+msgid "Face with thermometer"
+msgstr ""
+
+msgid "Face with head-bandage"
+msgstr ""
+
+msgid "Face with spiral eyes"
+msgstr ""
+
+msgid "Exploding head"
+msgstr ""
+
+msgid "Cowboy hat face"
+msgstr ""
+
+msgid "Partying face"
+msgstr ""
+
+msgid "Smiling face with sunglasses"
+msgstr ""
+
+msgid "Nerd face"
+msgstr ""
+
+msgid "Face with monocle"
+msgstr ""
+
+msgid "Confused face"
+msgstr ""
+
+msgid "Face with diagonal mouth"
+msgstr ""
+
+msgid "Worried face"
+msgstr ""
+
+msgid "Slightly frowning face"
+msgstr ""
+
+msgid "Frowning face"
+msgstr ""
+
+msgid "Face with open mouth"
+msgstr ""
+
+msgid "Hushed face"
+msgstr ""
+
+msgid "Astonished face"
+msgstr ""
+
+msgid "Flushed face"
+msgstr ""
+
+msgid "Pleading face"
+msgstr ""
+
+msgid "Face holding back tears"
+msgstr ""
+
+msgid "Frowning face with open mouth"
+msgstr ""
+
+msgid "Anguished face"
+msgstr ""
+
+msgid "Fearful face"
+msgstr ""
+
+msgid "Anxious face with sweat"
+msgstr ""
+
+msgid "Sad but relieved face"
+msgstr ""
+
+msgid "Crying face"
+msgstr ""
+
+msgid "Loudly crying face"
+msgstr ""
+
+msgid "Face screaming in fear"
+msgstr ""
+
+msgid "Confounded face"
+msgstr ""
+
+msgid "Persevering face"
+msgstr ""
+
+msgid "Disappointed face"
+msgstr ""
+
+msgid "Downcast face with sweat"
+msgstr ""
+
+msgid "Weary face"
+msgstr ""
+
+msgid "Tired face"
+msgstr ""
+
+msgid "Enraged face"
+msgstr ""
+
+msgid "Angry face"
+msgstr ""
+
+msgid "Face with symbols on mouth"
+msgstr ""
+
+msgid "Skull"
+msgstr ""
+
+msgid "Skull and crossbones"
+msgstr ""
+
+msgid "Grinning cat"
+msgstr ""
+
+msgid "Grinning cat with smiling eyes"
+msgstr ""
+
+msgid "Cat with tears of joy"
+msgstr ""
+
+msgid "Smiling cat with heart-eyes"
+msgstr ""
+
+msgid "Cat with wry smile"
+msgstr ""
+
+msgid "Kissing cat"
+msgstr ""
+
+msgid "Weary cat"
+msgstr ""
+
+msgid "Crying cat"
+msgstr ""
+
+msgid "Pouting cat"
+msgstr ""
+
+msgid "Thumbs up"
+msgstr ""
+
+msgid "Thumbs down"
+msgstr ""
+
+msgid "Clapping hands"
+msgstr ""
+
+msgid "Raising hands"
+msgstr ""
+
+msgid "Waving hand"
+msgstr ""
+
+msgid "OK hand"
+msgstr "Добре рука"
+
+msgid "Pinching hand"
+msgstr "Щипаюча рука"
+
+msgid "Victory hand"
+msgstr "Рука перемоги"
+
+msgid "Love-you gesture"
+msgstr "Жест кохання"
+
+msgid "Sign of the horns"
+msgstr "Знак роги"
+
+msgid "Call me hand"
+msgstr "Поклич мені руку"
+
+msgid "Middle finger"
+msgstr "Середній палець"
+
+msgid "Heart hands"
+msgstr "Руки серця"
+
+msgid "Offline"
+msgstr "Офлайн"
+
+msgid "Chats"
+msgstr "Чати"
+
+msgid "Loading chats..."
+msgstr "Завантаження чатів..."
+
+#, python-brace-format
+msgid "Chats ({0})"
+msgstr "Чати ({0})"
+
+msgid "Contacts"
+msgstr "Контакти"
+
+msgid "About user"
+msgstr "Про користувача"
+
+msgid "Open chat"
+msgstr "Відкрити чат"
+
+#, python-brace-format
+msgid "Contacts ({0})"
+msgstr "Контакти ({0})"
+
+msgid "Preferences"
+msgstr "Налаштуваня"
+
+msgid "About Easygram"
+msgstr "Про Easygram"
+
+msgid "Skipped one-time voice message"
+msgstr "Пропущено одноразове голосове повідомлення"
+
+msgid "Your chats"
+msgstr "Ваші чати"
+
+msgid "Are you sure you want to close application?"
+msgstr "Ви впевнені, що бажаєте закрити програму?"
+
+msgid "Exit the program"
+msgstr "Вийти з програми"
+
+msgid "Loading..."
+msgstr "Завантаження..."
+
+msgid "Invalid verification code!"
+msgstr "Недійсний код підтвердження!"
+
+msgid "Invalid password!"
+msgstr "Невірний пароль!"
+
+msgid "Authorisation Error"
+msgstr "Помилка авторизації"
+
+msgid "Updating..."
+msgstr "Оновлення..."
+
+msgid "Ready"
+msgstr "Готовий"
+
+msgid "Connecting..."
+msgstr "Підключення..."
+
+#, python-brace-format
+msgid "You have a new message from {title}"
+msgstr "Ви отримали нове повідомлення від {title}"
+
+msgid "You have a new message"
+msgstr "У вас нове повідомлення"
+
+#, python-brace-format
+msgid "{count} unread message"
+msgid_plural "{count} unread messages"
+msgstr[0] "\"{count} непрочитанное сообщение"
+msgstr[1] "{count} непрочитанных сообщения"
+msgstr[2] "{count} непрочитанных сообщений"
+
+msgid "Bot menu"
+msgstr "Меню бота"
+
+msgid "Bot keyboard"
+msgstr "Клавіатура бота"
+
+msgid "Inline keyboard"
+msgstr "Вбудована клавіатура"
+
+msgid "Emoji"
+msgstr "Emoji"
+
+msgid "Schedule message"
+msgstr "Розклад повідомлення"
+
+#. TRANSLATORS: this is the label of the button in the file attachment dialog box.
+msgid "Set date and time..."
+msgstr "Установити дату й час..."
+
+msgid "Without sound"
+msgstr "Без звуку"
+
+msgid "Send"
+msgstr "Надіслати"
+
+msgid "Remove reply"
+msgstr "Видалити відповідь"
+
+msgid "Scheduled messages"
+msgstr "Заплановані повідомлення"
+
+msgid "Attach..."
+msgstr "Прикріпити..."
+
+msgid "Voice note"
+msgstr "Записати голосове повідомленя"
+
+msgid "Pinned messages"
+msgstr "Закріплені повідомлення"
+
+msgid "Mute"
+msgstr "Вимкнути звук"
+
+msgid "Unmute"
+msgstr "Увімкнути звук"
+
+msgid "Join the channel"
+msgstr "приєднаться до каналу"
+
+msgid "Close"
+msgstr "Закрити"
+
+msgid "Messages"
+msgstr "Повідомлення"
+
+msgid "Message:"
+msgstr "повідомлення:"
+
+#, python-brace-format
+msgid "Reply to {name}:"
+msgstr "Відповісти на {name}:"
+
+msgid "online"
+msgstr "онлайн"
+
+msgid "last seen recently"
+msgstr "востаннє бачили нещодавно"
+
+msgid "last seen within a week"
+msgstr "востаннє бачив протягом тижня"
+
+msgid "last seen within a month"
+msgstr "востаннє бачив протягом місяця"
+
+msgid "last seen never"
+msgstr "востаннє ніколи не бачив"
+
+#, python-brace-format
+msgid "last seen at {time}"
+msgstr "востаннє бачили вчора о {time}"
+
+#, python-brace-format
+msgid "last seen yesterday at {time}"
+msgstr "востаннє бачили вчора о {time}"
+
+#, python-brace-format
+msgid "last seen {date} at {time}"
+msgstr "востаннє бачив {date} at {time}"
+
+#, python-brace-format
+msgid "Channel: {name}, {count} member"
+msgid_plural "Channel: {name}, {count} members"
+msgstr[0] "Канал: {name}, {count} подписчик"
+msgstr[1] "Канал: {name}, {count} подписчика"
+msgstr[2] "Канал: {name}, {count} подписчиков"
+
+#, python-brace-format
+msgid "Group: {name}, {count} member"
+msgid_plural "Group: {name}, {count} members"
+msgstr[0] "Группа: {name}, {count} участник"
+msgstr[1] "Группа: {name}, {count} участника"
+msgstr[2] "Группа: {name}, {count} участников"
+
+#, python-brace-format
+msgid "Group: {name}, {status}, {count} member"
+msgid_plural "Group: {name}, {status}, {count} members"
+msgstr[0] "Группа: {name}, {status}, {count} участник"
+msgstr[1] "Группа: {name}, {status}, {count} участника"
+msgstr[2] "Группа: {name}, {status}, {count} участников"
+
+msgid "Favorites"
+msgstr "Вибране"
+
+msgid "Replies"
+msgstr "Відповіді"
+
+#, python-brace-format
+msgid "Bot: {name}"
+msgstr "Бот: {name}"
+
+msgid "Premium account"
+msgstr "Преміум акаунт"
+
+msgid "Are you sure you want to delete this message?"
+msgstr "Ви впевнені, що хочете видалити це повідомлення?"
+
+msgid "Delete for everyone"
+msgstr "Видалити для всіх"
+
+msgid "Delete for yourself"
+msgstr "Видалити для себе"
+
+msgid "There are no links in this message."
+msgstr "У цьому повідомленні немає посилань."
+
+msgid "Information"
+msgstr "Інформація"
+
+msgid "Voice and video messages in this chat are restricted!"
+msgstr "Голосові та відеоповідомлення в цьому чаті обмежені!"
+
+msgid "All files"
+msgstr "Всі файли"
+
+msgid "Select file"
+msgstr "Виберіть файл"
+
+msgid "Unread messages"
+msgstr "Непрочитані повідомлення"
+
+msgid "The message is too long!"
+msgstr "Повідомлення занадто довге!"
+
+msgid "Send error"
+msgstr "Помилка надсилання"
+
+msgid "You have not set the date and time!"
+msgstr "Ви не встановили дату та час!"
+
+msgid "Error"
+msgstr "Помилка"
+
+msgid "%d.%m.%Y at %H:%M"
+msgstr ""
+
+#, python-brace-format
+msgid "Scheduled for: {date}"
+msgstr "Заплановано на: {date}"
+
+#, python-brace-format
+msgid ""
+"Failed to save file \"{name}\", such file already exists and name search "
+"limit exceeded."
+msgstr ""
+"Не вдалося зберегти файл \"{name}\",такий файл уже існує, і перевищено ліміт "
+"пошуку за назвою."
+
+msgid "Comment:"
+msgstr "коментар:"
+
+msgid "Comments"
+msgstr "Коментарі"
+
+msgid "Comments for: "
+msgstr "Коментарі для:"
+
+msgid "Schedule"
+msgstr "розклад"
+
+msgid "Hour:"
+msgstr "година:"
+
+msgid "Minute:"
+msgstr "Хвилина:"
+
+msgid "OK"
+msgstr "ОК"
+
+msgid "Cancel"
+msgstr "Скасувати"
+
+msgid "About the bot"
+msgstr "Про бота"
+
+msgid "First name:"
+msgstr "Ім'я:"
+
+msgid "Last name:"
+msgstr "Прізвище:"
+
+msgid "About Me:"
+msgstr "Про мене:"
+
+msgid "Phone number:"
+msgstr "Номер телефону:"
+
+msgid "User name:"
+msgstr "Ім'я користувача:"
+
+msgid "Birthday:"
+msgstr "день народження:"
+
+msgid "Personal channel"
+msgstr "Персональний канал"
+
+msgid "ID:"
+msgstr ""
+
+#, python-brace-format
+msgid "{day}/{month}/{year}"
+msgstr ""
+
+#, python-brace-format
+msgid "{day}/{month}"
+msgstr ""
+
+#, python-brace-format
+msgid "Personal channel: {title}"
+msgstr "Персональний канал: {title}"
+
+#, python-brace-format
+msgid "Clear history with {title}"
+msgstr "Очистити історію за допомогою {title}"
+
+msgid "Are you sure you want to clear your history on this chat?"
+msgstr "Ви впевнені, що бажаєте очистити історію цього чату?"
+
+msgid "Clear for all users"
+msgstr "Зрозуміло для всіх користувачів"
+
+msgid "Remove from chat list"
+msgstr "Видалити зі списку чату"
+
+msgid "Yes"
+msgstr "так"
+
+msgid "No"
+msgstr "ні"
+
+#, python-brace-format
+msgid "Voice note: {title}"
+msgstr "голосове повідомленя: {title}"
+
+msgid "Start recording"
+msgstr "Почніть запис"
+
+msgid "Delete after listening"
+msgstr "Видалити після прослуховування"
+
+msgid "Stop recording"
+msgstr "Зупинити запис"
+
+msgid "Can't send empty messages!"
+msgstr "Не можна надсилати порожні повідомлення!"
+
+msgid "Info"
+msgstr "Інформація"
+
+msgid "Sending in progress..."
+msgstr "Триває надсилання..."
+
+msgid "An error occurred while writing the file."
+msgstr "Під час запису файлу сталася помилка."
+
+msgid "An error occurred while converting the file."
+msgstr "Під час конвертації файлу сталася помилка."
+
+msgid "Cancel the record and delete the message?"
+msgstr "Скасувати запис і видалити повідомлення?"
+
+msgid "Confirmation"
+msgstr "під твердити"
+
+#, python-brace-format
+msgid "Poll: {title}, anonymous poll"
+msgstr "Опитування: {title}, анонімне опитування"
+
+#, python-brace-format
+msgid "Poll: {title}, public poll"
+msgstr "Опитування: {title}, громадське опитування"
+
+msgid "Choose one or more answers"
+msgstr "Виберіть одну або декілька відповідей"
+
+msgid "Choose only one answer"
+msgstr "Виберіть лише одну відповідь"
+
+msgid "This poll is now closed."
+msgstr "Опитування закрито."
+
+#, python-brace-format
+msgid "Quiz: {title}, anonymous quiz"
+msgstr "Вікторина: {title}, анонімна вікторина"
+
+#, python-brace-format
+msgid "Quiz: {title}, public quiz"
+msgstr "Вікторина: {title}, публічна вікторина"
+
+#, python-brace-format
+msgid "{text} ({p}%) - This is the wrong answer"
+msgstr "{text} ({p}%) - Це неправильна відповідь"
+
+#, python-brace-format
+msgid "{text} ({p}%) - This is the correct answer"
+msgstr "{text} ({p}%) - Це правильна відповідь"
+
+#, python-brace-format
+msgid "{option}. Explanation: {text}"
+msgstr "{option}. Пояснення: {text}"
+
+msgid "Can't change answer in quiz mode."
+msgstr "Неможливо змінити відповідь у режимі тесту."
+
+msgid "This quiz is now closed."
+msgstr "Зараз цей тест закрито."
+
+msgid "Links"
+msgstr "Посилання"
+
+msgid "Original text in English: © Eugene Poplavsky."
+msgstr ""
+
+#, python-brace-format
+msgid ""
+"Easygram is distributed under the GNU GPLv3 open source license, with the "
+"exception of certain additional components and Microsoft redistributable "
+"code. By using or distributing Easygram, you agree to be bound by the terms "
+"of the license agreement. The text of the license can be found at:\n"
+"{link}"
+msgstr ""
+"Easygram поширюється за ліцензією GNU GPLv3 з відкритим вихідним кодом, за "
+"винятком певних додаткових компонентів і коду Microsoft, який можна "
+"розповсюджувати. Використовуючи або розповсюджуючи Easygram, ви погоджуєтеся "
+"дотримуватися умов ліцензійної угоди. З текстом ліцензії можна ознайомитися "
+"за адресою:\n"
+"{link}"
+
+msgid "Easygram also includes a number of GNU GPL compatible components."
+msgstr "Easygram також містить ряд компонентів, сумісних із GNU GPL."
+
+#, python-brace-format
+msgid ""
+"{name}, version: {version}\n"
+"{link}"
+msgstr ""
+"{name}, версія: {version}\n"
+"{link}"
+
+msgid "File path:"
+msgstr "шлях до файлу:"
+
+msgid "Caption:"
+msgstr "Підпис:"
+
+msgid "Attach file"
+msgstr "Прикріпити файл"
+
+msgid "No such file exists!"
+msgstr "Такого файлу не існує!"
+
+msgid "The caption text is too long!"
+msgstr "Текст підпису задовгий!"
+
+msgid "No command to send!"
+msgstr "Немає команд для надсилання!"
+
+msgid "Attach video"
+msgstr "Прикріпіть відео"
+
+msgid "Attach audio"
+msgstr "Прикріпіть аудіо"
+
+msgid "Title:"
+msgstr "Назва:"
+
+msgid "Performer:"
+msgstr "Виконавець:"
+
+msgid "Title required!"
+msgstr "Потрібна назва!"
+
+msgid "Attach photo"
+msgstr "Прикріпіть фото"
+
+msgid "Attach animation"
+msgstr "Прикріпіть анімацію"
+
+msgid "Attach document"
+msgstr "Прикріпити документ"
+
+msgid "About the channel"
+msgstr "Про канал"
+
+msgid "Name:"
+msgstr "Ім'я:"
+
+msgid "Member count:"
+msgstr "Кількість учасників:"
+
+msgid "Invite link:"
+msgstr "Посилання для запрошення:"
+
+msgid "Save"
+msgstr "зберегти"
+
+msgid "Edit message"
+msgstr "Редагувати повідомлення"
+
+msgid "Message text:"
+msgstr "Текст повідомлення:"
+
+msgid "Can't send empty message!"
+msgstr "Неможливо надіслати пусте повідомлення!"
+
+msgid "Edit document"
+msgstr "Редагувати документ"
+
+msgid "Override file..."
+msgstr "Перевизначити файл..."
+
+msgid "Browse..."
+msgstr "Огляд..."
+
+msgid "Cancel override file"
+msgstr "Скасувати файл заміни"
+
+msgid "This type of file is not supported!"
+msgstr "Цей тип файлу не підтримується!"
+
+msgid "The caption is too long!"
+msgstr "Підпис занадто довгий!"
+
+msgid "Edit photo"
+msgstr "Редагувати фото"
+
+msgid "All images"
+msgstr "Всі зображення"
+
+msgid "Edit video"
+msgstr "Редагувати відео"
+
+msgid "All video files"
+msgstr "Всі відео файли"
+
+msgid "Edit animation"
+msgstr "Редагувати анімацію"
+
+msgid "All animation"
+msgstr "Вся анімація"
+
+msgid "Edit audio"
+msgstr "Редагувати аудіо"
+
+msgid "All audio files"
+msgstr "Всі аудіофайли"
+
+msgid "Edit voice note"
+msgstr "Редагувати голосову нотатку"
+
+msgid "Delete message"
+msgstr "Видалити повідомлення"
+
+msgid "Delete"
+msgstr "Видалити"
+
+msgid "Successfully"
+msgstr "Успішно"
+
+#, python-brace-format
+msgid "File '{name}' saved in downloads"
+msgstr "Файл '{name}' збережено в завантаженнях"
+
+msgid "Show in Folder"
+msgstr "Показати в папці"
+
+msgid "Change..."
+msgstr "змінити..."
+
+msgid "Change time..."
+msgstr "Змінити час..."
+
+msgid "Reactions"
+msgstr "реакції"
+
+msgid "Available reactions:"
+msgstr "Доступні реакції:"
+
+msgid "You cannot send reactions if anonymity is enabled!"
+msgstr "Ви не можете надсилати реакції, якщо ввімкнено анонімність!"
+
+msgid "There are no reactions available for this message!"
+msgstr "На це повідомлення немає відповідей!"
+
+msgid "Scheduled message"
+msgstr "Заплановане повідомлення"
+
+#, python-brace-format
+msgid "Message scheduled at {date}"
+msgstr "Повідомлення заплановане на {date}"
+
+msgid "Message Detail"
+msgstr "Деталі повідомлення"
+
+msgid "Text message:"
+msgstr "Текстове повідомлення:"
+
+msgid "Voice message:"
+msgstr "Голосове повідомлення:"
+
+msgid "Audio message:"
+msgstr "Звукове повідомлення:"
+
+msgid "Video message:"
+msgstr "Відеоповідомлення:"
+
+msgid "Photo:"
+msgstr "фото:"
+
+#, python-brace-format
+msgid "Document message: {filename}"
+msgstr "Повідомлення документа: {filename}"
+
+msgid "No caption"
+msgstr "Без підпису"
+
+msgid "Registration message:"
+msgstr "Реєстраційне повідомлення:"
+
+msgid "Creation message:"
+msgstr "Повідомлення про створення:"
+
+msgid "Supergroup created."
+msgstr "Створена супергрупа."
+
+msgid "Group created."
+msgstr "Групу створено."
+
+msgid "Gif:"
+msgstr ""
+
+msgid "Call message:"
+msgstr "Повідомлення про виклик:"
+
+msgid "Separator item:"
+msgstr "Елемент роздільника:"
+
+msgid "Sticker:"
+msgstr "наклейка:"
+
+msgid "Emoji:"
+msgstr "Emoji:"
+
+#, python-brace-format
+msgid "Views: {count}"
+msgstr "Перегляди: {count}"
+
+#, python-brace-format
+msgid "Reactions: {reactions}"
+msgstr "реакції: {reactions}"
+
+#, python-brace-format
+msgid "You sent a reaction {r}"
+msgstr "Ви надіслали реакцію {r}"
+
+msgid "Insert emoji"
+msgstr "Вставте емодзі"
+
+msgid "List of pinned messages"
+msgstr "Список закріплених повідомлень"
+
+msgid "Messages:"
+msgstr "повідомлення:"
+
+msgid "Go to message"
+msgstr "Перейти до повідомлення"
+
+msgid "Unpin"
+msgstr "Відкріпити"
+
+msgid "Unpin all"
+msgstr "Відкріпити все"
+
+msgid "Are you sure you want to unpin all messages in this chat?"
+msgstr "Ви впевнені, що бажаєте відкріпити всі повідомлення в цьому чаті?"
+
+msgid "Unpin all messages"
+msgstr "Відкріпити всі повідомлення"
+
+msgid "Forward message"
+msgstr "Переслати повідомлення"
+
+msgid "Chats:"
+msgstr "Чати:"
+
+msgid "Advanced options"
+msgstr "Розширені параметри"
+
+msgid "Hide sender name"
+msgstr "Приховати ім'я відправника"
+
+msgid "Remove caption"
+msgstr "Видалити підпис"
+
+msgid "Forward in this chat"
+msgstr "Перейти в цей чат"
+
+#, python-brace-format
+msgid "Forward in {count} chat"
+msgid_plural "Forward in {count} chats"
+msgstr[0] "Переслать в {count} чат"
+msgstr[1] "Переслать в {count} чата"
+msgstr[2] "Переслать в {count} чатов"
+
+msgid "Files"
+msgstr "Файли"
+
+msgid "Add..."
+msgstr "додати..."
+
+msgid "Properties"
+msgstr "Властивості"
+
+msgid "Send without compression"
+msgstr "Надіслати без стиснення"
+
+msgid "Options"
+msgstr "Опції"
+
+msgid "Attach files"
+msgstr "Прикріпити файли"
+
+msgid "When online"
+msgstr "Коли онлайн"
+
+msgid "Seen"
+msgstr "бачили"
+
+msgid "Not seen"
+msgstr "ще не хто не бачив"
+
+msgid "Playing"
+msgstr "віт творюється"
+
+msgid "Paused"
+msgstr "Призупинено"
+
+msgid "Stopped"
+msgstr "Зупинився"
+
+msgid "Played"
+msgstr "Грав"
+
+msgid "Loading"
+msgstr "Завантаження"
+
+msgid "Pinned"
+msgstr "Закріплено"
+
+msgid "Enter the phone number"
+msgstr "Введіть номер телефону"
+
+msgid "Country:"
+msgstr "країна:"
+
+msgid "Country"
+msgstr "Країна"
+
+msgid "Next"
+msgstr "Далі"
+
+msgid "Do you want to stop the verification process?"
+msgstr "Ви хочете зупинити процес перевірки?"
+
+msgid "Enter confirmation code"
+msgstr "Введіть код підтвердження"
+
+msgid "The code was sent to you via Telegram."
+msgstr "Код надіслали вам через Telegram."
+
+msgid "The code was sent to you via SMS."
+msgstr "Код був надісланий вам через SMS."
+
+msgid "Confirmation code:"
+msgstr "Код підтвердження:"
+
+msgid "Enter password"
+msgstr "Введіть пароль"
+
+msgid "Password:"
+msgstr "Пароль:"
+
+msgid "Registration"
+msgstr "Реєстрація"
+
+msgid "Terms of service"
+msgstr "Умови обслуговування"
+
+msgid "Register"
+msgstr "зареєструватися"
+
+#, python-brace-format
+msgid ""
+"The following phone number will be confirmed: +{code}{number}. This number "
+"is correct?"
+msgstr ""
+"Наступний номер телефону буде підтверджено: +{code}{number}. Цей номер "
+"правильний?"
+
+msgid "Incorrect phone number!"
+msgstr "Невірний номер телефону!"
+
+msgid "Incorrect confirmation code!"
+msgstr "Неправильний код підтвердження!"
+
+msgid "Incorrect password!"
+msgstr "Невірний пароль!"
+
+msgid "Detailed view"
+msgstr "детально про повідомленя"
+
+msgid "Copy text"
+msgstr "Скопіюйте текст"
+
+msgid "Save in downloads"
+msgstr "Зберегти в завантаженнях"
+
+msgid "Reply"
+msgstr "Відповісти"
+
+msgid "Pin"
+msgstr "закріпити"
+
+msgid "Go to quoted message"
+msgstr "Перейти до цитованого повідомлення"
+
+#, python-brace-format
+msgid "Comments: {count}"
+msgstr "Коментарі: {count}"
+
+msgid "Go to original message"
+msgstr "Перейти до оригінального повідомлення"
+
+msgid "Add to favorites"
+msgstr "Додати в обране"
+
+msgid "Forward"
+msgstr "переслати"
+
+msgid "Add reaction"
+msgstr "Додайте реакцію"
+
+#, python-brace-format
+msgid "Remove reaction {r}"
+msgstr "Видалити реакцію {r}"
+
+msgid "Open profile"
+msgstr "Відкрити профіль"
+
+msgid "Open"
+msgstr "Від крити"
+
+msgid "Mark as read"
+msgstr "Позначити як прочитане"
+
+msgid "Leave channel"
+msgstr "Залишити канал"
+
+msgid "Leave group"
+msgstr "Вийти з групи"
+
+msgid "Clear history"
+msgstr "Очистити історію"
+
+msgid "Are you sure you want to leave this channel?"
+msgstr "Ви впевнені, що бажаєте залишити цей канал?"
+
+msgid "Are you sure you want to leave this group?"
+msgstr "Ви впевнені, що бажаєте залишити цю групу?"
+
+msgid "Show window"
+msgstr "Показати вікно"
+
+msgid "Exit"
+msgstr "Вихід"
+
+msgid "You"
+msgstr "Ви"
+
+msgid "Deleted user"
+msgstr "Видалений користувач"
+
+msgid "Contains keyboard"
+msgstr "Містить клавіатуру"
+
+#, python-brace-format
+msgid "Forwarded from {name}"
+msgstr "Переслано з {name}"
+
+#, python-brace-format
+msgid "Received {count} reply"
+msgid_plural "Received {count} replies"
+msgstr[0] "Получен {count} ответ"
+msgstr[1] "Получено {count} ответа"
+msgstr[2] "Получено {count} ответов"
+
+#, python-brace-format
+msgid "Document {name} ({size}) {caption}"
+msgstr "документ {name} ({size}) {caption}"
+
+#, python-brace-format
+msgid "Document {name} {caption}"
+msgstr "документ {name} {caption}"
+
+#, python-brace-format
+msgid "Audio {title} - {performer} ({h}:{m}:{s}) ({size}) {caption}"
+msgstr "Аудіо {title} - {performer} ({h}:{m}:{s}) ({size}) {caption}"
+
+#, python-brace-format
+msgid "Audio {title} - {performer} ({h}:{m}:{s}) {caption}"
+msgstr "Аудіо {title} - {performer} ({h}:{m}:{s}) {caption}"
+
+#, python-brace-format
+msgid "Video ({h}:{m}:{s}) ({size}) {caption}"
+msgstr "відео ({h}:{m}:{s}) ({size}) {caption}"
+
+#, python-brace-format
+msgid "Video ({h}:{m}:{s}) {caption}"
+msgstr "відео ({h}:{m}:{s}) {caption}"
+
+#, python-brace-format
+msgid "Photo {caption}"
+msgstr "Фото {caption}"
+
+#, python-brace-format
+msgid "Gif {caption}"
+msgstr ""
+
+msgid "The user is now in telegram."
+msgstr "Користувач зараз у Telegram."
+
+#. TRANSLATORS: This is the text of the message when the user creates a group.
+msgid "Group created"
+msgstr "Групу створено"
+
+msgid "This group has become a supergroup."
+msgstr "Ця група стала супергрупою."
+
+msgid "One-time voice message"
+msgstr "Одноразове голосове повідомлення"
+
+msgid "Voice message"
+msgstr "Голосове повідомлення"
+
+#, python-brace-format
+msgid "{name} {h}:{m}:{s} ({size})"
+msgstr ""
+
+#, python-brace-format
+msgid "{name} {h}:{m}:{s}"
+msgstr ""
+
+msgid "(listened)"
+msgstr ""
+
+msgid "(not listened)"
+msgstr ""
+
+#. TRANSLATORS: this is the message when a user has joined a group
+msgid "joined the group"
+msgstr "приєднався до групи"
+
+#. TRANSLATORS: this is the message when someone added a new user to the group
+#, python-brace-format
+msgid "added {users}"
+msgstr "додано {users}"
+
+#. TRANSLATORS: This is the message when a user leaves the group.
+msgid "left the group"
+msgstr "залишив групу"
+
+#. TRANSLATORS: This is the message when someone has been removed from the group.
+#, python-brace-format
+msgid "removed {user}"
+msgstr "видалено {user}"
+
+msgid "joined the group via invite link"
+msgstr "приєднався до групи за посиланням для запрошення"
+
+msgid "Pinned message"
+msgstr "Закріплене повідомлення"
+
+#, python-brace-format
+msgid "Changed the title to: {title}"
+msgstr "Змінив назву на: {title}"
+
+#, python-brace-format
+msgid "Video message {h}:{m}:{s} ({size})"
+msgstr "Відеоповідомлення {h}:{m}:{s} ({size})"
+
+#, python-brace-format
+msgid "Video message {h}:{m}:{s}"
+msgstr "Відеоповідомлення {h}:{m}:{s}"
+
+msgid "Expired voice message"
+msgstr "Термін дії голосового повідомлення минув"
+
+msgid "Unsupported message type"
+msgstr "Непідтримуваний тип повідомлення"
+
+#, python-brace-format
+msgid "Pinned message: {name}: {message}..."
+msgstr "Закріплене повідомлення: {name}: {message}..."
+
+#, python-brace-format
+msgid "In reply to {name}: {message}..."
+msgstr "У відповідь на {name}: {message}..."
+
+msgid "Bytes"
+msgstr "Байти"
+
+msgid "KB"
+msgstr "Кілобайти"
+
+msgid "MB"
+msgstr "Мегабайти"
+
+msgid "GB"
+msgstr "Гігабайти"
+
+msgid "TB"
+msgstr "Терабайти"
+
+msgid "PB"
+msgstr ""
+
+msgid "EB"
+msgstr ""
+
+msgid "ZB"
+msgstr ""
+
+msgid "YB"
+msgstr ""
+
+msgid "I don't know what to call such a big size!"
+msgstr "Я не знаю, як назвати такий великий розмір!"
+
+#, python-brace-format
+msgid "{program} preferences"
+msgstr "{program} Налаштуваня"
+
+msgid "General settings"
+msgstr "Загальні налаштування"
+
+msgid "Interface"
+msgstr "Інтерфейс"
+
+msgid "Default"
+msgstr "За замовчуванням"
+
+#, fuzzy
+#| msgid "Enable logging (restart required)"
+msgid "Language (Restart required):"
+msgstr "Увімкнути журналювання (restart required)"
+
+msgid "Minimize on tray instead of exit"
+msgstr "Згорнути в трей замість виходу"
+
+msgid "Confirmation before closing"
+msgstr "Підтвердження перед закриттям"
+
+msgid "Show sender in system tray"
+msgstr "Показати відправника в системному треї"
+
+msgid "Close chats by pressing the ESCAPE key"
+msgstr "Закрийте чати, натиснувши клавішу ESCAPE"
+
+msgid "Play event sounds"
+msgstr "Відтворення звуків подій"
+
+msgid "Downloads"
+msgstr "Завантаження"
+
+msgid "Path to save files:"
+msgstr "Шлях для збереження файлів:"
+
+msgid "Logging"
+msgstr ""
+
+msgid "Enable logging (restart required)"
+msgstr "Увімкнути журналювання (restart required)"
+
+#. TRANSLATORS: This is a logging option.
+msgid "Infos"
+msgstr "Інформація"
+
+msgid "Warnings"
+msgstr "Попередження"
+
+msgid "Errors"
+msgstr "Помилки"
+
+msgid "Debug"
+msgstr ""
+
+msgid "Logging level:"
+msgstr "Рівень реєстрації:"
+
+msgid "Flush log on startup"
+msgstr "Очищати журнал під час запуску"
+
+msgid "Log rotation"
+msgstr ""
+
+msgid "chats settings"
+msgstr "налаштування чатів"
+
+msgid "Send messages by pressing enter"
+msgstr "Надсилайте повідомлення, натиснувши enter"
+
+msgid "Sequentially play voice messages and audio files in chats"
+msgstr "Послідовне відтворення голосових повідомлень і аудіофайлів у чатах"
+
+msgid "Automatically start recording a voice message"
+msgstr "Автоматичний початок запису голосового повідомлення"
+
+msgid "Show emoji button"
+msgstr "Показати кнопку emoji"
+
+msgid ""
+"Disable Markdown markup (if there are issues with the messages being sent)"
+msgstr "Вимкнути розмітку Markdown (якщо є проблеми з надсиланням повідомлень)"
+
+msgid "Don't show dialog box \"Message scheduled\""
+msgstr "Не показувати діалогове вікно «Повідомлення заплановано»"
+
+msgid "Use new search style in chat and message lists"
+msgstr "Використовуйте новий стиль пошуку в чатах і списках повідомлень"
+
+#. TRANSLATORS: this is an option when selecting the quality of voice messages.
+msgid "Auto (optimal: approximately 550 kB/Min)"
+msgstr "Авто (optimal: approximately 550 kB/Min)"
+
+#. TRANSLATORS: this is an option when selecting the quality of voice messages.
+msgid "Very high (approximately 1.6 mB/Min)"
+msgstr "Дуже високий (approximately 1.6 mB/Min)"
+
+#. TRANSLATORS: this is an option when selecting the quality of voice messages.
+msgid "High (approximately 950 kB/Min)"
+msgstr "Високий (approximately 950 kB/Min)"
+
+#. TRANSLATORS: this is an option when selecting the quality of voice messages.
+msgid "Medium (approximately 630 kB/Min)"
+msgstr "Середній (approximately 630 kB/Min)"
+
+#. TRANSLATORS: this is an option when selecting the quality of voice messages.
+msgid "Low (approximately 330 kB/Min)"
+msgstr "Низький (approximately 330 kB/Min)"
+
+#. TRANSLATORS: this is an option when selecting the quality of voice messages.
+msgid "Very low (approximately 220 kB/Min)"
+msgstr "Дуже низький (approximately 220 kB/Min)"
+
+msgid "Voice message quality:"
+msgstr "Якість голосового повідомлення:"
+
+msgid "Display size for:"
+msgstr "Розмір дисплея для:"
+
+msgid "Documents"
+msgstr "Документи"
+
+msgid "Voice messages"
+msgstr "Голосові повідомлення"
+
+msgid "Audio messages"
+msgstr "Аудіо повідомлення"
+
+msgid "Video messages"
+msgstr "Відеоповідомлення"
+
+msgid "Speech settings"
+msgstr "Налаштування мовлення"
+
+msgid "Speech module settings"
+msgstr "Налаштування мовного модуля"
+
+msgid "Enable speech"
+msgstr "Увімкнути мовлення"
+
+msgid "Allow use of Microsoft Speech API"
+msgstr "Дозволити використання Microsoft Speech API"
+
+msgid "Prefer using the Microsoft Speech API"
+msgstr "Віддавайте перевагу Microsoft Speech API"
+
+msgid "Always interrupt speech before new notifications"
+msgstr "Завжди переривайте мову перед новими сповіщеннями"
+
+msgid "Interrupt speaking before starting recording"
+msgstr "Переривайте розмову перед початком запису"
+
+msgid "Speech notifications settings"
+msgstr "Налаштування мовних сповіщень"
+
+#. TRANSLATORS: These are the options for reading notifications.
+msgid "Always"
+msgstr "Завжди"
+
+msgid "In the foreground"
+msgstr "На передньому плані"
+
+msgid "Never"
+msgstr "Ніколи"
+
+msgid "Network Status Changes:"
+msgstr "Зміни стану мережі:"
+
+msgid "Incoming messages:"
+msgstr "Вхідні повідомлення:"
+
+msgid "Outgoing messages:"
+msgstr "Вихідні повідомлення:"
+
+msgid "Speak outgoing messages only after confirmation by the server"
+msgstr "Озвучувати вихідні повідомлення лише після підтвердження сервером"
+
+msgid "Chat actions:"
+msgstr "Дії в чаті:"
+
+msgid "Media player:"
+msgstr "Медіаплеєр:"
+
+msgid "Devices settings"
+msgstr "Налаштування пристроїв"
+
+msgid "Microphone:"
+msgstr "Мікрофон:"
+
+msgid "Speakers:"
+msgstr "Доповідачі:"
+
+msgid "File storage"
+msgstr "Зберігання файлів"
+
+msgid "Statistics:"
+msgstr "Статистика:"
+
+#, fuzzy
+#| msgid "Name:"
+msgid "Name"
+msgstr "Ім'я:"
+
+#, fuzzy
+#| msgid "Clear history"
+msgid "Clear storage"
+msgstr "Очистити історію"
+
+msgid "General"
+msgstr "Загальний"
+
+msgid "Speech"
+msgstr ""
+
+msgid "Devices"
+msgstr "Пристрої"
+
+msgid "Storage"
+msgstr "Зберігання"
+
+msgid "Apply"
+msgstr "Застосувати"
+
+#, python-brace-format
+msgid "Disk usage: {size}, {count} file"
+msgid_plural "Disk usage: {size}, {count} files"
+msgstr[0] "Использование диска: {size}, {count} файл"
+msgstr[1] "Использование диска: {size}, {count} файла"
+msgstr[2] "Использование диска: {size}, {count} файлов"
+
+msgid ""
+"Are you sure you want to clear storage? After this, all local copies of "
+"files from the cache will be deleted. This action cannot be undone!"
+msgstr ""
+"Ви впевнені, що бажаєте очистити пам’ять? Після цього всі локальні копії "
+"файлів з кешу будуть видалені. Цю дію не можна скасувати!"
+
+#, fuzzy
+#| msgid "Warnings"
+msgid "Warning"
+msgstr "Попередження"
+
+msgid "Restart the application to apply the new language settings."
+msgstr "Перезапустіть програму, щоб застосувати нові налаштування мови."
+
+#, python-brace-format
+msgid "{name} (channel)"
+msgstr "{name} (канал)"
+
+#, python-brace-format
+msgid "{name} (group)"
+msgstr "{name} (група)"
+
+#, python-brace-format
+msgid "{name} (bot)"
+msgstr "{name} (бот)"
+
+#, python-brace-format
+msgid "{title} (online)"
+msgstr "{title} (онлайн)"
+
+msgid "(pinned)"
+msgstr "(закріплено)"
+
+#, python-brace-format
+msgid "{count} mention"
+msgid_plural "{count} mentions"
+msgstr[0] "{count} упоминание"
+msgstr[1] "{count} упоминания"
+msgstr[2] "{count} упоминаний"
+
+msgid "New reaction"
+msgid_plural "New reactions"
+msgstr[0] "Нова реакція"
+msgstr[1] "Новые реакции"
+msgstr[2] "Новых реакций"
+
+msgid "Music"
+msgstr "музика"
+
+msgid "Video"
+msgstr "відео"
+
+msgid "Photo"
+msgstr "Фото"
+
+msgid "Animation"
+msgstr "Анімація"
+
+msgid "Document"
+msgstr "документ"
+
+msgid "Nothing is playing"
+msgstr "Нічого не грає"
+
+#, python-brace-format
+msgid "Time: {t}/{l}"
+msgstr "час: {t}/{l}"
+
+#, python-brace-format
+msgid "Playback rate: {rate}"
+msgstr "Швидкість відтворення: {rate}"
+
+msgid "Player control panel"
+msgstr "Панель керування плеєром"
+
+msgid "Media player"
+msgstr "Медіаплеєр"
+
+msgid "Audio player"
+msgstr "Аудіоплеєр"
+
+#, python-brace-format
+msgid "Now playing: {title} - {artist}"
+msgstr "Зараз грає: {title} - {artist}"
+
+msgid "Video player"
+msgstr "Відеоплеєр"
+
+msgid "Photo viewer"
+msgstr "Переглядач фотографій"
+
+msgid "Stop"
+msgstr "Стоп"
+
+msgid "Pause"
+msgstr "Пауза"
+
+#, python-brace-format
+msgid "Volume {v}"
+msgstr "Гучнисть {v}"
+
+#, python-brace-format
+msgid "Playback rate {rate}"
+msgstr "Швидкість відтворення {rate}"
+
+msgid "Default playback device"
+msgstr "Пристрій відтворення за умовчанням"
+
+#, python-brace-format
+msgid "Scheduled at {time}"
+msgstr "Заплановано о {time}"
+
+#, python-brace-format
+msgid "Scheduled {date} at {time}"
+msgstr "За розкладом {date} в {time}"
+
+#, python-brace-format
+msgid "Sent at {time}"
+msgstr "Надіслано о {time}"
+
+#, python-brace-format
+msgid "Sent {date} at {time}"
+msgstr "Надіслано {date} в {time}"
+
+#, python-brace-format
+msgid "Sending... at {time}"
+msgstr "Надсилання... о {time}"
+
+#, python-brace-format
+msgid "Sending... {date} at {time}"
+msgstr "Надсилання... {date} в {time}"
+
+#, python-brace-format
+msgid "Received at {time}"
+msgstr "Отримано о {time}"
+
+#, python-brace-format
+msgid "Received {date} at {time}"
+msgstr "Отримано {date} в {time}"
+
+msgid "Outgoing"
+msgstr "Вихідний"
+
+msgid "Incoming"
+msgstr "Вхідні"
+
+msgid "Cancelled"
+msgstr "Скасовано"
+
+msgid "Missed"
+msgstr "Пропущений"
+
+msgid "Declined"
+msgstr "Відхилено"
+
+msgid "video call"
+msgstr "відеодзвінок"
+
+msgid "audio call"
+msgstr "аудіодзвінок"
+
+msgid "Selects a contact"
+msgstr "Вибирає контакт"
+
+msgid "Selects location"
+msgstr "Вибирає місце розташування"
+
+msgid "Selects a sticker"
+msgstr "Вибирає наклейку"
+
+msgid "Recording video"
+msgstr "Запис відео"
+
+msgid "Recording voice"
+msgstr "Запис голосу"
+
+msgid "Start playing game"
+msgstr "Почніть грати в гру"
+
+msgid "Typing"
+msgstr "Введення"
+
+msgid "Sending a file"
+msgstr "Надсилання файлу"
+
+msgid "Sending a photo"
+msgstr "Надсилання фото"
+
+msgid "Sending a video"
+msgstr "Надсилання відео"
+
+msgid "Sending an audio"
+msgstr "Надсилання аудіо"
+
+msgid "Watching animations"
+msgstr "Перегляд анімацій"
