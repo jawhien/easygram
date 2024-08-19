@@ -24,578 +24,435 @@ msgstr ""
 "X-Poedit-KeywordsList: N_\n"
 "X-Poedit-SearchPath-0: .\n"
 
-#: emoji/__init__.py:3
 msgid "Slightly smiling face"
 msgstr "Слегка улыбающееся лицо"
 
-#: emoji/__init__.py:4
 msgid "Smiling face"
 msgstr "Улыбающееся лицо"
 
-#: emoji/__init__.py:5
 msgid "Grinning face"
 msgstr "Ухмыляющееся лицо"
 
-#: emoji/__init__.py:6
 msgid "Smiling face with smiling eyes"
 msgstr "Улыбающееся лицо с улыбающимися глазами"
 
-#: emoji/__init__.py:7
 msgid "Smiling face with halo"
 msgstr "Улыбающееся лицо с нимбом"
 
-#: emoji/__init__.py:8
 msgid "Grinning face with big eyes"
 msgstr "Улыбающееся лицо с открытым ртом"
 
-#: emoji/__init__.py:9
 msgid "Grinning face with smiling eyes"
 msgstr "Улыбающееся лицо с улыбающимися глазами"
 
-#: emoji/__init__.py:10
 msgid "Grinning squinting face"
 msgstr "Смеется с прищуренными глазами"
 
-#: emoji/__init__.py:11
 msgid "Grinning face with sweat"
 msgstr "Нервно смеется"
 
-#: emoji/__init__.py:12
 msgid "Rolling on the floor laughing"
 msgstr "Катается по полу от смеха"
 
-#: emoji/__init__.py:13
 msgid "Face with tears of joy"
 msgstr "Лицо со слезами радости"
 
-#: emoji/__init__.py:14
 msgid "Beaming face with smiling eyes"
 msgstr "Счастливое лицо с улыбающимися глазами"
 
-#: emoji/__init__.py:15
 msgid "Smiling face with horns"
 msgstr "Улыбающееся лицо с рогами"
 
-#: emoji/__init__.py:16
 msgid "Angry face with horns"
 msgstr "Злой чертёнок"
 
-#: emoji/__init__.py:17
 msgid "Upside-down face"
 msgstr "Перевернутое лицо"
 
-#: emoji/__init__.py:18
 msgid "Melting face"
 msgstr "Тает"
 
-#: emoji/__init__.py:19
 msgid "Winking face"
 msgstr "Подмигивает"
 
-#: emoji/__init__.py:20
 msgid "Winking face with tongue"
 msgstr "Подмигивающее лицо с открытым ртом"
 
-#: emoji/__init__.py:21
 msgid "Smiling face with open hands"
 msgstr "Обнимает"
 
-#: emoji/__init__.py:22
 msgid "Smiling face with hearts"
 msgstr "Улыбающееся лицо с сердечками"
 
-#: emoji/__init__.py:23
 msgid "Smiling face with heart-eyes"
 msgstr "Улыбающееся лицо с глазами сердечками"
 
-#: emoji/__init__.py:24
 msgid "Star-struck"
 msgstr "Звёзды в глазах"
 
-#: emoji/__init__.py:25
 msgid "Face blowing a kiss"
 msgstr "Воздушный поцелуй"
 
-#: emoji/__init__.py:26
 msgid "Kissing face"
 msgstr "Целует"
 
-#: emoji/__init__.py:27
 msgid "Kissing face with closed eyes"
 msgstr "Целует с закрытыми глазами"
 
-#: emoji/__init__.py:28
 msgid "Kissing face with smiling eyes"
 msgstr "Целует с улыбающимися глазами"
 
-#: emoji/__init__.py:29
 msgid "Smiling face with tear"
 msgstr "Улыбающееся лицо со слезой"
 
-#: emoji/__init__.py:30
 msgid "Face savoring food"
 msgstr "Вкусно"
 
-#: emoji/__init__.py:31
 msgid "Face with tongue"
 msgstr "Показывает язык"
 
-#: emoji/__init__.py:32
 msgid "Face with hand over mouth"
 msgstr "Прикрывает рот рукой"
 
-#: emoji/__init__.py:33
 msgid "Face with open eyes and hand over mouth"
 msgstr "Прикрывает рот рукой с открытыми глазами"
 
-#: emoji/__init__.py:34
 msgid "Zany face"
 msgstr "Сумасшедшее лицо"
 
-#: emoji/__init__.py:35
 msgid "Squinting face with tongue"
 msgstr "Морщится и показывает язык"
 
-#: emoji/__init__.py:36
 msgid "Money-mouth face"
 msgstr "Деньги в глазах"
 
-#: emoji/__init__.py:37
 msgid "Face with peeking eye"
 msgstr "Подсматривает"
 
-#: emoji/__init__.py:38
 msgid "Shushing face"
 msgstr "Тсс"
 
-#: emoji/__init__.py:39
 msgid "Thinking face"
 msgstr "Задумчивое лицо"
 
-#: emoji/__init__.py:40
 msgid "Saluting face"
 msgstr "Лицо, отдающее приветствие"
 
-#: emoji/__init__.py:41
 msgid "Zipper-mouth face"
 msgstr "Рот на замке"
 
-#: emoji/__init__.py:42
 msgid "Face with raised eyebrow"
 msgstr "Лицо с поднятой бровью"
 
-#: emoji/__init__.py:43
 msgid "Neutral face"
 msgstr "Нейтральное лицо"
 
-#: emoji/__init__.py:44
 msgid "Expressionless face"
 msgstr "Безразличное лицо"
 
-#: emoji/__init__.py:45
 msgid "Face without mouth"
 msgstr "Лицо без рта"
 
-#: emoji/__init__.py:46
 msgid "Dotted line face"
 msgstr "Лицо в виде пунктира"
 
-#: emoji/__init__.py:47
 msgid "Face in clouds"
 msgstr "Лицо в облаках"
 
-#: emoji/__init__.py:48
 msgid "Smirking face"
 msgstr "Ухмыляющееся лицо"
 
-#: emoji/__init__.py:49
 msgid "unamused face"
 msgstr "Недовольное лицо"
 
-#: emoji/__init__.py:50
 msgid "Face with rolling eyes"
 msgstr "Закатывает глаза"
 
-#: emoji/__init__.py:51
 msgid "Grimacing face"
 msgstr "Гримаса"
 
-#: emoji/__init__.py:52
 msgid "Face exhaling"
 msgstr "Выдыхает"
 
-#: emoji/__init__.py:53
 msgid "Lying face"
 msgstr "Лжец"
 
-#: emoji/__init__.py:54
 msgid "Shaking face"
 msgstr "Трясущееся лицо"
 
-#: emoji/__init__.py:55
 msgid "Relieved face"
 msgstr "Испытывает облегчение"
 
-#: emoji/__init__.py:56
 msgid "Pensive face"
 msgstr "Размышляет"
 
-#: emoji/__init__.py:57
 msgid "Sleepy face"
 msgstr "Сонное лицо"
 
-#: emoji/__init__.py:58
 msgid "Drooling face"
 msgstr "Пускает слюни"
 
-#: emoji/__init__.py:59
 msgid "Sleeping face"
 msgstr "Спящее лицо"
 
-#: emoji/__init__.py:60
 msgid "Face with medical mask"
 msgstr "Лицо в медицинской маске"
 
-#: emoji/__init__.py:61
 msgid "Face with thermometer"
 msgstr "Лицо с термометром"
 
-#: emoji/__init__.py:62
 msgid "Face with head-bandage"
 msgstr "Лицо с перевязанной головой"
 
-#: emoji/__init__.py:63
 msgid "Face with spiral eyes"
 msgstr "Ошеломлённое лицо"
 
-#: emoji/__init__.py:64
 msgid "Exploding head"
 msgstr "Взрыв мозга"
 
-#: emoji/__init__.py:65
 msgid "Cowboy hat face"
 msgstr "Лицо в ковбойской шляпе"
 
-#: emoji/__init__.py:66
 msgid "Partying face"
 msgstr "На вечеринке"
 
-#: emoji/__init__.py:67
 msgid "Smiling face with sunglasses"
 msgstr "Улыбающееся лицо в солнцезащитных очках"
 
-#: emoji/__init__.py:68
 msgid "Nerd face"
 msgstr "Очкарик"
 
-#: emoji/__init__.py:69
 msgid "Face with monocle"
 msgstr "Лицо с моноклем"
 
-#: emoji/__init__.py:70
 msgid "Confused face"
 msgstr "Смущенное лицо"
 
-#: emoji/__init__.py:71
 msgid "Face with diagonal mouth"
 msgstr "Лицо с перекошенным ртом"
 
-#: emoji/__init__.py:72
 msgid "Worried face"
 msgstr "Беспокоится"
 
-#: emoji/__init__.py:73
 msgid "Slightly frowning face"
 msgstr "Немного хмурится"
 
-#: emoji/__init__.py:74
 msgid "Frowning face"
 msgstr "Хмурое лицо"
 
-#: emoji/__init__.py:75
 msgid "Face with open mouth"
 msgstr "Удивлённое лицо"
 
-#: emoji/__init__.py:76
 msgid "Hushed face"
 msgstr "Неприятный сюрприз"
 
-#: emoji/__init__.py:77
 msgid "Astonished face"
 msgstr "Удивленное лицо"
 
-#: emoji/__init__.py:78
 msgid "Flushed face"
 msgstr "Краснеет"
 
-#: emoji/__init__.py:79
 msgid "Pleading face"
 msgstr "Умоляет"
 
-#: emoji/__init__.py:80
 msgid "Face holding back tears"
 msgstr "Еле сдерживает слёзы"
 
-#: emoji/__init__.py:81
 msgid "Frowning face with open mouth"
 msgstr "Изумлённое лицо"
 
-#: emoji/__init__.py:82
 msgid "Anguished face"
 msgstr "Страдает"
 
-#: emoji/__init__.py:83
 msgid "Fearful face"
 msgstr "Боится"
 
-#: emoji/__init__.py:84
 msgid "Anxious face with sweat"
 msgstr "Сильно беспокоится"
 
-#: emoji/__init__.py:85
 msgid "Sad but relieved face"
 msgstr "Обошлось"
 
-#: emoji/__init__.py:86
 msgid "Crying face"
 msgstr "Плачет"
 
-#: emoji/__init__.py:87
 msgid "Loudly crying face"
 msgstr "Слёзы рекой"
 
-#: emoji/__init__.py:88
 msgid "Face screaming in fear"
 msgstr "В ужасе"
 
-#: emoji/__init__.py:89
 msgid "Confounded face"
 msgstr "Растерянное лицо"
 
-#: emoji/__init__.py:90
 msgid "Persevering face"
 msgstr "Упорство"
 
-#: emoji/__init__.py:91
 msgid "Disappointed face"
 msgstr "Разочарованное лицо"
 
-#: emoji/__init__.py:92
 msgid "Downcast face with sweat"
 msgstr "Лицо в холодном поту"
 
-#: emoji/__init__.py:93
 msgid "Weary face"
 msgstr "Усталое лицо"
 
-#: emoji/__init__.py:94
 msgid "Tired face"
 msgstr "Сильно усталое лицо"
 
-#: emoji/__init__.py:95
 msgid "Enraged face"
 msgstr "Лицо в ярости"
 
-#: emoji/__init__.py:96
 msgid "Angry face"
 msgstr "Злое лицо"
 
-#: emoji/__init__.py:97
 msgid "Face with symbols on mouth"
 msgstr "Цензура"
 
-#: emoji/__init__.py:98
 msgid "Skull"
 msgstr "Череп"
 
-#: emoji/__init__.py:99
 msgid "Skull and crossbones"
 msgstr "Череп и кости"
 
-#: emoji/__init__.py:100
 msgid "Grinning cat"
 msgstr "Улыбающийся кот"
 
-#: emoji/__init__.py:101
 msgid "Grinning cat with smiling eyes"
 msgstr "Улыбающийся кот с улыбающимися глазами"
 
-#: emoji/__init__.py:102
 msgid "Cat with tears of joy"
 msgstr "Смеющийся до слез кот"
 
-#: emoji/__init__.py:103
 msgid "Smiling cat with heart-eyes"
 msgstr "Влюблённый кот"
 
-#: emoji/__init__.py:104
 msgid "Cat with wry smile"
 msgstr "Ухмыляющийся кот"
 
-#: emoji/__init__.py:105
 msgid "Kissing cat"
 msgstr "Целующий кот"
 
-#: emoji/__init__.py:106
 msgid "Weary cat"
 msgstr "Кот в шоке"
 
-#: emoji/__init__.py:107
 msgid "Crying cat"
 msgstr "Плачущий кот"
 
-#: emoji/__init__.py:108
 msgid "Pouting cat"
 msgstr "Злой кот"
 
-#: emoji/__init__.py:109
 msgid "Thumbs up"
 msgstr "Большой палец вверх"
 
-#: emoji/__init__.py:110
 msgid "Thumbs down"
 msgstr "Большой палец вниз"
 
-#: emoji/__init__.py:111
 msgid "Clapping hands"
 msgstr "Аплодисменты"
 
-#: emoji/__init__.py:112
 msgid "Raising hands"
 msgstr "Жест ура"
 
-#: emoji/__init__.py:113
 msgid "Waving hand"
 msgstr "Машет рукой"
 
-#: emoji/__init__.py:114
 msgid "OK hand"
 msgstr "Жест \"все хорошо\""
 
-#: emoji/__init__.py:115
 msgid "Pinching hand"
 msgstr "Жест \"мало\""
 
-#: emoji/__init__.py:116
 msgid "Victory hand"
 msgstr "Жест V"
 
-#: emoji/__init__.py:117
 msgid "Love-you gesture"
 msgstr "Жест \"я-тебя-люблю\""
 
-#: emoji/__init__.py:118
 msgid "Sign of the horns"
 msgstr "Рокерский жест"
 
-#: emoji/__init__.py:119
 msgid "Call me hand"
 msgstr "Жест \"позвони мне\""
 
-#: emoji/__init__.py:120
 msgid "Middle finger"
 msgstr "Средний палец"
 
-#: emoji/__init__.py:121
 msgid "Heart hands"
 msgstr "Жест \"сердце\""
 
-#: gui/__init__.py:46
 msgid "Offline"
 msgstr "Не в сети"
 
-#: gui/__init__.py:84 gui/settings.py:375
 msgid "Chats"
 msgstr "Чаты"
 
-#: gui/__init__.py:89
 msgid "Loading chats..."
 msgstr "Загрузка чатов..."
 
-#: gui/__init__.py:101 gui/__init__.py:686
 #, python-brace-format
 msgid "Chats ({0})"
 msgstr "Чаты ({0})"
 
-#: gui/__init__.py:105
 msgid "Contacts"
 msgstr "Контакты"
 
-#: gui/__init__.py:123 gui/dialogs.py:184 gui/menu.py:214
 msgid "About user"
 msgstr "О пользователе"
 
-#: gui/__init__.py:129 gui/dialogs.py:255 gui/menu.py:16
 msgid "Open chat"
 msgstr "Открыть чат"
 
-#: gui/__init__.py:140 gui/__init__.py:473
 #, python-brace-format
 msgid "Contacts ({0})"
 msgstr "Контакты ({0})"
 
-#: gui/__init__.py:144
 msgid "Preferences"
 msgstr "Настройки"
 
-#: gui/__init__.py:148 gui/dialogs.py:775
 msgid "About Easygram"
 msgstr "О Easygram"
 
-#: gui/__init__.py:203 gui/chat.py:649
 msgid "Skipped one-time voice message"
 msgstr "Пропущено одноразовое голосовое сообщение"
 
-#: gui/__init__.py:358
 msgid "Your chats"
 msgstr "Ваши чаты"
 
-#: gui/__init__.py:372
 msgid "Are you sure you want to close application?"
 msgstr "Вы действительно хотите закрыть приложение?"
 
-#: gui/__init__.py:372
 msgid "Exit the program"
 msgstr "Выход из программы"
 
-#: gui/__init__.py:420
 msgid "Loading..."
 msgstr "Загрузка..."
 
-#: gui/__init__.py:440
 msgid "Invalid verification code!"
 msgstr "Неправильный код подтверждения!"
 
-#: gui/__init__.py:442
 msgid "Invalid password!"
 msgstr "Неправильный пароль!"
 
-#: gui/__init__.py:449
 msgid "Authorisation Error"
 msgstr "Ошибка авторизации"
 
-#: gui/__init__.py:618
 msgid "Updating..."
 msgstr "Обновление..."
 
-#: gui/__init__.py:620
 msgid "Ready"
 msgstr "Готов"
 
-#: gui/__init__.py:622
 msgid "Connecting..."
 msgstr "Соединение..."
 
-#: gui/__init__.py:696
 #, python-brace-format
 msgid "You have a new message from {title}"
 msgstr "У вас есть новое сообщение от {title}"
 
-#: gui/__init__.py:696
 msgid "You have a new message"
 msgstr "У вас есть новое сообщение"
 
-#: gui/__init__.py:707 gui/vdm.py:207
 #, python-brace-format
 msgid "{count} unread message"
 msgid_plural "{count} unread messages"
@@ -603,127 +460,95 @@ msgstr[0] "\"{count} непрочитанное сообщение"
 msgstr[1] "{count} непрочитанных сообщения"
 msgstr[2] "{count} непрочитанных сообщений"
 
-#: gui/chat.py:119 gui/dialogs.py:2552
 msgid "Bot menu"
 msgstr "Меню бота"
 
-#: gui/chat.py:123
 msgid "Bot keyboard"
 msgstr "Клавиатура бота"
 
-#: gui/chat.py:131
 msgid "Inline keyboard"
 msgstr "Встроенная клавиатура"
 
-#: gui/chat.py:135
 msgid "Emoji"
 msgstr "Эмодзи"
 
-#: gui/chat.py:150 gui/dialogs.py:866 gui/dialogs.py:2063
 msgid "Schedule message"
 msgstr "Отложить сообщение"
 
 #. TRANSLATORS: this is the label of the button in the file attachment dialog box.
-#: gui/chat.py:154 gui/chat.py:1237 gui/dialogs.py:872 gui/dialogs.py:2068
-#: gui/dialogs.py:2322 gui/dialogs.py:2449
 msgid "Set date and time..."
 msgstr "Установить дату и время..."
 
-#: gui/chat.py:158 gui/dialogs.py:881 gui/dialogs.py:2077 gui/dialogs.py:2327
 msgid "Without sound"
 msgstr "Без звука"
 
-#: gui/chat.py:161 gui/dialogs.py:398 gui/dialogs.py:889 gui/dialogs.py:2334
 msgid "Send"
 msgstr "Отправить"
 
-#: gui/chat.py:166
 msgid "Remove reply"
 msgstr "Удалить ответ"
 
-#: gui/chat.py:170 gui/dialogs.py:1536
 msgid "Scheduled messages"
 msgstr "Отложенные сообщения"
 
-#: gui/chat.py:176
 msgid "Attach..."
 msgstr "Прикрепить..."
 
-#: gui/chat.py:180
 msgid "Voice note"
 msgstr "Голосовое сообщение"
 
-#: gui/chat.py:199
 msgid "Pinned messages"
 msgstr "Закреплённые сообщения"
 
-#: gui/chat.py:206 gui/chat.py:1507
 msgid "Mute"
 msgstr "Отключить звук"
 
-#: gui/chat.py:206 gui/chat.py:1509
 msgid "Unmute"
 msgstr "Включить звук"
 
-#: gui/chat.py:214
 msgid "Join the channel"
 msgstr "Присоединиться к каналу"
 
-#: gui/chat.py:221 gui/dialogs.py:259 gui/dialogs.py:819 gui/dialogs.py:1137
-#: gui/dialogs.py:1566 gui/dialogs.py:1750 gui/dialogs.py:1849
-#: gui/dialogs.py:1957 mediaPlayer/photo.py:26
 msgid "Close"
 msgstr "Закрыть"
 
-#: gui/chat.py:405 gui/dialogs.py:1543
 msgid "Messages"
 msgstr "Сообщения"
 
-#: gui/chat.py:408
 msgid "Message:"
 msgstr "Сообщение:"
 
-#: gui/chat.py:455
 #, python-brace-format
 msgid "Reply to {name}:"
 msgstr "Ответ {name}:"
 
-#: gui/chat.py:531 gui/vdm.py:97
 msgid "online"
 msgstr "в сети"
 
-#: gui/chat.py:533 gui/vdm.py:99
 msgid "last seen recently"
 msgstr "был(а) недавно"
 
-#: gui/chat.py:535 gui/vdm.py:101
 msgid "last seen within a week"
 msgstr "был(а) на этой неделе"
 
-#: gui/chat.py:537 gui/vdm.py:103
 msgid "last seen within a month"
 msgstr "был(а) в этом месяце"
 
-#: gui/chat.py:539 gui/vdm.py:105
 msgid "last seen never"
 msgstr "был(а) никогда"
 
-#: gui/chat.py:541 gui/vdm.py:107
 #, python-brace-format
 msgid "last seen at {time}"
 msgstr "был(а) в {time}"
 
-#: gui/chat.py:543 gui/vdm.py:109
 #, python-brace-format
 msgid "last seen yesterday at {time}"
 msgstr "был(а) вчера в {time}"
 
-#: gui/chat.py:545 gui/vdm.py:111
 #, python-brace-format
 msgid "last seen {date} at {time}"
 msgstr "был(а) {date} в {time}"
 
-#: gui/chat.py:554
 #, python-brace-format
 msgid "Channel: {name}, {count} member"
 msgid_plural "Channel: {name}, {count} members"
@@ -731,7 +556,6 @@ msgstr[0] "Канал: {name}, {count} подписчик"
 msgstr[1] "Канал: {name}, {count} подписчика"
 msgstr[2] "Канал: {name}, {count} подписчиков"
 
-#: gui/chat.py:565
 #, python-brace-format
 msgid "Group: {name}, {count} member"
 msgid_plural "Group: {name}, {count} members"
@@ -739,7 +563,6 @@ msgstr[0] "Группа: {name}, {count} участник"
 msgstr[1] "Группа: {name}, {count} участника"
 msgstr[2] "Группа: {name}, {count} участников"
 
-#: gui/chat.py:567
 #, python-brace-format
 msgid "Group: {name}, {status}, {count} member"
 msgid_plural "Group: {name}, {status}, {count} members"
@@ -747,92 +570,65 @@ msgstr[0] "Группа: {name}, {status}, {count} участник"
 msgstr[1] "Группа: {name}, {status}, {count} участника"
 msgstr[2] "Группа: {name}, {status}, {count} участников"
 
-#: gui/chat.py:571 gui/vdm.py:192 gui/vdm.py:269
 msgid "Favorites"
 msgstr "Избранное"
 
-#: gui/chat.py:574 gui/vdm.py:187 gui/vdm.py:264
 msgid "Replies"
 msgstr "Ответы"
 
-#: gui/chat.py:578
 #, python-brace-format
 msgid "Bot: {name}"
 msgstr "Бот: {name}"
 
-#: gui/chat.py:587
 msgid "Premium account"
 msgstr "Premium-аккаунт"
 
-#: gui/chat.py:796 gui/chat.py:812 gui/dialogs.py:1460 gui/dialogs.py:1605
 msgid "Are you sure you want to delete this message?"
 msgstr "Вы действительно хотите удалить это сообщение?"
 
-#: gui/chat.py:796 gui/dialogs.py:1462
 msgid "Delete for everyone"
 msgstr "Удалить у всех"
 
-#: gui/chat.py:812
 msgid "Delete for yourself"
 msgstr "Удалить у меня"
 
-#: gui/chat.py:993 gui/chat.py:1008
 msgid "There are no links in this message."
 msgstr "В этом сообщении нет ссылок."
 
-#: gui/chat.py:993 gui/chat.py:1008 gui/dialogs.py:1719 gui/dialogs.py:1728
-#: gui/settings.py:468
 msgid "Information"
 msgstr "Информация"
 
-#: gui/chat.py:1056
 msgid "Voice and video messages in this chat are restricted!"
 msgstr "Голосовые и видеосообщения в этом чате запрещены!"
 
-#: gui/chat.py:1061 gui/dialogs.py:1291 gui/dialogs.py:1364 gui/dialogs.py:1378
-#: gui/dialogs.py:1392 gui/dialogs.py:1408 gui/dialogs.py:2379
 msgid "All files"
 msgstr "Все файлы"
 
-#: gui/chat.py:1062 gui/dialogs.py:1297 gui/dialogs.py:2380
 msgid "Select file"
 msgstr "Выберите файл"
 
-#: gui/chat.py:1147
 msgid "Unread messages"
 msgstr "Непрочитанные сообщения"
 
-#: gui/chat.py:1222 gui/dialogs.py:1223
 msgid "The message is too long!"
 msgstr "Сообщение слишком длинное!"
 
-#: gui/chat.py:1222
 msgid "Send error"
 msgstr "Ошибка отправки"
 
-#: gui/chat.py:1227 gui/dialogs.py:985 gui/dialogs.py:2167 gui/dialogs.py:2497
 msgid "You have not set the date and time!"
 msgstr "Вы не установили дату и время!"
 
-#: gui/chat.py:1227 gui/chat.py:1488 gui/dialogs.py:465 gui/dialogs.py:493
-#: gui/dialogs.py:959 gui/dialogs.py:966 gui/dialogs.py:972 gui/dialogs.py:985
-#: gui/dialogs.py:1049 gui/dialogs.py:1215 gui/dialogs.py:1223
-#: gui/dialogs.py:1306 gui/dialogs.py:1338 gui/dialogs.py:2167
-#: gui/dialogs.py:2497 gui/login.py:251 gui/login.py:278 gui/login.py:327
 msgid "Error"
 msgstr "Ошибка"
 
-#: gui/chat.py:1246 gui/dialogs.py:954 gui/dialogs.py:1658 gui/dialogs.py:2134
-#: gui/dialogs.py:2444
 msgid "%d.%m.%Y at %H:%M"
 msgstr "%d.%m.%Y в %H:%M"
 
-#: gui/chat.py:1247 gui/dialogs.py:955 gui/dialogs.py:2135 gui/dialogs.py:2445
 #, python-brace-format
 msgid "Scheduled for: {date}"
 msgstr "Отложено на: {date}"
 
-#: gui/chat.py:1488
 #, python-brace-format
 msgid ""
 "Failed to save file \"{name}\", such file already exists and name search "
@@ -841,228 +637,171 @@ msgstr ""
 "Не удалось сохранить файл \"{name}\", такой файл уже существует и исчерпан "
 "лимит поиска имени."
 
-#: gui/chat.py:1700
 msgid "Comment:"
 msgstr "Комментарий:"
 
-#: gui/chat.py:1703
 msgid "Comments"
 msgstr "Комментарии"
 
-#: gui/chat.py:1709
 msgid "Comments for: "
 msgstr "Комментарии для: "
 
-#: gui/dialogs.py:80 gui/dialogs.py:2318
 msgid "Schedule"
 msgstr "Отложить"
 
-#: gui/dialogs.py:123
 msgid "Hour:"
 msgstr "Час:"
 
-#: gui/dialogs.py:130
 msgid "Minute:"
 msgstr "Минута:"
 
-#: gui/dialogs.py:137 gui/dialogs.py:728 gui/dialogs.py:1506
-#: gui/dialogs.py:1689 gui/dialogs.py:1884 gui/settings.py:388
 msgid "OK"
 msgstr "ОК"
 
-#: gui/dialogs.py:142 gui/dialogs.py:403 gui/dialogs.py:733 gui/dialogs.py:894
-#: gui/dialogs.py:1176 gui/dialogs.py:1474 gui/dialogs.py:1693
-#: gui/dialogs.py:1888 gui/dialogs.py:2102 gui/dialogs.py:2340 gui/login.py:42
-#: gui/login.py:108 gui/login.py:143 gui/login.py:193 gui/settings.py:393
 msgid "Cancel"
 msgstr "Отмена"
 
-#: gui/dialogs.py:182
 msgid "About the bot"
 msgstr "О боте"
 
-#: gui/dialogs.py:191 gui/login.py:167
 msgid "First name:"
 msgstr "Имя:"
 
-#: gui/dialogs.py:198 gui/login.py:174
 msgid "Last name:"
 msgstr "Фамилия:"
 
-#: gui/dialogs.py:208 gui/dialogs.py:1101
 msgid "About Me:"
 msgstr "О себе:"
 
-#: gui/dialogs.py:215 gui/login.py:30
 msgid "Phone number:"
 msgstr "Номер телефона:"
 
-#: gui/dialogs.py:225
 msgid "User name:"
 msgstr "Имя пользователя:"
 
-#: gui/dialogs.py:235
 msgid "Birthday:"
 msgstr "День рождения:"
 
-#: gui/dialogs.py:241
 msgid "Personal channel"
 msgstr "Личный канал"
 
-#: gui/dialogs.py:247 gui/dialogs.py:1129
 msgid "ID:"
 msgstr "Идентификатор:"
 
-#: gui/dialogs.py:298
 #, python-brace-format
 msgid "{day}/{month}/{year}"
 msgstr "{day}.{month}.{year}"
 
-#: gui/dialogs.py:300
 #, python-brace-format
 msgid "{day}/{month}"
 msgstr "{day}.{month}"
 
-#: gui/dialogs.py:313
 #, python-brace-format
 msgid "Personal channel: {title}"
 msgstr "Личный канал: {title}"
 
-#: gui/dialogs.py:319
 #, python-brace-format
 msgid "Clear history with {title}"
 msgstr "Очистить историю с {title}"
 
-#: gui/dialogs.py:323
 msgid "Are you sure you want to clear your history on this chat?"
 msgstr "Вы действительно хотите очистить историю в этом чате?"
 
-#: gui/dialogs.py:326
 msgid "Clear for all users"
 msgstr "Очистить для всех пользователей"
 
-#: gui/dialogs.py:329
 msgid "Remove from chat list"
 msgstr "Удалить из списка чатов"
 
-#: gui/dialogs.py:334
 msgid "Yes"
 msgstr "Да"
 
-#: gui/dialogs.py:339
 msgid "No"
 msgstr "Нет"
 
-#: gui/dialogs.py:375
 #, python-brace-format
 msgid "Voice note: {title}"
 msgstr "Голосовое сообщение: {title}"
 
-#: gui/dialogs.py:390 gui/dialogs.py:422
 msgid "Start recording"
 msgstr "Начать запись"
 
-#: gui/dialogs.py:395
 msgid "Delete after listening"
 msgstr "Удалить после прослушивания"
 
-#: gui/dialogs.py:417
 msgid "Stop recording"
 msgstr "Остановить запись"
 
-#: gui/dialogs.py:452
 msgid "Can't send empty messages!"
 msgstr "Невозможно отправлять пустые сообщения!"
 
-#: gui/dialogs.py:452
 msgid "Info"
 msgstr "Информация"
 
-#: gui/dialogs.py:456
 msgid "Sending in progress..."
 msgstr "Идёт отправка..."
 
-#: gui/dialogs.py:465
 msgid "An error occurred while writing the file."
 msgstr "Произошла ошибка при записи файла."
 
-#: gui/dialogs.py:493
 msgid "An error occurred while converting the file."
 msgstr "Произошла ошибка при преобразовании файла."
 
-#: gui/dialogs.py:513
 msgid "Cancel the record and delete the message?"
 msgstr "Отменить запись и удалить сообщение?"
 
-#: gui/dialogs.py:513 gui/login.py:72 gui/login.py:118 gui/login.py:153
-#: gui/login.py:203 gui/login.py:243
 msgid "Confirmation"
 msgstr "Подтверждение"
 
-#: gui/dialogs.py:526 gui/presentation.py:162
 #, python-brace-format
 msgid "Poll: {title}, anonymous poll"
 msgstr "Опрос: {title}, анонимный опрос"
 
-#: gui/dialogs.py:528 gui/presentation.py:166
 #, python-brace-format
 msgid "Poll: {title}, public poll"
 msgstr "Опрос: {title}, публичный опрос"
 
-#: gui/dialogs.py:539
 msgid "Choose one or more answers"
 msgstr "Выберите один или несколько ответов"
 
-#: gui/dialogs.py:541 gui/dialogs.py:626
 msgid "Choose only one answer"
 msgstr "Выберите только один ответ"
 
-#: gui/dialogs.py:567
 msgid "This poll is now closed."
 msgstr "На данный момент этот опрос закрыт."
 
-#: gui/dialogs.py:614 gui/presentation.py:164
 #, python-brace-format
 msgid "Quiz: {title}, anonymous quiz"
 msgstr "Викторина: {title}, анонимная викторина"
 
-#: gui/dialogs.py:616 gui/presentation.py:168
 #, python-brace-format
 msgid "Quiz: {title}, public quiz"
 msgstr "Викторина: {title}, публичная викторина"
 
-#: gui/dialogs.py:636 gui/dialogs.py:690
 #, python-brace-format
 msgid "{text} ({p}%) - This is the wrong answer"
 msgstr "{text} ({p}%) - Это неправильный ответ"
 
-#: gui/dialogs.py:638 gui/dialogs.py:692
 #, python-brace-format
 msgid "{text} ({p}%) - This is the correct answer"
 msgstr "{text} ({p}%) - Это правильный ответ"
 
-#: gui/dialogs.py:641 gui/dialogs.py:695
 #, python-brace-format
 msgid "{option}. Explanation: {text}"
 msgstr "{option}. Объяснение: {text}"
 
-#: gui/dialogs.py:657
 msgid "Can't change answer in quiz mode."
 msgstr "Невозможно изменить ответ в режиме викторины."
 
-#: gui/dialogs.py:661
 msgid "This quiz is now closed."
 msgstr "Эта викторина закрыта"
 
-#: gui/dialogs.py:708
 msgid "Links"
 msgstr "Ссылки"
 
-#: gui/dialogs.py:785
 msgid "Original text in English: © Eugene Poplavsky."
 msgstr "Перевод на русский язык: © Eugene Poplavsky, Peter Ivanovich."
 
-#: gui/dialogs.py:787
 #, python-brace-format
 msgid ""
 "Easygram is distributed under the GNU GPLv3 open source license, with the "
@@ -1078,12 +817,9 @@ msgstr ""
 "здесь:\n"
 "{link}"
 
-#: gui/dialogs.py:788
 msgid "Easygram also includes a number of GNU GPL compatible components."
 msgstr "Easygram также включает в себя ряд компонентов, совместимых с GNU GPL."
 
-#: gui/dialogs.py:790 gui/dialogs.py:792 gui/dialogs.py:794 gui/dialogs.py:798
-#: gui/dialogs.py:802 gui/dialogs.py:808
 #, python-brace-format
 msgid ""
 "{name}, version: {version}\n"
@@ -1092,349 +828,264 @@ msgstr ""
 "{name}, версия: {version}\n"
 "{link}"
 
-#: gui/dialogs.py:847 gui/dialogs.py:1264
 msgid "File path:"
 msgstr "Путь к файлу:"
 
-#: gui/dialogs.py:858 gui/dialogs.py:1252 gui/dialogs.py:2277
 msgid "Caption:"
 msgstr "Подпись:"
 
-#: gui/dialogs.py:918
 msgid "Attach file"
 msgstr "Прикрепить файл"
 
-#: gui/dialogs.py:959
 msgid "No such file exists!"
 msgstr "Такого файла не существует!"
 
-#: gui/dialogs.py:966
 msgid "The caption text is too long!"
 msgstr "Текст подписи слишком длинный!"
 
-#: gui/dialogs.py:972
 msgid "No command to send!"
 msgstr "Нет команды для отправки!"
 
-#: gui/dialogs.py:1011
 msgid "Attach video"
 msgstr "Прикрепить видео"
 
-#: gui/dialogs.py:1023
 msgid "Attach audio"
 msgstr "Прикрепить аудио"
 
-#: gui/dialogs.py:1028 gui/dialogs.py:1414 gui/dialogs.py:2285
 msgid "Title:"
 msgstr "Название:"
 
-#: gui/dialogs.py:1035 gui/dialogs.py:1421 gui/dialogs.py:2295
 msgid "Performer:"
 msgstr "Исполнитель:"
 
-#: gui/dialogs.py:1049
 msgid "Title required!"
 msgstr "Название обязательно!"
 
-#: gui/dialogs.py:1057
 msgid "Attach photo"
 msgstr "Прикрепить фото"
 
-#: gui/dialogs.py:1068
 msgid "Attach animation"
 msgstr "Прикрепить анимацию"
 
-#: gui/dialogs.py:1076
 msgid "Attach document"
 msgstr "Прикрепить документ"
 
-#: gui/dialogs.py:1089 gui/menu.py:218
 msgid "About the channel"
 msgstr "О канале"
 
-#: gui/dialogs.py:1094
 msgid "Name:"
 msgstr "Название:"
 
-#: gui/dialogs.py:1107
 msgid "Member count:"
 msgstr "Количество участников:"
 
-#: gui/dialogs.py:1114
 msgid "Invite link:"
 msgstr "Ссылка-приглашение:"
 
-#: gui/dialogs.py:1171
 msgid "Save"
 msgstr "Сохранить"
 
-#: gui/dialogs.py:1185 gui/menu.py:82
 msgid "Edit message"
 msgstr "Изменить сообщение"
 
-#: gui/dialogs.py:1189
 msgid "Message text:"
 msgstr "Текст сообщения:"
 
-#: gui/dialogs.py:1215
 msgid "Can't send empty message!"
 msgstr "Невозможно отправить пустое сообщение!"
 
-#: gui/dialogs.py:1247
 msgid "Edit document"
 msgstr "Изменить документ"
 
-#: gui/dialogs.py:1259
 msgid "Override file..."
 msgstr "Заменить файл..."
 
-#: gui/dialogs.py:1272 gui/settings.py:98
 msgid "Browse..."
 msgstr "Обзор..."
 
-#: gui/dialogs.py:1277
 msgid "Cancel override file"
 msgstr "Отменить замену файла"
 
-#: gui/dialogs.py:1306
 msgid "This type of file is not supported!"
 msgstr "Этот тип файлов не поддерживается!"
 
-#: gui/dialogs.py:1338
 msgid "The caption is too long!"
 msgstr "Подпись слишком длинная!"
 
-#: gui/dialogs.py:1355
 msgid "Edit photo"
 msgstr "Изменить фото"
 
-#: gui/dialogs.py:1364
 msgid "All images"
 msgstr "Все изображения"
 
-#: gui/dialogs.py:1369
 msgid "Edit video"
 msgstr "Изменить видео"
 
-#: gui/dialogs.py:1378
 msgid "All video files"
 msgstr "Все видеофайлы"
 
-#: gui/dialogs.py:1383
 msgid "Edit animation"
 msgstr "Изменить анимацию"
 
-#: gui/dialogs.py:1392
 msgid "All animation"
 msgstr "Все анимации"
 
-#: gui/dialogs.py:1397
 msgid "Edit audio"
 msgstr "Изменить аудио"
 
-#: gui/dialogs.py:1408
 msgid "All audio files"
 msgstr "Все аудиофайлы"
 
-#: gui/dialogs.py:1445
 msgid "Edit voice note"
 msgstr "Изменить голосовое сообщение"
 
-#: gui/dialogs.py:1456 gui/dialogs.py:1605
 msgid "Delete message"
 msgstr "Удалить сообщение"
 
-#: gui/dialogs.py:1469 gui/dialogs.py:1561 gui/dialogs.py:2265 gui/menu.py:86
 msgid "Delete"
 msgstr "Удалить"
 
-#: gui/dialogs.py:1495
 msgid "Successfully"
 msgstr "Успешно"
 
-#: gui/dialogs.py:1501
 #, python-brace-format
 msgid "File '{name}' saved in downloads"
 msgstr "Файл '{name}' сохранён в загрузки"
 
-#: gui/dialogs.py:1511
 msgid "Show in Folder"
 msgstr "Показать в папке"
 
-#: gui/dialogs.py:1551
 msgid "Change..."
 msgstr "Изменить..."
 
-#: gui/dialogs.py:1556
 msgid "Change time..."
 msgstr "Изменить время..."
 
-#: gui/dialogs.py:1670
 msgid "Reactions"
 msgstr "Реакции"
 
-#: gui/dialogs.py:1679
 msgid "Available reactions:"
 msgstr "Доступные реакции:"
 
-#: gui/dialogs.py:1719
 msgid "You cannot send reactions if anonymity is enabled!"
 msgstr "Вы не можете отправлять реакции, если включена анонимность!"
 
-#: gui/dialogs.py:1728
 msgid "There are no reactions available for this message!"
 msgstr "Для этого сообщения нет доступных реакций!"
 
-#: gui/dialogs.py:1738
 msgid "Scheduled message"
 msgstr "Отложенное сообщение"
 
-#: gui/dialogs.py:1743
 #, python-brace-format
 msgid "Message scheduled at {date}"
 msgstr "Сообщение отложено на {date}"
 
-#: gui/dialogs.py:1763
 msgid "Message Detail"
 msgstr "Информация о сообщении"
 
-#: gui/dialogs.py:1769
 msgid "Text message:"
 msgstr "Текстовое сообщение:"
 
-#: gui/dialogs.py:1773
 msgid "Voice message:"
 msgstr "Голосовое сообщение:"
 
-#: gui/dialogs.py:1777
 msgid "Audio message:"
 msgstr "Сообщение с аудио:"
 
-#: gui/dialogs.py:1781
 msgid "Video message:"
 msgstr "Сообщение с видео:"
 
-#: gui/dialogs.py:1785
 msgid "Photo:"
 msgstr "Фото:"
 
-#: gui/dialogs.py:1790
 #, python-brace-format
 msgid "Document message: {filename}"
 msgstr "Сообщение с документом: {filename}"
 
-#: gui/dialogs.py:1795 gui/dialogs.py:1810
 msgid "No caption"
 msgstr "Без подписи"
 
-#: gui/dialogs.py:1797
 msgid "Registration message:"
 msgstr "Сообщение о регистрации:"
 
-#: gui/dialogs.py:1799 gui/dialogs.py:1802
 msgid "Creation message:"
 msgstr "Сообщение о создании:"
 
-#: gui/dialogs.py:1800 gui/presentation.py:195
 msgid "Supergroup created."
 msgstr "Супергруппа создана."
 
-#: gui/dialogs.py:1803
 msgid "Group created."
 msgstr "Группа создана."
 
-#: gui/dialogs.py:1805
 msgid "Gif:"
 msgstr "Gif:"
 
-#: gui/dialogs.py:1812
 msgid "Call message:"
 msgstr "Сообщение о звонке:"
 
-#: gui/dialogs.py:1815
 msgid "Separator item:"
 msgstr "Разделитель:"
 
-#: gui/dialogs.py:1818
 msgid "Sticker:"
 msgstr "Стикер:"
 
-#: gui/dialogs.py:1821 gui/dialogs.py:1875
 msgid "Emoji:"
 msgstr "Эмодзи:"
 
-#: gui/dialogs.py:1827
 #, python-brace-format
 msgid "Views: {count}"
 msgstr "Просмотры: {count}"
 
-#: gui/dialogs.py:1834
 #, python-brace-format
 msgid "Reactions: {reactions}"
 msgstr "Реакции: {reactions}"
 
-#: gui/dialogs.py:1837
 #, python-brace-format
 msgid "You sent a reaction {r}"
 msgstr "Вы отправили реакцию {r}"
 
-#: gui/dialogs.py:1866
 msgid "Insert emoji"
 msgstr "Вставить эмодзи"
 
-#: gui/dialogs.py:1922
 msgid "List of pinned messages"
 msgstr "Список закреплённых сообщений"
 
-#: gui/dialogs.py:1929
 msgid "Messages:"
 msgstr "Сообщения:"
 
-#: gui/dialogs.py:1940
 msgid "Go to message"
 msgstr "Перейти к сообщению"
 
-#: gui/dialogs.py:1947 gui/menu.py:40 gui/menu.py:206
 msgid "Unpin"
 msgstr "Открепить"
 
-#: gui/dialogs.py:1953
 msgid "Unpin all"
 msgstr "Открепить все"
 
-#: gui/dialogs.py:1984
 msgid "Are you sure you want to unpin all messages in this chat?"
 msgstr "Вы уверены, что хотите открепить все сообщения в этом чате?"
 
-#: gui/dialogs.py:1984
 msgid "Unpin all messages"
 msgstr "Открепить все сообщения"
 
-#: gui/dialogs.py:2041
 msgid "Forward message"
 msgstr "Переслать сообщение"
 
-#: gui/dialogs.py:2050
 msgid "Chats:"
 msgstr "Чаты:"
 
-#: gui/dialogs.py:2081
 msgid "Advanced options"
 msgstr "Дополнительные настройки"
 
-#: gui/dialogs.py:2085
 msgid "Hide sender name"
 msgstr "Скрыть имя отправителя"
 
-#: gui/dialogs.py:2089
 msgid "Remove caption"
 msgstr "Удалить подпись"
 
-#: gui/dialogs.py:2097 gui/dialogs.py:2154
 msgid "Forward in this chat"
 msgstr "Переслать в этот чат"
 
-#: gui/dialogs.py:2152
 #, python-brace-format
 msgid "Forward in {count} chat"
 msgid_plural "Forward in {count} chats"
@@ -1442,91 +1093,69 @@ msgstr[0] "Переслать в {count} чат"
 msgstr[1] "Переслать в {count} чата"
 msgstr[2] "Переслать в {count} чатов"
 
-#: gui/dialogs.py:2249
 msgid "Files"
 msgstr "Файлы"
 
-#: gui/dialogs.py:2260
 msgid "Add..."
 msgstr "Добавить..."
 
-#: gui/dialogs.py:2274
 msgid "Properties"
 msgstr "Свойства"
 
-#: gui/dialogs.py:2304
 msgid "Send without compression"
 msgstr "Отправить без сжатия"
 
-#: gui/dialogs.py:2316
 msgid "Options"
 msgstr "Опции"
 
-#: gui/dialogs.py:2362
 msgid "Attach files"
 msgstr "Прикрепить файлы"
 
-#: gui/dialogs.py:2447
 msgid "When online"
 msgstr "Когда в сети"
 
-#: gui/login.py:12
 msgid "Enter the phone number"
 msgstr "Введите номер телефона"
 
-#: gui/login.py:21
 msgid "Country:"
 msgstr "Страна:"
 
-#: gui/login.py:22
 msgid "Country"
 msgstr "Страна"
 
-#: gui/login.py:38 gui/login.py:104 gui/login.py:139
 msgid "Next"
 msgstr "Далее"
 
-#: gui/login.py:72 gui/login.py:118 gui/login.py:153 gui/login.py:203
 msgid "Do you want to stop the verification process?"
 msgstr "Вы хотите прервать процесс верификации?"
 
-#: gui/login.py:80
 msgid "Enter confirmation code"
 msgstr "Введите код подтверждения"
 
-#: gui/login.py:88
 msgid "The code was sent to you via Telegram."
 msgstr "Код был отправлен вам через Telegram."
 
-#: gui/login.py:90
 msgid "The code was sent to you via SMS."
 msgstr "Код был отправлен вам с помощью SMS."
 
-#: gui/login.py:96
 msgid "Confirmation code:"
 msgstr "Код подтверждения:"
 
-#: gui/login.py:126
 msgid "Enter password"
 msgstr "Введите пароль"
 
-#: gui/login.py:132
 msgid "Password:"
 msgstr "Пароль:"
 
-#: gui/login.py:161
 msgid "Registration"
 msgstr "Регистрация"
 
-#: gui/login.py:181
 msgid "Terms of service"
 msgstr "Условия использования"
 
-#: gui/login.py:189
 msgid "Register"
 msgstr "Зарегистрироваться"
 
-#: gui/login.py:242
 #, python-brace-format
 msgid ""
 "The following phone number will be confirmed: +{code}{number}. This number "
@@ -1535,127 +1164,96 @@ msgstr ""
 "Будет подтверждён следующий номер телефона: +{code}{number}. Это верный "
 "номер?"
 
-#: gui/login.py:251
 msgid "Incorrect phone number!"
 msgstr "Неверный номер телефона!"
 
-#: gui/login.py:278
 msgid "Incorrect confirmation code!"
 msgstr "Неверный код подтверждения!"
 
-#: gui/login.py:327
 msgid "Incorrect password!"
 msgstr "Неверный пароль!"
 
-#: gui/menu.py:19
 msgid "Detailed view"
 msgstr "Детальный просмотр"
 
-#: gui/menu.py:22
 msgid "Copy text"
 msgstr "Копировать текст"
 
-#: gui/menu.py:26
 msgid "Save in downloads"
 msgstr "Сохранить в загрузки"
 
-#: gui/menu.py:32
 msgid "Reply"
 msgstr "Ответить"
 
-#: gui/menu.py:36 gui/menu.py:203
 msgid "Pin"
 msgstr "Закрепить"
 
-#: gui/menu.py:45
 msgid "Go to quoted message"
 msgstr "Перейти к цитируемому сообщению"
 
-#: gui/menu.py:49
 #, python-brace-format
 msgid "Comments: {count}"
 msgstr "Комментарии: {count}"
 
-#: gui/menu.py:53
 msgid "Go to original message"
 msgstr "Перейти к исходному сообщению"
 
-#: gui/menu.py:57
 msgid "Add to favorites"
 msgstr "Добавить в избранное"
 
-#: gui/menu.py:61
 msgid "Forward"
 msgstr "Переслать"
 
-#: gui/menu.py:66
 msgid "Add reaction"
 msgstr "Добавить реакцию"
 
-#: gui/menu.py:74
 #, python-brace-format
 msgid "Remove reaction {r}"
 msgstr "Удалить реакцию {r}"
 
-#: gui/menu.py:78
 msgid "Open profile"
 msgstr "Открыть профиль"
 
-#: gui/menu.py:199
 msgid "Open"
 msgstr "Открыть"
 
-#: gui/menu.py:210
 msgid "Mark as read"
 msgstr "Пометить прочитанным"
 
-#: gui/menu.py:222 gui/menu.py:245
 msgid "Leave channel"
 msgstr "Покинуть канал"
 
-#: gui/menu.py:226 gui/menu.py:249
 msgid "Leave group"
 msgstr "Покинуть группу"
 
-#: gui/menu.py:230
 msgid "Clear history"
 msgstr "Очистить историю"
 
-#: gui/menu.py:245
 msgid "Are you sure you want to leave this channel?"
 msgstr "Вы действительно хотите покинуть этот канал?"
 
-#: gui/menu.py:249
 msgid "Are you sure you want to leave this group?"
 msgstr "Вы действительно хотите покинуть эту группу?"
 
-#: gui/menu.py:274
 msgid "Show window"
 msgstr "Отобразить окно"
 
-#: gui/menu.py:277
 msgid "Exit"
 msgstr "Выход"
 
-#: gui/presentation.py:26 gui/presentation.py:42
 msgid "You"
 msgstr "Вы"
 
-#: gui/presentation.py:29 gui/presentation.py:45 gui/presentation.py:99
-#: gui/presentation.py:238 gui/presentation.py:255
 msgid "Deleted user"
 msgstr "Удалённый пользователь"
 
-#: gui/presentation.py:90
 msgid "Contains keyboard"
 msgstr "Содержит клавиатуру"
 
-#: gui/presentation.py:96 gui/presentation.py:100 gui/presentation.py:102
 #, python-brace-format
 msgid "Forwarded from {name}"
 msgstr "Переслано от {name}"
 
-#: gui/presentation.py:131
 #, python-brace-format
 msgid "Received {count} reply"
 msgid_plural "Received {count} replies"
@@ -1663,481 +1261,370 @@ msgstr[0] "Получен {count} ответ"
 msgstr[1] "Получено {count} ответа"
 msgstr[2] "Получено {count} ответов"
 
-#: gui/presentation.py:157
 #, python-brace-format
 msgid "Document {name} ({size}) {caption}"
 msgstr "Документ {name} ({size}) {caption}"
 
-#: gui/presentation.py:159
 #, python-brace-format
 msgid "Document {name} {caption}"
 msgstr "Документ {name} {caption}"
 
-#: gui/presentation.py:175
 #, python-brace-format
 msgid "Audio {title} - {performer} ({h}:{m}:{s}) ({size}) {caption}"
 msgstr "Аудио {title} - {performer} ({h}:{m}:{s}) ({size}) {caption}"
 
-#: gui/presentation.py:177
 #, python-brace-format
 msgid "Audio {title} - {performer} ({h}:{m}:{s}) {caption}"
 msgstr "Аудио {title} - {performer} ({h}:{m}:{s}) {caption}"
 
-#: gui/presentation.py:183
 #, python-brace-format
 msgid "Video ({h}:{m}:{s}) ({size}) {caption}"
 msgstr "Видео ({h}:{m}:{s}) ({size}) {caption}"
 
-#: gui/presentation.py:185
 #, python-brace-format
 msgid "Video ({h}:{m}:{s}) {caption}"
 msgstr "Видео ({h}:{m}:{s}) {caption}"
 
-#: gui/presentation.py:188
 #, python-brace-format
 msgid "Photo {caption}"
 msgstr "Фото {caption}"
 
-#: gui/presentation.py:191
 #, python-brace-format
 msgid "Gif {caption}"
 msgstr "Gif {caption}"
 
-#: gui/presentation.py:193
 msgid "The user is now in telegram."
 msgstr "Пользователь теперь в Telegram."
 
 #. TRANSLATORS: This is the text of the message when the user creates a group.
-#: gui/presentation.py:198
 msgid "Group created"
 msgstr "Группа создана"
 
-#: gui/presentation.py:202
 msgid "This group has become a supergroup."
 msgstr "Эта группа стала супергруппой."
 
-#: gui/presentation.py:206
 msgid "One-time voice message"
 msgstr "Одноразовое голосовое сообщение"
 
-#: gui/presentation.py:208
 msgid "Voice message"
 msgstr "Голосовое сообщение"
 
-#: gui/presentation.py:211
 #, python-brace-format
 msgid "{name} {h}:{m}:{s} ({size})"
 msgstr "{name} {h}:{m}:{s} ({size})"
 
-#: gui/presentation.py:213
 #, python-brace-format
 msgid "{name} {h}:{m}:{s}"
 msgstr "{name} {h}:{m}:{s}"
 
-#: gui/presentation.py:216
 msgid "(listened)"
 msgstr "(прослушано)"
 
-#: gui/presentation.py:218
 msgid "(not listened)"
 msgstr "(не прослушано)"
 
 #. TRANSLATORS: this is the message when a user has joined a group
-#: gui/presentation.py:233
 msgid "joined the group"
 msgstr "вступил(а) в группу"
 
 #. TRANSLATORS: this is the message when someone added a new user to the group
-#: gui/presentation.py:241
 #, python-brace-format
 msgid "added {users}"
 msgstr "добавил(а) {users}"
 
 #. TRANSLATORS: This is the message when a user leaves the group.
-#: gui/presentation.py:252
 msgid "left the group"
 msgstr "покинул(а) группу"
 
 #. TRANSLATORS: This is the message when someone has been removed from the group.
-#: gui/presentation.py:257
 #, python-brace-format
 msgid "removed {user}"
 msgstr "удалил(а) {user}"
 
-#: gui/presentation.py:266
 msgid "joined the group via invite link"
 msgstr "вступил(а) в группу по ссылке-приглашению"
 
-#: gui/presentation.py:271
 msgid "Pinned message"
 msgstr "Закрепил(а) сообщение"
 
-#: gui/presentation.py:275
 #, python-brace-format
 msgid "Changed the title to: {title}"
 msgstr "Изменено название на: {title}"
 
-#: gui/presentation.py:280
 #, python-brace-format
 msgid "Video message {h}:{m}:{s} ({size})"
 msgstr "Видеосообщение {h}:{m}:{s} ({size})"
 
-#: gui/presentation.py:282
 #, python-brace-format
 msgid "Video message {h}:{m}:{s}"
 msgstr "Видеосообщение  {h}:{m}:{s}"
 
-#: gui/presentation.py:284
 msgid "Expired voice message"
 msgstr "Истёкшее голосовое сообщение"
 
-#: gui/presentation.py:287
 msgid "Unsupported message type"
 msgstr "Неподдерживаемый тип сообщения"
 
-#: gui/presentation.py:297
 #, python-brace-format
 msgid "Pinned message: {name}: {message}..."
 msgstr "Закрепил(а) сообщение: {name}: {message}..."
 
-#: gui/presentation.py:304 gui/presentation.py:312 gui/presentation.py:319
 #, python-brace-format
 msgid "In reply to {name}: {message}..."
 msgstr "В ответ на {name}: {message}..."
 
-#: gui/presentation.py:322
 msgid "Bytes"
 msgstr "Байт"
 
-#: gui/presentation.py:322
 msgid "KB"
 msgstr "КБ"
 
-#: gui/presentation.py:322
 msgid "MB"
 msgstr "МБ"
 
-#: gui/presentation.py:322
 msgid "GB"
 msgstr "ГБ"
 
-#: gui/presentation.py:322
 msgid "TB"
 msgstr "ТБ"
 
-#: gui/presentation.py:322
 msgid "PB"
 msgstr "ПБ"
 
-#: gui/presentation.py:322
 msgid "EB"
 msgstr "ЭБ"
 
-#: gui/presentation.py:322
 msgid "ZB"
 msgstr "ЗБ"
 
-#: gui/presentation.py:322
 msgid "YB"
 msgstr "ЙБ"
 
-#: gui/presentation.py:328
 msgid "I don't know what to call such a big size!"
 msgstr "Я не знаю, как назвать такой большой размер!"
 
-#: gui/settings.py:19
 #, python-brace-format
 msgid "{program} preferences"
 msgstr "Настройки {program}"
 
-#: gui/settings.py:33
 msgid "General settings"
 msgstr "Общие настройки"
 
-#: gui/settings.py:38
 msgid "Interface"
 msgstr "Интерфейс"
 
-#: gui/settings.py:43
 msgid "Default"
 msgstr "По умолчанию"
 
-#: gui/settings.py:51
 msgid "Language (Restart required):"
 msgstr "Язык (Требуется перезагрузка)"
 
-#: gui/settings.py:58
 msgid "Minimize on tray instead of exit"
 msgstr "Сворачивать в трей вместо выхода"
 
-#: gui/settings.py:62
 msgid "Confirmation before closing"
 msgstr "Подтверждение перед закрытием"
 
-#: gui/settings.py:66
 msgid "Show sender in system tray"
 msgstr "Отображать отправителя в уведомлении"
 
-#: gui/settings.py:70
 msgid "Close chats by pressing the ESCAPE key"
 msgstr "Закрывать чаты нажатием клавиши ESCAPE"
 
-#: gui/settings.py:74
 msgid "Play event sounds"
 msgstr "Воспроизводить звуки событий"
 
-#: gui/settings.py:80
 msgid "Downloads"
 msgstr "Загрузки"
 
-#: gui/settings.py:83
 msgid "Path to save files:"
 msgstr "Путь для сохранения файлов:"
 
-#: gui/settings.py:105
 msgid "Logging"
 msgstr "Ведение журнала"
 
-#: gui/settings.py:107
 msgid "Enable logging (restart required)"
 msgstr "Включить ведение журнала (требуется перезапуск)"
 
 #. TRANSLATORS: This is a logging option.
-#: gui/settings.py:112
 msgid "Infos"
 msgstr "Инфо"
 
-#: gui/settings.py:112
 msgid "Warnings"
 msgstr "Предупреждения"
 
-#: gui/settings.py:112
 msgid "Errors"
 msgstr "Ошибки"
 
-#: gui/settings.py:112
 msgid "Debug"
 msgstr "Отладка"
 
-#: gui/settings.py:116
 msgid "Logging level:"
 msgstr "Уровень ведения журнала:"
 
-#: gui/settings.py:122
 msgid "Flush log on startup"
 msgstr "Очищать журнал при запуске"
 
-#: gui/settings.py:126
 msgid "Log rotation"
 msgstr "Ротация журнала"
 
-#: gui/settings.py:135
 msgid "chats settings"
 msgstr "Настройки чатов"
 
-#: gui/settings.py:140
 msgid "Send messages by pressing enter"
 msgstr "Отправлять сообщения нажатием Enter"
 
-#: gui/settings.py:144
 msgid "Sequentially play voice messages and audio files in chats"
 msgstr ""
 "Последовательное воспроизведение голосовых сообщений и аудиофайлов в чатах"
 
-#: gui/settings.py:148
 msgid "Automatically start recording a voice message"
 msgstr "Автоматически начинать запись голосового сообщения"
 
-#: gui/settings.py:152
 msgid "Show emoji button"
 msgstr "Отображать кнопку эмодзи"
 
-#: gui/settings.py:156
 msgid ""
 "Disable Markdown markup (if there are issues with the messages being sent)"
 msgstr ""
 "Отключить разметку Markdown (если есть проблемы с отправляемыми сообщениями)"
 
-#: gui/settings.py:160
 msgid "Don't show dialog box \"Message scheduled\""
 msgstr "Не отображать диалоговое окно \"Сообщение отложено\""
 
-#: gui/settings.py:164
 msgid "Use new search style in chat and message lists"
 msgstr "Использовать новый стиль поиска в списках чатов и сообщений"
 
 #. TRANSLATORS: this is an option when selecting the quality of voice messages.
-#: gui/settings.py:170
 msgid "Auto (optimal: approximately 550 kB/Min)"
 msgstr "Авто (оптимальное: приблизительно 550 кБ/мин)"
 
 #. TRANSLATORS: this is an option when selecting the quality of voice messages.
-#: gui/settings.py:172
 msgid "Very high (approximately 1.6 mB/Min)"
 msgstr "Очень высокое (приблизительно 1.6 мБ/мин)"
 
 #. TRANSLATORS: this is an option when selecting the quality of voice messages.
-#: gui/settings.py:174
 msgid "High (approximately 950 kB/Min)"
 msgstr "Высокое (приблизительно 950 кБ/мин)"
 
 #. TRANSLATORS: this is an option when selecting the quality of voice messages.
-#: gui/settings.py:176
 msgid "Medium (approximately 630 kB/Min)"
 msgstr "Среднее (приблизительно 630 кБ/мин)"
 
 #. TRANSLATORS: this is an option when selecting the quality of voice messages.
-#: gui/settings.py:178
 msgid "Low (approximately 330 kB/Min)"
 msgstr "Низкое (приблизительно 330 кБ/мин)"
 
 #. TRANSLATORS: this is an option when selecting the quality of voice messages.
-#: gui/settings.py:180
 msgid "Very low (approximately 220 kB/Min)"
 msgstr "Очень низкое (приблизительно 220 кБ/мин)"
 
-#: gui/settings.py:184
 msgid "Voice message quality:"
 msgstr "Качество голосовых сообщений:"
 
-#: gui/settings.py:190
 msgid "Display size for:"
 msgstr "Отображать размер:"
 
-#: gui/settings.py:192
 msgid "Documents"
 msgstr "Документов"
 
-#: gui/settings.py:196
 msgid "Voice messages"
 msgstr "Голосовых сообщений"
 
-#: gui/settings.py:200
 msgid "Audio messages"
 msgstr "Аудио"
 
-#: gui/settings.py:204
 msgid "Video messages"
 msgstr "Видео"
 
-#: gui/settings.py:214
 msgid "Speech settings"
 msgstr "Настройки речи"
 
-#: gui/settings.py:219
 msgid "Speech module settings"
 msgstr "Настройки речевого модуля"
 
-#: gui/settings.py:221
 msgid "Enable speech"
 msgstr "Включить речь"
 
-#: gui/settings.py:225
 msgid "Allow use of Microsoft Speech API"
 msgstr "Разрешить использование Microsoft Speech API"
 
-#: gui/settings.py:229
 msgid "Prefer using the Microsoft Speech API"
 msgstr "Предпочтительное использование Microsoft Speech API"
 
-#: gui/settings.py:233
 msgid "Always interrupt speech before new notifications"
 msgstr "Всегда прерывать речь перед новыми уведомлениями"
 
-#: gui/settings.py:237
 msgid "Interrupt speaking before starting recording"
 msgstr "Прерывать речь перед началом записи"
 
-#: gui/settings.py:243
 msgid "Speech notifications settings"
 msgstr "Настройки речевых уведомлений"
 
 #. TRANSLATORS: These are the options for reading notifications.
-#: gui/settings.py:246 gui/settings.py:284
 msgid "Always"
 msgstr "Всегда"
 
-#: gui/settings.py:246
 msgid "In the foreground"
 msgstr "На переднем плане"
 
-#: gui/settings.py:246 gui/settings.py:284
 msgid "Never"
 msgstr "Никогда"
 
-#: gui/settings.py:251
 msgid "Network Status Changes:"
 msgstr "Изменение состояния сети:"
 
-#: gui/settings.py:259
 msgid "Incoming messages:"
 msgstr "Входящие сообщения:"
 
-#: gui/settings.py:267
 msgid "Outgoing messages:"
 msgstr "Исходящие сообщения:"
 
-#: gui/settings.py:273
 msgid "Speak outgoing messages only after confirmation by the server"
 msgstr "Озвучивать исходящие сообщения только после подтверждения от сервера"
 
-#: gui/settings.py:278
 msgid "Chat actions:"
 msgstr "Действия в чате:"
 
-#: gui/settings.py:289
 msgid "Media player:"
 msgstr "Медиаплеер:"
 
-#: gui/settings.py:301
 msgid "Devices settings"
 msgstr "Настройки устройств"
 
-#: gui/settings.py:307
 msgid "Microphone:"
 msgstr "Микрофон:"
 
-#: gui/settings.py:329
 msgid "Speakers:"
 msgstr "Динамики:"
 
-#: gui/settings.py:353
 msgid "File storage"
 msgstr "Хранилище файлов"
 
-#: gui/settings.py:361
 msgid "Statistics:"
 msgstr "Статистика:"
 
-#: gui/settings.py:362
 msgid "Name"
 msgstr "Имя"
 
-#: gui/settings.py:365
 msgid "Clear storage"
 msgstr "Очистить хранилище"
 
-#: gui/settings.py:374
 msgid "General"
 msgstr "Общие"
 
-#: gui/settings.py:376
 msgid "Speech"
 msgstr "Речь"
 
-#: gui/settings.py:377
 msgid "Devices"
 msgstr "Устройства"
 
-#: gui/settings.py:378
 msgid "Storage"
 msgstr "Хранилище"
 
-#: gui/settings.py:397
 msgid "Apply"
 msgstr "Применить"
 
-#: gui/settings.py:430
 #, python-brace-format
 msgid "Disk usage: {size}, {count} file"
 msgid_plural "Disk usage: {size}, {count} files"
@@ -2145,7 +1632,6 @@ msgstr[0] "Использование диска: {size}, {count} файл"
 msgstr[1] "Использование диска: {size}, {count} файла"
 msgstr[2] "Использование диска: {size}, {count} файлов"
 
-#: gui/settings.py:433
 msgid ""
 "Are you sure you want to clear storage? After this, all local copies of "
 "files from the cache will be deleted. This action cannot be undone!"
@@ -2153,71 +1639,55 @@ msgstr ""
 "Вы уверены, что хотите очистить хранилище? После этого все локальные копии "
 "файлов из кэша будут удалены. Это действие невозможно отменить!"
 
-#: gui/settings.py:433
 msgid "Warning"
 msgstr "Предупреждение"
 
-#: gui/settings.py:468
 msgid "Restart the application to apply the new language settings."
 msgstr "Перезапустите приложение, чтобы применить новые языковые настройки."
 
-#: gui/vdm.py:139
 msgid "Seen"
 msgstr "Прочитано"
 
-#: gui/vdm.py:141
 msgid "Not seen"
 msgstr "Не прочитано"
 
-#: gui/vdm.py:162 mediaPlayer/player.py:125
 msgid "Playing"
 msgstr "Воспроизводится"
 
-#: gui/vdm.py:164
 msgid "Paused"
 msgstr "Приостановлено"
 
-#: gui/vdm.py:166
 msgid "Stopped"
 msgstr "Остановлено"
 
-#: gui/vdm.py:168
 msgid "Played"
 msgstr "Воспроизведено"
 
-#: gui/vdm.py:170
 msgid "Loading"
 msgstr "Загрузка"
 
-#: gui/vdm.py:173
 msgid "Pinned"
 msgstr "Закреплено"
 
-#: gui/vdm.py:183 gui/vdm.py:260
 #, python-brace-format
 msgid "{name} (channel)"
 msgstr "{name} (канал)"
 
-#: gui/vdm.py:185 gui/vdm.py:262
 #, python-brace-format
 msgid "{name} (group)"
 msgstr "{name} (группа)"
 
-#: gui/vdm.py:190 gui/vdm.py:267
 #, python-brace-format
 msgid "{name} (bot)"
 msgstr "{name} (бот)"
 
-#: gui/vdm.py:196 gui/vdm.py:273
 #, python-brace-format
 msgid "{title} (online)"
 msgstr "{title} (в сети)"
 
-#: gui/vdm.py:203 gui/vdm.py:280
 msgid "(pinned)"
 msgstr "(закреплено)"
 
-#: gui/vdm.py:210
 #, python-brace-format
 msgid "{count} mention"
 msgid_plural "{count} mentions"
@@ -2225,212 +1695,159 @@ msgstr[0] "{count} упоминание"
 msgstr[1] "{count} упоминания"
 msgstr[2] "{count} упоминаний"
 
-#: gui/vdm.py:213
 msgid "New reaction"
 msgid_plural "New reactions"
 msgstr[0] "Новая реакция"
 msgstr[1] "Новые реакции"
 msgstr[2] "Новых реакций"
 
-#: gui/vdm.py:299
 msgid "Music"
 msgstr "Музыка"
 
-#: gui/vdm.py:299
 msgid "Video"
 msgstr "Видео"
 
-#: gui/vdm.py:299
 msgid "Photo"
 msgstr "Фото"
 
-#: gui/vdm.py:299
 msgid "Animation"
 msgstr "Анимация"
 
-#: gui/vdm.py:299
 msgid "Document"
 msgstr "Документ"
 
-#: mediaPlayer/__init__.py:53 mediaPlayer/__init__.py:59
-#: mediaPlayer/__init__.py:65 mediaPlayer/__init__.py:71
-#: mediaPlayer/__init__.py:77 mediaPlayer/__init__.py:83
-#: mediaPlayer/__init__.py:89 mediaPlayer/__init__.py:95
-#: mediaPlayer/__init__.py:101 mediaPlayer/player.py:150
-#: mediaPlayer/player.py:163
 msgid "Nothing is playing"
 msgstr "Ничего не воспроизводится"
 
-#: mediaPlayer/__init__.py:105 mediaPlayer/gui.py:32 mediaPlayer/gui.py:68
 #, python-brace-format
 msgid "Time: {t}/{l}"
 msgstr "Время: {t}/{l}"
 
-#: mediaPlayer/gui.py:35 mediaPlayer/gui.py:57
 #, python-brace-format
 msgid "Playback rate: {rate}"
 msgstr "Скорость воспроизведения: {rate}"
 
-#: mediaPlayer/gui.py:38
 msgid "Player control panel"
 msgstr "Панель управления плеером"
 
-#: mediaPlayer/gui.py:60
 msgid "Media player"
 msgstr "Медиаплеер"
 
-#: mediaPlayer/gui.py:135
 msgid "Audio player"
 msgstr "Аудиоплеер"
 
-#: mediaPlayer/gui.py:138 mediaPlayer/gui.py:143
 #, python-brace-format
 msgid "Now playing: {title} - {artist}"
 msgstr "Сейчас воспроизводится:  {title} - {artist}"
 
-#: mediaPlayer/gui.py:150
 msgid "Video player"
 msgstr "Видеоплеер"
 
-#: mediaPlayer/photo.py:12
 msgid "Photo viewer"
 msgstr "Просмотрщик фото"
 
-#: mediaPlayer/player.py:131
 msgid "Stop"
 msgstr "Стоп"
 
-#: mediaPlayer/player.py:136
 msgid "Pause"
 msgstr "Пауза"
 
-#: mediaPlayer/player.py:159 mediaPlayer/player.py:172
 #, python-brace-format
 msgid "Volume {v}"
 msgstr "Громкость {v}"
 
-#: mediaPlayer/player.py:208 mediaPlayer/player.py:214
-#: mediaPlayer/player.py:220
 #, python-brace-format
 msgid "Playback rate {rate}"
 msgstr "Скорость воспроизведения {rate}"
 
-#: mediaPlayer/utils.py:21
 msgid "Default playback device"
 msgstr "Устройство воспроизведения по умолчанию"
 
-#: objects/__init__.py:463
 #, python-brace-format
 msgid "Scheduled at {time}"
 msgstr "Отложено на {time}"
 
-#: objects/__init__.py:465
 #, python-brace-format
 msgid "Scheduled {date} at {time}"
 msgstr "Отложено на {date} в {time}"
 
-#: objects/__init__.py:467
 #, python-brace-format
 msgid "Sent at {time}"
 msgstr "Отправлено в {time}"
 
-#: objects/__init__.py:469
 #, python-brace-format
 msgid "Sent {date} at {time}"
 msgstr "Отправлено {date} в {time}"
 
-#: objects/__init__.py:471
 #, python-brace-format
 msgid "Sending... at {time}"
 msgstr "Отправка... в {time}"
 
-#: objects/__init__.py:473
 #, python-brace-format
 msgid "Sending... {date} at {time}"
 msgstr "Отправка... {date} в {time}"
 
-#: objects/__init__.py:475
 #, python-brace-format
 msgid "Received at {time}"
 msgstr "Получено в {time}"
 
-#: objects/__init__.py:477
 #, python-brace-format
 msgid "Received {date} at {time}"
 msgstr "Получено {date} в {time}"
 
-#: objects/__init__.py:488
 msgid "Outgoing"
 msgstr "Исходящий"
 
-#: objects/__init__.py:490
 msgid "Incoming"
 msgstr "Входящий"
 
-#: objects/__init__.py:492
 msgid "Cancelled"
 msgstr "Отменённый"
 
-#: objects/__init__.py:494
 msgid "Missed"
 msgstr "Пропущенный"
 
-#: objects/__init__.py:496
 msgid "Declined"
 msgstr "Отклонённый"
 
-#: objects/__init__.py:500
 msgid "video call"
 msgstr "видео вызов"
 
-#: objects/__init__.py:502
 msgid "audio call"
 msgstr "аудио вызов"
 
-#: objects/descriptions.py:14
 msgid "Selects a contact"
 msgstr "Выбирает контакт"
 
-#: objects/descriptions.py:15
 msgid "Selects location"
 msgstr "Выбирает геопозицию"
 
-#: objects/descriptions.py:16
 msgid "Selects a sticker"
 msgstr "Выбирает стикер"
 
-#: objects/descriptions.py:17 objects/descriptions.py:18
 msgid "Recording video"
 msgstr "Записывает видео"
 
-#: objects/descriptions.py:19
 msgid "Recording voice"
 msgstr "Записывает голосовое сообщение"
 
-#: objects/descriptions.py:20
 msgid "Start playing game"
 msgstr "Начинает играть в игру"
 
-#: objects/descriptions.py:21
 msgid "Typing"
 msgstr "Печатает"
 
-#: objects/descriptions.py:22
 msgid "Sending a file"
 msgstr "Отправляет файл"
 
-#: objects/descriptions.py:23
 msgid "Sending a photo"
 msgstr "Отправляет фото"
 
-#: objects/descriptions.py:24 objects/descriptions.py:25
 msgid "Sending a video"
 msgstr "Отправляет видео"
 
-#: objects/descriptions.py:26
 msgid "Sending an audio"
 msgstr "Отправляет аудио"
 
-#: objects/descriptions.py:27
 msgid "Watching animations"
 msgstr "Просматривает анимацию"
