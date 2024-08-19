@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Easygram 0.30\n"
 "Report-Msgid-Bugs-To: 'jawhien@gmail.com'\n"
-"POT-Creation-Date: 2024-08-14 19:24+0300\n"
-"PO-Revision-Date: 2024-08-14 19:31+0300\n"
+"POT-Creation-Date: 2024-08-19 13:27+0300\n"
+"PO-Revision-Date: 2024-08-19 13:28+0300\n"
 "Last-Translator: Peter Ivanovich <piatro97@gmail.com>\n"
 "Language-Team: Eugene Poplavsky <jawhien@gmail.com>, Peter Ivanovich "
 "<piatro97@gmail.com>\n"
@@ -247,7 +247,7 @@ msgid "Hushed face"
 msgstr "Неприятный сюрприз"
 
 msgid "Astonished face"
-msgstr "Удивленное лицо"
+msgstr "В шоке"
 
 msgid "Flushed face"
 msgstr "Краснеет"
@@ -1114,6 +1114,30 @@ msgstr "Прикрепить файлы"
 msgid "When online"
 msgstr "Когда в сети"
 
+msgid "Seen"
+msgstr "Прочитано"
+
+msgid "Not seen"
+msgstr "Не прочитано"
+
+msgid "Playing"
+msgstr "Воспроизводится"
+
+msgid "Paused"
+msgstr "Приостановлено"
+
+msgid "Stopped"
+msgstr "Остановлено"
+
+msgid "Played"
+msgstr "Воспроизведено"
+
+msgid "Loading"
+msgstr "Загрузка"
+
+msgid "Pinned"
+msgstr "Закреплено"
+
 msgid "Enter the phone number"
 msgstr "Введите номер телефона"
 
@@ -1644,30 +1668,6 @@ msgstr "Предупреждение"
 
 msgid "Restart the application to apply the new language settings."
 msgstr "Перезапустите приложение, чтобы применить новые языковые настройки."
-
-msgid "Seen"
-msgstr "Прочитано"
-
-msgid "Not seen"
-msgstr "Не прочитано"
-
-msgid "Playing"
-msgstr "Воспроизводится"
-
-msgid "Paused"
-msgstr "Приостановлено"
-
-msgid "Stopped"
-msgstr "Остановлено"
-
-msgid "Played"
-msgstr "Воспроизведено"
-
-msgid "Loading"
-msgstr "Загрузка"
-
-msgid "Pinned"
-msgstr "Закреплено"
 
 #, python-brace-format
 msgid "{name} (channel)"
