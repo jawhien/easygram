@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Easygram 0.30\n"
 "Report-Msgid-Bugs-To: 'jawhien@gmail.com'\n"
-"POT-Creation-Date: 2024-08-03 18:08+0300\n"
-"PO-Revision-Date: 2024-08-03 18:54+0300\n"
+"POT-Creation-Date: 2024-08-19 16:02+0300\n"
+"PO-Revision-Date: 2024-08-19 16:25+0300\n"
 "Last-Translator: Peter Ivanovich <piatro97@gmail.com>\n"
 "Language-Team: Neyman Agayev <neyman1993@gmail.com> <neyman1993@gmail.com>\n"
 "Language: tr\n"
@@ -379,86 +379,15 @@ msgstr "orta parmak"
 msgid "Heart hands"
 msgstr "kalp oluşturan eller"
 
-msgid "Offline"
-msgstr "Çevrimdışı"
-
-msgid "Chats"
-msgstr "Sohbetler"
-
-msgid "Loading chats..."
-msgstr "Sohbetler yükleniyor..."
-
-#, python-brace-format
-msgid "Chats ({0})"
-msgstr "Sohbetler ({0})"
-
-msgid "Contacts"
-msgstr "Kişiler"
-
-msgid "About user"
-msgstr "Kullanıcı hakkında"
-
-msgid "Open chat"
-msgstr "Sohbeti aç"
-
-#, python-brace-format
-msgid "Contacts ({0})"
-msgstr "Kişiler ({0})"
-
-msgid "Preferences"
-msgstr "Ayarlar"
-
-msgid "About Easygram"
-msgstr "Easygram Hakkında"
-
-msgid "Skipped one-time voice message"
-msgstr "Tek seferlik sesli mesaj atlandı"
-
-msgid "Your chats"
-msgstr "Sohbetleriniz"
-
-msgid "Are you sure you want to close application?"
-msgstr "Uygulamayı kapatmak istediğinize emin misiniz?"
-
-msgid "Exit the program"
-msgstr "Programdan çıkış"
-
-msgid "Loading..."
-msgstr "Yükleniyor..."
-
-msgid "Invalid verification code!"
-msgstr "Doğrulama kodunu girin"
-
-msgid "Invalid password!"
-msgstr "Yanlış şifre!"
-
-msgid "Authorisation Error"
-msgstr "Yetkilendirme Hatası"
-
-msgid "Updating..."
-msgstr "Güncelleme..."
-
-msgid "Ready"
-msgstr "Hazır"
-
-msgid "Connecting..."
-msgstr "Bağlanıyor..."
-
-#, python-brace-format
-msgid "You have a new message from {title}"
-msgstr "{title} 'dan yeni bir mesajınız var"
-
-msgid "You have a new message"
-msgstr "Yeni bir mesajınız var"
-
-#, python-brace-format
-msgid "{count} unread message"
-msgid_plural "{count} unread messages"
-msgstr[0] "{count} okunmamış mesaj"
-msgstr[1] "{count} okunmamış mesajlar"
-
 msgid "Bot menu"
 msgstr "Bot menüsü"
+
+msgid "Bot keyboard"
+msgstr "Bot klavyesi"
+
+#. sizer for the inline bot keyboard.
+msgid "Inline keyboard"
+msgstr "Yerleşik klavye"
 
 msgid "Emoji"
 msgstr "Emoji"
@@ -571,6 +500,9 @@ msgstr "Bot: {name}"
 msgid "Premium account"
 msgstr "Premium Hesap"
 
+msgid "Skipped one-time voice message"
+msgstr "Tek seferlik sesli mesaj atlandı"
+
 msgid "Are you sure you want to delete this message?"
 msgstr "Bu mesajı silmek istediğinizden emin misiniz?"
 
@@ -652,6 +584,9 @@ msgstr "İptal"
 msgid "About the bot"
 msgstr "Bot hakkında"
 
+msgid "About user"
+msgstr "Kullanıcı hakkında"
+
 msgid "First name:"
 msgstr "Ad:"
 
@@ -675,6 +610,9 @@ msgstr "Kişisel kanal"
 
 msgid "ID:"
 msgstr "ID:"
+
+msgid "Open chat"
+msgstr "Sohbeti aç"
 
 #, python-brace-format
 msgid "{day}/{month}/{year}"
@@ -726,9 +664,11 @@ msgstr "Boş mesaj gönderemezsiniz!"
 msgid "Info"
 msgstr "Bilgi"
 
+#. Change the label of the button to show that the upload has already started.
 msgid "Sending in progress..."
 msgstr "Gönderiliyor..."
 
+#. Show an error if the file could not be saved.
 msgid "An error occurred while writing the file."
 msgstr "Dosya yazılırken bir hata oluştu."
 
@@ -786,6 +726,9 @@ msgstr "Bu sınav kapalı"
 
 msgid "Links"
 msgstr "Bağlantılar"
+
+msgid "About Easygram"
+msgstr "Easygram Hakkında"
 
 msgid "Original text in English: © Eugene Poplavsky."
 msgstr "Türkçeye çeviren: © Neyman Agayev."
@@ -1102,6 +1045,30 @@ msgstr "Dosya ekle"
 msgid "When online"
 msgstr "Çevrimiçi olduğunda"
 
+msgid "Seen"
+msgstr "Okundu"
+
+msgid "Not seen"
+msgstr "Okunmadı"
+
+msgid "Playing"
+msgstr "Oynatılıyor"
+
+msgid "Paused"
+msgstr "Duraklatıldı"
+
+msgid "Stopped"
+msgstr "Durduruldu"
+
+msgid "Played"
+msgstr "Oynatıldı"
+
+msgid "Loading"
+msgstr "Yükleniyor"
+
+msgid "Pinned"
+msgstr "Sabitlendi"
+
 msgid "Enter the phone number"
 msgstr "\tTelefon numaranızı girin"
 
@@ -1235,6 +1202,9 @@ msgstr "Siz"
 msgid "Deleted user"
 msgstr "Silinen kullanıcı"
 
+msgid "Contains keyboard"
+msgstr "Klavye içerir"
+
 #, python-brace-format
 msgid "Forwarded from {name}"
 msgstr "{name} 'dan iletildi"
@@ -1325,6 +1295,12 @@ msgstr "gruptan ayrıldı"
 msgid "removed {user}"
 msgstr "{user} kaldırıldı"
 
+#. try:
+#. sender = storage.users.get(message.sender.id)
+#. senderName = _("Deleted user") if sender.type == objects.type_user_deleted else sender.firstAndLast
+#. except storage.NoItemError:
+#. chat = storage.chats.get(message.chatId)
+#. senderName = chat.title
 msgid "joined the group via invite link"
 msgstr "Davet bağlantısıyla gruba katıldı"
 
@@ -1396,6 +1372,12 @@ msgstr "Genel Ayarlar"
 
 msgid "Interface"
 msgstr "Arayüz"
+
+msgid "Default"
+msgstr "Varsayılan"
+
+msgid "Language (Restart required):"
+msgstr "Dil (Yeniden başlatma gerekli)"
 
 msgid "Minimize on tray instead of exit"
 msgstr "Çıkış yerine tepside simge durumuna küçült"
@@ -1576,8 +1558,23 @@ msgstr "Mikrofon:"
 msgid "Speakers:"
 msgstr "Hoparlörler"
 
+msgid "File storage"
+msgstr "Dosya deposu"
+
+msgid "Statistics:"
+msgstr "İstatistik:"
+
+msgid "Name"
+msgstr "Ad"
+
+msgid "Clear storage"
+msgstr "Depolamayı temizle"
+
 msgid "General"
 msgstr "Genel"
+
+msgid "Chats"
+msgstr "Sohbetler"
 
 msgid "Speech"
 msgstr "Konuşma"
@@ -1585,32 +1582,31 @@ msgstr "Konuşma"
 msgid "Devices"
 msgstr "Cihazlar"
 
+msgid "Storage"
+msgstr "Depolama"
+
 msgid "Apply"
 msgstr "Uygula"
 
-msgid "Seen"
-msgstr "Okundu"
+#, python-brace-format
+msgid "Disk usage: {size}, {count} file"
+msgid_plural "Disk usage: {size}, {count} files"
+msgstr[0] "Disk kullanımı: {size}, {count} Dosya"
+msgstr[1] "Disk kullanımı {size}, {count} dosyalar"
 
-msgid "Not seen"
-msgstr "Okunmadı"
+msgid ""
+"Are you sure you want to clear storage? After this, all local copies of "
+"files from the cache will be deleted. This action cannot be undone!"
+msgstr ""
+"Depolama alanıını temizlemek istediğinizden emin misiniz? Bundan sonra, "
+"dosyaların önbellekteki tüm yerel kopyaları silinecektir. Bu işlem geri "
+"alınamaz!"
 
-msgid "Playing"
-msgstr "Oynatılıyor"
+msgid "Warning"
+msgstr "Uyarı"
 
-msgid "Paused"
-msgstr "Duraklatıldı"
-
-msgid "Stopped"
-msgstr "Durduruldu"
-
-msgid "Played"
-msgstr "Oynatıldı"
-
-msgid "Loading"
-msgstr "Yükleniyor"
-
-msgid "Pinned"
-msgstr "Sabitlendi"
+msgid "Restart the application to apply the new language settings."
+msgstr "Yeni dil ayarlarını uygulamak için uygulamayı yeniden başlatın."
 
 #, python-brace-format
 msgid "{name} (channel)"
@@ -1630,6 +1626,12 @@ msgstr "{title} (çevrimiçi)"
 
 msgid "(pinned)"
 msgstr "(sabitlendi)"
+
+#, python-brace-format
+msgid "{count} unread message"
+msgid_plural "{count} unread messages"
+msgstr[0] "{count} okunmamış mesaj"
+msgstr[1] "{count} okunmamış mesajlar"
 
 #, python-brace-format
 msgid "{count} mention"
@@ -1657,8 +1659,63 @@ msgstr "Animasyon"
 msgid "Document"
 msgstr "Belge"
 
-msgid "Nothing is playing"
-msgstr "Hiçbir şey oynatılmıyor"
+msgid "Offline"
+msgstr "Çevrimdışı"
+
+msgid "Loading chats..."
+msgstr "Sohbetler yükleniyor..."
+
+#, python-brace-format
+msgid "Chats ({0})"
+msgstr "Sohbetler ({0})"
+
+msgid "Contacts"
+msgstr "Kişiler"
+
+#, python-brace-format
+msgid "Contacts ({0})"
+msgstr "Kişiler ({0})"
+
+msgid "Preferences"
+msgstr "Ayarlar"
+
+msgid "Your chats"
+msgstr "Sohbetleriniz"
+
+msgid "Are you sure you want to close application?"
+msgstr "Uygulamayı kapatmak istediğinize emin misiniz?"
+
+msgid "Exit the program"
+msgstr "Programdan çıkış"
+
+msgid "Loading..."
+msgstr "Yükleniyor..."
+
+msgid "Invalid verification code!"
+msgstr "Doğrulama kodunu girin"
+
+msgid "Invalid password!"
+msgstr "Yanlış şifre!"
+
+msgid "Authorisation Error"
+msgstr "Yetkilendirme Hatası"
+
+msgid "Updating..."
+msgstr "Güncelleme..."
+
+msgid "Ready"
+msgstr "Hazır"
+
+msgid "Connecting..."
+msgstr "Bağlanıyor..."
+
+#. We display the notification separately from the main system tray icon, because after the notification is shown, the icon is not clickable from the keyboard.
+#, python-brace-format
+msgid "You have a new message from {title}"
+msgstr "{title} 'dan yeni bir mesajınız var"
+
+msgid "You have a new message"
+msgstr "Yeni bir mesajınız var"
 
 #, python-brace-format
 msgid "Time: {t}/{l}"
@@ -1692,6 +1749,9 @@ msgstr "Durdur"
 
 msgid "Pause"
 msgstr "Duraklat"
+
+msgid "Nothing is playing"
+msgstr "Hiçbir şey oynatılmıyor"
 
 #, python-brace-format
 msgid "Volume {v}"
@@ -1757,38 +1817,38 @@ msgstr "görüntülü arama"
 msgid "audio call"
 msgstr "sesli arama"
 
-msgid "Selects a contact"
-msgstr "Kişiyi seçiyor"
+#~ msgid "Selects a contact"
+#~ msgstr "Kişiyi seçiyor"
 
-msgid "Selects location"
-msgstr "Konumu seçiyor"
+#~ msgid "Selects location"
+#~ msgstr "Konumu seçiyor"
 
-msgid "Selects a sticker"
-msgstr "Bir çıkartma seçiyor"
+#~ msgid "Selects a sticker"
+#~ msgstr "Bir çıkartma seçiyor"
 
-msgid "Recording video"
-msgstr "Görüntülü mesaj kaydediyor"
+#~ msgid "Recording video"
+#~ msgstr "Görüntülü mesaj kaydediyor"
 
-msgid "Recording voice"
-msgstr "Sesli mesaj kaydediyor"
+#~ msgid "Recording voice"
+#~ msgstr "Sesli mesaj kaydediyor"
 
-msgid "Start playing game"
-msgstr "Oyunu oynamaya başlar"
+#~ msgid "Start playing game"
+#~ msgstr "Oyunu oynamaya başlar"
 
-msgid "Typing"
-msgstr "Yazıyor"
+#~ msgid "Typing"
+#~ msgstr "Yazıyor"
 
-msgid "Sending a file"
-msgstr "Dosya gönderiyor"
+#~ msgid "Sending a file"
+#~ msgstr "Dosya gönderiyor"
 
-msgid "Sending a photo"
-msgstr "Fotoğraf gönderiyor"
+#~ msgid "Sending a photo"
+#~ msgstr "Fotoğraf gönderiyor"
 
-msgid "Sending a video"
-msgstr "Video gönderiyor"
+#~ msgid "Sending a video"
+#~ msgstr "Video gönderiyor"
 
-msgid "Sending an audio"
-msgstr "Ses gönderiyor"
+#~ msgid "Sending an audio"
+#~ msgstr "Ses gönderiyor"
 
-msgid "Watching animations"
-msgstr "Animasyonu inceliyor"
+#~ msgid "Watching animations"
+#~ msgstr "Animasyonu inceliyor"
