@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 'easygram' '0.30'\n"
 "Report-Msgid-Bugs-To: 'jawhien@gmail.com'\n"
-"POT-Creation-Date: 2024-09-17 23:38+0300\n"
+"POT-Creation-Date: 2024-09-22 16:02+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1452,6 +1452,9 @@ msgid "Don't show dialog box \"Message scheduled\""
 msgstr ""
 
 msgid "Use new search style in chat and message lists"
+msgstr ""
+
+msgid "Trim long messages (1 - 4096 characters, 0 - do not trim):"
 msgstr ""
 
 #. TRANSLATORS: this is an option when selecting the quality of voice messages.
