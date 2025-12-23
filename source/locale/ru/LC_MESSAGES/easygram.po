@@ -4,10 +4,10 @@
 # This file is distributed under the same license as the 'easygram' package.
 msgid ""
 msgstr ""
-"Project-Id-Version: Easygram 0.42\n"
+"Project-Id-Version: Easygram 0.42.3\n"
 "Report-Msgid-Bugs-To: 'jawhien@gmail.com'\n"
-"POT-Creation-Date: 2025-11-07 20:31+0300\n"
-"PO-Revision-Date: 2025-12-11 19:49+0300\n"
+"POT-Creation-Date: 2025-12-22 22:29+0300\n"
+"PO-Revision-Date: 2025-12-22 22:29+0300\n"
 "Last-Translator: Peter Ivanovich <piatro97@gmail.com>\n"
 "Language-Team: Eugene Poplavsky <jawhien@gmail.com>, Peter Ivanovich "
 "<piatro97@gmail.com>, Danil Kostenkov <danilkostenkov38@gmail.com>\n"
@@ -135,6 +135,60 @@ msgstr "Неправильный пароль!"
 msgid "Authorisation Error"
 msgstr "Ошибка авторизации"
 
+#, python-brace-format
+msgid "New message from {sender}: {text}"
+msgstr "Новое сообщение от {sender}: {text}"
+
+#, python-brace-format
+msgid "New message from {sender}"
+msgstr "Новое сообщение от {sender}"
+
+#, python-brace-format
+msgid ""
+"{count} new message from {sender}:\n"
+"{text}"
+msgid_plural ""
+"{count} new messages from {sender}:\n"
+"{text}"
+msgstr[0] ""
+"{count} новое сообщение от {sender}:\n"
+"{text}"
+msgstr[1] ""
+"{count} новых сообщения от {sender}:\n"
+"{text}"
+msgstr[2] ""
+"{count} новых сообщений от {sender}:\n"
+"{text}"
+
+#, python-brace-format
+msgid "{count} new message from {sender}"
+msgid_plural "{count} new messages from {sender}"
+msgstr[0] "{count} новое сообщение от {sender}"
+msgstr[1] "{count} новых сообщения от {sender}"
+msgstr[2] "{count} новых сообщений от {sender}"
+
+#, python-brace-format
+msgid "{count} new message"
+msgid_plural "{count} new messages"
+msgstr[0] "{count} новое сообщение"
+msgstr[1] "{count} новых сообщения"
+msgstr[2] "{count} новых сообщений"
+
+#, python-brace-format
+msgid "from {count} chat"
+msgid_plural "from {count} chats"
+msgstr[0] "из {count} чата"
+msgstr[1] "из {count} чатов"
+msgstr[2] "from {count} чатов"
+
+#, python-brace-format
+msgid ""
+"{title}:\n"
+"{text}"
+msgstr ""
+"{title}:\n"
+"{text}"
+
 msgid "Do you really want to mark all the chats on this list as read?"
 msgstr "Вы действительно хотите пометить все чаты в этом списке прочитанными?"
 
@@ -148,18 +202,44 @@ msgid "Connecting..."
 msgstr "Соединение..."
 
 #, python-brace-format
-msgid "You have a new message from {title}"
-msgstr "У вас есть новое сообщение от {title}"
-
-msgid "You have a new message"
-msgstr "У вас есть новое сообщение"
-
-#, python-brace-format
 msgid "{count} unread message"
 msgid_plural "{count} unread messages"
 msgstr[0] "{count} непрочитанное сообщение"
 msgstr[1] "{count} непрочитанных сообщения"
 msgstr[2] "{count} непрочитанных сообщений"
+
+msgid "Not supported in this time."
+msgstr "В данный момент не поддерживается."
+
+msgid "Information"
+msgstr "Информация"
+
+msgid "The invitation link is invalid"
+msgstr "Ссылка-приглашение недействительна"
+
+msgid "Error"
+msgstr "Ошибка"
+
+#, python-brace-format
+msgid ""
+"Would you like to join this group?\n"
+"Title: {title},\n"
+"Members: {members},\n"
+"Description: {description}"
+msgstr ""
+"Вы хотите вступить в эту группу?\n"
+"Название: {title},\n"
+"Количество участников: {members},\n"
+"Описание: {description}"
+
+msgid "Join this chat"
+msgstr "Присоединиться к этому чату"
+
+msgid "It is not possible to open this link in the application"
+msgstr "Невозможно открыть эту ссылку в приложении"
+
+msgid "Couldn't open the link in the app!"
+msgstr "Не удалось открыть ссылку в приложении!"
 
 msgid "Selected"
 msgstr "Выделено"
@@ -188,6 +268,9 @@ msgstr "Установить дату и время..."
 msgid "Without sound"
 msgstr "Без звука"
 
+msgid "Send as:"
+msgstr "Отправить как:"
+
 msgid "Send"
 msgstr "Отправить"
 
@@ -206,11 +289,11 @@ msgstr "Голосовое сообщение"
 msgid "Pinned messages"
 msgstr "Закреплённые сообщения"
 
-msgid "Mute"
-msgstr "Отключить звук"
+msgid "Notifications disabled"
+msgstr "Уведомления отключены"
 
-msgid "Unmute"
-msgstr "Включить звук"
+msgid "Notifications enabled"
+msgstr "Уведомления включены"
 
 msgid "Join the channel"
 msgstr "Присоединиться к каналу"
@@ -226,6 +309,13 @@ msgstr "Выберите тему"
 
 msgid "Close"
 msgstr "Закрыть"
+
+msgid "You need a Telegram premium subscription to send messages on this name."
+msgstr ""
+"Для отправки сообщений от этого имени требуется подписка Telegram premium."
+
+msgid "Warning"
+msgstr "Предупреждение"
 
 msgid "Multiple selection enabled"
 msgstr "Множественный выбор включён"
@@ -246,9 +336,6 @@ msgstr "Тема: {name}"
 msgid "The request has been sent"
 msgstr "Заявка была отправлена"
 
-msgid "Information"
-msgstr "Информация"
-
 #, python-brace-format
 msgid ""
 "Failed to save file \"{name}\", such file already exists and name search "
@@ -256,9 +343,6 @@ msgid ""
 msgstr ""
 "Не удалось сохранить файл \"{name}\", такой файл уже существует и исчерпан "
 "лимит поиска имени."
-
-msgid "Error"
-msgstr "Ошибка"
 
 msgid "Messages"
 msgstr "Сообщения"
@@ -330,6 +414,27 @@ msgstr "Бот: {name}"
 
 msgid "Premium account"
 msgstr "Premium-аккаунт"
+
+msgid "An error has occurred."
+msgstr "Произошла ошибка."
+
+msgid "No unread reactions."
+msgstr "Нет непрочитанных реакций."
+
+msgid "No unread mentions."
+msgstr "Нет непрочитанных упоминаний."
+
+msgid "Search unread reactions."
+msgstr "Поиск непрочитанных реакций."
+
+msgid "Search unread mentions."
+msgstr "Поиск непрочитанных упоминаний."
+
+msgid "Go to message"
+msgstr "Перейти к сообщению"
+
+msgid "Go to quoted message"
+msgstr "Перейти к цитируемому сообщению"
 
 msgid "There are no links in this message."
 msgstr "В этом сообщении нет ссылок."
@@ -805,9 +910,6 @@ msgstr "Список закреплённых сообщений"
 msgid "Messages:"
 msgstr "Сообщения:"
 
-msgid "Go to message"
-msgstr "Перейти к сообщению"
-
 msgid "Unpin"
 msgstr "О&ткрепить"
 
@@ -983,6 +1085,18 @@ msgstr "Произошла ошибка"
 
 msgid "Do you really want to clear search history?"
 msgstr "Вы действительно хотите очистить историю поиска?"
+
+msgid "Enable notifications"
+msgstr "Включить уведомления"
+
+msgid "Show message previews"
+msgstr "Показывать текст сообщений"
+
+msgid "Apply"
+msgstr "Применить"
+
+msgid "Notifications settings"
+msgstr "Настройки уведомлений"
 
 msgid "Seen"
 msgstr "Прочитано"
@@ -1230,6 +1344,48 @@ msgstr "Удалить из избранного"
 
 msgid "Add to Favorites"
 msgstr "Добавить в избранное"
+
+msgid "Disable for 30 minutes"
+msgstr "Отключить на 30 минут"
+
+msgid "Disable for 1 hour"
+msgstr "Отключить на 1 час"
+
+msgid "Disable for 2 hours"
+msgstr "Отключить на 2 часа"
+
+msgid "Disable for 3 hours"
+msgstr "Отключить на 3 часа"
+
+msgid "Disable for 8 hours"
+msgstr "Отключить на 8 часов"
+
+msgid "Disable for 1 day"
+msgstr "Отключить на 1 день"
+
+msgid "Disable for 2 days"
+msgstr "Отключить на 2 дня"
+
+msgid "Disable for 3 days"
+msgstr "Отключить на 3 дня"
+
+msgid "Disable for 4 days"
+msgstr "Отключить на 4 дня"
+
+msgid "Disable for 1 week"
+msgstr "Отключить на 1 неделю"
+
+msgid "Disable for 1 month"
+msgstr "Отключить на 1 месяц"
+
+msgid "Disable for 1 year"
+msgstr "Отключить на 1 год"
+
+msgid "Disable forever"
+msgstr "Отключить навсегда"
+
+msgid "Customize..."
+msgstr "Настроить..."
 
 msgid "You"
 msgstr "Вы"
@@ -1563,9 +1719,6 @@ msgstr ""
 "Если размер вашего кэша превысит это ограничение, самые старые "
 "неиспользуемые медиа будут удалены с устройства."
 
-msgid "Apply"
-msgstr "Применить"
-
 #, python-brace-format
 msgid "Personal chats: {time}"
 msgstr "Личные чаты: {time}"
@@ -1577,6 +1730,15 @@ msgstr "Группы: {time}"
 #, python-brace-format
 msgid "Channels: {time}"
 msgstr "Каналы: {time}"
+
+msgid "Groups notification settings"
+msgstr "Настройки уведомлений для групп"
+
+msgid "Channels notification settings"
+msgstr "Настройки уведомлений для каналов"
+
+msgid "Private chats notification settings"
+msgstr "Настройки уведомлений для личных чатах"
 
 #, python-brace-format
 msgid "{program} preferences"
@@ -1787,6 +1949,15 @@ msgstr "Добавить новый звук..."
 msgid "Delete sound"
 msgstr "Удалить звук"
 
+msgid "Private chats"
+msgstr "Личные чаты"
+
+msgid "Groups"
+msgstr "Группы"
+
+msgid "Channels"
+msgstr "Каналы"
+
 msgid "Speech settings"
 msgstr "Настройки речи"
 
@@ -1877,8 +2048,14 @@ msgstr ""
 "требует больше свободного места на системном диске для хранения временных "
 "файлов)"
 
+msgid "Disable sterio (if you can be heard in one earphone)"
+msgstr "Отключить стерео (если вас слышно только в одном наушнике)"
+
 msgid "Keep the cursor position in the chat list"
 msgstr "Сохранять позицию курсора в списке чатов"
+
+msgid "Process internal Telegram links in the app (If available)"
+msgstr "Обрабатывать внутренние ссылки Telegram в приложении (если доступно)"
 
 msgid "General"
 msgstr "Общие"
@@ -1895,6 +2072,9 @@ msgstr "Клавиатура"
 msgid "Sounds"
 msgstr "Звуки"
 
+msgid "Notifications"
+msgstr "Уведомления"
+
 msgid "Speech"
 msgstr "Речь"
 
@@ -1910,9 +2090,6 @@ msgid ""
 msgstr ""
 "Вы действительно хотите удалить все черновики из облака? Это действие "
 "невозможно отменить!"
-
-msgid "Warning"
-msgstr "Предупреждение"
 
 msgid "All cloud drafts have been successfully deleted."
 msgstr "Все черновики из облака были успешно удалены."
@@ -1931,12 +2108,11 @@ msgid "A file with this name already exists: {name}"
 msgstr "Файл с таким именем уже существует: {name}"
 
 msgid ""
-"Be Careful! The enable of this option can lead to unstable operation of the "
-"application and various errors. Do you really want to turn on this parameter?"
+"Disabling this option will result in more RAM being used during recording. "
+"Do you want to continue?"
 msgstr ""
-"Будьте осторожны! Включение этой настройки может привести к нестабильной "
-"работе приложения и различным ошибкам. Вы действительно хотите включить эту "
-"настройку?"
+"Отключение этой опции приведет к увеличению объема оперативной памяти, "
+"используемой во время записи. Вы хотите продолжить?"
 
 msgid "Warning!"
 msgstr "Предупреждение!"
@@ -2222,9 +2398,3 @@ msgstr "{sound} (встроенный)"
 #, python-brace-format
 msgid "{sound} (user)"
 msgstr "{sound} (пользовательский)"
-
-#~ msgid "Delete for everyone"
-#~ msgstr "Удалить у всех"
-
-#~ msgid "Forward message"
-#~ msgstr "Переслать сообщение"
