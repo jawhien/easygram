@@ -4,10 +4,10 @@
 # This file is distributed under the same license as the 'easygram' package.
 msgid ""
 msgstr ""
-"Project-Id-Version: Easygram 0.42.3\n"
+"Project-Id-Version: Easygram 0.50.0\n"
 "Report-Msgid-Bugs-To: 'jawhien@gmail.com'\n"
-"POT-Creation-Date: 2025-12-22 22:29+0300\n"
-"PO-Revision-Date: 2025-12-22 22:29+0300\n"
+"POT-Creation-Date: 2025-12-30 05:17+0300\n"
+"PO-Revision-Date: 2025-12-30 05:17+0300\n"
 "Last-Translator: Peter Ivanovich <piatro97@gmail.com>\n"
 "Language-Team: Eugene Poplavsky <jawhien@gmail.com>, Peter Ivanovich "
 "<piatro97@gmail.com>, Danil Kostenkov <danilkostenkov38@gmail.com>\n"
@@ -268,14 +268,14 @@ msgstr "Установить дату и время..."
 msgid "Without sound"
 msgstr "Без звука"
 
-msgid "Send as:"
-msgstr "Отправить как:"
-
 msgid "Send"
 msgstr "Отправить"
 
 msgid "Remove reply"
 msgstr "Удалить ответ"
+
+msgid "Send as:"
+msgstr "Отправить как:"
 
 msgid "Scheduled messages"
 msgstr "Отложенные сообщения"
@@ -1762,9 +1762,6 @@ msgstr "Сворачивать в трей вместо выхода"
 msgid "Confirmation before closing"
 msgstr "Подтверждение перед закрытием"
 
-msgid "Show sender in system tray"
-msgstr "Показывать имя отправителя в уведомлении"
-
 msgid "Close windows by pressing the ESCAPE key"
 msgstr "Закрывать окна по нажатию клавиши ESCAPE"
 
@@ -2036,9 +2033,6 @@ msgstr "Устранение проблем"
 
 msgid "Use streaming audio encoding when recording"
 msgstr "Использовать потоковое кодирование аудио во время записи"
-
-msgid "Audio input latency (ms):"
-msgstr "Задержка аудиовхода (мс):"
 
 msgid ""
 "Disable record optimization (reduces RAM usage, but requires more free space "
