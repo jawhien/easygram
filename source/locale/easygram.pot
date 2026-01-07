@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: 'easygram' '0.42'\n"
+"Project-Id-Version: 'easygram' '0.50'\n"
 "Report-Msgid-Bugs-To: 'jawhien@gmail.com'\n"
-"POT-Creation-Date: 2025-12-15 20:27+0300\n"
+"POT-Creation-Date: 2025-12-29 23:32+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -73,13 +73,13 @@ msgstr ""
 msgid "Without sound"
 msgstr ""
 
-msgid "Send as:"
-msgstr ""
-
 msgid "Send"
 msgstr ""
 
 msgid "Remove reply"
+msgstr ""
+
+msgid "Send as:"
 msgstr ""
 
 msgid "Scheduled messages"
@@ -221,6 +221,27 @@ msgid "Premium account"
 msgstr ""
 
 msgid "Skipped one-time voice message"
+msgstr ""
+
+msgid "An error has occurred."
+msgstr ""
+
+msgid "No unread reactions."
+msgstr ""
+
+msgid "No unread mentions."
+msgstr ""
+
+msgid "Search unread reactions."
+msgstr ""
+
+msgid "Search unread mentions."
+msgstr ""
+
+msgid "Go to message"
+msgstr ""
+
+msgid "Go to quoted message"
 msgstr ""
 
 msgid "There are no links in this message."
@@ -700,9 +721,6 @@ msgid "List of pinned messages"
 msgstr ""
 
 msgid "Messages:"
-msgstr ""
-
-msgid "Go to message"
 msgstr ""
 
 msgid "Unpin"
@@ -1546,9 +1564,6 @@ msgstr ""
 msgid "Confirmation before closing"
 msgstr ""
 
-msgid "Show sender in system tray"
-msgstr ""
-
 msgid "Close windows by pressing the ESCAPE key"
 msgstr ""
 
@@ -1817,9 +1832,6 @@ msgid "Troubleshooting"
 msgstr ""
 
 msgid "Use streaming audio encoding when recording"
-msgstr ""
-
-msgid "Audio input latency (ms):"
 msgstr ""
 
 msgid ""
