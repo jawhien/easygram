@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Easygram 0.50.0\n"
 "Report-Msgid-Bugs-To: 'jawhien@gmail.com'\n"
-"POT-Creation-Date: 2025-12-30 05:17+0300\n"
-"PO-Revision-Date: 2025-12-30 05:17+0300\n"
+"POT-Creation-Date: 2026-02-01 14:18+0300\n"
+"PO-Revision-Date: 2026-02-01 14:22+0300\n"
 "Last-Translator: Peter Ivanovich <piatro97@gmail.com>\n"
 "Language-Team: Eugene Poplavsky <jawhien@gmail.com>, Peter Ivanovich "
 "<piatro97@gmail.com>, Danil Kostenkov <danilkostenkov38@gmail.com>\n"
@@ -22,6 +22,16 @@ msgstr ""
 "X-Poedit-Basepath: ../../..\n"
 "X-Poedit-KeywordsList: N_\n"
 "X-Poedit-SearchPath-0: .\n"
+
+msgid ""
+"Are you sure you want to delete the database? You will have to log in to "
+"Telegram again."
+msgstr ""
+"Вы уверены, что хотите удалить базу данных? Вам нужно будет снова войти в "
+"Telegram."
+
+msgid "Confirmation"
+msgstr "Подтверждение"
 
 msgid "Faces and emotions"
 msgstr "Лица и эмоции"
@@ -110,9 +120,6 @@ msgstr "Пропущено одноразовое голосовое сообщ�
 #, python-brace-format
 msgid "Do you really want to delete this \"{name}\" contact?"
 msgstr "Вы действительно хотите удалить контакт \"{name}\"?"
-
-msgid "Confirmation"
-msgstr "Подтверждение"
 
 msgid "Archived chats"
 msgstr "Архивированные чаты"
@@ -241,6 +248,13 @@ msgstr "Невозможно открыть эту ссылку в прилож�
 msgid "Couldn't open the link in the app!"
 msgstr "Не удалось открыть ссылку в приложении!"
 
+msgid ""
+"It is not possible to open this link in the application. Most likely you are "
+"not a member of this chat."
+msgstr ""
+"Невозможно открыть эту ссылку в приложении. Скорее всего, вы не являетесь "
+"участником этого чата."
+
 msgid "Selected"
 msgstr "Выделено"
 
@@ -259,6 +273,9 @@ msgstr "Встроенная клавиатура"
 msgid "Emoji"
 msgstr "Эмодзи"
 
+msgid "Send"
+msgstr "Отправить"
+
 msgid "Schedule message"
 msgstr "Отложить сообщение"
 
@@ -267,9 +284,6 @@ msgstr "Установить дату и время..."
 
 msgid "Without sound"
 msgstr "Без звука"
-
-msgid "Send"
-msgstr "Отправить"
 
 msgid "Remove reply"
 msgstr "Удалить ответ"
@@ -310,6 +324,9 @@ msgstr "Выберите тему"
 msgid "Close"
 msgstr "Закрыть"
 
+msgid "Can't open chat for this message."
+msgstr "Невозможно открыть чат для этого сообщения."
+
 msgid "You need a Telegram premium subscription to send messages on this name."
 msgstr ""
 "Для отправки сообщений от этого имени требуется подписка Telegram premium."
@@ -322,6 +339,9 @@ msgstr "Множественный выбор включён"
 
 msgid "Multiple selection disabled"
 msgstr "Множественный выбор выключен"
+
+msgid "Files"
+msgstr "Файлы"
 
 msgid "All files"
 msgstr "Все файлы"
@@ -412,6 +432,9 @@ msgstr "Ответы"
 msgid "Bot: {name}"
 msgstr "Бот: {name}"
 
+msgid "Deleted user"
+msgstr "Удалённый пользователь"
+
 msgid "Premium account"
 msgstr "Premium-аккаунт"
 
@@ -435,6 +458,9 @@ msgstr "Перейти к сообщению"
 
 msgid "Go to quoted message"
 msgstr "Перейти к цитируемому сообщению"
+
+msgid "Copyed"
+msgstr "Скопировано"
 
 msgid "There are no links in this message."
 msgstr "В этом сообщении нет ссылок."
@@ -631,6 +657,13 @@ msgstr "Выберите один или несколько ответов"
 msgid "Choose only one answer"
 msgstr "Выберите только один ответ"
 
+#, python-brace-format
+msgid "{text}: {count} vote ({p}%)"
+msgid_plural "{text}: {count} votes ({p}%)"
+msgstr[0] "{text}: {count} голос ({p}%)"
+msgstr[1] "{text}: {count} голоса ({p}%)"
+msgstr[2] "{text}: {count} голосов ({p}%)"
+
 msgid "This poll is now closed."
 msgstr "На данный момент этот опрос закрыт."
 
@@ -643,12 +676,18 @@ msgid "Quiz: {title}, public quiz"
 msgstr "Викторина: {title}, публичная викторина"
 
 #, python-brace-format
-msgid "{text} ({p}%) - This is the wrong answer"
-msgstr "{text} ({p}%) - Это неправильный ответ"
+msgid "{text}: {count} vote ({p}%) - This is the wrong answer"
+msgid_plural "{text}: {count} votes ({p}%) - This is the wrong answer"
+msgstr[0] "{text}: {count} голос ({p}%) - Это неправильный ответ"
+msgstr[1] "{text}: {count} голоса ({p}%) - Это неправильный ответ"
+msgstr[2] "{text}: {count} голосов ({p}%) - Это неправильный ответ"
 
 #, python-brace-format
-msgid "{text} ({p}%) - This is the correct answer"
-msgstr "{text} ({p}%) - Это правильный ответ"
+msgid "{text}: {count} vote ({p}%) - This is the correct answer"
+msgid_plural "{text}: {count} votes ({p}%) - This is the correct answer"
+msgstr[0] "{text}: {count} голос ({p}%) - Это правильный ответ"
+msgstr[1] "{text}: {count} голоса ({p}%) - Это правильный ответ"
+msgstr[2] "{text}: {count} голосов ({p}%) - Это правильный ответ"
 
 #, python-brace-format
 msgid "{option}. Explanation: {text}"
@@ -810,6 +849,9 @@ msgstr "Изменить..."
 msgid "Change time..."
 msgstr "Изменить время..."
 
+msgid "Send immediately"
+msgstr "Отправить сейчас"
+
 msgid "Reactions"
 msgstr "Реакции"
 
@@ -956,9 +998,6 @@ msgid_plural "Forward in {count} chats"
 msgstr[0] "Переслать в {count} чат"
 msgstr[1] "Переслать в {count} чата"
 msgstr[2] "Переслать в {count} чатов"
-
-msgid "Files"
-msgstr "Файлы"
 
 msgid "Add..."
 msgstr "Добавить..."
@@ -1390,8 +1429,11 @@ msgstr "Настроить..."
 msgid "You"
 msgstr "Вы"
 
-msgid "Deleted user"
-msgstr "Удалённый пользователь"
+msgid "Administrator"
+msgstr "Администратор"
+
+msgid "Owner"
+msgstr "Владелец"
 
 msgid "Contains keyboard"
 msgstr "Содержит клавиатуру"
@@ -1532,6 +1574,14 @@ msgstr "Закрыл(а) тему."
 
 msgid "Opened the topic."
 msgstr "Открыл(а) тему."
+
+#, python-brace-format
+msgid "The topic {name} has been created"
+msgstr "Тема {name} создана"
+
+#, python-brace-format
+msgid "Topic name changed to {name}"
+msgstr "Название темы изменено на {name}"
 
 msgid "Unsupported message type"
 msgstr "Неподдерживаемый тип сообщения"
@@ -1814,11 +1864,20 @@ msgstr "Показывать время после текста сообщени
 msgid "Mark chats without notifications"
 msgstr "Отмечать чаты без уведомлений"
 
-msgid "Behavior settings"
-msgstr "Настройки поведения"
-
 msgid "Chat window"
 msgstr "Окно чата"
+
+msgid "Display the \"Send\" button after the message input field"
+msgstr "Отображать кнопку \"Отправить\" после поля ввода сообщения"
+
+msgid "List of messages"
+msgstr "Список сообщений"
+
+msgid "Show names in private chats"
+msgstr "Показывать имена в личных чатах"
+
+msgid "Behavior settings"
+msgstr "Настройки поведения"
 
 msgid "Break up long messages"
 msgstr "Разбивать длинные сообщения"
@@ -1946,6 +2005,9 @@ msgstr "Добавить новый звук..."
 msgid "Delete sound"
 msgstr "Удалить звук"
 
+msgid "General notification settings"
+msgstr "Общие настройки уведомлений"
+
 msgid "Private chats"
 msgstr "Личные чаты"
 
@@ -1954,6 +2016,20 @@ msgstr "Группы"
 
 msgid "Channels"
 msgstr "Каналы"
+
+msgid "Advanced notification settings"
+msgstr "Дополнительные настройки уведомлений"
+
+msgid ""
+"Show notifications only when the program is minimized to the system tray"
+msgstr ""
+"Показывать уведомления только тогда, когда программа свернута в системный "
+"трей"
+
+msgid "Always show message text, ignore custom chat settings"
+msgstr ""
+"Всегда показывать текст сообщения, игнорировать пользовательские настройки "
+"чата"
 
 msgid "Speech settings"
 msgstr "Настройки речи"
@@ -2166,11 +2242,12 @@ msgstr[0] "{count} упоминание"
 msgstr[1] "{count} упоминания"
 msgstr[2] "{count} упоминаний"
 
-msgid "New reaction"
-msgid_plural "New reactions"
-msgstr[0] "Новая реакция"
-msgstr[1] "Новые реакции"
-msgstr[2] "Новых реакций"
+#, python-brace-format
+msgid "{count} new reaction"
+msgid_plural "{count} new reactions"
+msgstr[0] "{count} новая реакция"
+msgstr[1] "{count} новые реакции"
+msgstr[2] "{count} новых реакций"
 
 msgid "A choice of topic is available"
 msgstr "Доступен выбор темы"
@@ -2195,6 +2272,12 @@ msgstr "(Основная тема)"
 
 msgid "Closed"
 msgstr "Закрыта"
+
+msgid "New reaction"
+msgid_plural "New reactions"
+msgstr[0] "Новая реакция"
+msgstr[1] "Новые реакции"
+msgstr[2] "Новых реакций"
 
 #, python-brace-format
 msgid "{name} (@{username}) (channel)"
@@ -2277,6 +2360,12 @@ msgstr "Видеоплеер"
 
 msgid "Photo viewer"
 msgstr "Просмотрщик фото"
+
+msgid "Copy to clipboard"
+msgstr "Копировать в буфер обмена"
+
+msgid "Copied to clipboard."
+msgstr "Скопировано в буфер обмена."
 
 msgid "Stop"
 msgstr "Стоп"
@@ -2392,3 +2481,13 @@ msgstr "{sound} (встроенный)"
 #, python-brace-format
 msgid "{sound} (user)"
 msgstr "{sound} (пользовательский)"
+
+msgid ""
+"A mismatch between the database version and the TDLib version was detected. "
+"Do you want to reset the database and log in again?"
+msgstr ""
+"Обнаружено несоответствие между версией базы данных и версией TDLib. Вы "
+"хотите удалить базу данных и авторизоваться снова?"
+
+msgid "Database error"
+msgstr "Ошибка базы данных"
