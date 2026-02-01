@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 'easygram' '0.50'\n"
 "Report-Msgid-Bugs-To: 'jawhien@gmail.com'\n"
-"POT-Creation-Date: 2025-12-29 23:32+0300\n"
+"POT-Creation-Date: 2026-02-01 17:32+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,6 +17,14 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid ""
+"Are you sure you want to delete the database? You will have to log in to "
+"Telegram again."
+msgstr ""
+
+msgid "Confirmation"
+msgstr ""
 
 msgid "Faces and emotions"
 msgstr ""
@@ -61,7 +69,14 @@ msgstr ""
 msgid "Inline keyboard"
 msgstr ""
 
+#. Open chat button for replies
+msgid "Open chat"
+msgstr ""
+
 msgid "Emoji"
+msgstr ""
+
+msgid "Send"
 msgstr ""
 
 msgid "Schedule message"
@@ -71,9 +86,6 @@ msgid "Set date and time..."
 msgstr ""
 
 msgid "Without sound"
-msgstr ""
-
-msgid "Send"
 msgstr ""
 
 msgid "Remove reply"
@@ -115,6 +127,12 @@ msgstr ""
 msgid "Close"
 msgstr ""
 
+msgid "Can't open chat for this message."
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
 msgid "You need a Telegram premium subscription to send messages on this name."
 msgstr ""
 
@@ -125,6 +143,9 @@ msgid "Multiple selection enabled"
 msgstr ""
 
 msgid "Multiple selection disabled"
+msgstr ""
+
+msgid "Files"
 msgstr ""
 
 msgid "All files"
@@ -147,9 +168,6 @@ msgstr ""
 msgid ""
 "Failed to save file \"{name}\", such file already exists and name search "
 "limit exceeded."
-msgstr ""
-
-msgid "Error"
 msgstr ""
 
 msgid "Messages"
@@ -217,6 +235,9 @@ msgstr ""
 msgid "Bot: {name}"
 msgstr ""
 
+msgid "Deleted user"
+msgstr ""
+
 msgid "Premium account"
 msgstr ""
 
@@ -242,6 +263,9 @@ msgid "Go to message"
 msgstr ""
 
 msgid "Go to quoted message"
+msgstr ""
+
+msgid "Copyed"
 msgstr ""
 
 msgid "There are no links in this message."
@@ -354,9 +378,6 @@ msgstr ""
 msgid "ID:"
 msgstr ""
 
-msgid "Open chat"
-msgstr ""
-
 #, python-brace-format
 msgid "{day}/{month}/{year}"
 msgstr ""
@@ -425,9 +446,6 @@ msgstr ""
 msgid "A message is being sent. Do you really want to close this window?"
 msgstr ""
 
-msgid "Confirmation"
-msgstr ""
-
 msgid "Cancel the record and delete the message?"
 msgstr ""
 
@@ -445,6 +463,12 @@ msgstr ""
 msgid "Choose only one answer"
 msgstr ""
 
+#, python-brace-format
+msgid "{text}: {count} vote ({p}%)"
+msgid_plural "{text}: {count} votes ({p}%)"
+msgstr[0] ""
+msgstr[1] ""
+
 msgid "This poll is now closed."
 msgstr ""
 
@@ -457,12 +481,16 @@ msgid "Quiz: {title}, public quiz"
 msgstr ""
 
 #, python-brace-format
-msgid "{text} ({p}%) - This is the wrong answer"
-msgstr ""
+msgid "{text}: {count} vote ({p}%) - This is the wrong answer"
+msgid_plural "{text}: {count} votes ({p}%) - This is the wrong answer"
+msgstr[0] ""
+msgstr[1] ""
 
 #, python-brace-format
-msgid "{text} ({p}%) - This is the correct answer"
-msgstr ""
+msgid "{text}: {count} vote ({p}%) - This is the correct answer"
+msgid_plural "{text}: {count} votes ({p}%) - This is the correct answer"
+msgstr[0] ""
+msgstr[1] ""
 
 #, python-brace-format
 msgid "{option}. Explanation: {text}"
@@ -623,6 +651,9 @@ msgstr ""
 msgid "Change time..."
 msgstr ""
 
+msgid "Send immediately"
+msgstr ""
+
 msgid "Reactions"
 msgstr ""
 
@@ -767,9 +798,6 @@ msgid "Forward in {count} chat"
 msgid_plural "Forward in {count} chats"
 msgstr[0] ""
 msgstr[1] ""
-
-msgid "Files"
-msgstr ""
 
 msgid "Add..."
 msgstr ""
@@ -1198,7 +1226,10 @@ msgstr ""
 msgid "You"
 msgstr ""
 
-msgid "Deleted user"
+msgid "Administrator"
+msgstr ""
+
+msgid "Owner"
 msgstr ""
 
 msgid "Contains keyboard"
@@ -1340,6 +1371,15 @@ msgstr ""
 msgid "Opened the topic."
 msgstr ""
 
+#, python-brace-format
+msgid "The topic {name} has been created"
+msgstr ""
+
+#, python-brace-format
+msgid "Topic name changed to {name}"
+msgstr ""
+
+#. default (unsupported type)
 msgid "Unsupported message type"
 msgstr ""
 
@@ -1616,10 +1656,19 @@ msgstr ""
 msgid "Mark chats without notifications"
 msgstr ""
 
-msgid "Behavior settings"
+msgid "Chat window"
 msgstr ""
 
-msgid "Chat window"
+msgid "Display the \"Send\" button after the message input field"
+msgstr ""
+
+msgid "List of messages"
+msgstr ""
+
+msgid "Show names in private chats"
+msgstr ""
+
+msgid "Behavior settings"
 msgstr ""
 
 msgid "Break up long messages"
@@ -1746,6 +1795,9 @@ msgstr ""
 msgid "Delete sound"
 msgstr ""
 
+msgid "General notification settings"
+msgstr ""
+
 msgid "Private chats"
 msgstr ""
 
@@ -1753,6 +1805,16 @@ msgid "Groups"
 msgstr ""
 
 msgid "Channels"
+msgstr ""
+
+msgid "Advanced notification settings"
+msgstr ""
+
+msgid ""
+"Show notifications only when the program is minimized to the system tray"
+msgstr ""
+
+msgid "Always show message text, ignore custom chat settings"
 msgstr ""
 
 msgid "Speech settings"
@@ -1961,8 +2023,9 @@ msgid_plural "{count} mentions"
 msgstr[0] ""
 msgstr[1] ""
 
-msgid "New reaction"
-msgid_plural "New reactions"
+#, python-brace-format
+msgid "{count} new reaction"
+msgid_plural "{count} new reactions"
 msgstr[0] ""
 msgstr[1] ""
 
@@ -1989,6 +2052,11 @@ msgstr ""
 
 msgid "Closed"
 msgstr ""
+
+msgid "New reaction"
+msgid_plural "New reactions"
+msgstr[0] ""
+msgstr[1] ""
 
 #, python-brace-format
 msgid "{name} (@{username}) (channel)"
@@ -2159,6 +2227,11 @@ msgstr ""
 msgid "Couldn't open the link in the app!"
 msgstr ""
 
+msgid ""
+"It is not possible to open this link in the application. Most likely you are "
+"not a member of this chat."
+msgstr ""
+
 msgid "Play/Pause"
 msgstr ""
 
@@ -2202,6 +2275,12 @@ msgid "Video player"
 msgstr ""
 
 msgid "Photo viewer"
+msgstr ""
+
+msgid "Copy to clipboard"
+msgstr ""
+
+msgid "Copied to clipboard."
 msgstr ""
 
 msgid "Stop"
@@ -2320,4 +2399,12 @@ msgstr ""
 
 #, python-brace-format
 msgid "{sound} (user)"
+msgstr ""
+
+msgid ""
+"A mismatch between the database version and the TDLib version was detected. "
+"Do you want to reset the database and log in again?"
+msgstr ""
+
+msgid "Database error"
 msgstr ""
