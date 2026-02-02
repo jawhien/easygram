@@ -1,376 +1,49 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: Easygram 0.40\n"
 "Report-Msgid-Bugs-To: 'jawhien@gmail.com'\n"
-"POT-Creation-Date: 2024-08-19 13:27+0300\n"
-"PO-Revision-Date: 2024-08-19 20:26+0300\n"
+"POT-Creation-Date: 2025-10-13 23:17+0300\n"
+"PO-Revision-Date: 2026-02-02 21:23+0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: uk_UA\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
-"X-Generator: Poedit 3.4.4\n"
-"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-KeywordsList: N_\n"
+"X-Poedit-SearchPath-0: .\n"
 
-msgid "Slightly smiling face"
-msgstr ""
+msgid "Faces and emotions"
+msgstr "Обличчя та емоції"
 
-msgid "Smiling face"
-msgstr ""
+msgid "People and gestures"
+msgstr "Люди та жести"
 
-msgid "Grinning face"
-msgstr ""
+msgid "Animals and nature"
+msgstr "Тварини та природа"
 
-msgid "Smiling face with smiling eyes"
-msgstr ""
+msgid "Food and drink"
+msgstr "Їжа та напої"
 
-msgid "Smiling face with halo"
-msgstr ""
+msgid "Travel and places"
+msgstr "Подорожі та інші місця"
 
-msgid "Grinning face with big eyes"
-msgstr ""
+msgid "Activities"
+msgstr "Захід"
 
-msgid "Grinning face with smiling eyes"
-msgstr ""
+msgid "Objects"
+msgstr "Об'єкт"
 
-msgid "Grinning squinting face"
-msgstr ""
+msgid "Symbols"
+msgstr "Символ"
 
-msgid "Grinning face with sweat"
-msgstr ""
-
-msgid "Rolling on the floor laughing"
-msgstr ""
-
-msgid "Face with tears of joy"
-msgstr ""
-
-msgid "Beaming face with smiling eyes"
-msgstr ""
-
-msgid "Smiling face with horns"
-msgstr ""
-
-msgid "Angry face with horns"
-msgstr ""
-
-msgid "Upside-down face"
-msgstr ""
-
-msgid "Melting face"
-msgstr ""
-
-msgid "Winking face"
-msgstr ""
-
-msgid "Winking face with tongue"
-msgstr ""
-
-msgid "Smiling face with open hands"
-msgstr ""
-
-msgid "Smiling face with hearts"
-msgstr ""
-
-msgid "Smiling face with heart-eyes"
-msgstr ""
-
-msgid "Star-struck"
-msgstr ""
-
-msgid "Face blowing a kiss"
-msgstr ""
-
-msgid "Kissing face"
-msgstr ""
-
-msgid "Kissing face with closed eyes"
-msgstr ""
-
-msgid "Kissing face with smiling eyes"
-msgstr ""
-
-msgid "Smiling face with tear"
-msgstr ""
-
-msgid "Face savoring food"
-msgstr ""
-
-msgid "Face with tongue"
-msgstr ""
-
-msgid "Face with hand over mouth"
-msgstr ""
-
-msgid "Face with open eyes and hand over mouth"
-msgstr ""
-
-msgid "Zany face"
-msgstr ""
-
-msgid "Squinting face with tongue"
-msgstr ""
-
-msgid "Money-mouth face"
-msgstr ""
-
-msgid "Face with peeking eye"
-msgstr ""
-
-msgid "Shushing face"
-msgstr ""
-
-msgid "Thinking face"
-msgstr ""
-
-msgid "Saluting face"
-msgstr ""
-
-msgid "Zipper-mouth face"
-msgstr ""
-
-msgid "Face with raised eyebrow"
-msgstr ""
-
-msgid "Neutral face"
-msgstr ""
-
-msgid "Expressionless face"
-msgstr ""
-
-msgid "Face without mouth"
-msgstr ""
-
-msgid "Dotted line face"
-msgstr ""
-
-msgid "Face in clouds"
-msgstr ""
-
-msgid "Smirking face"
-msgstr ""
-
-msgid "unamused face"
-msgstr ""
-
-msgid "Face with rolling eyes"
-msgstr ""
-
-msgid "Grimacing face"
-msgstr ""
-
-msgid "Face exhaling"
-msgstr ""
-
-msgid "Lying face"
-msgstr ""
-
-msgid "Shaking face"
-msgstr ""
-
-msgid "Relieved face"
-msgstr ""
-
-msgid "Pensive face"
-msgstr ""
-
-msgid "Sleepy face"
-msgstr ""
-
-msgid "Drooling face"
-msgstr ""
-
-msgid "Sleeping face"
-msgstr ""
-
-msgid "Face with medical mask"
-msgstr ""
-
-msgid "Face with thermometer"
-msgstr ""
-
-msgid "Face with head-bandage"
-msgstr ""
-
-msgid "Face with spiral eyes"
-msgstr ""
-
-msgid "Exploding head"
-msgstr ""
-
-msgid "Cowboy hat face"
-msgstr ""
-
-msgid "Partying face"
-msgstr ""
-
-msgid "Smiling face with sunglasses"
-msgstr ""
-
-msgid "Nerd face"
-msgstr ""
-
-msgid "Face with monocle"
-msgstr ""
-
-msgid "Confused face"
-msgstr ""
-
-msgid "Face with diagonal mouth"
-msgstr ""
-
-msgid "Worried face"
-msgstr ""
-
-msgid "Slightly frowning face"
-msgstr ""
-
-msgid "Frowning face"
-msgstr ""
-
-msgid "Face with open mouth"
-msgstr ""
-
-msgid "Hushed face"
-msgstr ""
-
-msgid "Astonished face"
-msgstr ""
-
-msgid "Flushed face"
-msgstr ""
-
-msgid "Pleading face"
-msgstr ""
-
-msgid "Face holding back tears"
-msgstr ""
-
-msgid "Frowning face with open mouth"
-msgstr ""
-
-msgid "Anguished face"
-msgstr ""
-
-msgid "Fearful face"
-msgstr ""
-
-msgid "Anxious face with sweat"
-msgstr ""
-
-msgid "Sad but relieved face"
-msgstr ""
-
-msgid "Crying face"
-msgstr ""
-
-msgid "Loudly crying face"
-msgstr ""
-
-msgid "Face screaming in fear"
-msgstr ""
-
-msgid "Confounded face"
-msgstr ""
-
-msgid "Persevering face"
-msgstr ""
-
-msgid "Disappointed face"
-msgstr ""
-
-msgid "Downcast face with sweat"
-msgstr ""
-
-msgid "Weary face"
-msgstr ""
-
-msgid "Tired face"
-msgstr ""
-
-msgid "Enraged face"
-msgstr ""
-
-msgid "Angry face"
-msgstr ""
-
-msgid "Face with symbols on mouth"
-msgstr ""
-
-msgid "Skull"
-msgstr ""
-
-msgid "Skull and crossbones"
-msgstr ""
-
-msgid "Grinning cat"
-msgstr ""
-
-msgid "Grinning cat with smiling eyes"
-msgstr ""
-
-msgid "Cat with tears of joy"
-msgstr ""
-
-msgid "Smiling cat with heart-eyes"
-msgstr ""
-
-msgid "Cat with wry smile"
-msgstr ""
-
-msgid "Kissing cat"
-msgstr ""
-
-msgid "Weary cat"
-msgstr ""
-
-msgid "Crying cat"
-msgstr ""
-
-msgid "Pouting cat"
-msgstr ""
-
-msgid "Thumbs up"
-msgstr ""
-
-msgid "Thumbs down"
-msgstr ""
-
-msgid "Clapping hands"
-msgstr ""
-
-msgid "Raising hands"
-msgstr ""
-
-msgid "Waving hand"
-msgstr ""
-
-msgid "OK hand"
-msgstr "Добре рука"
-
-msgid "Pinching hand"
-msgstr "Щипаюча рука"
-
-msgid "Victory hand"
-msgstr "Рука перемоги"
-
-msgid "Love-you gesture"
-msgstr "Жест кохання"
-
-msgid "Sign of the horns"
-msgstr "Знак роги"
-
-msgid "Call me hand"
-msgstr "Поклич мені руку"
-
-msgid "Middle finger"
-msgstr "Середній палець"
-
-msgid "Heart hands"
-msgstr "Руки серця"
+msgid "Flags"
+msgstr "Прапор"
 
 msgid "Offline"
 msgstr "Офлайн"
@@ -378,8 +51,17 @@ msgstr "Офлайн"
 msgid "Chats"
 msgstr "Чати"
 
+msgid "All chats"
+msgstr "Всі чати"
+
 msgid "Loading chats..."
 msgstr "Завантаження чатів..."
+
+msgid "Archive"
+msgstr "Архів"
+
+msgid "Mark all chats as read"
+msgstr "Позначте всі чати як прочитані"
 
 #, python-brace-format
 msgid "Chats ({0})"
@@ -398,17 +80,37 @@ msgstr "Відкрити чат"
 msgid "Contacts ({0})"
 msgstr "Контакти ({0})"
 
+msgid "My profile"
+msgstr "Мій профіль"
+
+msgid "Search"
+msgstr "Пошук"
+
 msgid "Preferences"
 msgstr "Налаштуваня"
 
 msgid "About Easygram"
 msgstr "Про Easygram"
 
+#, python-brace-format
+msgid "Archive: {count} unread chat"
+msgid_plural "Archive: {count} unread chats"
+msgstr[0] "Архів: {count} непрочитаний чат"
+msgstr[1] "Архів: {count} непрочитані чати"
+msgstr[2] "Архів: {count} непрочитаних чатів"
+
 msgid "Skipped one-time voice message"
 msgstr "Пропущено одноразове голосове повідомлення"
 
-msgid "Your chats"
-msgstr "Ваші чати"
+#, python-brace-format
+msgid "Do you really want to delete this \"{name}\" contact?"
+msgstr "Ви дійсно хочете видалити цей контакт \"{name}\"?"
+
+msgid "Confirmation"
+msgstr "під твердити"
+
+msgid "Archived chats"
+msgstr "Архівовані чати"
 
 msgid "Are you sure you want to close application?"
 msgstr "Ви впевнені, що бажаєте закрити програму?"
@@ -427,6 +129,9 @@ msgstr "Невірний пароль!"
 
 msgid "Authorisation Error"
 msgstr "Помилка авторизації"
+
+msgid "Do you really want to mark all the chats on this list as read?"
+msgstr "Ви дійсно хочете позначити всі чати в цьому списку як прочитані?"
 
 msgid "Updating..."
 msgstr "Оновлення..."
@@ -461,12 +166,11 @@ msgid "Inline keyboard"
 msgstr "Вбудована клавіатура"
 
 msgid "Emoji"
-msgstr "Emoji"
+msgstr "Эмодзи"
 
 msgid "Schedule message"
 msgstr "Розклад повідомлення"
 
-#. TRANSLATORS: this is the label of the button in the file attachment dialog box.
 msgid "Set date and time..."
 msgstr "Установити дату й час..."
 
@@ -500,8 +204,44 @@ msgstr "Увімкнути звук"
 msgid "Join the channel"
 msgstr "приєднаться до каналу"
 
+msgid "Apply to join group"
+msgstr "Подати заявку на вступ до групи"
+
+msgid "Join the group"
+msgstr "Приєднуйтесь до групи"
+
+msgid "Select topic"
+msgstr "Виберіть тему"
+
 msgid "Close"
 msgstr "Закрити"
+
+msgid "All files"
+msgstr "Всі файли"
+
+msgid "Save file"
+msgstr "Зберегти файл"
+
+#, python-brace-format
+msgid "Topic: {name}"
+msgstr "Тема: {name}"
+
+msgid "The request has been sent"
+msgstr "Запит був відправлений"
+
+msgid "Information"
+msgstr "Інформація"
+
+#, python-brace-format
+msgid ""
+"Failed to save file \"{name}\", such file already exists and name search "
+"limit exceeded."
+msgstr ""
+"Не вдалося зберегти файл \"{name}\",такий файл уже існує, і перевищено ліміт "
+"пошуку за назвою."
+
+msgid "Error"
+msgstr "Помилка"
 
 msgid "Messages"
 msgstr "Повідомлення"
@@ -510,8 +250,8 @@ msgid "Message:"
 msgstr "повідомлення:"
 
 #, python-brace-format
-msgid "Reply to {name}:"
-msgstr "Відповісти на {name}:"
+msgid "Reply to {name}: {text}:"
+msgstr "Відповісти на {name}: {text}:"
 
 msgid "online"
 msgstr "онлайн"
@@ -586,14 +326,13 @@ msgstr "Видалити для себе"
 msgid "There are no links in this message."
 msgstr "У цьому повідомленні немає посилань."
 
-msgid "Information"
-msgstr "Інформація"
-
 msgid "Voice and video messages in this chat are restricted!"
 msgstr "Голосові та відеоповідомлення в цьому чаті обмежені!"
 
-msgid "All files"
-msgstr "Всі файли"
+msgid "Unable to send a voice message because the input device was not found."
+msgstr ""
+"Не вдається надіслати голосове повідомлення, оскільки пристрій введення не "
+"знайдено."
 
 msgid "Select file"
 msgstr "Виберіть файл"
@@ -610,23 +349,25 @@ msgstr "Помилка надсилання"
 msgid "You have not set the date and time!"
 msgstr "Ви не встановили дату та час!"
 
-msgid "Error"
-msgstr "Помилка"
-
 msgid "%d.%m.%Y at %H:%M"
-msgstr ""
+msgstr "%d.%m.%Y о %H:%M"
 
 #, python-brace-format
 msgid "Scheduled for: {date}"
 msgstr "Заплановано на: {date}"
 
-#, python-brace-format
+msgid "Scheduled for: When the user is online"
+msgstr "Заплановано на: коли користувач знаходиться в мережі"
+
+msgid "An error occurred. See details in the event log."
+msgstr "Сталася помилка. Подробиці дивіться в журналі подій."
+
 msgid ""
-"Failed to save file \"{name}\", such file already exists and name search "
-"limit exceeded."
-msgstr ""
-"Не вдалося зберегти файл \"{name}\",такий файл уже існує, і перевищено ліміт "
-"пошуку за назвою."
+"It was not possible to import contact. Perhaps it is absent in Telegram."
+msgstr "Не вдалося імпортувати контакт. Можливо, він відсутній у Telegram."
+
+msgid "Successfully imported."
+msgstr "Успішно імпортовано."
 
 msgid "Comment:"
 msgstr "коментар:"
@@ -639,6 +380,18 @@ msgstr "Коментарі для:"
 
 msgid "Schedule"
 msgstr "розклад"
+
+msgid "When to send"
+msgstr "Коли відправляти"
+
+msgid "Date and time"
+msgstr "Дата і час"
+
+msgid "When will user be online"
+msgstr "Коли користувач буде підключений до мережі"
+
+msgid "Date and time selection"
+msgstr "Вибір дати і часу"
 
 msgid "Hour:"
 msgstr "година:"
@@ -677,15 +430,15 @@ msgid "Personal channel"
 msgstr "Персональний канал"
 
 msgid "ID:"
-msgstr ""
+msgstr "Ідентифікатор:"
 
 #, python-brace-format
 msgid "{day}/{month}/{year}"
-msgstr ""
+msgstr "{day}/{month}/{year}"
 
 #, python-brace-format
 msgid "{day}/{month}"
-msgstr ""
+msgstr "{day}/{month}"
 
 #, python-brace-format
 msgid "Personal channel: {title}"
@@ -717,11 +470,24 @@ msgstr "голосове повідомленя: {title}"
 msgid "Start recording"
 msgstr "Почніть запис"
 
+msgid "Options"
+msgstr "Опції"
+
 msgid "Delete after listening"
 msgstr "Видалити після прослуховування"
 
 msgid "Stop recording"
 msgstr "Зупинити запис"
+
+msgid ""
+"An error occurred while sending a voice message. See the log for more "
+"details."
+msgstr ""
+"Сталася помилка під час надсилання голосового повідомлення. Більш детальну "
+"інформацію дивіться в журналі."
+
+msgid "An error occurred while converting the file."
+msgstr "Під час конвертації файлу сталася помилка."
 
 msgid "Can't send empty messages!"
 msgstr "Не можна надсилати порожні повідомлення!"
@@ -732,17 +498,11 @@ msgstr "Інформація"
 msgid "Sending in progress..."
 msgstr "Триває надсилання..."
 
-msgid "An error occurred while writing the file."
-msgstr "Під час запису файлу сталася помилка."
-
-msgid "An error occurred while converting the file."
-msgstr "Під час конвертації файлу сталася помилка."
+msgid "A message is being sent. Do you really want to close this window?"
+msgstr "Надсилається повідомлення. Ви дійсно хочете закрити це вікно?"
 
 msgid "Cancel the record and delete the message?"
 msgstr "Скасувати запис і видалити повідомлення?"
-
-msgid "Confirmation"
-msgstr "під твердити"
 
 #, python-brace-format
 msgid "Poll: {title}, anonymous poll"
@@ -791,22 +551,7 @@ msgid "Links"
 msgstr "Посилання"
 
 msgid "Original text in English: © Eugene Poplavsky."
-msgstr ""
-
-#, python-brace-format
-msgid ""
-"Easygram is distributed under the GNU GPLv3 open source license, with the "
-"exception of certain additional components and Microsoft redistributable "
-"code. By using or distributing Easygram, you agree to be bound by the terms "
-"of the license agreement. The text of the license can be found at:\n"
-"{link}"
-msgstr ""
-"Easygram поширюється за ліцензією GNU GPLv3 з відкритим вихідним кодом, за "
-"винятком певних додаткових компонентів і коду Microsoft, який можна "
-"розповсюджувати. Використовуючи або розповсюджуючи Easygram, ви погоджуєтеся "
-"дотримуватися умов ліцензійної угоди. З текстом ліцензії можна ознайомитися "
-"за адресою:\n"
-"{link}"
+msgstr "Переклад українською мовою: © Євген Поплавський."
 
 msgid "Easygram also includes a number of GNU GPL compatible components."
 msgstr "Easygram також містить ряд компонентів, сумісних із GNU GPL."
@@ -819,47 +564,9 @@ msgstr ""
 "{name}, версія: {version}\n"
 "{link}"
 
-msgid "File path:"
-msgstr "шлях до файлу:"
-
-msgid "Caption:"
-msgstr "Підпис:"
-
-msgid "Attach file"
-msgstr "Прикріпити файл"
-
-msgid "No such file exists!"
-msgstr "Такого файлу не існує!"
-
-msgid "The caption text is too long!"
-msgstr "Текст підпису задовгий!"
-
-msgid "No command to send!"
-msgstr "Немає команд для надсилання!"
-
-msgid "Attach video"
-msgstr "Прикріпіть відео"
-
-msgid "Attach audio"
-msgstr "Прикріпіть аудіо"
-
-msgid "Title:"
-msgstr "Назва:"
-
-msgid "Performer:"
-msgstr "Виконавець:"
-
-msgid "Title required!"
-msgstr "Потрібна назва!"
-
-msgid "Attach photo"
-msgstr "Прикріпіть фото"
-
-msgid "Attach animation"
-msgstr "Прикріпіть анімацію"
-
-msgid "Attach document"
-msgstr "Прикріпити документ"
+#. TRANSLATORS: this text on button in about dialog.
+msgid "Keyboard shortcuts"
+msgstr "Комбінації клавіш"
 
 msgid "About the channel"
 msgstr "Про канал"
@@ -888,8 +595,14 @@ msgstr "Неможливо надіслати пусте повідомленн�
 msgid "Edit document"
 msgstr "Редагувати документ"
 
+msgid "Caption:"
+msgstr "Підпис:"
+
 msgid "Override file..."
 msgstr "Перевизначити файл..."
+
+msgid "File path:"
+msgstr "шлях до файлу:"
 
 msgid "Browse..."
 msgstr "Огляд..."
@@ -927,6 +640,12 @@ msgstr "Редагувати аудіо"
 msgid "All audio files"
 msgstr "Всі аудіофайли"
 
+msgid "Title:"
+msgstr "Назва:"
+
+msgid "Performer:"
+msgstr "Виконавець:"
+
 msgid "Edit voice note"
 msgstr "Редагувати голосову нотатку"
 
@@ -942,6 +661,10 @@ msgstr "Успішно"
 #, python-brace-format
 msgid "File '{name}' saved in downloads"
 msgstr "Файл '{name}' збережено в завантаженнях"
+
+#, python-brace-format
+msgid "The file is saved in \"{path}\""
+msgstr "Файл збережено в \"{path}\""
 
 msgid "Show in Folder"
 msgstr "Показати в папці"
@@ -970,6 +693,9 @@ msgstr "Заплановане повідомлення"
 #, python-brace-format
 msgid "Message scheduled at {date}"
 msgstr "Повідомлення заплановане на {date}"
+
+msgid "The message will be sent when the user is online."
+msgstr "Повідомлення буде надіслано, коли користувач буде в мережі."
 
 msgid "Message Detail"
 msgstr "Деталі повідомлення"
@@ -1009,7 +735,7 @@ msgid "Group created."
 msgstr "Групу створено."
 
 msgid "Gif:"
-msgstr ""
+msgstr "Gif:"
 
 msgid "Call message:"
 msgstr "Повідомлення про виклик:"
@@ -1035,8 +761,17 @@ msgstr "реакції: {reactions}"
 msgid "You sent a reaction {r}"
 msgstr "Ви надіслали реакцію {r}"
 
-msgid "Insert emoji"
-msgstr "Вставте емодзі"
+msgid "Emoji panel"
+msgstr "Панель емодзі"
+
+msgid "All"
+msgstr "всі"
+
+msgid "Categories"
+msgstr "Категорія"
+
+msgid "Filter:"
+msgstr "Фільтр:"
 
 msgid "List of pinned messages"
 msgstr "Список закріплених повідомлень"
@@ -1064,6 +799,9 @@ msgstr "Переслати повідомлення"
 
 msgid "Chats:"
 msgstr "Чати:"
+
+msgid "Topic:"
+msgstr "Тема:"
 
 msgid "Advanced options"
 msgstr "Розширені параметри"
@@ -1096,14 +834,122 @@ msgstr "Властивості"
 msgid "Send without compression"
 msgstr "Надіслати без стиснення"
 
-msgid "Options"
-msgstr "Опції"
-
 msgid "Attach files"
 msgstr "Прикріпити файли"
 
-msgid "When online"
-msgstr "Коли онлайн"
+msgid "Service notification"
+msgstr "Сервісне повідомлення"
+
+msgid "Log out"
+msgstr "Вийти"
+
+msgid "Change personal information"
+msgstr "Змінити особисту інформацію"
+
+msgid "Basic information"
+msgstr "Основна інформація"
+
+msgid "Your name:"
+msgstr "Ваше ім'я:"
+
+msgid "Your bio:"
+msgstr "Ваша біографія:"
+
+msgid "Birthday"
+msgstr "день народження"
+
+msgid "None"
+msgstr "Немає"
+
+msgid "Day:"
+msgstr "День:"
+
+msgid "Month:"
+msgstr "Місяць:"
+
+msgid "Year:"
+msgstr "Рік:"
+
+msgid "January"
+msgstr "Січня"
+
+msgid "February"
+msgstr "Лютий"
+
+msgid "March"
+msgstr "Березень"
+
+msgid "April"
+msgstr "Квітень"
+
+msgid "May"
+msgstr "Травня"
+
+msgid "June"
+msgstr "Червень"
+
+msgid "July"
+msgstr "Липень"
+
+msgid "August"
+msgstr "Серпень"
+
+msgid "September"
+msgstr "Вересень"
+
+msgid "October"
+msgstr "Жовтень"
+
+msgid "November"
+msgstr "Листопад"
+
+msgid "December"
+msgstr "Грудень"
+
+msgid "Change phone number"
+msgstr "Змінити номер телефону"
+
+msgid "Change personal channel"
+msgstr "Змінити особистий канал"
+
+msgid "Change User name"
+msgstr "Змінити ім'я користувача"
+
+msgid "Are you sure you want to log out of your account?"
+msgstr "Ви впевнені, що бажаєте вийти зі свого облікового запису?"
+
+msgid "Feature not yet supported!"
+msgstr "Функція ще не підтримується!"
+
+msgid "Failed to get full profile information."
+msgstr "Не вдалося отримати повну інформацію профілю."
+
+msgid "Topics:"
+msgstr "Теми:"
+
+msgid "Search query:"
+msgstr "Пошуковий запит:"
+
+msgid "Search Results"
+msgstr "Результати пошуку"
+
+msgid "Clear history"
+msgstr "Очистити історію"
+
+msgid "From your chats"
+msgstr "З ваших чатів"
+
+msgid "Global search"
+msgstr "Глобальний пошук"
+
+msgid "No results"
+msgstr "Результатів немає"
+
+msgid "An error has occurred"
+msgstr "Сталася помилка"
+
+msgid "Do you really want to clear search history?"
+msgstr "Ви дійсно хочете очистити історію пошуку?"
 
 msgid "Seen"
 msgstr "бачили"
@@ -1138,6 +984,9 @@ msgstr "країна:"
 msgid "Country"
 msgstr "Країна"
 
+msgid "Log in by QR Code"
+msgstr "Увійти за допомогою QR-коду"
+
 msgid "Next"
 msgstr "Далі"
 
@@ -1147,20 +996,44 @@ msgstr "Ви хочете зупинити процес перевірки?"
 msgid "Enter confirmation code"
 msgstr "Введіть код підтвердження"
 
-msgid "The code was sent to you via Telegram."
-msgstr "Код надіслали вам через Telegram."
+#, python-brace-format
+msgid "The code was sent to you via Telegram to {number}."
+msgstr "Код надіслано вам через Telegram на номер {number}."
 
-msgid "The code was sent to you via SMS."
-msgstr "Код був надісланий вам через SMS."
+#, python-brace-format
+msgid "The code was sent to you via SMS to {number}."
+msgstr "Вам було надіслано SMS на номер {number}."
 
 msgid "Confirmation code:"
 msgstr "Код підтвердження:"
+
+msgid "Incorrect phone number?"
+msgstr "Неправильний номер телефону?"
 
 msgid "Enter password"
 msgstr "Введіть пароль"
 
 msgid "Password:"
 msgstr "Пароль:"
+
+msgid ""
+"\n"
+"Instruction:\n"
+"\t\t1: Open Telegram on your phone.\n"
+"\t\t2: Go to Settings > Devices > Link Desktop Device.\n"
+"\t\t3: Point your phone at this screen to confirm login.\n"
+"\t\t"
+msgstr ""
+"\n"
+"Інструкція:\n"
+"\t\t1: Відкрийте Telegram на телефоні.\n"
+"\t\t2: перейдіть у «Налаштування» > «Пристрої» > «Підключити настільний "
+"пристрій».\n"
+"\t\t3: Наведіть телефон на цей екран, щоб підтвердити вхід.\n"
+"\t\t"
+
+msgid "Log in by phone number"
+msgstr "Увійти за номером телефону"
 
 msgid "Registration"
 msgstr "Реєстрація"
@@ -1188,73 +1061,140 @@ msgstr "Неправильний код підтвердження!"
 msgid "Incorrect password!"
 msgstr "Невірний пароль!"
 
-msgid "Detailed view"
-msgstr "детально про повідомленя"
+msgid "Detailed &view"
+msgstr "Детальний &перегляд"
 
-msgid "Copy text"
-msgstr "Скопіюйте текст"
+msgid "&Copy text"
+msgstr "&Копіювати текст"
 
-msgid "Save in downloads"
-msgstr "Зберегти в завантаженнях"
+msgid "&Save in downloads"
+msgstr "&Зберегти в завантаженнях"
 
-msgid "Reply"
-msgstr "Відповісти"
+msgid "Save fi&le as..."
+msgstr ""
 
-msgid "Pin"
-msgstr "закріпити"
+msgid "&Save VCard"
+msgstr "&Зберегти VCard"
 
-msgid "Go to quoted message"
-msgstr "Перейти до цитованого повідомлення"
+msgid "Impor&t in to contacts"
+msgstr ""
 
-#, python-brace-format
-msgid "Comments: {count}"
-msgstr "Коментарі: {count}"
+msgid "&Reply"
+msgstr "&Відповісти"
 
-msgid "Go to original message"
-msgstr "Перейти до оригінального повідомлення"
+msgid "&Pin"
+msgstr "За&кріпити"
 
-msgid "Add to favorites"
-msgstr "Додати в обране"
+msgid "Un&pin"
+msgstr "Від&кріпити"
 
-msgid "Forward"
-msgstr "переслати"
-
-msgid "Add reaction"
-msgstr "Додайте реакцію"
+msgid "Go to &quoted message"
+msgstr "Перейти до &цитованого повідомлення"
 
 #, python-brace-format
-msgid "Remove reaction {r}"
-msgstr "Видалити реакцію {r}"
+msgid "Co&mments: {count}"
+msgstr ""
 
-msgid "Open profile"
-msgstr "Відкрити профіль"
+msgid "&Go to original message"
+msgstr "&Перейти до вихідного повідомлення"
 
-msgid "Open"
-msgstr "Від крити"
+msgid "&Add to favorites"
+msgstr "&Додати до вибраного"
 
-msgid "Mark as read"
-msgstr "Позначити як прочитане"
+msgid "&Forward"
+msgstr ""
 
-msgid "Leave channel"
-msgstr "Залишити канал"
+msgid "Copy lin&k"
+msgstr ""
 
-msgid "Leave group"
-msgstr "Вийти з групи"
+msgid "Add react&ion"
+msgstr ""
 
-msgid "Clear history"
-msgstr "Очистити історію"
+#, python-brace-format
+msgid "Remove reacti&on {r}"
+msgstr ""
+
+msgid "Open the &user profile"
+msgstr "Відкрийте &профіль користувача"
+
+msgid "&Edit message"
+msgstr ""
+
+msgid "&Delete"
+msgstr ""
+
+msgid "&Open"
+msgstr ""
+
+msgid "Mark as &read"
+msgstr ""
+
+msgid "&View as messages"
+msgstr ""
+
+msgid "&View as topics"
+msgstr ""
+
+msgid "Move to &archive"
+msgstr ""
+
+msgid "Un&archive"
+msgstr ""
+
+msgid "A&bout user"
+msgstr ""
+
+msgid "A&bout the channel"
+msgstr ""
+
+msgid "&Leave channel"
+msgstr ""
+
+msgid "&Leave group"
+msgstr ""
+
+msgid "&Clear history"
+msgstr ""
 
 msgid "Are you sure you want to leave this channel?"
 msgstr "Ви впевнені, що бажаєте залишити цей канал?"
 
+msgid "Leave channel"
+msgstr "Залишити канал"
+
 msgid "Are you sure you want to leave this group?"
 msgstr "Ви впевнені, що бажаєте залишити цю групу?"
 
-msgid "Show window"
-msgstr "Показати вікно"
+msgid "Leave group"
+msgstr "Вийти з групи"
 
-msgid "Exit"
-msgstr "Вихід"
+msgid "&Show window"
+msgstr ""
+
+msgid "E&xit"
+msgstr ""
+
+msgid "&All chats"
+msgstr ""
+
+#, python-brace-format
+msgid "{title}: {count} unread chat"
+msgid_plural "{title}: {count} unread chats"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+msgid "Open &chat"
+msgstr ""
+
+msgid "Contact &information"
+msgstr ""
+
+msgid "Delete from Favorites"
+msgstr ""
+
+msgid "Add to Favorites"
+msgstr ""
 
 msgid "You"
 msgstr "Ви"
@@ -1311,9 +1251,18 @@ msgstr ""
 msgid "The user is now in telegram."
 msgstr "Користувач зараз у Telegram."
 
+msgid "Channel created."
+msgstr ""
+
 #. TRANSLATORS: This is the text of the message when the user creates a group.
 msgid "Group created"
 msgstr "Групу створено"
+
+msgid "Channel photo updated"
+msgstr ""
+
+msgid "Group photo updated"
+msgstr ""
 
 msgid "This group has become a supergroup."
 msgstr "Ця група стала супергрупою."
@@ -1359,6 +1308,16 @@ msgstr "видалено {user}"
 msgid "joined the group via invite link"
 msgstr "приєднався до групи за посиланням для запрошення"
 
+msgid "was accepted into the group"
+msgstr ""
+
+#, python-brace-format
+msgid "Contact: {name}"
+msgstr ""
+
+msgid "Location"
+msgstr ""
+
 msgid "Pinned message"
 msgstr "Закріплене повідомлення"
 
@@ -1376,6 +1335,12 @@ msgstr "Відеоповідомлення {h}:{m}:{s}"
 
 msgid "Expired voice message"
 msgstr "Термін дії голосового повідомлення минув"
+
+msgid "Closed the topic."
+msgstr ""
+
+msgid "Opened the topic."
+msgstr ""
 
 msgid "Unsupported message type"
 msgstr "Непідтримуваний тип повідомлення"
@@ -1419,6 +1384,137 @@ msgid "I don't know what to call such a big size!"
 msgstr "Я не знаю, як назвати такий великий розмір!"
 
 #, python-brace-format
+msgid "Scheduled at {time}"
+msgstr "Заплановано о {time}"
+
+#, python-brace-format
+msgid "Scheduled {date} at {time}"
+msgstr "За розкладом {date} в {time}"
+
+msgid "Send when online."
+msgstr ""
+
+#, python-brace-format
+msgid "Sent at {time}"
+msgstr "Надіслано о {time}"
+
+#, python-brace-format
+msgid "Sent {date} at {time}"
+msgstr "Надіслано {date} в {time}"
+
+#, python-brace-format
+msgid "Sending... at {time}"
+msgstr "Надсилання... о {time}"
+
+#, python-brace-format
+msgid "Sending... {date} at {time}"
+msgstr "Надсилання... {date} в {time}"
+
+#, python-brace-format
+msgid "Sending failed. at {time}"
+msgstr ""
+
+#, python-brace-format
+msgid "Sending failed. {date} at {time}"
+msgstr ""
+
+#, python-brace-format
+msgid "Received at {time}"
+msgstr "Отримано о {time}"
+
+#, python-brace-format
+msgid "Received {date} at {time}"
+msgstr "Отримано {date} в {time}"
+
+msgid "Storage settings"
+msgstr ""
+
+msgid "Never"
+msgstr "Ніколи"
+
+msgid "1 day"
+msgstr ""
+
+msgid "1 week"
+msgstr ""
+
+msgid "1 month"
+msgstr ""
+
+msgid "1 year"
+msgstr ""
+
+msgid "No limit"
+msgstr ""
+
+msgid "100 MB"
+msgstr ""
+
+msgid "200 MB"
+msgstr ""
+
+msgid "500 MB"
+msgstr ""
+
+msgid "1 GB"
+msgstr ""
+
+msgid "2 GB"
+msgstr ""
+
+msgid "5 GB"
+msgstr ""
+
+msgid "10 GB"
+msgstr ""
+
+msgid "20 GB"
+msgstr ""
+
+msgid "50 GB"
+msgstr ""
+
+msgid "Auto-remove cached media"
+msgstr ""
+
+msgid ""
+"Photos, videos and other files from cloud chats that you have not accessed "
+"during this period will be removed from this device to save disk space."
+msgstr ""
+
+msgid "Personal chats: unknown"
+msgstr ""
+
+msgid "Groups: unknown"
+msgstr ""
+
+msgid "Channels: unknown"
+msgstr ""
+
+msgid "Maximum cache size"
+msgstr ""
+
+msgid ""
+"If your cache size exceeds this limit, the oldest unused media will be "
+"removed from the device."
+msgstr ""
+
+msgid "Apply"
+msgstr "Застосувати"
+
+#, python-brace-format
+msgid "Personal chats: {time}"
+msgstr ""
+
+#, python-brace-format
+msgid "Groups: {time}"
+msgstr ""
+
+#, python-brace-format
+msgid "Channels: {time}"
+msgstr ""
+
+#, python-brace-format
 msgid "{program} preferences"
 msgstr "{program} Налаштуваня"
 
@@ -1432,7 +1528,6 @@ msgid "Default"
 msgstr "За замовчуванням"
 
 #, fuzzy
-#| msgid "Enable logging (restart required)"
 msgid "Language (Restart required):"
 msgstr "Увімкнути журналювання (restart required)"
 
@@ -1445,11 +1540,11 @@ msgstr "Підтвердження перед закриттям"
 msgid "Show sender in system tray"
 msgstr "Показати відправника в системному треї"
 
-msgid "Close chats by pressing the ESCAPE key"
-msgstr "Закрийте чати, натиснувши клавішу ESCAPE"
+msgid "Close windows by pressing the ESCAPE key"
+msgstr ""
 
-msgid "Play event sounds"
-msgstr "Відтворення звуків подій"
+msgid "Show the window after complit download"
+msgstr ""
 
 msgid "Downloads"
 msgstr "Завантаження"
@@ -1485,6 +1580,27 @@ msgstr "Очищати журнал під час запуску"
 msgid "Log rotation"
 msgstr ""
 
+msgid "View settings"
+msgstr ""
+
+msgid "Chat list"
+msgstr ""
+
+msgid "Show time after message text"
+msgstr ""
+
+msgid "Mark chats without notifications"
+msgstr ""
+
+msgid "Behavior settings"
+msgstr ""
+
+msgid "Chat window"
+msgstr ""
+
+msgid "Break up long messages"
+msgstr ""
+
 msgid "chats settings"
 msgstr "налаштування чатів"
 
@@ -1509,6 +1625,9 @@ msgstr "Не показувати діалогове вікно «Повідом
 
 msgid "Use new search style in chat and message lists"
 msgstr "Використовуйте новий стиль пошуку в чатах і списках повідомлень"
+
+msgid "Trim long messages (1 - 4096 characters, 0 - do not trim):"
+msgstr ""
 
 #. TRANSLATORS: this is an option when selecting the quality of voice messages.
 msgid "Auto (optimal: approximately 550 kB/Min)"
@@ -1552,6 +1671,45 @@ msgstr "Аудіо повідомлення"
 msgid "Video messages"
 msgstr "Відеоповідомлення"
 
+msgid "Sound scheme settings"
+msgstr ""
+
+msgid "Play the sounds of events"
+msgstr ""
+
+msgid "Events:"
+msgstr ""
+
+msgid "New incoming message in open chat "
+msgstr ""
+
+msgid "New outgoing message in open chat"
+msgstr ""
+
+msgid "New unread message"
+msgstr ""
+
+msgid "Record"
+msgstr ""
+
+msgid "Chat action"
+msgstr ""
+
+msgid "Download is completed"
+msgstr ""
+
+msgid "Select sound:"
+msgstr ""
+
+msgid "Play this sound"
+msgstr ""
+
+msgid "Add new sound..."
+msgstr ""
+
+msgid "Delete sound"
+msgstr ""
+
 msgid "Speech settings"
 msgstr "Налаштування мовлення"
 
@@ -1582,9 +1740,6 @@ msgstr "Завжди"
 
 msgid "In the foreground"
 msgstr "На передньому плані"
-
-msgid "Never"
-msgstr "Ніколи"
 
 msgid "Network Status Changes:"
 msgstr "Зміни стану мережі:"
@@ -1620,17 +1775,40 @@ msgid "Statistics:"
 msgstr "Статистика:"
 
 #, fuzzy
-#| msgid "Name:"
 msgid "Name"
 msgstr "Ім'я:"
 
-#, fuzzy
-#| msgid "Clear history"
-msgid "Clear storage"
-msgstr "Очистити історію"
+msgid "Clear cache"
+msgstr ""
+
+msgid "Troubleshooting"
+msgstr ""
+
+msgid "Use streaming audio encoding when recording"
+msgstr ""
+
+msgid "Audio input latency (ms):"
+msgstr ""
+
+msgid ""
+"Disable record optimization (reduces RAM usage, but requires more free space "
+"on the system drive to store temporary files)"
+msgstr ""
+
+msgid "Keep the cursor position in the chat list"
+msgstr ""
 
 msgid "General"
 msgstr "Загальний"
+
+msgid "View"
+msgstr ""
+
+msgid "Behavior"
+msgstr ""
+
+msgid "Sounds"
+msgstr ""
 
 msgid "Speech"
 msgstr ""
@@ -1641,8 +1819,20 @@ msgstr "Пристрої"
 msgid "Storage"
 msgstr "Зберігання"
 
-msgid "Apply"
-msgstr "Застосувати"
+msgid "Sound files"
+msgstr ""
+
+#, python-brace-format
+msgid "A file with this name already exists: {name}"
+msgstr ""
+
+msgid ""
+"Be Careful! The enable of this option can lead to unstable operation of the "
+"application and various errors. Do you really want to turn on this parameter?"
+msgstr ""
+
+msgid "Warning!"
+msgstr ""
 
 #, python-brace-format
 msgid "Disk usage: {size}, {count} file"
@@ -1653,18 +1843,21 @@ msgstr[2] "Использование диска: {size}, {count} файлов"
 
 msgid ""
 "Are you sure you want to clear storage? After this, all local copies of "
-"files from the cache will be deleted. This action cannot be undone!"
+"files from the cache will be deleted. Your search queries will also be "
+"cleared. This action cannot be undone!"
 msgstr ""
-"Ви впевнені, що бажаєте очистити пам’ять? Після цього всі локальні копії "
-"файлів з кешу будуть видалені. Цю дію не можна скасувати!"
 
 #, fuzzy
-#| msgid "Warnings"
 msgid "Warning"
 msgstr "Попередження"
 
-msgid "Restart the application to apply the new language settings."
-msgstr "Перезапустіть програму, щоб застосувати нові налаштування мови."
+msgid ""
+"To apply some settings, it is required to reboot Easygram. Do you want to "
+"reboot Easygram right now?"
+msgstr ""
+
+msgid "Restart is required"
+msgstr ""
 
 #, python-brace-format
 msgid "{name} (channel)"
@@ -1685,6 +1878,9 @@ msgstr "{title} (онлайн)"
 msgid "(pinned)"
 msgstr "(закріплено)"
 
+msgid "Muted"
+msgstr ""
+
 #, python-brace-format
 msgid "{count} mention"
 msgid_plural "{count} mentions"
@@ -1697,6 +1893,9 @@ msgid_plural "New reactions"
 msgstr[0] "Нова реакція"
 msgstr[1] "Новые реакции"
 msgstr[2] "Новых реакций"
+
+msgid "A choice of topic is available"
+msgstr ""
 
 msgid "Music"
 msgstr "музика"
@@ -1713,12 +1912,58 @@ msgstr "Анімація"
 msgid "Document"
 msgstr "документ"
 
+msgid "(General topic)"
+msgstr ""
+
+msgid "Closed"
+msgstr ""
+
+#, python-brace-format
+msgid "{name} (@{username}) (channel)"
+msgstr ""
+
+#, python-brace-format
+msgid "{name} (@{username}) (group)"
+msgstr ""
+
+#, python-brace-format
+msgid "{name} (@{username}) (bot)"
+msgstr ""
+
+#, python-brace-format
+msgid "{title} (@{username}) (online)"
+msgstr ""
+
+#, python-brace-format
+msgid "{title} (@{username})"
+msgstr ""
+
+#, python-brace-format
+msgid "{count} subscriber"
+msgid_plural "{count} subscribers"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#, python-brace-format
+msgid "{count} member"
+msgid_plural "{count} members"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
 msgid "Nothing is playing"
 msgstr "Нічого не грає"
 
 #, python-brace-format
 msgid "Time: {t}/{l}"
 msgstr "час: {t}/{l}"
+
+msgid "Disabled"
+msgstr ""
+
+msgid "Equalizer"
+msgstr ""
 
 #, python-brace-format
 msgid "Playback rate: {rate}"
@@ -1760,59 +2005,6 @@ msgstr "Швидкість відтворення {rate}"
 msgid "Default playback device"
 msgstr "Пристрій відтворення за умовчанням"
 
-#, python-brace-format
-msgid "Scheduled at {time}"
-msgstr "Заплановано о {time}"
-
-#, python-brace-format
-msgid "Scheduled {date} at {time}"
-msgstr "За розкладом {date} в {time}"
-
-#, python-brace-format
-msgid "Sent at {time}"
-msgstr "Надіслано о {time}"
-
-#, python-brace-format
-msgid "Sent {date} at {time}"
-msgstr "Надіслано {date} в {time}"
-
-#, python-brace-format
-msgid "Sending... at {time}"
-msgstr "Надсилання... о {time}"
-
-#, python-brace-format
-msgid "Sending... {date} at {time}"
-msgstr "Надсилання... {date} в {time}"
-
-#, python-brace-format
-msgid "Received at {time}"
-msgstr "Отримано о {time}"
-
-#, python-brace-format
-msgid "Received {date} at {time}"
-msgstr "Отримано {date} в {time}"
-
-msgid "Outgoing"
-msgstr "Вихідний"
-
-msgid "Incoming"
-msgstr "Вхідні"
-
-msgid "Cancelled"
-msgstr "Скасовано"
-
-msgid "Missed"
-msgstr "Пропущений"
-
-msgid "Declined"
-msgstr "Відхилено"
-
-msgid "video call"
-msgstr "відеодзвінок"
-
-msgid "audio call"
-msgstr "аудіодзвінок"
-
 msgid "Selects a contact"
 msgstr "Вибирає контакт"
 
@@ -1848,3 +2040,220 @@ msgstr "Надсилання аудіо"
 
 msgid "Watching animations"
 msgstr "Перегляд анімацій"
+
+msgid "Outgoing"
+msgstr "Вихідний"
+
+msgid "Incoming"
+msgstr "Вхідні"
+
+msgid "Cancelled"
+msgstr "Скасовано"
+
+msgid "Missed"
+msgstr "Пропущений"
+
+msgid "Declined"
+msgstr "Відхилено"
+
+msgid "video call"
+msgstr "відеодзвінок"
+
+msgid "audio call"
+msgstr "аудіодзвінок"
+
+msgid "Action"
+msgstr ""
+
+msgid "Foreground message"
+msgstr ""
+
+msgid "Background message"
+msgstr ""
+
+msgid "Operation completed"
+msgstr ""
+
+msgid "Background message classic"
+msgstr ""
+
+msgid "Message notification telegram"
+msgstr ""
+
+msgid "Incoming message telegram"
+msgstr ""
+
+msgid "Outgoing message telegram"
+msgstr ""
+
+msgid "Outgoing message"
+msgstr ""
+
+#, python-brace-format
+msgid "{sound} (builtin)"
+msgstr ""
+
+#, python-brace-format
+msgid "{sound} (user)"
+msgstr ""
+
+#~ msgid "OK hand"
+#~ msgstr "Добре рука"
+
+#~ msgid "Pinching hand"
+#~ msgstr "Щипаюча рука"
+
+#~ msgid "Victory hand"
+#~ msgstr "Рука перемоги"
+
+#~ msgid "Love-you gesture"
+#~ msgstr "Жест кохання"
+
+#~ msgid "Sign of the horns"
+#~ msgstr "Знак роги"
+
+#~ msgid "Call me hand"
+#~ msgstr "Поклич мені руку"
+
+#~ msgid "Middle finger"
+#~ msgstr "Середній палець"
+
+#~ msgid "Heart hands"
+#~ msgstr "Руки серця"
+
+#~ msgid "Your chats"
+#~ msgstr "Ваші чати"
+
+#~ msgid "Reply to {name}:"
+#~ msgstr "Відповісти на {name}:"
+
+#~ msgid "An error occurred while writing the file."
+#~ msgstr "Під час запису файлу сталася помилка."
+
+#~ msgid ""
+#~ "Easygram is distributed under the GNU GPLv3 open source license, with the "
+#~ "exception of certain additional components and Microsoft redistributable "
+#~ "code. By using or distributing Easygram, you agree to be bound by the "
+#~ "terms of the license agreement. The text of the license can be found at:\n"
+#~ "{link}"
+#~ msgstr ""
+#~ "Easygram поширюється за ліцензією GNU GPLv3 з відкритим вихідним кодом, "
+#~ "за винятком певних додаткових компонентів і коду Microsoft, який можна "
+#~ "розповсюджувати. Використовуючи або розповсюджуючи Easygram, ви "
+#~ "погоджуєтеся дотримуватися умов ліцензійної угоди. З текстом ліцензії "
+#~ "можна ознайомитися за адресою:\n"
+#~ "{link}"
+
+#~ msgid "Attach file"
+#~ msgstr "Прикріпити файл"
+
+#~ msgid "No such file exists!"
+#~ msgstr "Такого файлу не існує!"
+
+#~ msgid "The caption text is too long!"
+#~ msgstr "Текст підпису задовгий!"
+
+#~ msgid "No command to send!"
+#~ msgstr "Немає команд для надсилання!"
+
+#~ msgid "Attach video"
+#~ msgstr "Прикріпіть відео"
+
+#~ msgid "Attach audio"
+#~ msgstr "Прикріпіть аудіо"
+
+#~ msgid "Title required!"
+#~ msgstr "Потрібна назва!"
+
+#~ msgid "Attach photo"
+#~ msgstr "Прикріпіть фото"
+
+#~ msgid "Attach animation"
+#~ msgstr "Прикріпіть анімацію"
+
+#~ msgid "Attach document"
+#~ msgstr "Прикріпити документ"
+
+#~ msgid "Insert emoji"
+#~ msgstr "Вставте емодзі"
+
+#~ msgid "When online"
+#~ msgstr "Коли онлайн"
+
+#~ msgid "The code was sent to you via Telegram."
+#~ msgstr "Код надіслали вам через Telegram."
+
+#~ msgid "The code was sent to you via SMS."
+#~ msgstr "Код був надісланий вам через SMS."
+
+#~ msgid "Detailed view"
+#~ msgstr "детально про повідомленя"
+
+#~ msgid "Copy text"
+#~ msgstr "Скопіюйте текст"
+
+#~ msgid "Save in downloads"
+#~ msgstr "Зберегти в завантаженнях"
+
+#~ msgid "Reply"
+#~ msgstr "Відповісти"
+
+#~ msgid "Pin"
+#~ msgstr "закріпити"
+
+#~ msgid "Go to quoted message"
+#~ msgstr "Перейти до цитованого повідомлення"
+
+#~ msgid "Comments: {count}"
+#~ msgstr "Коментарі: {count}"
+
+#~ msgid "Go to original message"
+#~ msgstr "Перейти до оригінального повідомлення"
+
+#~ msgid "Add to favorites"
+#~ msgstr "Додати в обране"
+
+#~ msgid "Forward"
+#~ msgstr "переслати"
+
+#~ msgid "Add reaction"
+#~ msgstr "Додайте реакцію"
+
+#~ msgid "Remove reaction {r}"
+#~ msgstr "Видалити реакцію {r}"
+
+#~ msgid "Open profile"
+#~ msgstr "Відкрити профіль"
+
+#~ msgid "Open"
+#~ msgstr "Від крити"
+
+#~ msgid "Mark as read"
+#~ msgstr "Позначити як прочитане"
+
+#~ msgid "Show window"
+#~ msgstr "Показати вікно"
+
+#~ msgid "Exit"
+#~ msgstr "Вихід"
+
+#~ msgid "Close chats by pressing the ESCAPE key"
+#~ msgstr "Закрийте чати, натиснувши клавішу ESCAPE"
+
+#~ msgid "Play event sounds"
+#~ msgstr "Відтворення звуків подій"
+
+#, fuzzy
+#~| msgid "Clear history"
+#~ msgid "Clear storage"
+#~ msgstr "Очистити історію"
+
+#~ msgid ""
+#~ "Are you sure you want to clear storage? After this, all local copies of "
+#~ "files from the cache will be deleted. This action cannot be undone!"
+#~ msgstr ""
+#~ "Ви впевнені, що бажаєте очистити пам’ять? Після цього всі локальні копії "
+#~ "файлів з кешу будуть видалені. Цю дію не можна скасувати!"
+
+#~ msgid "Restart the application to apply the new language settings."
+#~ msgstr "Перезапустіть програму, щоб застосувати нові налаштування мови."
