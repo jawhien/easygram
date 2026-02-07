@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 'easygram' '0.50'\n"
 "Report-Msgid-Bugs-To: 'jawhien@gmail.com'\n"
-"POT-Creation-Date: 2026-02-01 17:32+0300\n"
+"POT-Creation-Date: 2026-02-07 12:57+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1908,6 +1908,9 @@ msgid "Keep the cursor position in the chat list"
 msgstr ""
 
 msgid "Process internal Telegram links in the app (If available)"
+msgstr ""
+
+msgid "Use new TDLib client (may cause instability)"
 msgstr ""
 
 msgid "General"
