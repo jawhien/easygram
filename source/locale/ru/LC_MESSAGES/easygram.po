@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Easygram 0.50.0\n"
 "Report-Msgid-Bugs-To: 'jawhien@gmail.com'\n"
-"POT-Creation-Date: 2026-02-01 14:18+0300\n"
-"PO-Revision-Date: 2026-02-01 14:22+0300\n"
+"POT-Creation-Date: 2026-02-04 14:18+0300\n"
+"PO-Revision-Date: 2026-02-04 14:19+0300\n"
 "Last-Translator: Peter Ivanovich <piatro97@gmail.com>\n"
 "Language-Team: Eugene Poplavsky <jawhien@gmail.com>, Peter Ivanovich "
 "<piatro97@gmail.com>, Danil Kostenkov <danilkostenkov38@gmail.com>\n"
@@ -2126,6 +2126,9 @@ msgstr "Сохранять позицию курсора в списке чат�
 
 msgid "Process internal Telegram links in the app (If available)"
 msgstr "Обрабатывать внутренние ссылки Telegram в приложении (если доступно)"
+
+msgid "Use new TDLib client (may cause instability)"
+msgstr "Использовать новый клиент TDLib (может вызывать нестабильность)"
 
 msgid "General"
 msgstr "Общие"
