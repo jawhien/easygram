@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: 'easygram' '0.50'\n"
+"Project-Id-Version: 'easygram' '0.52'\n"
 "Report-Msgid-Bugs-To: 'jawhien@gmail.com'\n"
-"POT-Creation-Date: 2026-02-07 12:57+0300\n"
+"POT-Creation-Date: 2026-03-03 16:14+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -127,10 +127,10 @@ msgstr ""
 msgid "Close"
 msgstr ""
 
-msgid "Can't open chat for this message."
+msgid "Error"
 msgstr ""
 
-msgid "Error"
+msgid "Can't open chat for this message."
 msgstr ""
 
 msgid "You need a Telegram premium subscription to send messages on this name."
@@ -208,8 +208,8 @@ msgid "last seen {date} at {time}"
 msgstr ""
 
 #, python-brace-format
-msgid "Channel: {name}, {count} member"
-msgid_plural "Channel: {name}, {count} members"
+msgid "Channel: {name}, {count} subscriber"
+msgid_plural "Channel: {name}, {count} subscribers"
 msgstr[0] ""
 msgstr[1] ""
 
@@ -253,12 +253,6 @@ msgstr ""
 msgid "No unread mentions."
 msgstr ""
 
-msgid "Search unread reactions."
-msgstr ""
-
-msgid "Search unread mentions."
-msgstr ""
-
 msgid "Go to message"
 msgstr ""
 
@@ -269,6 +263,15 @@ msgid "Copyed"
 msgstr ""
 
 msgid "There are no links in this message."
+msgstr ""
+
+msgid "Searching unread reactions."
+msgstr ""
+
+msgid "Searching unread mentions."
+msgstr ""
+
+msgid "There are no reactions for this message."
 msgstr ""
 
 msgid "Voice and video messages in this chat are restricted!"
@@ -300,6 +303,9 @@ msgid "Scheduled for: {date}"
 msgstr ""
 
 msgid "Scheduled for: When the user is online"
+msgstr ""
+
+msgid "The Transcription text is ready."
 msgstr ""
 
 msgid "An error occurred. See details in the event log."
@@ -943,6 +949,12 @@ msgstr ""
 msgid "Notifications settings"
 msgstr ""
 
+msgid "Add contact"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
 msgid "Seen"
 msgstr ""
 
@@ -965,6 +977,64 @@ msgid "Loading"
 msgstr ""
 
 msgid "Pinned"
+msgstr ""
+
+msgid "Insert link"
+msgstr ""
+
+msgid "Link text:"
+msgstr ""
+
+msgid "URL address:"
+msgstr ""
+
+#. standard items
+msgid "&Undo"
+msgstr ""
+
+msgid "&Redo"
+msgstr ""
+
+msgid "Cu&t"
+msgstr ""
+
+msgid "&Copy"
+msgstr ""
+
+msgid "&Paste"
+msgstr ""
+
+msgid "&Delete"
+msgstr ""
+
+msgid "Select &all"
+msgstr ""
+
+msgid "&Bold"
+msgstr ""
+
+msgid "&Italic"
+msgstr ""
+
+msgid "&Strikethrough"
+msgstr ""
+
+msgid "&Monospace"
+msgstr ""
+
+msgid "S&poiler"
+msgstr ""
+
+msgid "&Link"
+msgstr ""
+
+msgid "&Formatting"
+msgstr ""
+
+msgid "C&lear"
+msgstr ""
+
+msgid "Cleared"
 msgstr ""
 
 msgid "Enter the phone number"
@@ -1047,10 +1117,16 @@ msgstr ""
 msgid "Incorrect password!"
 msgstr ""
 
-msgid "Detailed &view"
+msgid "Detailed &view\tSpace"
 msgstr ""
 
 msgid "&Copy text"
+msgstr ""
+
+msgid "Hide transcription"
+msgstr ""
+
+msgid "Show &transcription"
 msgstr ""
 
 msgid "&Save in downloads"
@@ -1106,13 +1182,16 @@ msgstr ""
 msgid "&Edit message"
 msgstr ""
 
-msgid "&Delete"
-msgstr ""
-
 msgid "&Open"
 msgstr ""
 
 msgid "Mark as &read"
+msgstr ""
+
+msgid "Mark all &mentions as read"
+msgstr ""
+
+msgid "Mark all reactio&ns as read"
 msgstr ""
 
 msgid "&View as messages"
@@ -1160,7 +1239,7 @@ msgstr ""
 msgid "E&xit"
 msgstr ""
 
-msgid "&All chats"
+msgid "All chats"
 msgstr ""
 
 #, python-brace-format
@@ -1314,6 +1393,10 @@ msgid "(listened)"
 msgstr ""
 
 msgid "(not listened)"
+msgstr ""
+
+#, python-brace-format
+msgid "{message}, {transcription}"
 msgstr ""
 
 #. TRANSLATORS: this is the message when a user has joined a group
@@ -1488,6 +1571,61 @@ msgstr ""
 msgid "Changed {date} at {time}"
 msgstr ""
 
+msgid "Transcription error"
+msgstr ""
+
+msgid "Recognition in progress..."
+msgstr ""
+
+#, python-brace-format
+msgid "Transcription: {text}"
+msgstr ""
+
+msgid "Add proxy"
+msgstr ""
+
+msgid "Enable proxy"
+msgstr ""
+
+msgid "Proxy server:"
+msgstr ""
+
+msgid "Port:"
+msgstr ""
+
+msgid "Proxy type"
+msgstr ""
+
+msgid "MTProto secret:"
+msgstr ""
+
+msgid "Socks5 username (optional):"
+msgstr ""
+
+msgid "Socks5 password (optional):"
+msgstr ""
+
+msgid "Http username (optional):"
+msgstr ""
+
+msgid "Http password (optional):"
+msgstr ""
+
+msgid "Please enter both host and port"
+msgstr ""
+
+msgid "Port must be a number"
+msgstr ""
+
+msgid "Please enter MTProto secret"
+msgstr ""
+
+msgid "Please select a proxy type"
+msgstr ""
+
+msgid "Edit proxy"
+msgstr ""
+
 msgid "Storage settings"
 msgstr ""
 
@@ -1607,13 +1745,16 @@ msgstr ""
 msgid "Close windows by pressing the ESCAPE key"
 msgstr ""
 
-msgid "Show the window after complit download"
+msgid "Open window after download completes"
 msgstr ""
 
 msgid "Downloads"
 msgstr ""
 
 msgid "Path to save files:"
+msgstr ""
+
+msgid "Default path"
 msgstr ""
 
 msgid "Logging"
@@ -1668,10 +1809,21 @@ msgstr ""
 msgid "Show names in private chats"
 msgstr ""
 
+msgid "Show reading information before message text"
+msgstr ""
+
 msgid "Behavior settings"
 msgstr ""
 
 msgid "Break up long messages"
+msgstr ""
+
+msgid "Focus input field when typing in message list"
+msgstr ""
+
+msgid ""
+"Automatically reply to the message under the cursor when moving to the "
+"message input field"
 msgstr ""
 
 msgid "Keyboard settings"
@@ -1890,6 +2042,33 @@ msgstr ""
 msgid "Delete all cloud drafts..."
 msgstr ""
 
+msgid "Network settings"
+msgstr ""
+
+msgid "Connection"
+msgstr ""
+
+msgid "Connection Type"
+msgstr ""
+
+msgid "Direct connection"
+msgstr ""
+
+msgid "Proxy"
+msgstr ""
+
+msgid "Proxy servers:"
+msgstr ""
+
+msgid "Enable"
+msgstr ""
+
+msgid "Edit..."
+msgstr ""
+
+msgid "Ping..."
+msgstr ""
+
 msgid "Troubleshooting"
 msgstr ""
 
@@ -1901,7 +2080,7 @@ msgid ""
 "on the system drive to store temporary files)"
 msgstr ""
 
-msgid "Disable sterio (if you can be heard in one earphone)"
+msgid "Disable stereo (if your microphone outputs to one channel only)"
 msgstr ""
 
 msgid "Keep the cursor position in the chat list"
@@ -1943,6 +2122,46 @@ msgstr ""
 msgid "Storage"
 msgstr ""
 
+msgid "Network"
+msgstr ""
+
+#, python-brace-format
+msgid "{ms} MS"
+msgstr ""
+
+msgid "Ping"
+msgstr ""
+
+msgid "An error occurred while pinging the proxy."
+msgstr ""
+
+msgid "Are you sure you want to delete this proxy?"
+msgstr ""
+
+msgid "An error occurred while deleting the proxy."
+msgstr ""
+
+msgid "An error occurred while adding the proxy."
+msgstr ""
+
+msgid "An error occurred while editing the proxy."
+msgstr ""
+
+#, python-brace-format
+msgid "{server}; Port: {port}"
+msgstr ""
+
+#, python-brace-format
+msgid "Type: {proxyType}"
+msgstr ""
+
+#, python-brace-format
+msgid "Last used: {lastUsed}"
+msgstr ""
+
+msgid "Enabled"
+msgstr ""
+
 msgid ""
 "Are you sure you want to delete all cloud drafts? This action cannot be "
 "undone!"
@@ -1982,6 +2201,16 @@ msgid ""
 "Are you sure you want to clear storage? After this, all local copies of "
 "files from the cache will be deleted. Your search queries will also be "
 "cleared. This action cannot be undone!"
+msgstr ""
+
+msgid ""
+"You have selected to use a proxy, but you have not added any proxies. Please "
+"add a proxy or select direct connection."
+msgstr ""
+
+msgid ""
+"You have selected to use a proxy, but you have not enabled any proxies. "
+"Please enable a proxy or select direct connection."
 msgstr ""
 
 msgid ""
@@ -2096,9 +2325,6 @@ msgstr[1] ""
 msgid "Offline"
 msgstr ""
 
-msgid "All chats"
-msgstr ""
-
 msgid "Loading chats..."
 msgstr ""
 
@@ -2123,16 +2349,52 @@ msgid "Preferences"
 msgstr ""
 
 #, python-brace-format
+msgid "Failed to add contact: {message}"
+msgstr ""
+
+msgid "The contact was added successfully"
+msgstr ""
+
+msgid "Success"
+msgstr ""
+
+msgid "Failed to add contact: no contacts were imported"
+msgstr ""
+
+#, python-brace-format
 msgid "Archive: {count} unread chat"
 msgid_plural "Archive: {count} unread chats"
 msgstr[0] ""
 msgstr[1] ""
 
-#, python-brace-format
-msgid "Do you really want to delete this \"{name}\" contact?"
+msgid "Archived chats"
 msgstr ""
 
-msgid "Archived chats"
+msgid "Folder not found"
+msgstr ""
+
+#, python-brace-format
+msgid "{name} folder already selected"
+msgstr ""
+
+#, python-brace-format
+msgid "{name} ({count} unread chat) folder already selected"
+msgid_plural "{name} ({count} unread chats) folder already selected"
+msgstr[0] ""
+msgstr[1] ""
+
+#, python-brace-format
+msgid "{name} folder selected"
+msgstr ""
+
+#, python-brace-format
+msgid "{name} ({count} unread chat) folder selected"
+msgid_plural "{name} ({count} unread chats) folder selected"
+msgstr[0] ""
+msgstr[1] ""
+
+#, python-brace-format
+msgid "Do you really want to delete this \"{name}\" contact?"
 msgstr ""
 
 msgid "Are you sure you want to close application?"
@@ -2205,6 +2467,25 @@ msgid "Ready"
 msgstr ""
 
 msgid "Connecting..."
+msgstr ""
+
+#, python-brace-format
+msgid "Chats: {count}"
+msgstr ""
+
+#, python-brace-format
+msgid ""
+"Are you sure you want to add this proxy server to the application: Type: "
+"{type}, server: {server}, port: {port}?"
+msgstr ""
+
+msgid "Unsupported proxy type"
+msgstr ""
+
+msgid "Proxy server was added successfully. Do you want to enable it now?"
+msgstr ""
+
+msgid "Proxy server was enabled successfully."
 msgstr ""
 
 msgid "Not supported in this time."

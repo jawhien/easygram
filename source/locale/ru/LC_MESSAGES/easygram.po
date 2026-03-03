@@ -4,11 +4,11 @@
 # This file is distributed under the same license as the 'easygram' package.
 msgid ""
 msgstr ""
-"Project-Id-Version: Easygram 0.50.0\n"
+"Project-Id-Version: Easygram 0.51.0\n"
 "Report-Msgid-Bugs-To: 'jawhien@gmail.com'\n"
-"POT-Creation-Date: 2026-02-04 14:18+0300\n"
-"PO-Revision-Date: 2026-02-04 14:19+0300\n"
-"Last-Translator: Peter Ivanovich <piatro97@gmail.com>\n"
+"POT-Creation-Date: 2026-03-03 11:41+0300\n"
+"PO-Revision-Date: 2026-03-03 11:42+0300\n"
+"Last-Translator: Eugene Poplavsky <jawhien@gmail.com>\n"
 "Language-Team: Eugene Poplavsky <jawhien@gmail.com>, Peter Ivanovich "
 "<piatro97@gmail.com>, Danil Kostenkov <danilkostenkov38@gmail.com>\n"
 "Language: ru_RU\n"
@@ -27,7 +27,7 @@ msgid ""
 "Are you sure you want to delete the database? You will have to log in to "
 "Telegram again."
 msgstr ""
-"Вы уверены, что хотите удалить базу данных? Вам нужно будет снова войти в "
+"Вы действительно хотите удалить базу данных? Вам нужно будет снова войти в "
 "Telegram."
 
 msgid "Confirmation"
@@ -91,6 +91,9 @@ msgstr "О пользователе"
 msgid "Open chat"
 msgstr "Открыть чат"
 
+msgid "Add contact"
+msgstr "Добавить контакт"
+
 #, python-brace-format
 msgid "Contacts ({0})"
 msgstr "Контакты ({0})"
@@ -108,11 +111,55 @@ msgid "About Easygram"
 msgstr "О Easygram"
 
 #, python-brace-format
+msgid "Failed to add contact: {message}"
+msgstr "Не удалось добавить контакт: {message}"
+
+msgid "Error"
+msgstr "Ошибка"
+
+msgid "The contact was added successfully"
+msgstr "Контакт успешно добавлен"
+
+msgid "Success"
+msgstr "Успешно"
+
+msgid "Failed to add contact: no contacts were imported"
+msgstr "Не удалось добавить контакт: контакты не были импортированы"
+
+#, python-brace-format
 msgid "Archive: {count} unread chat"
 msgid_plural "Archive: {count} unread chats"
 msgstr[0] "Архив: {count} непрочитанный чат"
 msgstr[1] "Архив: {count} непрочитанных чата"
 msgstr[2] "Архив: {count} непрочитанных чатов"
+
+msgid "Archived chats"
+msgstr "Архивированные чаты"
+
+msgid "Folder not found"
+msgstr "Папка не найдена"
+
+#, python-brace-format
+msgid "{name} folder already selected"
+msgstr "{name} папка уже выбрана"
+
+#, python-brace-format
+msgid "{name} ({count} unread chat) folder already selected"
+msgid_plural "{name} ({count} unread chats) folder already selected"
+msgstr[0] "{name} ({count} непрочитанный чат) папка уже выбрана"
+msgstr[1] "{name} ({count} непрочитанных чата) папка уже выбрана"
+msgstr[2] "{name} ({count} непрочитанных чатов) папка уже выбрана"
+
+#, python-brace-format
+msgid "{name} folder selected"
+msgstr "{name} папка выбрана"
+
+#, python-brace-format
+msgid "{name} ({count} unread chat) folder selected"
+msgid_plural "{name} ({count} unread chats) folder selected"
+msgstr[0] "{name} ({count} непрочитанный чат) папка выбрана"
+msgstr[1] "{name} ({count} непрочитанных чата) папка выбрана"
+msgstr[2] "{name} ({count} непрочитанных чатов) папка выбрана"
 
 msgid "Skipped one-time voice message"
 msgstr "Пропущено одноразовое голосовое сообщение"
@@ -120,9 +167,6 @@ msgstr "Пропущено одноразовое голосовое сообщ�
 #, python-brace-format
 msgid "Do you really want to delete this \"{name}\" contact?"
 msgstr "Вы действительно хотите удалить контакт \"{name}\"?"
-
-msgid "Archived chats"
-msgstr "Архивированные чаты"
 
 msgid "Are you sure you want to close application?"
 msgstr "Вы действительно хотите закрыть приложение?"
@@ -209,23 +253,41 @@ msgid "Connecting..."
 msgstr "Соединение..."
 
 #, python-brace-format
+msgid "Chats: {count}"
+msgstr "Чаты: {count}"
+
+#, python-brace-format
 msgid "{count} unread message"
 msgid_plural "{count} unread messages"
 msgstr[0] "{count} непрочитанное сообщение"
 msgstr[1] "{count} непрочитанных сообщения"
 msgstr[2] "{count} непрочитанных сообщений"
 
-msgid "Not supported in this time."
-msgstr "В данный момент не поддерживается."
+#, python-brace-format
+msgid ""
+"Are you sure you want to add this proxy server to the application: Type: "
+"{type}, server: {server}, port: {port}?"
+msgstr ""
+"Вы действительно хотите добавить этот прокси в приложение: Тип: {type}, "
+"сервер: {server}, порт: {port}?"
+
+msgid "Unsupported proxy type"
+msgstr "Неподдерживаемый тип прокси"
+
+msgid "Proxy server was added successfully. Do you want to enable it now?"
+msgstr "Прокси-сервер успешно добавлен. Вы хотите включить его сейчас?"
+
+msgid "Proxy server was enabled successfully."
+msgstr "Прокси-сервер успешно включен."
 
 msgid "Information"
 msgstr "Информация"
 
+msgid "Not supported in this time."
+msgstr "В данный момент не поддерживается."
+
 msgid "The invitation link is invalid"
 msgstr "Ссылка-приглашение недействительна"
-
-msgid "Error"
-msgstr "Ошибка"
 
 #, python-brace-format
 msgid ""
@@ -402,8 +464,8 @@ msgid "last seen {date} at {time}"
 msgstr "был(а) {date} в {time}"
 
 #, python-brace-format
-msgid "Channel: {name}, {count} member"
-msgid_plural "Channel: {name}, {count} members"
+msgid "Channel: {name}, {count} subscriber"
+msgid_plural "Channel: {name}, {count} subscribers"
 msgstr[0] "Канал: {name}, {count} подписчик"
 msgstr[1] "Канал: {name}, {count} подписчика"
 msgstr[2] "Канал: {name}, {count} подписчиков"
@@ -447,12 +509,6 @@ msgstr "Нет непрочитанных реакций."
 msgid "No unread mentions."
 msgstr "Нет непрочитанных упоминаний."
 
-msgid "Search unread reactions."
-msgstr "Поиск непрочитанных реакций."
-
-msgid "Search unread mentions."
-msgstr "Поиск непрочитанных упоминаний."
-
 msgid "Go to message"
 msgstr "Перейти к сообщению"
 
@@ -464,6 +520,15 @@ msgstr "Скопировано"
 
 msgid "There are no links in this message."
 msgstr "В этом сообщении нет ссылок."
+
+msgid "Searching unread reactions."
+msgstr "Поиск непрочитанных реакций."
+
+msgid "Searching unread mentions."
+msgstr "Поиск непрочитанных упоминаний."
+
+msgid "There are no reactions for this message."
+msgstr "На это сообщение нет реакций."
 
 msgid "Voice and video messages in this chat are restricted!"
 msgstr "Голосовые и видеосообщения в этом чате запрещены!"
@@ -497,6 +562,9 @@ msgstr "Отложено на: {date}"
 
 msgid "Scheduled for: When the user is online"
 msgstr "Отложено на: когда пользователь будет в сети"
+
+msgid "The Transcription text is ready."
+msgstr "Текст расшифровки готов."
 
 msgid "An error occurred. See details in the event log."
 msgstr "Произошла ошибка. Подробности смотрите в журнале событий."
@@ -1137,6 +1205,9 @@ msgstr "Применить"
 msgid "Notifications settings"
 msgstr "Настройки уведомлений"
 
+msgid "Add"
+msgstr "Добавить"
+
 msgid "Seen"
 msgstr "Прочитано"
 
@@ -1160,6 +1231,63 @@ msgstr "Загрузка"
 
 msgid "Pinned"
 msgstr "Закреплено"
+
+msgid "Insert link"
+msgstr "Вставить ссылку"
+
+msgid "Link text:"
+msgstr "Текст ссылки:"
+
+msgid "URL address:"
+msgstr "URL-адрес:"
+
+msgid "&Undo"
+msgstr "&Отменить"
+
+msgid "&Redo"
+msgstr "Ве&рнуть"
+
+msgid "Cu&t"
+msgstr "&Вырезать"
+
+msgid "&Copy"
+msgstr "&Копировать"
+
+msgid "&Paste"
+msgstr "Вст&авить"
+
+msgid "&Delete"
+msgstr "&Удалить"
+
+msgid "Select &all"
+msgstr "Выделить вс&ё"
+
+msgid "&Bold"
+msgstr "&Жирный"
+
+msgid "&Italic"
+msgstr "&Курсив"
+
+msgid "&Strikethrough"
+msgstr "&Зачёркнутый"
+
+msgid "&Monospace"
+msgstr "&Моноширинный"
+
+msgid "S&poiler"
+msgstr "С&пойлер"
+
+msgid "&Link"
+msgstr "&Ссылка"
+
+msgid "&Formatting"
+msgstr "&Форматирование"
+
+msgid "C&lear"
+msgstr "О&чистить"
+
+msgid "Cleared"
+msgstr "Очищено"
 
 msgid "Enter the phone number"
 msgstr "Введите номер телефона"
@@ -1249,11 +1377,17 @@ msgstr "Неверный код подтверждения!"
 msgid "Incorrect password!"
 msgstr "Неверный пароль!"
 
-msgid "Detailed &view"
-msgstr "&Детальный просмотр"
+msgid "Detailed &view\tSpace"
+msgstr "&Детальный просмотр\tПробел"
 
 msgid "&Copy text"
 msgstr "&Копировать текст"
+
+msgid "Hide transcription"
+msgstr "Скрыть расшифровку"
+
+msgid "Show &transcription"
+msgstr "Показать рас&шифровку"
 
 msgid "&Save in downloads"
 msgstr "&Сохранить в загрузки"
@@ -1308,14 +1442,17 @@ msgstr "Открыть &профиль пользователя"
 msgid "&Edit message"
 msgstr "&Изменить сообщение"
 
-msgid "&Delete"
-msgstr "&Удалить"
-
 msgid "&Open"
 msgstr "О&ткрыть"
 
 msgid "Mark as &read"
 msgstr "По&метить прочитанным"
+
+msgid "Mark all &mentions as read"
+msgstr "Пометить все упоми&нания прочитанными"
+
+msgid "Mark all reactio&ns as read"
+msgstr "Пометить все реакц&ии прочитанными"
 
 msgid "&View as messages"
 msgstr "П&росмотр по сообщениям"
@@ -1361,9 +1498,6 @@ msgstr "П&оказать окно"
 
 msgid "E&xit"
 msgstr "В&ыйти"
-
-msgid "&All chats"
-msgstr "&Все чаты"
 
 #, python-brace-format
 msgid "{title}: {count} unread chat"
@@ -1519,6 +1653,10 @@ msgstr "(прослушано)"
 
 msgid "(not listened)"
 msgstr "(не прослушано)"
+
+#, python-brace-format
+msgid "{message}, {transcription}"
+msgstr "{message}, {transcription}"
 
 #. TRANSLATORS: this is the message when a user has joined a group
 msgid "joined the group"
@@ -1691,6 +1829,61 @@ msgstr "Изменено в {time}"
 msgid "Changed {date} at {time}"
 msgstr "Изменено {date} в {time}"
 
+msgid "Transcription error"
+msgstr "Ошибка расшифровки"
+
+msgid "Recognition in progress..."
+msgstr "Выполняется распознавание..."
+
+#, python-brace-format
+msgid "Transcription: {text}"
+msgstr "Расшифровка: {text}"
+
+msgid "Add proxy"
+msgstr "Добавить прокси"
+
+msgid "Enable proxy"
+msgstr "Включить прокси"
+
+msgid "Proxy server:"
+msgstr "Прокси-сервер:"
+
+msgid "Port:"
+msgstr "Порт:"
+
+msgid "Proxy type"
+msgstr "Тип прокси"
+
+msgid "MTProto secret:"
+msgstr "Ключ MTProto:"
+
+msgid "Socks5 username (optional):"
+msgstr "Имя пользователя Socks5 (необязательно):"
+
+msgid "Socks5 password (optional):"
+msgstr "Пароль Socks5 (необязательно):"
+
+msgid "Http username (optional):"
+msgstr "Имя пользователя http (необязательно):"
+
+msgid "Http password (optional):"
+msgstr "Пароль http (необязательно):"
+
+msgid "Please enter both host and port"
+msgstr "Пожалуйста, введите хост и порт"
+
+msgid "Port must be a number"
+msgstr "Порт должен быть числом"
+
+msgid "Please enter MTProto secret"
+msgstr "Пожалуйста, введите ключ MTProto"
+
+msgid "Please select a proxy type"
+msgstr "Пожалуйста, выберите тип прокси"
+
+msgid "Edit proxy"
+msgstr "Изменить прокси"
+
 msgid "Storage settings"
 msgstr "Настройки хранилища"
 
@@ -1815,14 +2008,17 @@ msgstr "Подтверждение перед закрытием"
 msgid "Close windows by pressing the ESCAPE key"
 msgstr "Закрывать окна по нажатию клавиши ESCAPE"
 
-msgid "Show the window after complit download"
-msgstr "Показывать окно после завершения загрузки"
+msgid "Open window after download completes"
+msgstr "Открывать окно после завершения загрузки"
 
 msgid "Downloads"
 msgstr "Загрузки"
 
 msgid "Path to save files:"
 msgstr "Путь для сохранения файлов:"
+
+msgid "Default path"
+msgstr "Путь по умолчанию"
 
 msgid "Logging"
 msgstr "Ведение журнала"
@@ -1876,11 +2072,24 @@ msgstr "Список сообщений"
 msgid "Show names in private chats"
 msgstr "Показывать имена в личных чатах"
 
+msgid "Show reading information before message text"
+msgstr "Показывать информацию о прочтении перед текстом сообщения"
+
 msgid "Behavior settings"
 msgstr "Настройки поведения"
 
 msgid "Break up long messages"
 msgstr "Разбивать длинные сообщения"
+
+msgid "Focus input field when typing in message list"
+msgstr "Устанавливать фокус на поле ввода при наборе текста в списке сообщений"
+
+msgid ""
+"Automatically reply to the message under the cursor when moving to the "
+"message input field"
+msgstr ""
+"Автоматически отвечать на сообщение под курсором при переходе к полю ввода "
+"сообщения"
 
 msgid "Keyboard settings"
 msgstr "Настройки клавиатуры"
@@ -2104,6 +2313,33 @@ msgstr "Очистить кэш"
 msgid "Delete all cloud drafts..."
 msgstr "Удалить все черновики из облака..."
 
+msgid "Network settings"
+msgstr "Настройки сети"
+
+msgid "Connection"
+msgstr "Подключение"
+
+msgid "Connection Type"
+msgstr "Тип подключения"
+
+msgid "Direct connection"
+msgstr "Прямое подключение"
+
+msgid "Proxy"
+msgstr "Прокси"
+
+msgid "Proxy servers:"
+msgstr "Прокси-серверы:"
+
+msgid "Enable"
+msgstr "Включить"
+
+msgid "Edit..."
+msgstr "Изменить..."
+
+msgid "Ping..."
+msgstr "Пинг..."
+
 msgid "Troubleshooting"
 msgstr "Устранение проблем"
 
@@ -2118,8 +2354,9 @@ msgstr ""
 "требует больше свободного места на системном диске для хранения временных "
 "файлов)"
 
-msgid "Disable sterio (if you can be heard in one earphone)"
-msgstr "Отключить стерео (если вас слышно только в одном наушнике)"
+msgid "Disable stereo (if your microphone outputs to one channel only)"
+msgstr ""
+"Отключить стерео (если ваш микрофон выводит сигнал только на один канал)."
 
 msgid "Keep the cursor position in the chat list"
 msgstr "Сохранять позицию курсора в списке чатов"
@@ -2156,6 +2393,46 @@ msgstr "Устройства"
 
 msgid "Storage"
 msgstr "Хранилище"
+
+msgid "Network"
+msgstr "Сеть"
+
+#, python-brace-format
+msgid "{ms} MS"
+msgstr "{ms} МС"
+
+msgid "Ping"
+msgstr "Пинг"
+
+msgid "An error occurred while pinging the proxy."
+msgstr "Произошла ошибка при проверке соединения с прокси."
+
+msgid "Are you sure you want to delete this proxy?"
+msgstr "Вы действительно хотите удалить этот прокси?"
+
+msgid "An error occurred while deleting the proxy."
+msgstr "Произошла ошибка при удалении прокси."
+
+msgid "An error occurred while adding the proxy."
+msgstr "Произошла ошибка при добавлении прокси."
+
+msgid "An error occurred while editing the proxy."
+msgstr "Произошла ошибка при изменении прокси."
+
+#, python-brace-format
+msgid "{server}; Port: {port}"
+msgstr "{server}; Порт: {port}"
+
+#, python-brace-format
+msgid "Type: {proxyType}"
+msgstr "Тип: {proxyType}"
+
+#, python-brace-format
+msgid "Last used: {lastUsed}"
+msgstr "Последнее использование: {lastUsed}"
+
+msgid "Enabled"
+msgstr "Включён"
 
 msgid ""
 "Are you sure you want to delete all cloud drafts? This action cannot be "
@@ -2205,6 +2482,20 @@ msgstr ""
 "Вы уверены, что хотите очистить хранилище? После этого все локальные копии "
 "файлов из кэша будут удалены. Ваша история поисковых запросов также будет "
 "очищена. Это действие невозможно отменить!"
+
+msgid ""
+"You have selected to use a proxy, but you have not added any proxies. Please "
+"add a proxy or select direct connection."
+msgstr ""
+"Вы выбрали использование прокси, но не добавили ни одного прокси-сервера. "
+"Пожалуйста, добавьте прокси или выберите прямое подключение."
+
+msgid ""
+"You have selected to use a proxy, but you have not enabled any proxies. "
+"Please enable a proxy or select direct connection."
+msgstr ""
+"Вы выбрали использование прокси, но не включили ни одного прокси-сервера. "
+"Пожалуйста, включите прокси или выберите прямое подключение."
 
 msgid ""
 "To apply some settings, it is required to reboot Easygram. Do you want to "
