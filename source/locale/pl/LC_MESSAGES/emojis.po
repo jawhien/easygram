@@ -1,0 +1,5471 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Easygram 45\n"
+"PO-Revision-Date: 2026-08-03 22:00+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "grinning face"
+msgstr "szeroko uśmiechnięta twarz"
+
+msgid "grinning face with big eyes"
+msgstr "uśmiechnięta twarz z otwartymi ustami"
+
+msgid "grinning face with smiling eyes"
+msgstr "uśmiechnięta twarz z otwartymi ustami i roześmianymi oczami"
+
+msgid "beaming face with smiling eyes"
+msgstr "szeroko uśmiechnięta twarz o roześmianych oczach"
+
+msgid "grinning squinting face"
+msgstr "uśmiechnięta twarz z przymrużonymi oczami"
+
+msgid "grinning face with sweat"
+msgstr "uśmiechnięta twarz z otwartymi ustami, oblana zimnym potem"
+
+msgid "rolling on the floor laughing"
+msgstr "tarza się ze śmiechu"
+
+msgid "face with tears of joy"
+msgstr "twarz ze łzami radości"
+
+msgid "slightly smiling face"
+msgstr "lekko uśmiechnięta twarz"
+
+msgid "upside-down face"
+msgstr "odwrócona twarz"
+
+msgid "melting face"
+msgstr "roztapiająca się twarz"
+
+msgid "winking face"
+msgstr "twarz puszczająca oko"
+
+msgid "smiling face with smiling eyes"
+msgstr "uśmiechnięta twarz o roześmianych oczach"
+
+msgid "smiling face with halo"
+msgstr "uśmiechnięta twarz z aureolą"
+
+msgid "smiling face with hearts"
+msgstr "uśmiechnięta buźka z sercami"
+
+msgid "smiling face with heart-eyes"
+msgstr "uśmiechnięta twarz z oczami w kształcie serca"
+
+msgid "star-struck"
+msgstr "zafascynowany"
+
+msgid "face blowing a kiss"
+msgstr "twarz przesyłająca całusa"
+
+msgid "kissing face"
+msgstr "całująca twarz"
+
+msgid "smiling face"
+msgstr "uśmiechnięta twarz"
+
+msgid "kissing face with closed eyes"
+msgstr "całująca twarz z zamkniętymi oczami"
+
+msgid "kissing face with smiling eyes"
+msgstr "całująca twarz o roześmianych oczach"
+
+msgid "smiling face with tear"
+msgstr "uśmiechnięta buźka ze łzą"
+
+msgid "face savoring food"
+msgstr "twarz delektująca się pysznym jedzeniem"
+
+msgid "face with tongue"
+msgstr "twarz wystawiająca język"
+
+msgid "winking face with tongue"
+msgstr "twarz wystawiająca język i puszczająca oko"
+
+msgid "zany face"
+msgstr "szalona twarz"
+
+msgid "squinting face with tongue"
+msgstr "twarz ze zmrużonymi oczami wystawiająca język"
+
+msgid "money-mouth face"
+msgstr "twarz z pieniędzmi na ustach"
+
+msgid "smiling face with open hands"
+msgstr "twarz z gestem przytulania"
+
+msgid "face with hand over mouth"
+msgstr "twarz z ręką na ustach"
+
+msgid "face with open eyes and hand over mouth"
+msgstr "twarz z otwartymi oczami i ręką na ustach"
+
+msgid "face with peeking eye"
+msgstr "twarz z podglądającym okiem"
+
+msgid "shushing face"
+msgstr "uciszająca twarz"
+
+msgid "thinking face"
+msgstr "myśląca twarz"
+
+msgid "saluting face"
+msgstr "salutująca twarz"
+
+msgid "zipper-mouth face"
+msgstr "twarz z zamkiem błyskawicznym na ustach"
+
+msgid "face with raised eyebrow"
+msgstr "twarz z podniesioną brwią"
+
+msgid "neutral face"
+msgstr "neutralna twarz"
+
+msgid "expressionless face"
+msgstr "twarz bez wyrazu"
+
+msgid "face without mouth"
+msgstr "twarz bez ust"
+
+msgid "dotted line face"
+msgstr "twarz otoczona linią przerywaną"
+
+msgid "face in clouds"
+msgstr "twarz w chmurach"
+
+msgid "smirking face"
+msgstr "twarz z uśmieszkiem"
+
+msgid "unamused face"
+msgstr "niezadowolona twarz"
+
+msgid "face with rolling eyes"
+msgstr "twarz przewracająca oczami"
+
+msgid "grimacing face"
+msgstr "twarz z grymasem"
+
+msgid "face exhaling"
+msgstr "twarz wypuszczająca powietrze"
+
+msgid "lying face"
+msgstr "twarz kłamcy"
+
+msgid "shaking face"
+msgstr "wstrząśnięta twarz"
+
+msgid "relieved face"
+msgstr "twarz z wyrazem ulgi"
+
+msgid "pensive face"
+msgstr "zamyślona twarz"
+
+msgid "sleepy face"
+msgstr "senna twarz"
+
+msgid "drooling face"
+msgstr "śliniąca się twarz"
+
+msgid "sleeping face"
+msgstr "śpiąca twarz"
+
+msgid "face with medical mask"
+msgstr "twarz w masce medycznej"
+
+msgid "face with thermometer"
+msgstr "twarz z termometrem"
+
+msgid "face with head-bandage"
+msgstr "twarz z bandażem"
+
+msgid "nauseated face"
+msgstr "twarz z mdłościami"
+
+msgid "face vomiting"
+msgstr "wymiotująca twarz"
+
+msgid "sneezing face"
+msgstr "kichająca twarz"
+
+msgid "hot face"
+msgstr "rozgrzana twarz"
+
+msgid "cold face"
+msgstr "zmarznięta twarz"
+
+msgid "woozy face"
+msgstr "zamroczona twarz"
+
+msgid "face with crossed-out eyes"
+msgstr "oszołomiona twarz"
+
+msgid "face with spiral eyes"
+msgstr "twarz ze spiralnymi oczami"
+
+msgid "exploding head"
+msgstr "eksplodująca głowa"
+
+msgid "cowboy hat face"
+msgstr "głowa w kapeluszu kowbojskim"
+
+msgid "partying face"
+msgstr "świętująca twarz"
+
+msgid "disguised face"
+msgstr "buźka w przebraniu"
+
+msgid "smiling face with sunglasses"
+msgstr "uśmiechnięta twarz w okularach przeciwsłonecznych"
+
+msgid "nerd face"
+msgstr "kujon"
+
+msgid "face with monocle"
+msgstr "twarz z monoklem"
+
+msgid "confused face"
+msgstr "zdezorientowana twarz"
+
+msgid "face with diagonal mouth"
+msgstr "twarz z ukośnymi ustami"
+
+msgid "worried face"
+msgstr "zmartwiona twarz"
+
+msgid "slightly frowning face"
+msgstr "lekko zachmurzona twarz"
+
+msgid "frowning face"
+msgstr "zachmurzona twarz"
+
+msgid "face with open mouth"
+msgstr "twarz z otwartymi ustami"
+
+msgid "hushed face"
+msgstr "zdumiona twarz"
+
+msgid "astonished face"
+msgstr "zadziwiona twarz"
+
+msgid "flushed face"
+msgstr "twarz z rumieńcami"
+
+msgid "pleading face"
+msgstr "błagająca twarz"
+
+msgid "face holding back tears"
+msgstr "twarz powstrzymująca łzy"
+
+msgid "frowning face with open mouth"
+msgstr "zachmurzona twarz z otwartymi ustami"
+
+msgid "anguished face"
+msgstr "udręczona twarz"
+
+msgid "fearful face"
+msgstr "przestraszona twarz"
+
+msgid "anxious face with sweat"
+msgstr "zaniepokojona twarz oblana potem"
+
+msgid "sad but relieved face"
+msgstr "smutna twarz z wyrazem ulgi"
+
+msgid "crying face"
+msgstr "płacząca twarz"
+
+msgid "loudly crying face"
+msgstr "głośno płacząca twarz"
+
+msgid "face screaming in fear"
+msgstr "twarz krzycząca ze strachu"
+
+msgid "confounded face"
+msgstr "zakłopotana twarz"
+
+msgid "persevering face"
+msgstr "uparta twarz"
+
+msgid "disappointed face"
+msgstr "rozczarowana twarz"
+
+msgid "downcast face with sweat"
+msgstr "twarz ze spuszczonymi oczami oblana potem"
+
+msgid "weary face"
+msgstr "znużona twarz"
+
+msgid "tired face"
+msgstr "zmęczona twarz"
+
+msgid "yawning face"
+msgstr "ziewająca twarz"
+
+msgid "face with steam from nose"
+msgstr "prychająca twarz"
+
+msgid "enraged face"
+msgstr "nadąsana twarz"
+
+msgid "angry face"
+msgstr "zagniewana twarz"
+
+msgid "face with symbols on mouth"
+msgstr "twarz z symbolami na ustach"
+
+msgid "smiling face with horns"
+msgstr "uśmiechnięta twarz z rogami"
+
+msgid "angry face with horns"
+msgstr "zagniewana twarz z rogami"
+
+msgid "skull"
+msgstr "czaszka"
+
+msgid "skull and crossbones"
+msgstr "czaszka z piszczelami"
+
+msgid "pile of poo"
+msgstr "kupa"
+
+msgid "clown face"
+msgstr "twarz klauna"
+
+msgid "ogre"
+msgstr "ogr"
+
+msgid "goblin"
+msgstr "goblin"
+
+msgid "ghost"
+msgstr "duch"
+
+msgid "alien"
+msgstr "ufoludek"
+
+msgid "alien monster"
+msgstr "kosmiczny potwór"
+
+msgid "robot"
+msgstr "głowa robota"
+
+msgid "grinning cat"
+msgstr "uśmiechnięty kot"
+
+msgid "grinning cat with smiling eyes"
+msgstr "uśmiechnięty kot o wesołych oczach"
+
+msgid "cat with tears of joy"
+msgstr "kot ze łzami radości"
+
+msgid "smiling cat with heart-eyes"
+msgstr "uśmiechnięty kot z oczami w kształcie serca"
+
+msgid "cat with wry smile"
+msgstr "kot z drwiącym uśmiechem"
+
+msgid "kissing cat"
+msgstr "kot przesyłający całusa"
+
+msgid "weary cat"
+msgstr "przestraszony kot"
+
+msgid "crying cat"
+msgstr "płaczący kot"
+
+msgid "pouting cat"
+msgstr "nadąsany kot"
+
+msgid "see-no-evil monkey"
+msgstr "małpa zasłaniająca oczy"
+
+msgid "hear-no-evil monkey"
+msgstr "małpa zasłaniająca uszy"
+
+msgid "speak-no-evil monkey"
+msgstr "małpa zasłaniająca pyszczek"
+
+msgid "love letter"
+msgstr "list miłosny"
+
+msgid "heart with arrow"
+msgstr "serce przebite strzałą"
+
+msgid "heart with ribbon"
+msgstr "serce ze wstążką"
+
+msgid "sparkling heart"
+msgstr "migoczące serce"
+
+msgid "growing heart"
+msgstr "rosnące serce"
+
+msgid "beating heart"
+msgstr "bijące serce"
+
+msgid "revolving hearts"
+msgstr "wirujące serca"
+
+msgid "two hearts"
+msgstr "dwa serca"
+
+msgid "heart decoration"
+msgstr "dekoracja z sercem"
+
+msgid "heart exclamation"
+msgstr "wykrzyknik w kształcie serca"
+
+msgid "broken heart"
+msgstr "złamane serce"
+
+msgid "heart on fire"
+msgstr "serce w płomieniach"
+
+msgid "mending heart"
+msgstr "uleczone serce"
+
+msgid "red heart"
+msgstr "czerwone serce"
+
+msgid "pink heart"
+msgstr "różowe serce"
+
+msgid "orange heart"
+msgstr "pomarańczowe serce"
+
+msgid "yellow heart"
+msgstr "żółte serce"
+
+msgid "green heart"
+msgstr "zielone serce"
+
+msgid "blue heart"
+msgstr "niebieskie serce"
+
+msgid "light blue heart"
+msgstr "jasnoniebieskie serce"
+
+msgid "purple heart"
+msgstr "purpurowe serce"
+
+msgid "brown heart"
+msgstr "brązowe serce"
+
+msgid "black heart"
+msgstr "czarne serce"
+
+msgid "grey heart"
+msgstr "szare serce"
+
+msgid "white heart"
+msgstr "białe serce"
+
+msgid "kiss mark"
+msgstr "ślad po pocałunku"
+
+msgid "hundred points"
+msgstr "sto punktów"
+
+msgid "anger symbol"
+msgstr "symbol gniewu"
+
+msgid "collision"
+msgstr "kolizja"
+
+msgid "dizzy"
+msgstr "zawroty głowy"
+
+msgid "sweat droplets"
+msgstr "krople potu"
+
+msgid "dashing away"
+msgstr "szybkie poruszanie się"
+
+msgid "hole"
+msgstr "otwór"
+
+msgid "speech balloon"
+msgstr "dymek"
+
+msgid "eye in speech bubble"
+msgstr "oko w dymku"
+
+msgid "left speech bubble"
+msgstr "lewostronny dymek"
+
+msgid "right anger bubble"
+msgstr "prawostronny dymek złości"
+
+msgid "thought balloon"
+msgstr "dymek myśli"
+
+msgid "ZZZ"
+msgstr "chrapanie"
+
+msgid "waving hand"
+msgstr "machająca dłoń"
+
+msgid "raised back of hand"
+msgstr "wzniesiony grzbiet dłoni"
+
+msgid "hand with fingers splayed"
+msgstr "uniesiona otwarta dłoń"
+
+msgid "raised hand"
+msgstr "wzniesiona dłoń"
+
+msgid "vulcan salute"
+msgstr "salut wolkański"
+
+msgid "rightwards hand"
+msgstr "dłoń skierowana w prawo"
+
+msgid "leftwards hand"
+msgstr "dłoń skierowana w lewo"
+
+msgid "palm down hand"
+msgstr "dłoń skierowana w dół"
+
+msgid "palm up hand"
+msgstr "dłoń skierowana w górę"
+
+msgid "leftwards pushing hand"
+msgstr "dłoń pchająca w lewo"
+
+msgid "rightwards pushing hand"
+msgstr "dłoń pchająca w prawo"
+
+msgid "OK hand"
+msgstr "dłoń z gestem OK"
+
+msgid "pinched fingers"
+msgstr "złączone palce"
+
+msgid "pinching hand"
+msgstr "dłoń z gestem „trochę”"
+
+msgid "victory hand"
+msgstr "gest V"
+
+msgid "crossed fingers"
+msgstr "skrzyżowane palce"
+
+msgid "hand with index finger and thumb crossed"
+msgstr "dłoń ze skrzyżowanym palcem wskazującym i kciukiem"
+
+msgid "love-you gesture"
+msgstr "gest Kocham cię"
+
+msgid "sign of the horns"
+msgstr "gest rogów"
+
+msgid "call me hand"
+msgstr "dłoń w geście „Zadzwoń do mnie”"
+
+msgid "backhand index pointing left"
+msgstr "palec w lewo"
+
+msgid "backhand index pointing right"
+msgstr "dłoń z palcem wskazującym w prawo"
+
+msgid "backhand index pointing up"
+msgstr "dłoń z palcem wskazującym w górę"
+
+msgid "middle finger"
+msgstr "środkowy palec"
+
+msgid "backhand index pointing down"
+msgstr "dłoń z palcem wskazującym w dół"
+
+msgid "index pointing up"
+msgstr "palec wskazujący w górę"
+
+msgid "index pointing at the viewer"
+msgstr "palec wskazujący skierowany na patrzącego"
+
+msgid "thumbs up"
+msgstr "kciuk w górę"
+
+msgid "thumbs down"
+msgstr "kciuk w dół"
+
+msgid "raised fist"
+msgstr "wzniesiona pięść"
+
+msgid "oncoming fist"
+msgstr "pięść od przodu"
+
+msgid "left-facing fist"
+msgstr "pięść skierowana w lewo"
+
+msgid "right-facing fist"
+msgstr "pięść skierowana w prawo"
+
+msgid "clapping hands"
+msgstr "klaskanie"
+
+msgid "raising hands"
+msgstr "wzniesione ręce"
+
+msgid "heart hands"
+msgstr "dłonie tworzące serce"
+
+msgid "open hands"
+msgstr "otwarte dłonie"
+
+msgid "palms up together"
+msgstr "dłonie do góry razem"
+
+msgid "handshake"
+msgstr "uścisk dłoni"
+
+msgid "folded hands"
+msgstr "złożone ręce"
+
+msgid "writing hand"
+msgstr "pisząca dłoń"
+
+msgid "nail polish"
+msgstr "lakier do paznokci"
+
+msgid "selfie"
+msgstr "selfie"
+
+msgid "flexed biceps"
+msgstr "napięty biceps"
+
+msgid "mechanical arm"
+msgstr "mechaniczne ramię"
+
+msgid "mechanical leg"
+msgstr "proteza nogi"
+
+msgid "leg"
+msgstr "noga"
+
+msgid "foot"
+msgstr "stopa"
+
+msgid "ear"
+msgstr "ucho"
+
+msgid "ear with hearing aid"
+msgstr "ucho z aparatem słuchowym"
+
+msgid "nose"
+msgstr "nos"
+
+msgid "brain"
+msgstr "mózg"
+
+msgid "anatomical heart"
+msgstr "serce"
+
+msgid "lungs"
+msgstr "płuca"
+
+msgid "tooth"
+msgstr "ząb"
+
+msgid "bone"
+msgstr "kość"
+
+msgid "eyes"
+msgstr "oczy"
+
+msgid "eye"
+msgstr "oko"
+
+msgid "tongue"
+msgstr "język"
+
+msgid "mouth"
+msgstr "usta"
+
+msgid "biting lip"
+msgstr "przygryzanie wargi"
+
+msgid "baby"
+msgstr "niemowlę"
+
+msgid "child"
+msgstr "dziecko"
+
+msgid "boy"
+msgstr "chłopiec"
+
+msgid "girl"
+msgstr "dziewczynka"
+
+msgid "person"
+msgstr "dorosły"
+
+msgid "person: blond hair"
+msgstr "osoba z włosami blond"
+
+msgid "man"
+msgstr "mężczyzna"
+
+msgid "person: beard"
+msgstr "osoba z brodą"
+
+msgid "man: beard"
+msgstr "mężczyzna z brodą"
+
+msgid "man: blond hair"
+msgstr "blondyn"
+
+msgid "woman"
+msgstr "kobieta"
+
+msgid "woman: blond hair"
+msgstr "blondynka"
+
+msgid "older person"
+msgstr "starszy dorosły"
+
+msgid "old man"
+msgstr "starszy mężczyzna"
+
+msgid "old woman"
+msgstr "starsza kobieta"
+
+msgid "person frowning"
+msgstr "zachmurzona osoba"
+
+msgid "man frowning"
+msgstr "zachmurzony mężczyzna"
+
+msgid "woman frowning"
+msgstr "zachmurzona kobieta"
+
+msgid "person pouting"
+msgstr "nadąsana osoba"
+
+msgid "man pouting"
+msgstr "nadąsany mężczyzna"
+
+msgid "woman pouting"
+msgstr "nadąsana kobieta"
+
+msgid "person gesturing NO"
+msgstr "osoba pokazująca gest NIE"
+
+msgid "man gesturing NO"
+msgstr "mężczyzna pokazujący gest NIE"
+
+msgid "woman gesturing NO"
+msgstr "kobieta pokazująca gest NIE"
+
+msgid "person gesturing OK"
+msgstr "osoba pokazująca gest OK"
+
+msgid "man gesturing OK"
+msgstr "mężczyzna pokazujący „ojej!”"
+
+msgid "woman gesturing OK"
+msgstr "kobieta pokazująca gest OK"
+
+msgid "person tipping hand"
+msgstr "osoba z wystawioną dłonią"
+
+msgid "man tipping hand"
+msgstr "mężczyzna z wystawioną dłonią"
+
+msgid "woman tipping hand"
+msgstr "kobieta z wystawioną dłonią"
+
+msgid "person raising hand"
+msgstr "osoba podnosząca rękę"
+
+msgid "man raising hand"
+msgstr "mężczyzna podnoszący rękę"
+
+msgid "woman raising hand"
+msgstr "kobieta podnosząca rękę"
+
+msgid "deaf person"
+msgstr "osoba głucha"
+
+msgid "deaf man"
+msgstr "głuchy mężczyzna"
+
+msgid "deaf woman"
+msgstr "głucha kobieta"
+
+msgid "person bowing"
+msgstr "osoba w ukłonie"
+
+msgid "man bowing"
+msgstr "mężczyzna w ukłonie"
+
+msgid "woman bowing"
+msgstr "kobieta w ukłonie"
+
+msgid "person facepalming"
+msgstr "osoba trzymająca się za czoło"
+
+msgid "man facepalming"
+msgstr "mężczyzna trzymający się za czoło"
+
+msgid "woman facepalming"
+msgstr "kobieta trzymająca się za czoło"
+
+msgid "person shrugging"
+msgstr "osoba wzruszająca ramionami"
+
+msgid "man shrugging"
+msgstr "mężczyzna wzruszający ramionami"
+
+msgid "woman shrugging"
+msgstr "kobieta wzruszająca ramionami"
+
+msgid "health worker"
+msgstr "pracownik służby zdrowia"
+
+msgid "man health worker"
+msgstr "lekarz"
+
+msgid "woman health worker"
+msgstr "lekarka"
+
+msgid "student"
+msgstr "student"
+
+msgid "man student"
+msgstr "mężczyzna student"
+
+msgid "woman student"
+msgstr "studentka"
+
+msgid "teacher"
+msgstr "nauczyciel"
+
+msgid "man teacher"
+msgstr "mężczyzna nauczyciel"
+
+msgid "woman teacher"
+msgstr "nauczycielka"
+
+msgid "judge"
+msgstr "sędzia"
+
+msgid "man judge"
+msgstr "mężczyzna sędzia"
+
+msgid "woman judge"
+msgstr "kobieta sędzia"
+
+msgid "farmer"
+msgstr "rolnik"
+
+msgid "man farmer"
+msgstr "mężczyzna rolnik"
+
+msgid "woman farmer"
+msgstr "rolniczka"
+
+msgid "cook"
+msgstr "kucharz"
+
+msgid "man cook"
+msgstr "mężczyzna kucharz"
+
+msgid "woman cook"
+msgstr "kucharka"
+
+msgid "mechanic"
+msgstr "mechanik"
+
+msgid "man mechanic"
+msgstr "mężczyzna elektryk"
+
+msgid "woman mechanic"
+msgstr "kobieta elektryk"
+
+msgid "factory worker"
+msgstr "pracownik fabryki"
+
+msgid "man factory worker"
+msgstr "mężczyzna pracownik fabryki"
+
+msgid "woman factory worker"
+msgstr "pracownica fabryki"
+
+msgid "office worker"
+msgstr "pracownik biurowy"
+
+msgid "man office worker"
+msgstr "mężczyzna pracownik biurowy"
+
+msgid "woman office worker"
+msgstr "pracownica biurowa"
+
+msgid "scientist"
+msgstr "naukowiec"
+
+msgid "man scientist"
+msgstr "mężczyzna naukowiec"
+
+msgid "woman scientist"
+msgstr "kobieta naukowiec"
+
+msgid "technologist"
+msgstr "technolog"
+
+msgid "man technologist"
+msgstr "mężczyzna technolog"
+
+msgid "woman technologist"
+msgstr "kobieta technolog"
+
+msgid "singer"
+msgstr "piosenkarz"
+
+msgid "man singer"
+msgstr "mężczyzna piosenkarz"
+
+msgid "woman singer"
+msgstr "piosenkarka"
+
+msgid "artist"
+msgstr "artysta"
+
+msgid "man artist"
+msgstr "mężczyzna artysta"
+
+msgid "woman artist"
+msgstr "artystka"
+
+msgid "pilot"
+msgstr "pilot"
+
+msgid "man pilot"
+msgstr "mężczyzna pilot"
+
+msgid "woman pilot"
+msgstr "kobieta pilot"
+
+msgid "astronaut"
+msgstr "astronauta"
+
+msgid "man astronaut"
+msgstr "mężczyzna astronauta"
+
+msgid "woman astronaut"
+msgstr "astronautka"
+
+msgid "firefighter"
+msgstr "strażak"
+
+msgid "man firefighter"
+msgstr "mężczyzna strażak"
+
+msgid "woman firefighter"
+msgstr "kobieta strażak"
+
+msgid "police officer"
+msgstr "policjant"
+
+msgid "man police officer"
+msgstr "mężczyzna policjant"
+
+msgid "woman police officer"
+msgstr "kobieta policjant"
+
+msgid "detective"
+msgstr "detektyw"
+
+msgid "man detective"
+msgstr "mężczyzna detektyw"
+
+msgid "woman detective"
+msgstr "kobieta detektyw"
+
+msgid "guard"
+msgstr "gwardzista"
+
+msgid "man guard"
+msgstr "mężczyzna gwardzista"
+
+msgid "woman guard"
+msgstr "kobieta gwardzista"
+
+msgid "ninja"
+msgstr "ninja"
+
+msgid "construction worker"
+msgstr "budowlaniec"
+
+msgid "man construction worker"
+msgstr "mężczyzna budowlaniec"
+
+msgid "woman construction worker"
+msgstr "kobieta budowlaniec"
+
+msgid "person with crown"
+msgstr "osoba w koronie"
+
+msgid "prince"
+msgstr "książę"
+
+msgid "princess"
+msgstr "księżniczka"
+
+msgid "person wearing turban"
+msgstr "osoba w turbanie"
+
+msgid "man wearing turban"
+msgstr "mężczyzna w turbanie"
+
+msgid "woman wearing turban"
+msgstr "kobieta w turbanie"
+
+msgid "person with skullcap"
+msgstr "mężczyzna w chińskiej czapce"
+
+msgid "woman with headscarf"
+msgstr "kobieta w chuście"
+
+msgid "person in tuxedo"
+msgstr "osoba w smokingu"
+
+msgid "man in tuxedo"
+msgstr "mężczyzna w smokingu"
+
+msgid "woman in tuxedo"
+msgstr "kobieta w smokingu"
+
+msgid "person with veil"
+msgstr "osoba w welonie"
+
+msgid "woman with veil"
+msgstr "kobieta w welonie"
+
+msgid "pregnant woman"
+msgstr "kobieta w ciąży"
+
+msgid "pregnant man"
+msgstr "mężczyzna w ciąży"
+
+msgid "pregnant person"
+msgstr "osoba w ciąży"
+
+msgid "breast-feeding"
+msgstr "karmienie piersią"
+
+msgid "woman feeding baby"
+msgstr "kobieta karmiąca niemowlę"
+
+msgid "man feeding baby"
+msgstr "mężczyzna karmiący niemowlę"
+
+msgid "person feeding baby"
+msgstr "osoba karmiąca niemowlę"
+
+msgid "baby angel"
+msgstr "aniołek"
+
+msgid "Santa Claus"
+msgstr "Święty Mikołaj"
+
+msgid "Mrs. Claus"
+msgstr "żona św. Mikołaja"
+
+msgid "mx claus"
+msgstr "Mikołajka"
+
+msgid "superhero"
+msgstr "superbohater"
+
+msgid "man superhero"
+msgstr "mężczyzna superbohater"
+
+msgid "woman superhero"
+msgstr "kobieta superbohater"
+
+msgid "supervillain"
+msgstr "superłotr"
+
+msgid "man supervillain"
+msgstr "mężczyzna superłotr"
+
+msgid "woman supervillain"
+msgstr "kobieta superłotr"
+
+msgid "mage"
+msgstr "mag"
+
+msgid "man mage"
+msgstr "mężczyzna mag"
+
+msgid "woman mage"
+msgstr "kobieta mag"
+
+msgid "fairy"
+msgstr "wróżka"
+
+msgid "man fairy"
+msgstr "mężczyzna wróżka"
+
+msgid "woman fairy"
+msgstr "kobieta wróżka"
+
+msgid "vampire"
+msgstr "wampir"
+
+msgid "man vampire"
+msgstr "mężczyzna wampir"
+
+msgid "woman vampire"
+msgstr "kobieta wampir"
+
+msgid "merperson"
+msgstr "syrena"
+
+msgid "merman"
+msgstr "mężczyzna syrena"
+
+msgid "mermaid"
+msgstr "kobieta syrena"
+
+msgid "elf"
+msgstr "elf"
+
+msgid "man elf"
+msgstr "mężczyzna elf"
+
+msgid "woman elf"
+msgstr "kobieta elf"
+
+msgid "genie"
+msgstr "dżin"
+
+msgid "man genie"
+msgstr "mężczyzna dżin"
+
+msgid "woman genie"
+msgstr "kobieta dżin"
+
+msgid "zombie"
+msgstr "zombie"
+
+msgid "man zombie"
+msgstr "mężczyzna zombie"
+
+msgid "woman zombie"
+msgstr "kobieta zombie"
+
+msgid "troll"
+msgstr "troll"
+
+msgid "person getting massage"
+msgstr "osoba podczas masażu"
+
+msgid "man getting massage"
+msgstr "mężczyzna podczas masażu"
+
+msgid "woman getting massage"
+msgstr "kobieta podczas masażu"
+
+msgid "person getting haircut"
+msgstr "osoba podczas strzyżenia"
+
+msgid "man getting haircut"
+msgstr "mężczyzna podczas strzyżenia"
+
+msgid "woman getting haircut"
+msgstr "kobieta podczas strzyżenia"
+
+msgid "person walking"
+msgstr "idąca osoba"
+
+msgid "man walking"
+msgstr "idący mężczyzna"
+
+msgid "woman walking"
+msgstr "idąca kobieta"
+
+msgid "person standing"
+msgstr "stojąca osoba"
+
+msgid "man standing"
+msgstr "stojący mężczyzna"
+
+msgid "woman standing"
+msgstr "stojąca kobieta"
+
+msgid "person kneeling"
+msgstr "klęcząca osoba"
+
+msgid "man kneeling"
+msgstr "klęczący mężczyzna"
+
+msgid "woman kneeling"
+msgstr "klęcząca kobieta"
+
+msgid "person with white cane"
+msgstr "osoba z białą laską"
+
+msgid "man with white cane"
+msgstr "mężczyzna z białą laską"
+
+msgid "woman with white cane"
+msgstr "kobieta z białą laską"
+
+msgid "person in motorized wheelchair"
+msgstr "osoba na elektrycznym wózku inwalidzkim"
+
+msgid "man in motorized wheelchair"
+msgstr "mężczyzna na elektrycznym wózku inwalidzkim"
+
+msgid "woman in motorized wheelchair"
+msgstr "kobieta na elektrycznym wózku inwalidzkim"
+
+msgid "person in manual wheelchair"
+msgstr "osoba na wózku inwalidzkim"
+
+msgid "man in manual wheelchair"
+msgstr "mężczyzna na wózku inwalidzkim"
+
+msgid "woman in manual wheelchair"
+msgstr "kobieta na wózku inwalidzkim"
+
+msgid "person running"
+msgstr "biegnąca osoba"
+
+msgid "man running"
+msgstr "biegnący mężczyzna"
+
+msgid "woman running"
+msgstr "biegnąca kobieta"
+
+msgid "woman dancing"
+msgstr "tańcząca kobieta"
+
+msgid "man dancing"
+msgstr "tańczący mężczyzna"
+
+msgid "person in suit levitating"
+msgstr "lewitujący mężczyzna w garniturze"
+
+msgid "people with bunny ears"
+msgstr "osoby z uszami królika na przyjęciu"
+
+msgid "men with bunny ears"
+msgstr "mężczyźni z uszami królika na przyjęciu"
+
+msgid "women with bunny ears"
+msgstr "kobiety z uszami królika na przyjęciu"
+
+msgid "person in steamy room"
+msgstr "osoba w zaparowanym pomieszczeniu"
+
+msgid "man in steamy room"
+msgstr "mężczyzna w zaparowanym pomieszczeniu"
+
+msgid "woman in steamy room"
+msgstr "kobieta w zaparowanym pomieszczeniu"
+
+msgid "person climbing"
+msgstr "osoba wspinająca się"
+
+msgid "man climbing"
+msgstr "mężczyzna wspinający się"
+
+msgid "woman climbing"
+msgstr "kobieta wspinająca się"
+
+msgid "person fencing"
+msgstr "osoba uprawiająca szermierkę"
+
+msgid "horse racing"
+msgstr "wyścigi konne"
+
+msgid "skier"
+msgstr "narciarz"
+
+msgid "snowboarder"
+msgstr "snowboardzista"
+
+msgid "person golfing"
+msgstr "osoba grająca w golfa"
+
+msgid "man golfing"
+msgstr "mężczyzna grający w golfa"
+
+msgid "woman golfing"
+msgstr "kobieta grająca w golfa"
+
+msgid "person surfing"
+msgstr "surfująca osoba"
+
+msgid "man surfing"
+msgstr "surfujący mężczyzna"
+
+msgid "woman surfing"
+msgstr "surfująca kobieta"
+
+msgid "person rowing boat"
+msgstr "osoba wiosłująca w łodzi"
+
+msgid "man rowing boat"
+msgstr "mężczyzna wiosłujący w łodzi"
+
+msgid "woman rowing boat"
+msgstr "kobieta wiosłująca w łodzi"
+
+msgid "person swimming"
+msgstr "pływająca osoba"
+
+msgid "man swimming"
+msgstr "pływający mężczyzna"
+
+msgid "woman swimming"
+msgstr "pływająca kobieta"
+
+msgid "person bouncing ball"
+msgstr "osoba kozłująca piłkę"
+
+msgid "man bouncing ball"
+msgstr "mężczyzna kozłujący piłkę"
+
+msgid "woman bouncing ball"
+msgstr "kobieta kozłująca piłkę"
+
+msgid "person lifting weights"
+msgstr "osoba podnosząca ciężary"
+
+msgid "man lifting weights"
+msgstr "mężczyzna podnoszący ciężary"
+
+msgid "woman lifting weights"
+msgstr "kobieta podnosząca ciężary"
+
+msgid "person biking"
+msgstr "osoba na rowerze"
+
+msgid "man biking"
+msgstr "mężczyzna na rowerze"
+
+msgid "woman biking"
+msgstr "kobieta na rowerze"
+
+msgid "person mountain biking"
+msgstr "osoba na rowerze górskim"
+
+msgid "man mountain biking"
+msgstr "mężczyzna na rowerze górskim"
+
+msgid "woman mountain biking"
+msgstr "kobieta na rowerze górskim"
+
+msgid "person cartwheeling"
+msgstr "osoba robiąca gwiazdę"
+
+msgid "man cartwheeling"
+msgstr "mężczyzna robiący gwiazdę"
+
+msgid "woman cartwheeling"
+msgstr "kobieta robiąca gwiazdę"
+
+msgid "people wrestling"
+msgstr "osoby uprawiające zapasy"
+
+msgid "men wrestling"
+msgstr "mężczyźni uprawiający zapasy"
+
+msgid "women wrestling"
+msgstr "kobiety uprawiające zapasy"
+
+msgid "person playing water polo"
+msgstr "osoba grająca w piłkę wodną"
+
+msgid "man playing water polo"
+msgstr "mężczyzna grający w piłkę wodną"
+
+msgid "woman playing water polo"
+msgstr "kobieta grająca w piłkę wodną"
+
+msgid "person playing handball"
+msgstr "osoba grająca w piłkę ręczną"
+
+msgid "man playing handball"
+msgstr "mężczyzna grający w piłkę ręczną"
+
+msgid "woman playing handball"
+msgstr "kobieta grająca w piłkę ręczną"
+
+msgid "person juggling"
+msgstr "żonglująca osoba"
+
+msgid "man juggling"
+msgstr "żonglujący mężczyzna"
+
+msgid "woman juggling"
+msgstr "żonglująca kobieta"
+
+msgid "person in lotus position"
+msgstr "osoba w pozycji lotosu"
+
+msgid "man in lotus position"
+msgstr "mężczyzna w pozycji lotosu"
+
+msgid "woman in lotus position"
+msgstr "kobieta w pozycji lotosu"
+
+msgid "person taking bath"
+msgstr "osoba biorąca kąpiel"
+
+msgid "person in bed"
+msgstr "osoba w łóżku"
+
+msgid "people holding hands"
+msgstr "osoby trzymające się za ręce"
+
+msgid "woman and man holding hands"
+msgstr "mężczyzna i kobieta trzymający się za ręce"
+
+msgid "kiss"
+msgstr "pocałunek"
+
+msgid "couple with heart"
+msgstr "para z sercem"
+
+msgid "speaking head"
+msgstr "mówiąca głowa"
+
+msgid "bust in silhouette"
+msgstr "sylwetka popiersia"
+
+msgid "busts in silhouette"
+msgstr "sylwetki popiersi"
+
+msgid "people hugging"
+msgstr "obejmujące się osoby"
+
+msgid "family"
+msgstr "rodzina"
+
+msgid "footprints"
+msgstr "ślady stóp"
+
+msgid "monkey face"
+msgstr "głowa małpy"
+
+msgid "monkey"
+msgstr "małpa"
+
+msgid "gorilla"
+msgstr "goryl"
+
+msgid "orangutan"
+msgstr "orangutan"
+
+msgid "dog face"
+msgstr "głowa psa"
+
+msgid "dog"
+msgstr "pies"
+
+msgid "guide dog"
+msgstr "pies przewodnik"
+
+msgid "service dog"
+msgstr "pies pomocnik"
+
+msgid "poodle"
+msgstr "pudel"
+
+msgid "wolf"
+msgstr "głowa wilka"
+
+msgid "fox"
+msgstr "głowa lisa"
+
+msgid "raccoon"
+msgstr "szop"
+
+msgid "cat face"
+msgstr "głowa kota"
+
+msgid "cat"
+msgstr "kot"
+
+msgid "black cat"
+msgstr "czarny kot"
+
+msgid "lion"
+msgstr "głowa lwa"
+
+msgid "tiger face"
+msgstr "głowa tygrysa"
+
+msgid "tiger"
+msgstr "tygrys"
+
+msgid "leopard"
+msgstr "lampart"
+
+msgid "horse face"
+msgstr "głowa konia"
+
+msgid "moose"
+msgstr "łoś"
+
+msgid "donkey"
+msgstr "osioł"
+
+msgid "horse"
+msgstr "koń"
+
+msgid "unicorn"
+msgstr "głowa jednorożca"
+
+msgid "zebra"
+msgstr "zebra"
+
+msgid "deer"
+msgstr "jeleń"
+
+msgid "bison"
+msgstr "żubr"
+
+msgid "cow face"
+msgstr "głowa krowy"
+
+msgid "ox"
+msgstr "wół"
+
+msgid "water buffalo"
+msgstr "wół domowy"
+
+msgid "cow"
+msgstr "krowa"
+
+msgid "pig face"
+msgstr "głowa świni"
+
+msgid "pig"
+msgstr "świnia"
+
+msgid "boar"
+msgstr "dzik"
+
+msgid "pig nose"
+msgstr "ryj świni"
+
+msgid "ram"
+msgstr "biały baran"
+
+msgid "ewe"
+msgstr "owca"
+
+msgid "goat"
+msgstr "koza"
+
+msgid "camel"
+msgstr "wielbłąd"
+
+msgid "two-hump camel"
+msgstr "wielbłąd dwugarbny"
+
+msgid "llama"
+msgstr "lama"
+
+msgid "giraffe"
+msgstr "żyrafa"
+
+msgid "elephant"
+msgstr "słoń"
+
+msgid "mammoth"
+msgstr "mamut"
+
+msgid "rhinoceros"
+msgstr "nosorożec"
+
+msgid "hippopotamus"
+msgstr "hipopotam"
+
+msgid "mouse face"
+msgstr "głowa myszy"
+
+msgid "mouse"
+msgstr "mysz"
+
+msgid "rat"
+msgstr "szczur"
+
+msgid "hamster"
+msgstr "głowa chomika"
+
+msgid "rabbit face"
+msgstr "głowa królika"
+
+msgid "rabbit"
+msgstr "królik"
+
+msgid "chipmunk"
+msgstr "pręgowiec"
+
+msgid "beaver"
+msgstr "bóbr"
+
+msgid "hedgehog"
+msgstr "jeż"
+
+msgid "bat"
+msgstr "nietoperz"
+
+msgid "bear"
+msgstr "głowa niedźwiedzia"
+
+msgid "polar bear"
+msgstr "niedźwiedź polarny"
+
+msgid "koala"
+msgstr "koala"
+
+msgid "panda"
+msgstr "głowa pandy"
+
+msgid "sloth"
+msgstr "leniwiec"
+
+msgid "otter"
+msgstr "wydra"
+
+msgid "skunk"
+msgstr "skunks"
+
+msgid "kangaroo"
+msgstr "kangur"
+
+msgid "badger"
+msgstr "borsuk"
+
+msgid "paw prints"
+msgstr "ślady łap"
+
+msgid "turkey"
+msgstr "indyk"
+
+msgid "chicken"
+msgstr "kura"
+
+msgid "rooster"
+msgstr "kogut"
+
+msgid "hatching chick"
+msgstr "wykluwające się kurczątko"
+
+msgid "baby chick"
+msgstr "kurczątko"
+
+msgid "front-facing baby chick"
+msgstr "kurczątko od przodu"
+
+msgid "bird"
+msgstr "ptak"
+
+msgid "penguin"
+msgstr "pingwin"
+
+msgid "dove"
+msgstr "gołąb"
+
+msgid "eagle"
+msgstr "orzeł"
+
+msgid "duck"
+msgstr "kaczka"
+
+msgid "swan"
+msgstr "łabędź"
+
+msgid "owl"
+msgstr "sowa"
+
+msgid "dodo"
+msgstr "dodo"
+
+msgid "feather"
+msgstr "pióro"
+
+msgid "flamingo"
+msgstr "flaming"
+
+msgid "peacock"
+msgstr "paw"
+
+msgid "parrot"
+msgstr "papuga"
+
+msgid "wing"
+msgstr "skrzydło"
+
+msgid "black bird"
+msgstr "czarny ptak"
+
+msgid "goose"
+msgstr "gęś"
+
+msgid "frog"
+msgstr "głowa żaby"
+
+msgid "crocodile"
+msgstr "krokodyl"
+
+msgid "turtle"
+msgstr "żółw"
+
+msgid "lizard"
+msgstr "jaszczurka"
+
+msgid "snake"
+msgstr "wąż"
+
+msgid "dragon face"
+msgstr "głowa smoka"
+
+msgid "dragon"
+msgstr "smok"
+
+msgid "sauropod"
+msgstr "zauropod"
+
+msgid "T-Rex"
+msgstr "t-rex"
+
+msgid "spouting whale"
+msgstr "wieloryb tryskający wodą"
+
+msgid "whale"
+msgstr "wieloryb"
+
+msgid "dolphin"
+msgstr "delfin"
+
+msgid "seal"
+msgstr "foka"
+
+msgid "fish"
+msgstr "ryba"
+
+msgid "tropical fish"
+msgstr "ryba tropikalna"
+
+msgid "blowfish"
+msgstr "ryba rozdymka"
+
+msgid "shark"
+msgstr "rekin"
+
+msgid "octopus"
+msgstr "ośmiornica"
+
+msgid "spiral shell"
+msgstr "muszla spiralna"
+
+msgid "coral"
+msgstr "koralowiec"
+
+msgid "jellyfish"
+msgstr "meduza"
+
+msgid "snail"
+msgstr "ślimak"
+
+msgid "butterfly"
+msgstr "motyl"
+
+msgid "bug"
+msgstr "gąsienica"
+
+msgid "ant"
+msgstr "mrówka"
+
+msgid "honeybee"
+msgstr "pszczoła"
+
+msgid "beetle"
+msgstr "chrząszcz"
+
+msgid "lady beetle"
+msgstr "biedronka"
+
+msgid "cricket"
+msgstr "świerszcz"
+
+msgid "cockroach"
+msgstr "karaluch"
+
+msgid "spider"
+msgstr "pająk"
+
+msgid "spider web"
+msgstr "pajęczyna"
+
+msgid "scorpion"
+msgstr "brązowy skorpion"
+
+msgid "mosquito"
+msgstr "komar"
+
+msgid "fly"
+msgstr "mucha"
+
+msgid "worm"
+msgstr "robak"
+
+msgid "microbe"
+msgstr "zarazek"
+
+msgid "bouquet"
+msgstr "bukiet kwiatów"
+
+msgid "cherry blossom"
+msgstr "kwiat wiśni"
+
+msgid "white flower"
+msgstr "biały kwiat"
+
+msgid "lotus"
+msgstr "lotos"
+
+msgid "rosette"
+msgstr "rozeta"
+
+msgid "rose"
+msgstr "róża"
+
+msgid "wilted flower"
+msgstr "zwiędły kwiat"
+
+msgid "hibiscus"
+msgstr "kwiat hibiskusa"
+
+msgid "sunflower"
+msgstr "słonecznik"
+
+msgid "blossom"
+msgstr "kwiat"
+
+msgid "tulip"
+msgstr "tulipan"
+
+msgid "hyacinth"
+msgstr "hiacynt"
+
+msgid "seedling"
+msgstr "sadzonka"
+
+msgid "potted plant"
+msgstr "roślina doniczkowa"
+
+msgid "evergreen tree"
+msgstr "wiecznie zielone drzewo"
+
+msgid "deciduous tree"
+msgstr "drzewo liściaste"
+
+msgid "palm tree"
+msgstr "palma"
+
+msgid "cactus"
+msgstr "kaktus"
+
+msgid "sheaf of rice"
+msgstr "pędy ryżu"
+
+msgid "herb"
+msgstr "zioło"
+
+msgid "shamrock"
+msgstr "koniczyna"
+
+msgid "four leaf clover"
+msgstr "czterolistna koniczyna"
+
+msgid "maple leaf"
+msgstr "liść klonowy"
+
+msgid "fallen leaf"
+msgstr "spadające liście"
+
+msgid "leaf fluttering in wind"
+msgstr "liście na wietrze"
+
+msgid "empty nest"
+msgstr "puste gniazdo"
+
+msgid "nest with eggs"
+msgstr "gniazdo z jajkami"
+
+msgid "mushroom"
+msgstr "grzyb"
+
+msgid "grapes"
+msgstr "winogrona"
+
+msgid "melon"
+msgstr "melon"
+
+msgid "watermelon"
+msgstr "arbuz"
+
+msgid "tangerine"
+msgstr "mandarynka"
+
+msgid "lemon"
+msgstr "cytryna"
+
+msgid "banana"
+msgstr "banan"
+
+msgid "pineapple"
+msgstr "ananas"
+
+msgid "mango"
+msgstr "mango"
+
+msgid "red apple"
+msgstr "czerwone jabłko"
+
+msgid "green apple"
+msgstr "zielone jabłko"
+
+msgid "pear"
+msgstr "gruszka"
+
+msgid "peach"
+msgstr "brzoskwinia"
+
+msgid "cherries"
+msgstr "wiśnie"
+
+msgid "strawberry"
+msgstr "truskawka"
+
+msgid "blueberries"
+msgstr "borówka amerykańska"
+
+msgid "kiwi fruit"
+msgstr "owoc kiwi"
+
+msgid "tomato"
+msgstr "pomidor"
+
+msgid "olive"
+msgstr "oliwka"
+
+msgid "coconut"
+msgstr "kokos"
+
+msgid "avocado"
+msgstr "awokado"
+
+msgid "eggplant"
+msgstr "bakłażan"
+
+msgid "potato"
+msgstr "ziemniak"
+
+msgid "carrot"
+msgstr "marchew"
+
+msgid "ear of corn"
+msgstr "kolba kukurydzy"
+
+msgid "hot pepper"
+msgstr "ostra papryka"
+
+msgid "bell pepper"
+msgstr "papryka"
+
+msgid "cucumber"
+msgstr "ogórek"
+
+msgid "leafy green"
+msgstr "zielenina liściasta"
+
+msgid "broccoli"
+msgstr "brokuł"
+
+msgid "garlic"
+msgstr "czosnek"
+
+msgid "onion"
+msgstr "cebula"
+
+msgid "peanuts"
+msgstr "orzeszki ziemne"
+
+msgid "beans"
+msgstr "fasola"
+
+msgid "chestnut"
+msgstr "kasztan"
+
+msgid "ginger root"
+msgstr "korzeń imbiru"
+
+msgid "pea pod"
+msgstr "strąk grochu"
+
+msgid "bread"
+msgstr "chleb"
+
+msgid "croissant"
+msgstr "rogalik"
+
+msgid "baguette bread"
+msgstr "bagietka"
+
+msgid "flatbread"
+msgstr "pita"
+
+msgid "pretzel"
+msgstr "precel"
+
+msgid "bagel"
+msgstr "bajgiel"
+
+msgid "pancakes"
+msgstr "naleśniki"
+
+msgid "waffle"
+msgstr "gofr"
+
+msgid "cheese wedge"
+msgstr "kawałek sera"
+
+msgid "meat on bone"
+msgstr "mięso z kością"
+
+msgid "poultry leg"
+msgstr "udko kurczaka"
+
+msgid "cut of meat"
+msgstr "kawałek mięsa"
+
+msgid "bacon"
+msgstr "boczek"
+
+msgid "hamburger"
+msgstr "hamburger"
+
+msgid "french fries"
+msgstr "frytki"
+
+msgid "pizza"
+msgstr "pizza"
+
+msgid "hot dog"
+msgstr "hot dog"
+
+msgid "sandwich"
+msgstr "kanapka"
+
+msgid "taco"
+msgstr "taco"
+
+msgid "burrito"
+msgstr "burrito"
+
+msgid "tamale"
+msgstr "tamales"
+
+msgid "stuffed flatbread"
+msgstr "wrap"
+
+msgid "falafel"
+msgstr "falafel"
+
+msgid "egg"
+msgstr "jajko"
+
+msgid "cooking"
+msgstr "gotowanie"
+
+msgid "shallow pan of food"
+msgstr "danie z patelni"
+
+msgid "pot of food"
+msgstr "garnek z jedzeniem"
+
+msgid "fondue"
+msgstr "fondue"
+
+msgid "bowl with spoon"
+msgstr "miska z łyżką"
+
+msgid "green salad"
+msgstr "sałatka"
+
+msgid "popcorn"
+msgstr "popcorn"
+
+msgid "butter"
+msgstr "masło"
+
+msgid "salt"
+msgstr "sól"
+
+msgid "canned food"
+msgstr "jedzenie w puszce"
+
+msgid "bento box"
+msgstr "pudełko bento"
+
+msgid "rice cracker"
+msgstr "krakers ryżowy"
+
+msgid "rice ball"
+msgstr "kulka ryżowa"
+
+msgid "cooked rice"
+msgstr "gotowany ryż"
+
+msgid "curry rice"
+msgstr "ryż curry"
+
+msgid "steaming bowl"
+msgstr "miska parującego jedzenia"
+
+msgid "spaghetti"
+msgstr "spaghetti"
+
+msgid "roasted sweet potato"
+msgstr "pieczony batat"
+
+msgid "oden"
+msgstr "oden"
+
+msgid "sushi"
+msgstr "sushi"
+
+msgid "fried shrimp"
+msgstr "smażona krewetka"
+
+msgid "fish cake with swirl"
+msgstr "ciastko rybne"
+
+msgid "moon cake"
+msgstr "ciasteczko księżycowe"
+
+msgid "dango"
+msgstr "dango"
+
+msgid "dumpling"
+msgstr "pieróg"
+
+msgid "fortune cookie"
+msgstr "ciastko z wróżbą"
+
+msgid "takeout box"
+msgstr "pudełko na wynos"
+
+msgid "crab"
+msgstr "krab"
+
+msgid "lobster"
+msgstr "homar"
+
+msgid "shrimp"
+msgstr "krewetka"
+
+msgid "squid"
+msgstr "kałamarnica"
+
+msgid "oyster"
+msgstr "ostryga"
+
+msgid "soft ice cream"
+msgstr "lody włoskie"
+
+msgid "shaved ice"
+msgstr "lody hawajskie"
+
+msgid "ice cream"
+msgstr "lody"
+
+msgid "doughnut"
+msgstr "pączek z dziurką"
+
+msgid "cookie"
+msgstr "ciastko"
+
+msgid "birthday cake"
+msgstr "tort urodzinowy"
+
+msgid "shortcake"
+msgstr "tort"
+
+msgid "cupcake"
+msgstr "babeczka"
+
+msgid "pie"
+msgstr "ciasto"
+
+msgid "chocolate bar"
+msgstr "tabliczka czekolady"
+
+msgid "candy"
+msgstr "cukierek"
+
+msgid "lollipop"
+msgstr "lizak"
+
+msgid "custard"
+msgstr "deser typu krem angielski"
+
+msgid "honey pot"
+msgstr "garnek miodu"
+
+msgid "baby bottle"
+msgstr "butelka ze smoczkiem"
+
+msgid "glass of milk"
+msgstr "szklanka mleka"
+
+msgid "hot beverage"
+msgstr "gorący napój"
+
+msgid "teapot"
+msgstr "czajniczek"
+
+msgid "teacup without handle"
+msgstr "filiżanka bez uszka"
+
+msgid "sake"
+msgstr "sake"
+
+msgid "bottle with popping cork"
+msgstr "butelka z wystrzelającym korkiem"
+
+msgid "wine glass"
+msgstr "kieliszek wina"
+
+msgid "cocktail glass"
+msgstr "kieliszek z koktajlem"
+
+msgid "tropical drink"
+msgstr "drink tropikalny"
+
+msgid "beer mug"
+msgstr "kufel piwa"
+
+msgid "clinking beer mugs"
+msgstr "stukające się kufle piwa"
+
+msgid "clinking glasses"
+msgstr "stukające się kieliszki"
+
+msgid "tumbler glass"
+msgstr "szklanka z grubym dnem"
+
+msgid "pouring liquid"
+msgstr "nalewanie płynu"
+
+msgid "cup with straw"
+msgstr "szklanka ze słomką"
+
+msgid "bubble tea"
+msgstr "napój bubble tea"
+
+msgid "beverage box"
+msgstr "napój w kartoniku"
+
+msgid "mate"
+msgstr "yerba mate"
+
+msgid "ice"
+msgstr "kostka lodu"
+
+msgid "chopsticks"
+msgstr "pałeczki"
+
+msgid "fork and knife with plate"
+msgstr "talerz z nożem i widelcem"
+
+msgid "fork and knife"
+msgstr "widelec i nóż"
+
+msgid "spoon"
+msgstr "łyżka"
+
+msgid "kitchen knife"
+msgstr "nóż kuchenny"
+
+msgid "jar"
+msgstr "słoik"
+
+msgid "amphora"
+msgstr "amfora"
+
+msgid "globe showing Europe-Africa"
+msgstr "kula ziemska przedstawiająca Europę i Afrykę"
+
+msgid "globe showing Americas"
+msgstr "kula ziemska przedstawiająca Ameryki"
+
+msgid "globe showing Asia-Australia"
+msgstr "kula ziemska przedstawiająca Azję i Australię"
+
+msgid "globe with meridians"
+msgstr "kula ziemska z południkami"
+
+msgid "world map"
+msgstr "mapa świata"
+
+msgid "map of Japan"
+msgstr "mapa Japonii"
+
+msgid "compass"
+msgstr "kompas"
+
+msgid "snow-capped mountain"
+msgstr "góra z czapą lodową"
+
+msgid "mountain"
+msgstr "góra"
+
+msgid "volcano"
+msgstr "wulkan"
+
+msgid "mount fuji"
+msgstr "góra Fudżi"
+
+msgid "camping"
+msgstr "kemping"
+
+msgid "beach with umbrella"
+msgstr "parasol na plaży"
+
+msgid "desert"
+msgstr "pustynia"
+
+msgid "desert island"
+msgstr "bezludna wyspa"
+
+msgid "national park"
+msgstr "park narodowy"
+
+msgid "stadium"
+msgstr "stadion"
+
+msgid "classical building"
+msgstr "klasyczna budowla"
+
+msgid "building construction"
+msgstr "dźwig budowlany"
+
+msgid "brick"
+msgstr "cegła"
+
+msgid "rock"
+msgstr "skała"
+
+msgid "wood"
+msgstr "drewno"
+
+msgid "hut"
+msgstr "chata"
+
+msgid "houses"
+msgstr "domki"
+
+msgid "derelict house"
+msgstr "stary dom"
+
+msgid "house"
+msgstr "dom"
+
+msgid "house with garden"
+msgstr "dom z ogrodem"
+
+msgid "office building"
+msgstr "biurowiec"
+
+msgid "Japanese post office"
+msgstr "japońska poczta"
+
+msgid "post office"
+msgstr "urząd pocztowy"
+
+msgid "hospital"
+msgstr "szpital"
+
+msgid "bank"
+msgstr "bank"
+
+msgid "hotel"
+msgstr "hotel"
+
+msgid "love hotel"
+msgstr "hotel miłości"
+
+msgid "convenience store"
+msgstr "sklep całodobowy"
+
+msgid "school"
+msgstr "szkoła"
+
+msgid "department store"
+msgstr "dom towarowy"
+
+msgid "factory"
+msgstr "fabryka"
+
+msgid "Japanese castle"
+msgstr "japoński zamek"
+
+msgid "castle"
+msgstr "zamek"
+
+msgid "wedding"
+msgstr "ślub"
+
+msgid "Tokyo tower"
+msgstr "Tokyo Tower"
+
+msgid "Statue of Liberty"
+msgstr "Statua Wolności"
+
+msgid "church"
+msgstr "kościół"
+
+msgid "mosque"
+msgstr "meczet"
+
+msgid "hindu temple"
+msgstr "świątynia hinduistyczna"
+
+msgid "synagogue"
+msgstr "synagoga"
+
+msgid "shinto shrine"
+msgstr "świątynia shinto"
+
+msgid "kaaba"
+msgstr "kaaba"
+
+msgid "fountain"
+msgstr "fontanna"
+
+msgid "tent"
+msgstr "namiot"
+
+msgid "foggy"
+msgstr "zamglenie"
+
+msgid "night with stars"
+msgstr "noc z gwiazdami"
+
+msgid "cityscape"
+msgstr "drapacze chmur"
+
+msgid "sunrise over mountains"
+msgstr "wschód słońca zza gór"
+
+msgid "sunrise"
+msgstr "wschód słońca"
+
+msgid "cityscape at dusk"
+msgstr "miasto o zmierzchu"
+
+msgid "sunset"
+msgstr "zachód słońca"
+
+msgid "bridge at night"
+msgstr "most nocą"
+
+msgid "hot springs"
+msgstr "gorące źródła"
+
+msgid "carousel horse"
+msgstr "koń z karuzeli"
+
+msgid "playground slide"
+msgstr "zjeżdżalnia"
+
+msgid "ferris wheel"
+msgstr "diabelski młyn"
+
+msgid "roller coaster"
+msgstr "kolejka górska"
+
+msgid "barber pole"
+msgstr "słup fryzjerski"
+
+msgid "circus tent"
+msgstr "namiot cyrkowy"
+
+msgid "locomotive"
+msgstr "lokomotywa"
+
+msgid "railway car"
+msgstr "wagon kolejowy"
+
+msgid "high-speed train"
+msgstr "szybki pociąg"
+
+msgid "bullet train"
+msgstr "szybki pociąg z zaokrąglonym przodem"
+
+msgid "train"
+msgstr "pociąg"
+
+msgid "metro"
+msgstr "metro"
+
+msgid "light rail"
+msgstr "kolej miejska"
+
+msgid "station"
+msgstr "stacja"
+
+msgid "tram"
+msgstr "tramwaj"
+
+msgid "monorail"
+msgstr "kolej jednoszynowa"
+
+msgid "mountain railway"
+msgstr "kolej górska"
+
+msgid "tram car"
+msgstr "wagon tramwajowy"
+
+msgid "bus"
+msgstr "autobus"
+
+msgid "oncoming bus"
+msgstr "nadjeżdżający autobus"
+
+msgid "trolleybus"
+msgstr "trolejbus"
+
+msgid "minibus"
+msgstr "minibus"
+
+msgid "ambulance"
+msgstr "karetka pogotowia"
+
+msgid "fire engine"
+msgstr "samochód strażacki"
+
+msgid "police car"
+msgstr "samochód policyjny"
+
+msgid "oncoming police car"
+msgstr "nadjeżdżający radiowóz"
+
+msgid "taxi"
+msgstr "taksówka"
+
+msgid "oncoming taxi"
+msgstr "nadjeżdżająca taksówka"
+
+msgid "automobile"
+msgstr "samochód"
+
+msgid "oncoming automobile"
+msgstr "nadjeżdżający samochód"
+
+msgid "sport utility vehicle"
+msgstr "samochód SUV"
+
+msgid "pickup truck"
+msgstr "pick-up"
+
+msgid "delivery truck"
+msgstr "samochód dostawczy"
+
+msgid "articulated lorry"
+msgstr "samochód ciężarowy"
+
+msgid "tractor"
+msgstr "ciągnik"
+
+msgid "racing car"
+msgstr "samochód wyścigowy"
+
+msgid "motorcycle"
+msgstr "motocykl"
+
+msgid "motor scooter"
+msgstr "skuter"
+
+msgid "manual wheelchair"
+msgstr "wózek inwalidzki ręczny"
+
+msgid "motorized wheelchair"
+msgstr "wózek inwalidzki elektryczny"
+
+msgid "auto rickshaw"
+msgstr "autoriksza"
+
+msgid "bicycle"
+msgstr "rower"
+
+msgid "kick scooter"
+msgstr "hulajnoga"
+
+msgid "skateboard"
+msgstr "deskorolka"
+
+msgid "roller skate"
+msgstr "wrotka"
+
+msgid "bus stop"
+msgstr "przystanek autobusowy"
+
+msgid "motorway"
+msgstr "autostrada"
+
+msgid "railway track"
+msgstr "tor kolejowy"
+
+msgid "oil drum"
+msgstr "beczka oleju"
+
+msgid "fuel pump"
+msgstr "dystrybutor paliwa"
+
+msgid "wheel"
+msgstr "koło pojazdu"
+
+msgid "police car light"
+msgstr "kogut policyjny"
+
+msgid "horizontal traffic light"
+msgstr "pozioma sygnalizacja uliczna"
+
+msgid "vertical traffic light"
+msgstr "pionowa sygnalizacja uliczna"
+
+msgid "stop sign"
+msgstr "znak stopu"
+
+msgid "construction"
+msgstr "prace drogowe"
+
+msgid "anchor"
+msgstr "kotwica"
+
+msgid "ring buoy"
+msgstr "koło ratunkowe"
+
+msgid "sailboat"
+msgstr "żaglówka"
+
+msgid "canoe"
+msgstr "kajak"
+
+msgid "speedboat"
+msgstr "ścigacz wodny"
+
+msgid "passenger ship"
+msgstr "statek pasażerski"
+
+msgid "ferry"
+msgstr "prom"
+
+msgid "motor boat"
+msgstr "motorówka"
+
+msgid "ship"
+msgstr "statek"
+
+msgid "airplane"
+msgstr "samolot"
+
+msgid "small airplane"
+msgstr "mały samolot"
+
+msgid "airplane departure"
+msgstr "odlot samolotu"
+
+msgid "airplane arrival"
+msgstr "przylot samolotu"
+
+msgid "parachute"
+msgstr "spadochron"
+
+msgid "seat"
+msgstr "fotel"
+
+msgid "helicopter"
+msgstr "helikopter"
+
+msgid "suspension railway"
+msgstr "kolej podwieszana"
+
+msgid "mountain cableway"
+msgstr "górska kolej linowa"
+
+msgid "aerial tramway"
+msgstr "kolej linowa"
+
+msgid "satellite"
+msgstr "satelita"
+
+msgid "rocket"
+msgstr "rakieta"
+
+msgid "flying saucer"
+msgstr "latający talerz"
+
+msgid "bellhop bell"
+msgstr "dzwonek w recepcji"
+
+msgid "luggage"
+msgstr "bagaż"
+
+msgid "hourglass done"
+msgstr "klepsydra"
+
+msgid "hourglass not done"
+msgstr "klepsydra z przesypującym się piaskiem"
+
+msgid "watch"
+msgstr "zegarek"
+
+msgid "alarm clock"
+msgstr "budzik"
+
+msgid "stopwatch"
+msgstr "stoper"
+
+msgid "timer clock"
+msgstr "minutnik"
+
+msgid "mantelpiece clock"
+msgstr "zegar kominkowy"
+
+msgid "twelve o’clock"
+msgstr "godzina 12:00"
+
+msgid "twelve-thirty"
+msgstr "godzina 12:30"
+
+msgid "one o’clock"
+msgstr "godzina 1:00"
+
+msgid "one-thirty"
+msgstr "godzina 1:30"
+
+msgid "two o’clock"
+msgstr "godzina 2:00"
+
+msgid "two-thirty"
+msgstr "godzina 2:30"
+
+msgid "three o’clock"
+msgstr "godzina 3:00"
+
+msgid "three-thirty"
+msgstr "godzina 3:30"
+
+msgid "four o’clock"
+msgstr "godzina 4:00"
+
+msgid "four-thirty"
+msgstr "godzina 4:30"
+
+msgid "five o’clock"
+msgstr "godzina 5:00"
+
+msgid "five-thirty"
+msgstr "godzina 5:30"
+
+msgid "six o’clock"
+msgstr "godzina 6:00"
+
+msgid "six-thirty"
+msgstr "godzina 6:30"
+
+msgid "seven o’clock"
+msgstr "godzina 7:00"
+
+msgid "seven-thirty"
+msgstr "godzina 7:30"
+
+msgid "eight o’clock"
+msgstr "godzina 8:00"
+
+msgid "eight-thirty"
+msgstr "godzina 8:30"
+
+msgid "nine o’clock"
+msgstr "godzina 9:00"
+
+msgid "nine-thirty"
+msgstr "godzina 9:30"
+
+msgid "ten o’clock"
+msgstr "godzina 10:00"
+
+msgid "ten-thirty"
+msgstr "godzina 10:30"
+
+msgid "eleven o’clock"
+msgstr "godzina 11:00"
+
+msgid "eleven-thirty"
+msgstr "godzina 11:30"
+
+msgid "new moon"
+msgstr "nów"
+
+msgid "waxing crescent moon"
+msgstr "narastający półksiężyc"
+
+msgid "first quarter moon"
+msgstr "pierwsza kwadra księżyca"
+
+msgid "waxing gibbous moon"
+msgstr "narastający księżyc między pierwszą kwadrą a pełnią"
+
+msgid "full moon"
+msgstr "pełnia"
+
+msgid "waning gibbous moon"
+msgstr "zanikający księżyc między pełnią a ostatnią kwadrą"
+
+msgid "last quarter moon"
+msgstr "ostatnia kwadra księżyca"
+
+msgid "waning crescent moon"
+msgstr "zanikający półksiężyc"
+
+msgid "crescent moon"
+msgstr "półksiężyc"
+
+msgid "new moon face"
+msgstr "nów z twarzą"
+
+msgid "first quarter moon face"
+msgstr "pierwsza kwadra księżyca z twarzą"
+
+msgid "last quarter moon face"
+msgstr "ostatnia kwadra księżyca z twarzą"
+
+msgid "thermometer"
+msgstr "termometr"
+
+msgid "sun"
+msgstr "słońce"
+
+msgid "full moon face"
+msgstr "pełnia z twarzą"
+
+msgid "sun with face"
+msgstr "słońce z twarzą"
+
+msgid "ringed planet"
+msgstr "planeta z pierścieniami"
+
+msgid "star"
+msgstr "gwiazda"
+
+msgid "glowing star"
+msgstr "błyszcząca gwiazda"
+
+msgid "shooting star"
+msgstr "spadająca gwiazda"
+
+msgid "milky way"
+msgstr "Droga Mleczna"
+
+msgid "cloud"
+msgstr "chmura"
+
+msgid "sun behind cloud"
+msgstr "słońce zza chmury"
+
+msgid "cloud with lightning and rain"
+msgstr "chmura z piorunem i deszczem"
+
+msgid "sun behind small cloud"
+msgstr "słońce za chmurką"
+
+msgid "sun behind large cloud"
+msgstr "słońce za chmurą"
+
+msgid "sun behind rain cloud"
+msgstr "słońce za chmurą i deszcz"
+
+msgid "cloud with rain"
+msgstr "chmura i deszcz"
+
+msgid "cloud with snow"
+msgstr "chmura i śnieg"
+
+msgid "cloud with lightning"
+msgstr "chmura i piorun"
+
+msgid "tornado"
+msgstr "tornado"
+
+msgid "fog"
+msgstr "mgła"
+
+msgid "wind face"
+msgstr "dmuchająca twarz wiatru"
+
+msgid "cyclone"
+msgstr "cyklon"
+
+msgid "rainbow"
+msgstr "tęcza"
+
+msgid "closed umbrella"
+msgstr "złożony parasol"
+
+msgid "umbrella"
+msgstr "parasol"
+
+msgid "umbrella with rain drops"
+msgstr "parasol z kroplami deszczu"
+
+msgid "umbrella on ground"
+msgstr "parasol plażowy wbity w ziemię"
+
+msgid "high voltage"
+msgstr "wysokie napięcie"
+
+msgid "snowflake"
+msgstr "płatek śniegu"
+
+msgid "snowman"
+msgstr "bałwanek i płatki śniegu"
+
+msgid "snowman without snow"
+msgstr "bałwanek bez śniegu"
+
+msgid "comet"
+msgstr "kometa"
+
+msgid "fire"
+msgstr "ogień"
+
+msgid "droplet"
+msgstr "kropla"
+
+msgid "water wave"
+msgstr "fala"
+
+msgid "jack-o-lantern"
+msgstr "dynia na halloween"
+
+msgid "Christmas tree"
+msgstr "choinka bożonarodzeniowa"
+
+msgid "fireworks"
+msgstr "fajerwerki"
+
+msgid "sparkler"
+msgstr "zimne ognie"
+
+msgid "firecracker"
+msgstr "petarda"
+
+msgid "sparkles"
+msgstr "gwiazdki"
+
+msgid "balloon"
+msgstr "balon"
+
+msgid "party popper"
+msgstr "tuba z konfetti"
+
+msgid "confetti ball"
+msgstr "kula z konfetti"
+
+msgid "tanabata tree"
+msgstr "drzewko na Tanabata"
+
+msgid "pine decoration"
+msgstr "japońska dekoracja kadomatsu"
+
+msgid "Japanese dolls"
+msgstr "japońskie lalki"
+
+msgid "carp streamer"
+msgstr "flaga w kształcie karpia"
+
+msgid "wind chime"
+msgstr "dzwonek wietrzny"
+
+msgid "moon viewing ceremony"
+msgstr "ceremonia oglądania księżyca"
+
+msgid "red envelope"
+msgstr "czerwona koperta"
+
+msgid "ribbon"
+msgstr "wstążka"
+
+msgid "wrapped gift"
+msgstr "zapakowany prezent"
+
+msgid "reminder ribbon"
+msgstr "wstążka pamięci"
+
+msgid "admission tickets"
+msgstr "bilety wstępu"
+
+msgid "ticket"
+msgstr "bilet"
+
+msgid "military medal"
+msgstr "order wojskowy"
+
+msgid "trophy"
+msgstr "puchar"
+
+msgid "sports medal"
+msgstr "medal sportowy"
+
+msgid "1st place medal"
+msgstr "medal za 1. miejsce"
+
+msgid "2nd place medal"
+msgstr "medal za 2. miejsce"
+
+msgid "3rd place medal"
+msgstr "medal za 3. miejsce"
+
+msgid "soccer ball"
+msgstr "piłka nożna"
+
+msgid "baseball"
+msgstr "baseball"
+
+msgid "softball"
+msgstr "softball"
+
+msgid "basketball"
+msgstr "koszykówka"
+
+msgid "volleyball"
+msgstr "siatkówka"
+
+msgid "american football"
+msgstr "futbol amerykański"
+
+msgid "rugby football"
+msgstr "piłka do rugby"
+
+msgid "tennis"
+msgstr "tenis"
+
+msgid "flying disc"
+msgstr "frisbee"
+
+msgid "bowling"
+msgstr "kręgle"
+
+msgid "cricket game"
+msgstr "krykiet"
+
+msgid "field hockey"
+msgstr "hokej na trawie"
+
+msgid "ice hockey"
+msgstr "hokej na lodzie"
+
+msgid "lacrosse"
+msgstr "lacrosse"
+
+msgid "ping pong"
+msgstr "tenis stołowy"
+
+msgid "badminton"
+msgstr "badminton"
+
+msgid "boxing glove"
+msgstr "rękawica bokserska"
+
+msgid "martial arts uniform"
+msgstr "strój do sztuk walki"
+
+msgid "goal net"
+msgstr "bramka"
+
+msgid "flag in hole"
+msgstr "flaga w dołku"
+
+msgid "ice skate"
+msgstr "but z łyżwą"
+
+msgid "fishing pole"
+msgstr "wędka"
+
+msgid "diving mask"
+msgstr "maska do nurkowania"
+
+msgid "running shirt"
+msgstr "koszulka do biegania"
+
+msgid "skis"
+msgstr "narty"
+
+msgid "sled"
+msgstr "sanie"
+
+msgid "curling stone"
+msgstr "kamień do curlingu"
+
+msgid "bullseye"
+msgstr "strzał w 10"
+
+msgid "yo-yo"
+msgstr "jojo"
+
+msgid "kite"
+msgstr "latawiec"
+
+msgid "water pistol"
+msgstr "pistolet na wodę"
+
+msgid "pool 8 ball"
+msgstr "bila 8"
+
+msgid "crystal ball"
+msgstr "kryształowa kula"
+
+msgid "magic wand"
+msgstr "czarodziejska różdżka"
+
+msgid "video game"
+msgstr "gra wideo"
+
+msgid "joystick"
+msgstr "dżojstik"
+
+msgid "slot machine"
+msgstr "automat do gier"
+
+msgid "game die"
+msgstr "kostka do gry"
+
+msgid "puzzle piece"
+msgstr "element układanki"
+
+msgid "teddy bear"
+msgstr "miś pluszowy"
+
+msgid "piñata"
+msgstr "piniata"
+
+msgid "mirror ball"
+msgstr "kula dyskotekowa"
+
+msgid "nesting dolls"
+msgstr "matrioszki"
+
+msgid "spade suit"
+msgstr "pik"
+
+msgid "heart suit"
+msgstr "kier"
+
+msgid "diamond suit"
+msgstr "karo"
+
+msgid "club suit"
+msgstr "trefl"
+
+msgid "chess pawn"
+msgstr "pionek"
+
+msgid "joker"
+msgstr "dżoker"
+
+msgid "mahjong red dragon"
+msgstr "madżong: czerwony smok"
+
+msgid "flower playing cards"
+msgstr "gra karciana hanafuda"
+
+msgid "performing arts"
+msgstr "maski teatralne"
+
+msgid "framed picture"
+msgstr "obrazek w ramce"
+
+msgid "artist palette"
+msgstr "paleta malarska"
+
+msgid "thread"
+msgstr "nić"
+
+msgid "sewing needle"
+msgstr "igła krawiecka"
+
+msgid "yarn"
+msgstr "włóczka"
+
+msgid "knot"
+msgstr "węzeł"
+
+msgid "glasses"
+msgstr "okulary"
+
+msgid "sunglasses"
+msgstr "okulary słoneczne"
+
+msgid "goggles"
+msgstr "okulary ochronne"
+
+msgid "lab coat"
+msgstr "biały fartuch"
+
+msgid "safety vest"
+msgstr "kamizelka ratunkowa"
+
+msgid "necktie"
+msgstr "krawat"
+
+msgid "t-shirt"
+msgstr "koszulka"
+
+msgid "jeans"
+msgstr "dżinsy"
+
+msgid "scarf"
+msgstr "szalik"
+
+msgid "gloves"
+msgstr "rękawiczki"
+
+msgid "coat"
+msgstr "płaszcz"
+
+msgid "socks"
+msgstr "skarpetki"
+
+msgid "dress"
+msgstr "sukienka"
+
+msgid "kimono"
+msgstr "kimono"
+
+msgid "sari"
+msgstr "sari"
+
+msgid "one-piece swimsuit"
+msgstr "strój kąpielowy jednoczęściowy"
+
+msgid "briefs"
+msgstr "kąpielówki"
+
+msgid "shorts"
+msgstr "szorty"
+
+msgid "bikini"
+msgstr "bikini"
+
+msgid "woman’s clothes"
+msgstr "ubranie damskie"
+
+msgid "folding hand fan"
+msgstr "wachlarz"
+
+msgid "purse"
+msgstr "portmonetka"
+
+msgid "handbag"
+msgstr "torebka"
+
+msgid "clutch bag"
+msgstr "saszetka"
+
+msgid "shopping bags"
+msgstr "torby na zakupy"
+
+msgid "backpack"
+msgstr "tornister"
+
+msgid "thong sandal"
+msgstr "japonka"
+
+msgid "man’s shoe"
+msgstr "but męski"
+
+msgid "running shoe"
+msgstr "but do biegania"
+
+msgid "hiking boot"
+msgstr "but turystyczny"
+
+msgid "flat shoe"
+msgstr "baleriny"
+
+msgid "high-heeled shoe"
+msgstr "but na wysokim obcasie"
+
+msgid "woman’s sandal"
+msgstr "sandał damski"
+
+msgid "ballet shoes"
+msgstr "baletki"
+
+msgid "woman’s boot"
+msgstr "kozak damski"
+
+msgid "hair pick"
+msgstr "grzebień fryzjerski"
+
+msgid "crown"
+msgstr "korona"
+
+msgid "woman’s hat"
+msgstr "kapelusz damski"
+
+msgid "top hat"
+msgstr "cylinder"
+
+msgid "graduation cap"
+msgstr "biret"
+
+msgid "billed cap"
+msgstr "bejsbolówka"
+
+msgid "military helmet"
+msgstr "hełm wojskowy"
+
+msgid "rescue worker’s helmet"
+msgstr "kask z krzyżykiem"
+
+msgid "prayer beads"
+msgstr "sznur modlitewny"
+
+msgid "lipstick"
+msgstr "szminka"
+
+msgid "ring"
+msgstr "pierścionek"
+
+msgid "gem stone"
+msgstr "kamień szlachetny"
+
+msgid "muted speaker"
+msgstr "wyciszony głośnik"
+
+msgid "speaker low volume"
+msgstr "niska głośność głośnika"
+
+msgid "speaker medium volume"
+msgstr "średnia głośność głośnika"
+
+msgid "speaker high volume"
+msgstr "wysoka głośność głośnika"
+
+msgid "loudspeaker"
+msgstr "głośnik"
+
+msgid "megaphone"
+msgstr "megafon"
+
+msgid "postal horn"
+msgstr "trąbka pocztowa"
+
+msgid "bell"
+msgstr "dzwonek"
+
+msgid "bell with slash"
+msgstr "przekreślony dzwonek"
+
+msgid "musical score"
+msgstr "partytura"
+
+msgid "musical note"
+msgstr "nuta"
+
+msgid "musical notes"
+msgstr "nuty"
+
+msgid "studio microphone"
+msgstr "mikrofon studyjny"
+
+msgid "level slider"
+msgstr "suwak miksera dźwięku"
+
+msgid "control knobs"
+msgstr "pokrętła"
+
+msgid "microphone"
+msgstr "mikrofon"
+
+msgid "headphone"
+msgstr "słuchawki"
+
+msgid "radio"
+msgstr "radio"
+
+msgid "saxophone"
+msgstr "saksofon"
+
+msgid "accordion"
+msgstr "akordeon"
+
+msgid "guitar"
+msgstr "gitara"
+
+msgid "musical keyboard"
+msgstr "klawisze"
+
+msgid "trumpet"
+msgstr "trąbka"
+
+msgid "violin"
+msgstr "skrzypce"
+
+msgid "banjo"
+msgstr "banjo"
+
+msgid "drum"
+msgstr "bęben"
+
+msgid "long drum"
+msgstr "konga"
+
+msgid "maracas"
+msgstr "marakasy"
+
+msgid "flute"
+msgstr "flet"
+
+msgid "mobile phone"
+msgstr "telefon komórkowy"
+
+msgid "mobile phone with arrow"
+msgstr "telefon komórkowy ze strzałką"
+
+msgid "telephone"
+msgstr "telefon"
+
+msgid "telephone receiver"
+msgstr "słuchawka telefoniczna"
+
+msgid "pager"
+msgstr "pager"
+
+msgid "fax machine"
+msgstr "faks"
+
+msgid "battery"
+msgstr "bateria"
+
+msgid "low battery"
+msgstr "słaba bateria"
+
+msgid "electric plug"
+msgstr "wtyczka elektryczna"
+
+msgid "laptop"
+msgstr "laptop"
+
+msgid "desktop computer"
+msgstr "komputer"
+
+msgid "printer"
+msgstr "drukarka"
+
+msgid "keyboard"
+msgstr "klawiatura"
+
+msgid "computer mouse"
+msgstr "mysz komputerowa"
+
+msgid "trackball"
+msgstr "trackball"
+
+msgid "computer disk"
+msgstr "dysk komputerowy"
+
+msgid "floppy disk"
+msgstr "dyskietka"
+
+msgid "optical disk"
+msgstr "dysk optyczny"
+
+msgid "dvd"
+msgstr "DVD"
+
+msgid "abacus"
+msgstr "liczydło"
+
+msgid "movie camera"
+msgstr "kamera filmowa"
+
+msgid "film frames"
+msgstr "taśma filmowa"
+
+msgid "film projector"
+msgstr "projektor filmowy"
+
+msgid "clapper board"
+msgstr "klaps"
+
+msgid "television"
+msgstr "telewizja"
+
+msgid "camera"
+msgstr "aparat fotograficzny"
+
+msgid "camera with flash"
+msgstr "aparat fotograficzny z lampą błyskową"
+
+msgid "video camera"
+msgstr "kamera wideo"
+
+msgid "videocassette"
+msgstr "kaseta wideo"
+
+msgid "magnifying glass tilted left"
+msgstr "lupa pochylona w lewo"
+
+msgid "magnifying glass tilted right"
+msgstr "lupa pochylona w prawo"
+
+msgid "candle"
+msgstr "świeca"
+
+msgid "light bulb"
+msgstr "żarówka"
+
+msgid "flashlight"
+msgstr "latarka"
+
+msgid "red paper lantern"
+msgstr "czerwony lampion"
+
+msgid "diya lamp"
+msgstr "dipa"
+
+msgid "notebook with decorative cover"
+msgstr "notes z dekoracyjną okładką"
+
+msgid "closed book"
+msgstr "zamknięta książka"
+
+msgid "open book"
+msgstr "otwarta książka"
+
+msgid "green book"
+msgstr "zielona książka"
+
+msgid "blue book"
+msgstr "niebieska książka"
+
+msgid "orange book"
+msgstr "pomarańczowa książka"
+
+msgid "books"
+msgstr "książki"
+
+msgid "notebook"
+msgstr "notes"
+
+msgid "ledger"
+msgstr "skoroszyt"
+
+msgid "page with curl"
+msgstr "zawinięta strona"
+
+msgid "scroll"
+msgstr "zwój"
+
+msgid "page facing up"
+msgstr "strona"
+
+msgid "newspaper"
+msgstr "gazeta"
+
+msgid "rolled-up newspaper"
+msgstr "zwinięta gazeta"
+
+msgid "bookmark tabs"
+msgstr "karty zakładek"
+
+msgid "bookmark"
+msgstr "zakładka"
+
+msgid "label"
+msgstr "przywieszka do kluczy"
+
+msgid "money bag"
+msgstr "worek z pieniędzmi"
+
+msgid "coin"
+msgstr "moneta"
+
+msgid "yen banknote"
+msgstr "banknot jena"
+
+msgid "dollar banknote"
+msgstr "banknot dolara"
+
+msgid "euro banknote"
+msgstr "banknot euro"
+
+msgid "pound banknote"
+msgstr "banknot funta"
+
+msgid "money with wings"
+msgstr "uskrzydlone pieniądze"
+
+msgid "credit card"
+msgstr "karta kredytowa"
+
+msgid "receipt"
+msgstr "paragon"
+
+msgid "chart increasing with yen"
+msgstr "wykres wzrostu z symbolem jena"
+
+msgid "envelope"
+msgstr "koperta"
+
+msgid "e-mail"
+msgstr "e-mail"
+
+msgid "incoming envelope"
+msgstr "koperta przychodząca"
+
+msgid "envelope with arrow"
+msgstr "koperta ze strzałką"
+
+msgid "outbox tray"
+msgstr "skrzynka nadawcza"
+
+msgid "inbox tray"
+msgstr "skrzynka odbiorcza"
+
+msgid "package"
+msgstr "paczka"
+
+msgid "closed mailbox with raised flag"
+msgstr "zamknięta skrzynka pocztowa z podniesioną flagą"
+
+msgid "closed mailbox with lowered flag"
+msgstr "zamknięta skrzynka pocztowa z opuszczoną flagą"
+
+msgid "open mailbox with raised flag"
+msgstr "otwarta skrzynka pocztowa z podniesioną flagą"
+
+msgid "open mailbox with lowered flag"
+msgstr "otwarta skrzynka pocztowa z opuszczoną flagą"
+
+msgid "postbox"
+msgstr "skrzynka na listy"
+
+msgid "ballot box with ballot"
+msgstr "urna wyborcza z głosem"
+
+msgid "pencil"
+msgstr "ołówek"
+
+msgid "black nib"
+msgstr "pióro z czarną stalówką"
+
+msgid "fountain pen"
+msgstr "wieczne pióro"
+
+msgid "pen"
+msgstr "długopis"
+
+msgid "paintbrush"
+msgstr "pędzel"
+
+msgid "crayon"
+msgstr "kredka"
+
+msgid "memo"
+msgstr "notatka"
+
+msgid "briefcase"
+msgstr "teczka"
+
+msgid "file folder"
+msgstr "folder"
+
+msgid "open file folder"
+msgstr "otwarty folder"
+
+msgid "card index dividers"
+msgstr "rozdzielacze kartoteki"
+
+msgid "calendar"
+msgstr "kalendarz"
+
+msgid "tear-off calendar"
+msgstr "kalendarz z wyrywanymi kartkami"
+
+msgid "spiral notepad"
+msgstr "kołonotatnik"
+
+msgid "spiral calendar"
+msgstr "kalendarz na spirali"
+
+msgid "card index"
+msgstr "wizytownik"
+
+msgid "chart increasing"
+msgstr "wykres wzrostu"
+
+msgid "chart decreasing"
+msgstr "wykres spadku"
+
+msgid "bar chart"
+msgstr "wykres słupkowy"
+
+msgid "clipboard"
+msgstr "podkładka do pisania"
+
+msgid "pushpin"
+msgstr "pinezka"
+
+msgid "round pushpin"
+msgstr "okrągła pinezka"
+
+msgid "paperclip"
+msgstr "spinacz"
+
+msgid "linked paperclips"
+msgstr "złączone spinacze"
+
+msgid "straight ruler"
+msgstr "linijka"
+
+msgid "triangular ruler"
+msgstr "ekierka"
+
+msgid "scissors"
+msgstr "nożyczki"
+
+msgid "card file box"
+msgstr "pudełko-kartoteka"
+
+msgid "file cabinet"
+msgstr "szafka-kartoteka"
+
+msgid "wastebasket"
+msgstr "kosz na śmieci"
+
+msgid "locked"
+msgstr "zamknięta kłódka"
+
+msgid "unlocked"
+msgstr "otwarta kłódka"
+
+msgid "locked with pen"
+msgstr "zamknięta kłódka z piórem"
+
+msgid "locked with key"
+msgstr "zamknięta kłódka z kluczem"
+
+msgid "key"
+msgstr "klucz"
+
+msgid "old key"
+msgstr "staroświecki klucz"
+
+msgid "hammer"
+msgstr "młotek"
+
+msgid "axe"
+msgstr "siekiera"
+
+msgid "pick"
+msgstr "kilof"
+
+msgid "hammer and pick"
+msgstr "młoty"
+
+msgid "hammer and wrench"
+msgstr "młot i klucz"
+
+msgid "dagger"
+msgstr "sztylet"
+
+msgid "crossed swords"
+msgstr "skrzyżowane miecze"
+
+msgid "bomb"
+msgstr "bomba"
+
+msgid "boomerang"
+msgstr "bumerang"
+
+msgid "bow and arrow"
+msgstr "łuk i strzała"
+
+msgid "shield"
+msgstr "tarcza"
+
+msgid "carpentry saw"
+msgstr "piła do drewna"
+
+msgid "wrench"
+msgstr "klucz warsztatowy"
+
+msgid "screwdriver"
+msgstr "śrubokręt"
+
+msgid "nut and bolt"
+msgstr "śruba i nakrętka"
+
+msgid "gear"
+msgstr "koło zębate"
+
+msgid "clamp"
+msgstr "ścisk"
+
+msgid "balance scale"
+msgstr "waga szalkowa"
+
+msgid "white cane"
+msgstr "biała laska"
+
+msgid "link"
+msgstr "ogniwa"
+
+msgid "chains"
+msgstr "łańcuchy"
+
+msgid "hook"
+msgstr "hak"
+
+msgid "toolbox"
+msgstr "skrzynka na narzędzia"
+
+msgid "magnet"
+msgstr "magnes"
+
+msgid "ladder"
+msgstr "drabina"
+
+msgid "alembic"
+msgstr "alembik"
+
+msgid "test tube"
+msgstr "probówka"
+
+msgid "petri dish"
+msgstr "płytka Petriego"
+
+msgid "dna"
+msgstr "dna"
+
+msgid "microscope"
+msgstr "mikroskop"
+
+msgid "telescope"
+msgstr "teleskop"
+
+msgid "satellite antenna"
+msgstr "antena satelitarna"
+
+msgid "syringe"
+msgstr "strzykawka"
+
+msgid "drop of blood"
+msgstr "kropla krwi"
+
+msgid "pill"
+msgstr "kapsułka"
+
+msgid "adhesive bandage"
+msgstr "plaster"
+
+msgid "crutch"
+msgstr "kula"
+
+msgid "stethoscope"
+msgstr "stetoskop"
+
+msgid "x-ray"
+msgstr "zdjęcie rentgenowskie"
+
+msgid "door"
+msgstr "drzwi"
+
+msgid "elevator"
+msgstr "winda"
+
+msgid "mirror"
+msgstr "lustro"
+
+msgid "window"
+msgstr "okno"
+
+msgid "bed"
+msgstr "łóżko"
+
+msgid "couch and lamp"
+msgstr "kanapa i lampa"
+
+msgid "chair"
+msgstr "krzesło"
+
+msgid "toilet"
+msgstr "muszla klozetowa"
+
+msgid "plunger"
+msgstr "przepychacz"
+
+msgid "shower"
+msgstr "prysznic"
+
+msgid "bathtub"
+msgstr "wanna"
+
+msgid "mouse trap"
+msgstr "pułapka na myszy"
+
+msgid "razor"
+msgstr "brzytwa"
+
+msgid "lotion bottle"
+msgstr "butelka z płynem"
+
+msgid "safety pin"
+msgstr "agrafka"
+
+msgid "broom"
+msgstr "miotła"
+
+msgid "basket"
+msgstr "kosz"
+
+msgid "roll of paper"
+msgstr "rolka papieru"
+
+msgid "bucket"
+msgstr "wiadro"
+
+msgid "soap"
+msgstr "mydło"
+
+msgid "bubbles"
+msgstr "bąbelki"
+
+msgid "toothbrush"
+msgstr "szczoteczka do zębów"
+
+msgid "sponge"
+msgstr "gąbka"
+
+msgid "fire extinguisher"
+msgstr "gaśnica"
+
+msgid "shopping cart"
+msgstr "wózek sklepowy"
+
+msgid "cigarette"
+msgstr "papieros"
+
+msgid "coffin"
+msgstr "trumna"
+
+msgid "headstone"
+msgstr "nagrobek"
+
+msgid "funeral urn"
+msgstr "urna na prochy"
+
+msgid "nazar amulet"
+msgstr "amulet nazar"
+
+msgid "hamsa"
+msgstr "chamsa"
+
+msgid "moai"
+msgstr "moai"
+
+msgid "placard"
+msgstr "tabliczka"
+
+msgid "identification card"
+msgstr "dowód tożsamości"
+
+msgid "ATM sign"
+msgstr "znak bankomatu"
+
+msgid "litter in bin sign"
+msgstr "znak kosza na śmieci"
+
+msgid "potable water"
+msgstr "woda pitna"
+
+msgid "wheelchair symbol"
+msgstr "symbol wózka inwalidzkiego"
+
+msgid "men’s room"
+msgstr "toaleta męska"
+
+msgid "women’s room"
+msgstr "toaleta damska"
+
+msgid "restroom"
+msgstr "toalety"
+
+msgid "baby symbol"
+msgstr "symbol niemowlęcia"
+
+msgid "water closet"
+msgstr "WC"
+
+msgid "passport control"
+msgstr "kontrola paszportowa"
+
+msgid "customs"
+msgstr "kontrola celna"
+
+msgid "baggage claim"
+msgstr "odbiór bagażu"
+
+msgid "left luggage"
+msgstr "przechowalnia bagażu"
+
+msgid "warning"
+msgstr "ostrzeżenie"
+
+msgid "children crossing"
+msgstr "dzieci przechodzące przez jezdnię"
+
+msgid "no entry"
+msgstr "zakaz wjazdu"
+
+msgid "prohibited"
+msgstr "zakaz"
+
+msgid "no bicycles"
+msgstr "zakaz wjazdu rowerów"
+
+msgid "no smoking"
+msgstr "zakaz palenia"
+
+msgid "no littering"
+msgstr "zakaz śmiecenia"
+
+msgid "non-potable water"
+msgstr "woda niezdatna do picia"
+
+msgid "no pedestrians"
+msgstr "zakaz ruchu pieszych"
+
+msgid "no mobile phones"
+msgstr "zakaz korzystania z telefonów komórkowych"
+
+msgid "no one under eighteen"
+msgstr "zakaz poniżej osiemnastego roku życia"
+
+msgid "radioactive"
+msgstr "promieniowanie radioaktywne"
+
+msgid "biohazard"
+msgstr "zagrożenie ze strony organizmów żywych"
+
+msgid "up arrow"
+msgstr "strzałka w górę"
+
+msgid "up-right arrow"
+msgstr "strzałka w górę w prawo"
+
+msgid "right arrow"
+msgstr "strzałka w prawo"
+
+msgid "down-right arrow"
+msgstr "strzałka w dół w prawo"
+
+msgid "down arrow"
+msgstr "strzałka w dół"
+
+msgid "down-left arrow"
+msgstr "strzałka w dół w lewo"
+
+msgid "left arrow"
+msgstr "strzałka w lewo"
+
+msgid "up-left arrow"
+msgstr "strzałka w górę w lewo"
+
+msgid "up-down arrow"
+msgstr "strzałka w górę i w dół"
+
+msgid "right arrow curving left"
+msgstr "strzałka zakręcona w lewo"
+
+msgid "left arrow curving right"
+msgstr "strzałka zakręcona w prawo"
+
+msgid "clockwise vertical arrows"
+msgstr "pionowe strzałki zgodne z ruchem wskazówek zegara"
+
+msgid "counterclockwise arrows button"
+msgstr "przycisk ze strzałkami przeciwnie do ruchu wskazówek zegara"
+
+msgid "BACK arrow"
+msgstr "strzałka z napisem BACK"
+
+msgid "END arrow"
+msgstr "strzałka z napisem END"
+
+msgid "ON! arrow"
+msgstr "strzałka z napisem ON!"
+
+msgid "SOON arrow"
+msgstr "strzałka z napisem SOON"
+
+msgid "TOP arrow"
+msgstr "strzałka z napisem TOP"
+
+msgid "place of worship"
+msgstr "miejsce kultu"
+
+msgid "atom symbol"
+msgstr "symbol atomu"
+
+msgid "om"
+msgstr "om"
+
+msgid "star of David"
+msgstr "gwiazda Dawida"
+
+msgid "wheel of dharma"
+msgstr "koło dharmy"
+
+msgid "yin yang"
+msgstr "yin-yang"
+
+msgid "latin cross"
+msgstr "krzyż łaciński"
+
+msgid "orthodox cross"
+msgstr "krzyż prawosławny"
+
+msgid "star and crescent"
+msgstr "gwiazda i półksiężyc"
+
+msgid "peace symbol"
+msgstr "symbol pokoju"
+
+msgid "menorah"
+msgstr "menora"
+
+msgid "dotted six-pointed star"
+msgstr "gwiazda sześcioramienna z kropką"
+
+msgid "khanda"
+msgstr "khanda"
+
+msgid "Aries"
+msgstr "Baran"
+
+msgid "Taurus"
+msgstr "Byk"
+
+msgid "Gemini"
+msgstr "Bliźnięta"
+
+msgid "Cancer"
+msgstr "Rak"
+
+msgid "Leo"
+msgstr "Lew"
+
+msgid "Virgo"
+msgstr "Panna"
+
+msgid "Libra"
+msgstr "Waga"
+
+msgid "Scorpio"
+msgstr "Skorpion"
+
+msgid "Sagittarius"
+msgstr "Strzelec"
+
+msgid "Capricorn"
+msgstr "Koziorożec"
+
+msgid "Aquarius"
+msgstr "Wodnik"
+
+msgid "Pisces"
+msgstr "Ryby"
+
+msgid "Ophiuchus"
+msgstr "Wężownik"
+
+msgid "shuffle tracks button"
+msgstr "przycisk losowego odtwarzania utworów"
+
+msgid "repeat button"
+msgstr "przycisk powtarzania"
+
+msgid "repeat single button"
+msgstr "przycisk powtarzania jednokrotnego"
+
+msgid "play button"
+msgstr "odtwórz"
+
+msgid "fast-forward button"
+msgstr "przycisk szybkiego przewijania do przodu"
+
+msgid "next track button"
+msgstr "następny utwór"
+
+msgid "play or pause button"
+msgstr "odtwórz lub wstrzymaj"
+
+msgid "reverse button"
+msgstr "wstecz"
+
+msgid "fast reverse button"
+msgstr "przycisk szybkiego przewijania do tyłu"
+
+msgid "last track button"
+msgstr "poprzedni utwór"
+
+msgid "upwards button"
+msgstr "przycisk „w górę”"
+
+msgid "fast up button"
+msgstr "przycisk „szybko w górę”"
+
+msgid "downwards button"
+msgstr "przycisk „w dół”"
+
+msgid "fast down button"
+msgstr "przycisk „szybko w dół”"
+
+msgid "pause button"
+msgstr "pauza"
+
+msgid "stop button"
+msgstr "zatrzymaj"
+
+msgid "record button"
+msgstr "nagraj"
+
+msgid "eject button"
+msgstr "wysuń"
+
+msgid "cinema"
+msgstr "kino"
+
+msgid "dim button"
+msgstr "przycisk małej jasności"
+
+msgid "bright button"
+msgstr "przycisk dużej jasności"
+
+msgid "antenna bars"
+msgstr "siła sygnału"
+
+msgid "wireless"
+msgstr "bezprzewodowy"
+
+msgid "vibration mode"
+msgstr "tryb wibracji"
+
+msgid "mobile phone off"
+msgstr "wyłączony telefon komórkowy"
+
+msgid "female sign"
+msgstr "znak kobiety"
+
+msgid "male sign"
+msgstr "znak mężczyzny"
+
+msgid "multiply"
+msgstr "znak mnożenia"
+
+msgid "plus"
+msgstr "znak plus"
+
+msgid "minus"
+msgstr "znak minus"
+
+msgid "divide"
+msgstr "znak dzielenia"
+
+msgid "heavy equals sign"
+msgstr "gruby znak równości"
+
+msgid "infinity"
+msgstr "nieskończoność"
+
+msgid "red question mark"
+msgstr "czerwony znak zapytania"
+
+msgid "white question mark"
+msgstr "biały znak zapytania"
+
+msgid "white exclamation mark"
+msgstr "biały wykrzyknik"
+
+msgid "red exclamation mark"
+msgstr "czerwony wykrzyknik"
+
+msgid "currency exchange"
+msgstr "wymiana walut"
+
+msgid "heavy dollar sign"
+msgstr "gruby symbol dolara"
+
+msgid "medical symbol"
+msgstr "symbol medycyny"
+
+msgid "recycling symbol"
+msgstr "recykling"
+
+msgid "fleur-de-lis"
+msgstr "lilijka"
+
+msgid "trident emblem"
+msgstr "emblemat z trójzębem"
+
+msgid "name badge"
+msgstr "plakietka"
+
+msgid "Japanese symbol for beginner"
+msgstr "japoński symbol początkującego kierowcy"
+
+msgid "hollow red circle"
+msgstr "gruby czerwony okrąg"
+
+msgid "check mark button"
+msgstr "przycisk ze znacznikiem wyboru"
+
+msgid "check box with check"
+msgstr "pole ze znacznikiem wyboru"
+
+msgid "check mark"
+msgstr "znacznik wyboru"
+
+msgid "cross mark"
+msgstr "znak krzyżyka"
+
+msgid "cross mark button"
+msgstr "przycisk z krzyżykiem"
+
+msgid "curly loop"
+msgstr "pętla"
+
+msgid "double curly loop"
+msgstr "podwójna pętla"
+
+msgid "eight-spoked asterisk"
+msgstr "gwiazdka ośmioramienna"
+
+msgid "eight-pointed star"
+msgstr "gwiazda ośmioramienna"
+
+msgid "sparkle"
+msgstr "iskra"
+
+msgid "copyright"
+msgstr "znak praw autorskich"
+
+msgid "registered"
+msgstr "zarejestrowany znak towarowy"
+
+msgid "trade mark"
+msgstr "znak towarowy"
+
+msgid "input latin uppercase"
+msgstr "wielkie litery (alfabet łaciński)"
+
+msgid "input latin lowercase"
+msgstr "małe litery (alfabet łaciński)"
+
+msgid "input numbers"
+msgstr "cyfry"
+
+msgid "input symbols"
+msgstr "symbole"
+
+msgid "input latin letters"
+msgstr "litery (alfabet łaciński)"
+
+msgid "A button (blood type)"
+msgstr "grupa krwi A"
+
+msgid "AB button (blood type)"
+msgstr "grupa krwi AB"
+
+msgid "B button (blood type)"
+msgstr "grupa krwi B"
+
+msgid "CL button"
+msgstr "przycisk CL"
+
+msgid "COOL button"
+msgstr "przycisk COOL"
+
+msgid "FREE button"
+msgstr "przycisk FREE"
+
+msgid "ID button"
+msgstr "przycisk ID"
+
+msgid "circled M"
+msgstr "koło z literą M"
+
+msgid "NEW button"
+msgstr "przycisk NEW"
+
+msgid "NG button"
+msgstr "przycisk NG"
+
+msgid "O button (blood type)"
+msgstr "grupa krwi 0"
+
+msgid "OK button"
+msgstr "przycisk OK"
+
+msgid "P button"
+msgstr "parking"
+
+msgid "SOS button"
+msgstr "przycisk SOS"
+
+msgid "UP! button"
+msgstr "przycisk UP!"
+
+msgid "VS button"
+msgstr "przycisk VS"
+
+msgid "Japanese “here” button"
+msgstr "japoński przycisk „tutaj”"
+
+msgid "Japanese “service charge” button"
+msgstr "japoński przycisk „usługa”"
+
+msgid "Japanese “monthly amount” button"
+msgstr "ideogram księżyca"
+
+msgid "Japanese “not free of charge” button"
+msgstr "japoński przycisk „płatne”"
+
+msgid "Japanese “reserved” button"
+msgstr "japoński przycisk „zarezerwowane”"
+
+msgid "Japanese “bargain” button"
+msgstr "japoński przycisk „okazja”"
+
+msgid "Japanese “discount” button"
+msgstr "japoński przycisk „rabat”"
+
+msgid "Japanese “free of charge” button"
+msgstr "japoński przycisk „bezpłatne”"
+
+msgid "Japanese “prohibited” button"
+msgstr "japoński przycisk „zabronione”"
+
+msgid "Japanese “acceptable” button"
+msgstr "japoński przycisk „dozwolone”"
+
+msgid "Japanese “application” button"
+msgstr "japoński przycisk „wniosek”"
+
+msgid "Japanese “passing grade” button"
+msgstr "japoński przycisk „ocena pozytywna”"
+
+msgid "Japanese “vacancy” button"
+msgstr "japoński przycisk „wolne miejsce”"
+
+msgid "Japanese “congratulations” button"
+msgstr "japoński przycisk „gratulacje”"
+
+msgid "Japanese “secret” button"
+msgstr "japoński przycisk „tajemnica”"
+
+msgid "Japanese “open for business” button"
+msgstr "japoński przycisk „czynne”"
+
+msgid "Japanese “no vacancy” button"
+msgstr "japoński przycisk „brak wolnych miejsc”"
+
+msgid "red circle"
+msgstr "czerwone koło"
+
+msgid "orange circle"
+msgstr "pomarańczowe koło"
+
+msgid "yellow circle"
+msgstr "żółte koło"
+
+msgid "green circle"
+msgstr "zielone koło"
+
+msgid "blue circle"
+msgstr "niebieskie koło"
+
+msgid "purple circle"
+msgstr "fioletowe koło"
+
+msgid "brown circle"
+msgstr "brązowe koło"
+
+msgid "black circle"
+msgstr "czarne koło"
+
+msgid "white circle"
+msgstr "białe koło"
+
+msgid "red square"
+msgstr "czerwony kwadrat"
+
+msgid "orange square"
+msgstr "pomarańczowy kwadrat"
+
+msgid "yellow square"
+msgstr "żółty kwadrat"
+
+msgid "green square"
+msgstr "zielony kwadrat"
+
+msgid "blue square"
+msgstr "niebieski kwadrat"
+
+msgid "purple square"
+msgstr "fioletowy kwadrat"
+
+msgid "brown square"
+msgstr "brązowy kwadrat"
+
+msgid "black large square"
+msgstr "duży czarny kwadrat"
+
+msgid "white large square"
+msgstr "duży biały kwadrat"
+
+msgid "black small square"
+msgstr "mały czarny kwadrat"
+
+msgid "white small square"
+msgstr "mały biały kwadrat"
+
+msgid "large orange diamond"
+msgstr "duży pomarańczowy romb"
+
+msgid "large blue diamond"
+msgstr "duży niebieski romb"
+
+msgid "small orange diamond"
+msgstr "mały pomarańczowy romb"
+
+msgid "small blue diamond"
+msgstr "mały niebieski romb"
+
+msgid "red triangle pointed up"
+msgstr "czerwony trójkąt skierowany w górę"
+
+msgid "red triangle pointed down"
+msgstr "czerwony trójkąt skierowany w dół"
+
+msgid "diamond with a dot"
+msgstr "romb z kropką"
+
+msgid "radio button"
+msgstr "przycisk radiowy"
+
+msgid "white square button"
+msgstr "biały kwadratowy przycisk"
+
+msgid "black square button"
+msgstr "czarny kwadratowy przycisk"
+
+msgid "chequered flag"
+msgstr "flaga w szachownicę"
+
+msgid "triangular flag"
+msgstr "flaga trójkątna"
+
+msgid "crossed flags"
+msgstr "skrzyżowane flagi"
+
+msgid "black flag"
+msgstr "czarna flaga"
+
+msgid "white flag"
+msgstr "biała flaga"
+
+msgid "pirate flag"
+msgstr "piracka flaga"
+
+msgid "person: red hair"
+msgstr "dorosły: rude włosy"
+
+msgid "person: curly hair"
+msgstr "dorosły: kręcone włosy"
+
+msgid "person: white hair"
+msgstr "dorosły: białe włosy"
+
+msgid "person: bald"
+msgstr "dorosły: łysy"
+
+msgid "man: red hair"
+msgstr "mężczyzna: rude włosy"
+
+msgid "man: curly hair"
+msgstr "mężczyzna: kręcone włosy"
+
+msgid "man: white hair"
+msgstr "mężczyzna: białe włosy"
+
+msgid "man: bald"
+msgstr "mężczyzna: łysy"
+
+msgid "woman: red hair"
+msgstr "kobieta: rude włosy"
+
+msgid "woman: curly hair"
+msgstr "kobieta: kręcone włosy"
+
+msgid "woman: white hair"
+msgstr "kobieta: białe włosy"
+
+msgid "woman: bald"
+msgstr "kobieta: łysy"
+
+msgid "kiss: woman, man"
+msgstr "pocałunek: kobieta i mężczyzna"
+
+msgid "couple with heart: woman, man"
+msgstr "para z sercem: kobieta i mężczyzna"
+
+msgid "family: man, woman, boy"
+msgstr "rodzina: mężczyzna, kobieta i chłopiec"
+
+msgid "family: man, woman, girl"
+msgstr "rodzina: mężczyzna, kobieta i dziewczynka"
+
+msgid "family: man, woman, girl, boy"
+msgstr "rodzina: mężczyzna, kobieta, dziewczynka i chłopiec"
+
+msgid "family: man, woman, boy, boy"
+msgstr "rodzina: mężczyzna, kobieta, chłopiec i chłopiec"
+
+msgid "family: man, woman, girl, girl"
+msgstr "rodzina: mężczyzna, kobieta, dziewczynka i dziewczynka"
+
+msgid "family: man, boy"
+msgstr "rodzina: mężczyzna i chłopiec"
+
+msgid "family: man, boy, boy"
+msgstr "rodzina: mężczyzna, chłopiec i chłopiec"
+
+msgid "family: man, girl"
+msgstr "rodzina: mężczyzna i dziewczynka"
+
+msgid "family: man, girl, boy"
+msgstr "rodzina: mężczyzna, dziewczynka i chłopiec"
+
+msgid "family: man, girl, girl"
+msgstr "rodzina: mężczyzna, dziewczynka i dziewczynka"
+
+msgid "keycap: 10"
+msgstr "klawisz: 10"
+
+msgid "flag: Ascension Island"
+msgstr "flaga: Wyspa Wniebowstąpienia"
+
+msgid "flag: Andorra"
+msgstr "flaga: Andora"
+
+msgid "flag: United Arab Emirates"
+msgstr "flaga: Zjednoczone Emiraty Arabskie"
+
+msgid "flag: Afghanistan"
+msgstr "flaga: Afganistan"
+
+msgid "flag: Antigua & Barbuda"
+msgstr "flaga: Antigua i Barbuda"
+
+msgid "flag: Anguilla"
+msgstr "flaga: Anguilla"
+
+msgid "flag: Albania"
+msgstr "flaga: Albania"
+
+msgid "flag: Armenia"
+msgstr "flaga: Armenia"
+
+msgid "flag: Angola"
+msgstr "flaga: Angola"
+
+msgid "flag: Antarctica"
+msgstr "flaga: Antarktyda"
+
+msgid "flag: Argentina"
+msgstr "flaga: Argentyna"
+
+msgid "flag: American Samoa"
+msgstr "flaga: Samoa Amerykańskie"
+
+msgid "flag: Austria"
+msgstr "flaga: Austria"
+
+msgid "flag: Australia"
+msgstr "flaga: Australia"
+
+msgid "flag: Aruba"
+msgstr "flaga: Aruba"
+
+msgid "flag: Åland Islands"
+msgstr "flaga: Wyspy Alandzkie"
+
+msgid "flag: Azerbaijan"
+msgstr "flaga: Azerbejdżan"
+
+msgid "flag: Bosnia & Herzegovina"
+msgstr "flaga: Bośnia i Hercegowina"
+
+msgid "flag: Barbados"
+msgstr "flaga: Barbados"
+
+msgid "flag: Bangladesh"
+msgstr "flaga: Bangladesz"
+
+msgid "flag: Belgium"
+msgstr "flaga: Belgia"
+
+msgid "flag: Burkina Faso"
+msgstr "flaga: Burkina Faso"
+
+msgid "flag: Bulgaria"
+msgstr "flaga: Bułgaria"
+
+msgid "flag: Bahrain"
+msgstr "flaga: Bahrajn"
+
+msgid "flag: Burundi"
+msgstr "flaga: Burundi"
+
+msgid "flag: Benin"
+msgstr "flaga: Benin"
+
+msgid "flag: St. Barthélemy"
+msgstr "flaga: Saint-Barthélemy"
+
+msgid "flag: Bermuda"
+msgstr "flaga: Bermudy"
+
+msgid "flag: Brunei"
+msgstr "flaga: Brunei"
+
+msgid "flag: Bolivia"
+msgstr "flaga: Boliwia"
+
+msgid "flag: Caribbean Netherlands"
+msgstr "flaga: Niderlandy Karaibskie"
+
+msgid "flag: Brazil"
+msgstr "flaga: Brazylia"
+
+msgid "flag: Bahamas"
+msgstr "flaga: Bahamy"
+
+msgid "flag: Bhutan"
+msgstr "flaga: Bhutan"
+
+msgid "flag: Bouvet Island"
+msgstr "flaga: Wyspa Bouveta"
+
+msgid "flag: Botswana"
+msgstr "flaga: Botswana"
+
+msgid "flag: Belarus"
+msgstr "flaga: Białoruś"
+
+msgid "flag: Belize"
+msgstr "flaga: Belize"
+
+msgid "flag: Canada"
+msgstr "flaga: Kanada"
+
+msgid "flag: Cocos (Keeling) Islands"
+msgstr "flaga: Wyspy Kokosowe"
+
+msgid "flag: Congo - Kinshasa"
+msgstr "flaga: Demokratyczna Republika Konga"
+
+msgid "flag: Central African Republic"
+msgstr "flaga: Republika Środkowoafrykańska"
+
+msgid "flag: Congo - Brazzaville"
+msgstr "flaga: Kongo"
+
+msgid "flag: Switzerland"
+msgstr "flaga: Szwajcaria"
+
+msgid "flag: Côte d’Ivoire"
+msgstr "flaga: Côte d’Ivoire"
+
+msgid "flag: Cook Islands"
+msgstr "flaga: Wyspy Cooka"
+
+msgid "flag: Chile"
+msgstr "flaga: Chile"
+
+msgid "flag: Cameroon"
+msgstr "flaga: Kamerun"
+
+msgid "flag: China"
+msgstr "flaga: Chiny"
+
+msgid "flag: Colombia"
+msgstr "flaga: Kolumbia"
+
+msgid "flag: Clipperton Island"
+msgstr "flaga: Wyspa Clippertona"
+
+msgid "flag: Costa Rica"
+msgstr "flaga: Kostaryka"
+
+msgid "flag: Cuba"
+msgstr "flaga: Kuba"
+
+msgid "flag: Cape Verde"
+msgstr "flaga: Republika Zielonego Przylądka"
+
+msgid "flag: Curaçao"
+msgstr "flaga: Curaçao"
+
+msgid "flag: Christmas Island"
+msgstr "flaga: Wyspa Bożego Narodzenia"
+
+msgid "flag: Cyprus"
+msgstr "flaga: Cypr"
+
+msgid "flag: Czechia"
+msgstr "flaga: Czechy"
+
+msgid "flag: Germany"
+msgstr "flaga: Niemcy"
+
+msgid "flag: Diego Garcia"
+msgstr "flaga: Diego Garcia"
+
+msgid "flag: Djibouti"
+msgstr "flaga: Dżibuti"
+
+msgid "flag: Denmark"
+msgstr "flaga: Dania"
+
+msgid "flag: Dominica"
+msgstr "flaga: Dominika"
+
+msgid "flag: Dominican Republic"
+msgstr "flaga: Dominikana"
+
+msgid "flag: Algeria"
+msgstr "flaga: Algieria"
+
+msgid "flag: Ceuta & Melilla"
+msgstr "flaga: Ceuta i Melilla"
+
+msgid "flag: Ecuador"
+msgstr "flaga: Ekwador"
+
+msgid "flag: Estonia"
+msgstr "flaga: Estonia"
+
+msgid "flag: Egypt"
+msgstr "flaga: Egipt"
+
+msgid "flag: Western Sahara"
+msgstr "flaga: Sahara Zachodnia"
+
+msgid "flag: Eritrea"
+msgstr "flaga: Erytrea"
+
+msgid "flag: Spain"
+msgstr "flaga: Hiszpania"
+
+msgid "flag: Ethiopia"
+msgstr "flaga: Etiopia"
+
+msgid "flag: European Union"
+msgstr "flaga: Unia Europejska"
+
+msgid "flag: Finland"
+msgstr "flaga: Finlandia"
+
+msgid "flag: Fiji"
+msgstr "flaga: Fidżi"
+
+msgid "flag: Falkland Islands"
+msgstr "flaga: Falklandy"
+
+msgid "flag: Micronesia"
+msgstr "flaga: Mikronezja"
+
+msgid "flag: Faroe Islands"
+msgstr "flaga: Wyspy Owcze"
+
+msgid "flag: France"
+msgstr "flaga: Francja"
+
+msgid "flag: Gabon"
+msgstr "flaga: Gabon"
+
+msgid "flag: United Kingdom"
+msgstr "flaga: Wielka Brytania"
+
+msgid "flag: Grenada"
+msgstr "flaga: Grenada"
+
+msgid "flag: Georgia"
+msgstr "flaga: Gruzja"
+
+msgid "flag: French Guiana"
+msgstr "flaga: Gujana Francuska"
+
+msgid "flag: Guernsey"
+msgstr "flaga: Guernsey"
+
+msgid "flag: Ghana"
+msgstr "flaga: Ghana"
+
+msgid "flag: Gibraltar"
+msgstr "flaga: Gibraltar"
+
+msgid "flag: Greenland"
+msgstr "flaga: Grenlandia"
+
+msgid "flag: Gambia"
+msgstr "flaga: Gambia"
+
+msgid "flag: Guinea"
+msgstr "flaga: Gwinea"
+
+msgid "flag: Guadeloupe"
+msgstr "flaga: Gwadelupa"
+
+msgid "flag: Equatorial Guinea"
+msgstr "flaga: Gwinea Równikowa"
+
+msgid "flag: Greece"
+msgstr "flaga: Grecja"
+
+msgid "flag: South Georgia & South Sandwich Islands"
+msgstr "flaga: Georgia Południowa i Sandwich Południowy"
+
+msgid "flag: Guatemala"
+msgstr "flaga: Gwatemala"
+
+msgid "flag: Guam"
+msgstr "flaga: Guam"
+
+msgid "flag: Guinea-Bissau"
+msgstr "flaga: Gwinea Bissau"
+
+msgid "flag: Guyana"
+msgstr "flaga: Gujana"
+
+msgid "flag: Hong Kong SAR China"
+msgstr "flaga: SRA Hongkong (Chiny)"
+
+msgid "flag: Heard & McDonald Islands"
+msgstr "flaga: Wyspy Heard i McDonalda"
+
+msgid "flag: Honduras"
+msgstr "flaga: Honduras"
+
+msgid "flag: Croatia"
+msgstr "flaga: Chorwacja"
+
+msgid "flag: Haiti"
+msgstr "flaga: Haiti"
+
+msgid "flag: Hungary"
+msgstr "flaga: Węgry"
+
+msgid "flag: Canary Islands"
+msgstr "flaga: Wyspy Kanaryjskie"
+
+msgid "flag: Indonesia"
+msgstr "flaga: Indonezja"
+
+msgid "flag: Ireland"
+msgstr "flaga: Irlandia"
+
+msgid "flag: Israel"
+msgstr "flaga: Izrael"
+
+msgid "flag: Isle of Man"
+msgstr "flaga: Wyspa Man"
+
+msgid "flag: India"
+msgstr "flaga: Indie"
+
+msgid "flag: British Indian Ocean Territory"
+msgstr "flaga: Brytyjskie Terytorium Oceanu Indyjskiego"
+
+msgid "flag: Iraq"
+msgstr "flaga: Irak"
+
+msgid "flag: Iran"
+msgstr "flaga: Iran"
+
+msgid "flag: Iceland"
+msgstr "flaga: Islandia"
+
+msgid "flag: Italy"
+msgstr "flaga: Włochy"
+
+msgid "flag: Jersey"
+msgstr "flaga: Jersey"
+
+msgid "flag: Jamaica"
+msgstr "flaga: Jamajka"
+
+msgid "flag: Jordan"
+msgstr "flaga: Jordania"
+
+msgid "flag: Japan"
+msgstr "flaga: Japonia"
+
+msgid "flag: Kenya"
+msgstr "flaga: Kenia"
+
+msgid "flag: Kyrgyzstan"
+msgstr "flaga: Kirgistan"
+
+msgid "flag: Cambodia"
+msgstr "flaga: Kambodża"
+
+msgid "flag: Kiribati"
+msgstr "flaga: Kiribati"
+
+msgid "flag: Comoros"
+msgstr "flaga: Komory"
+
+msgid "flag: St. Kitts & Nevis"
+msgstr "flaga: Saint Kitts i Nevis"
+
+msgid "flag: North Korea"
+msgstr "flaga: Korea Północna"
+
+msgid "flag: South Korea"
+msgstr "flaga: Korea Południowa"
+
+msgid "flag: Kuwait"
+msgstr "flaga: Kuwejt"
+
+msgid "flag: Cayman Islands"
+msgstr "flaga: Kajmany"
+
+msgid "flag: Kazakhstan"
+msgstr "flaga: Kazachstan"
+
+msgid "flag: Laos"
+msgstr "flaga: Laos"
+
+msgid "flag: Lebanon"
+msgstr "flaga: Liban"
+
+msgid "flag: St. Lucia"
+msgstr "flaga: Saint Lucia"
+
+msgid "flag: Liechtenstein"
+msgstr "flaga: Liechtenstein"
+
+msgid "flag: Sri Lanka"
+msgstr "flaga: Sri Lanka"
+
+msgid "flag: Liberia"
+msgstr "flaga: Liberia"
+
+msgid "flag: Lesotho"
+msgstr "flaga: Lesotho"
+
+msgid "flag: Lithuania"
+msgstr "flaga: Litwa"
+
+msgid "flag: Luxembourg"
+msgstr "flaga: Luksemburg"
+
+msgid "flag: Latvia"
+msgstr "flaga: Łotwa"
+
+msgid "flag: Libya"
+msgstr "flaga: Libia"
+
+msgid "flag: Morocco"
+msgstr "flaga: Maroko"
+
+msgid "flag: Monaco"
+msgstr "flaga: Monako"
+
+msgid "flag: Moldova"
+msgstr "flaga: Mołdawia"
+
+msgid "flag: Montenegro"
+msgstr "flaga: Czarnogóra"
+
+msgid "flag: St. Martin"
+msgstr "flaga: Saint-Martin"
+
+msgid "flag: Madagascar"
+msgstr "flaga: Madagaskar"
+
+msgid "flag: Marshall Islands"
+msgstr "flaga: Wyspy Marshalla"
+
+msgid "flag: North Macedonia"
+msgstr "flaga: Macedonia Północna"
+
+msgid "flag: Mali"
+msgstr "flaga: Mali"
+
+msgid "flag: Myanmar (Burma)"
+msgstr "flaga: Mjanma (Birma)"
+
+msgid "flag: Mongolia"
+msgstr "flaga: Mongolia"
+
+msgid "flag: Macao SAR China"
+msgstr "flaga: SRA Makau (Chiny)"
+
+msgid "flag: Northern Mariana Islands"
+msgstr "flaga: Mariany Północne"
+
+msgid "flag: Martinique"
+msgstr "flaga: Martynika"
+
+msgid "flag: Mauritania"
+msgstr "flaga: Mauretania"
+
+msgid "flag: Montserrat"
+msgstr "flaga: Montserrat"
+
+msgid "flag: Malta"
+msgstr "flaga: Malta"
+
+msgid "flag: Mauritius"
+msgstr "flaga: Mauritius"
+
+msgid "flag: Maldives"
+msgstr "flaga: Malediwy"
+
+msgid "flag: Malawi"
+msgstr "flaga: Malawi"
+
+msgid "flag: Mexico"
+msgstr "flaga: Meksyk"
+
+msgid "flag: Malaysia"
+msgstr "flaga: Malezja"
+
+msgid "flag: Mozambique"
+msgstr "flaga: Mozambik"
+
+msgid "flag: Namibia"
+msgstr "flaga: Namibia"
+
+msgid "flag: New Caledonia"
+msgstr "flaga: Nowa Kaledonia"
+
+msgid "flag: Niger"
+msgstr "flaga: Niger"
+
+msgid "flag: Norfolk Island"
+msgstr "flaga: Norfolk"
+
+msgid "flag: Nigeria"
+msgstr "flaga: Nigeria"
+
+msgid "flag: Nicaragua"
+msgstr "flaga: Nikaragua"
+
+msgid "flag: Netherlands"
+msgstr "flaga: Holandia"
+
+msgid "flag: Norway"
+msgstr "flaga: Norwegia"
+
+msgid "flag: Nepal"
+msgstr "flaga: Nepal"
+
+msgid "flag: Nauru"
+msgstr "flaga: Nauru"
+
+msgid "flag: Niue"
+msgstr "flaga: Niue"
+
+msgid "flag: New Zealand"
+msgstr "flaga: Nowa Zelandia"
+
+msgid "flag: Oman"
+msgstr "flaga: Oman"
+
+msgid "flag: Panama"
+msgstr "flaga: Panama"
+
+msgid "flag: Peru"
+msgstr "flaga: Peru"
+
+msgid "flag: French Polynesia"
+msgstr "flaga: Polinezja Francuska"
+
+msgid "flag: Papua New Guinea"
+msgstr "flaga: Papua-Nowa Gwinea"
+
+msgid "flag: Philippines"
+msgstr "flaga: Filipiny"
+
+msgid "flag: Pakistan"
+msgstr "flaga: Pakistan"
+
+msgid "flag: Poland"
+msgstr "flaga: Polska"
+
+msgid "flag: St. Pierre & Miquelon"
+msgstr "flaga: Saint-Pierre i Miquelon"
+
+msgid "flag: Pitcairn Islands"
+msgstr "flaga: Pitcairn"
+
+msgid "flag: Puerto Rico"
+msgstr "flaga: Portoryko"
+
+msgid "flag: Palestinian Territories"
+msgstr "flaga: Terytoria Palestyńskie"
+
+msgid "flag: Portugal"
+msgstr "flaga: Portugalia"
+
+msgid "flag: Palau"
+msgstr "flaga: Palau"
+
+msgid "flag: Paraguay"
+msgstr "flaga: Paragwaj"
+
+msgid "flag: Qatar"
+msgstr "flaga: Katar"
+
+msgid "flag: Réunion"
+msgstr "flaga: Reunion"
+
+msgid "flag: Romania"
+msgstr "flaga: Rumunia"
+
+msgid "flag: Serbia"
+msgstr "flaga: Serbia"
+
+msgid "flag: Russia"
+msgstr "flaga: Rosja"
+
+msgid "flag: Rwanda"
+msgstr "flaga: Rwanda"
+
+msgid "flag: Saudi Arabia"
+msgstr "flaga: Arabia Saudyjska"
+
+msgid "flag: Solomon Islands"
+msgstr "flaga: Wyspy Salomona"
+
+msgid "flag: Seychelles"
+msgstr "flaga: Seszele"
+
+msgid "flag: Sudan"
+msgstr "flaga: Sudan"
+
+msgid "flag: Sweden"
+msgstr "flaga: Szwecja"
+
+msgid "flag: Singapore"
+msgstr "flaga: Singapur"
+
+msgid "flag: St. Helena"
+msgstr "flaga: Wyspa Świętej Heleny"
+
+msgid "flag: Slovenia"
+msgstr "flaga: Słowenia"
+
+msgid "flag: Svalbard & Jan Mayen"
+msgstr "flaga: Svalbard i Jan Mayen"
+
+msgid "flag: Slovakia"
+msgstr "flaga: Słowacja"
+
+msgid "flag: Sierra Leone"
+msgstr "flaga: Sierra Leone"
+
+msgid "flag: San Marino"
+msgstr "flaga: San Marino"
+
+msgid "flag: Senegal"
+msgstr "flaga: Senegal"
+
+msgid "flag: Somalia"
+msgstr "flaga: Somalia"
+
+msgid "flag: Suriname"
+msgstr "flaga: Surinam"
+
+msgid "flag: South Sudan"
+msgstr "flaga: Sudan Południowy"
+
+msgid "flag: São Tomé & Príncipe"
+msgstr "flaga: Wyspy Świętego Tomasza i Książęca"
+
+msgid "flag: El Salvador"
+msgstr "flaga: Salwador"
+
+msgid "flag: Sint Maarten"
+msgstr "flaga: Sint Maarten"
+
+msgid "flag: Syria"
+msgstr "flaga: Syria"
+
+msgid "flag: Eswatini"
+msgstr "flaga: Eswatini"
+
+msgid "flag: Tristan da Cunha"
+msgstr "flaga: Tristan da Cunha"
+
+msgid "flag: Turks & Caicos Islands"
+msgstr "flaga: Turks i Caicos"
+
+msgid "flag: Chad"
+msgstr "flaga: Czad"
+
+msgid "flag: French Southern Territories"
+msgstr "flaga: Francuskie Terytoria Południowe i Antarktyczne"
+
+msgid "flag: Togo"
+msgstr "flaga: Togo"
+
+msgid "flag: Thailand"
+msgstr "flaga: Tajlandia"
+
+msgid "flag: Tajikistan"
+msgstr "flaga: Tadżykistan"
+
+msgid "flag: Tokelau"
+msgstr "flaga: Tokelau"
+
+msgid "flag: Timor-Leste"
+msgstr "flaga: Timor Wschodni"
+
+msgid "flag: Turkmenistan"
+msgstr "flaga: Turkmenistan"
+
+msgid "flag: Tunisia"
+msgstr "flaga: Tunezja"
+
+msgid "flag: Tonga"
+msgstr "flaga: Tonga"
+
+msgid "flag: Türkiye"
+msgstr "flaga: Turcja"
+
+msgid "flag: Trinidad & Tobago"
+msgstr "flaga: Trynidad i Tobago"
+
+msgid "flag: Tuvalu"
+msgstr "flaga: Tuvalu"
+
+msgid "flag: Taiwan"
+msgstr "flaga: Tajwan"
+
+msgid "flag: Tanzania"
+msgstr "flaga: Tanzania"
+
+msgid "flag: Ukraine"
+msgstr "flaga: Ukraina"
+
+msgid "flag: Uganda"
+msgstr "flaga: Uganda"
+
+msgid "flag: U.S. Outlying Islands"
+msgstr "flaga: Dalekie Wyspy Mniejsze Stanów Zjednoczonych"
+
+msgid "flag: United Nations"
+msgstr "flaga: Organizacja Narodów Zjednoczonych"
+
+msgid "flag: United States"
+msgstr "flaga: Stany Zjednoczone"
+
+msgid "flag: Uruguay"
+msgstr "flaga: Urugwaj"
+
+msgid "flag: Uzbekistan"
+msgstr "flaga: Uzbekistan"
+
+msgid "flag: Vatican City"
+msgstr "flaga: Watykan"
+
+msgid "flag: St. Vincent & Grenadines"
+msgstr "flaga: Saint Vincent i Grenadyny"
+
+msgid "flag: Venezuela"
+msgstr "flaga: Wenezuela"
+
+msgid "flag: British Virgin Islands"
+msgstr "flaga: Brytyjskie Wyspy Dziewicze"
+
+msgid "flag: U.S. Virgin Islands"
+msgstr "flaga: Wyspy Dziewicze Stanów Zjednoczonych"
+
+msgid "flag: Vietnam"
+msgstr "flaga: Wietnam"
+
+msgid "flag: Vanuatu"
+msgstr "flaga: Vanuatu"
+
+msgid "flag: Wallis & Futuna"
+msgstr "flaga: Wallis i Futuna"
+
+msgid "flag: Samoa"
+msgstr "flaga: Samoa"
+
+msgid "flag: Kosovo"
+msgstr "flaga: Kosowo"
+
+msgid "flag: Yemen"
+msgstr "flaga: Jemen"
+
+msgid "flag: Mayotte"
+msgstr "flaga: Majotta"
+
+msgid "flag: South Africa"
+msgstr "flaga: Republika Południowej Afryki"
+
+msgid "flag: Zambia"
+msgstr "flaga: Zambia"
+
+msgid "flag: Zimbabwe"
+msgstr "flaga: Zimbabwe"
+
+msgid "flag: England"
+msgstr "flaga: Anglia"
+
+msgid "flag: Scotland"
+msgstr "flaga: Szkocja"
+
+msgid "flag: Wales"
+msgstr "flaga: Walia"

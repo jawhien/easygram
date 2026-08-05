@@ -1,0 +1,4220 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Easygram 0.60.0.24\n"
+"Report-Msgid-Bugs-To: jawhien@gmail.com\n"
+"POT-Creation-Date: 2026-08-03 19:09+0300\n"
+"PO-Revision-Date: 2026-08-03 22:00+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-KeywordsList: _;N_;ngettext:1,2;pgettext:1c,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: source\easygram.py:86
+msgid ""
+"Are you sure you want to delete the database? You will have to log in to "
+"Telegram again."
+msgstr ""
+"Czy na pewno chcesz usunąć bazę danych? Będzie trzeba ponownie zalogować się"
+" do Telegrama."
+
+#: source\easygram.py:86 source\gui\dialogs.py:636 source\gui\dialogs.py:638
+#: source\gui\dialogs.py:3470 source\gui\dialogs.py:3765
+#: source\gui\login.py:430 source\gui\login.py:524 source\gui\login.py:626
+#: source\gui\login.py:752 source\gui\login.py:810 source\gui\login.py:854
+#: source\gui\__init__.py:786 source\gui\__init__.py:1337
+#: source\gui\__init__.py:1755 source\gui\__init__.py:1787
+msgid "Confirmation"
+msgstr "Potwierdzenie"
+
+#: source\emoji\data.py:29
+msgid "Faces and emotions"
+msgstr "Twarze i emocje"
+
+#: source\emoji\data.py:30
+msgid "People and gestures"
+msgstr "Ludzie i gesty"
+
+#: source\emoji\data.py:31
+msgid "Animals and nature"
+msgstr "Zwierzęta i natura"
+
+#: source\emoji\data.py:32
+msgid "Food and drink"
+msgstr "Jedzenie i napoje"
+
+#: source\emoji\data.py:33
+msgid "Travel and places"
+msgstr "Podróże i miejsca"
+
+#: source\emoji\data.py:34
+msgid "Activities"
+msgstr "Aktywności"
+
+#: source\emoji\data.py:35
+msgid "Objects"
+msgstr "Obiekty"
+
+#: source\emoji\data.py:36
+msgid "Symbols"
+msgstr "Symbole"
+
+#: source\emoji\data.py:37
+msgid "Flags"
+msgstr "Flagi"
+
+#. sizer for the inline bot keyboard.
+#: source\gui\chat.py:221
+msgid "Inline keyboard"
+msgstr "Klawiatura wbudowana"
+
+#. Open chat button for replies
+#: source\gui\chat.py:227 source\gui\dialogs.py:306 source\gui\menu.py:55
+#: source\gui\__init__.py:248
+msgid "Open chat"
+msgstr "Otwórz czat"
+
+#: source\gui\chat.py:233
+msgid "Show in chat"
+msgstr "Pokaż na czacie"
+
+#: source\gui\chat.py:238
+msgid "Clear search"
+msgstr "Wyczyść wyszukiwanie"
+
+#: source\gui\chat.py:246
+msgid "Bot menu"
+msgstr "Menu bota"
+
+#: source\gui\chat.py:251 source\gui\dialogs.py:1438
+#: source\gui\dialogs.py:1520 source\gui\dialogs.py:2797
+msgid "Emoji"
+msgstr "Emoji"
+
+#. bot main keyboard
+#: source\gui\chat.py:269 source\gui\chat.py:274
+msgid "Bot keyboard"
+msgstr "Klawiatura bota"
+
+#: source\gui\chat.py:281 source\gui\chat.py:298 source\gui\dialogs.py:476
+#: source\gui\dialogs.py:2852
+msgid "Send"
+msgstr "Wyślij"
+
+#: source\gui\chat.py:286 source\gui\dialogs.py:2490
+msgid "Schedule message"
+msgstr "Zaplanuj wiadomość"
+
+#: source\gui\chat.py:290 source\gui\chat.py:2463 source\gui\dialogs.py:464
+#: source\gui\dialogs.py:515 source\gui\dialogs.py:2495
+#: source\gui\dialogs.py:2840 source\gui\dialogs.py:3004
+msgid "Set date and time..."
+msgstr "Ustaw datę i godzinę..."
+
+#: source\gui\chat.py:294 source\gui\dialogs.py:469 source\gui\dialogs.py:2504
+#: source\gui\dialogs.py:2845
+msgid "Without sound"
+msgstr "Bez dźwięku"
+
+#: source\gui\chat.py:303
+msgid "Remove reply"
+msgstr "Usuń odpowiedź"
+
+#: source\gui\chat.py:308
+msgid "Send as:"
+msgstr "Wyślij jako:"
+
+#: source\gui\chat.py:317 source\gui\dialogs.py:1858
+msgid "Scheduled messages"
+msgstr "Zaplanowane wiadomości"
+
+#: source\gui\chat.py:323
+msgid "Attach..."
+msgstr "Załącz..."
+
+#: source\gui\chat.py:327
+msgid "Voice note"
+msgstr "Wiadomość głosowa"
+
+#: source\gui\chat.py:346
+msgid "Call..."
+msgstr "Zadzwoń..."
+
+#: source\gui\chat.py:351 source\gui\chat.py:2165
+msgid "Pinned messages"
+msgstr "Przypięte wiadomości"
+
+#: source\gui\chat.py:359 source\gui\chat.py:2834
+msgid "Notifications disabled"
+msgstr "Powiadomienia wyłączone"
+
+#: source\gui\chat.py:359 source\gui\chat.py:2834
+msgid "Notifications enabled"
+msgstr "Powiadomienia włączone"
+
+#: source\gui\chat.py:368
+msgid "Join the channel"
+msgstr "Dołącz do kanału"
+
+#: source\gui\chat.py:370
+msgid "Apply to join group"
+msgstr "Poproś o dołączenie do grupy"
+
+#: source\gui\chat.py:372
+msgid "Join the group"
+msgstr "Dołącz do grupy"
+
+#: source\gui\chat.py:380 source\gui\dialogs.py:3544
+msgid "Select topic"
+msgstr "Wybierz temat"
+
+#: source\gui\chat.py:385
+msgid "Search..."
+msgstr "Szukaj..."
+
+#: source\gui\chat.py:389 source\gui\dialogs.py:310 source\gui\dialogs.py:681
+#: source\gui\dialogs.py:842 source\gui\dialogs.py:1242
+#: source\gui\dialogs.py:1338 source\gui\dialogs.py:1893
+#: source\gui\dialogs.py:2120 source\gui\dialogs.py:2231
+#: source\gui\dialogs.py:3457 source\gui\dialogs.py:3648
+#: source\gui\dialogs.py:4379 source\mediaPlayer\photo.py:45
+msgid "Close"
+msgstr "Zamknij"
+
+#: source\gui\chat.py:615 source\gui\chat.py:630 source\gui\chat.py:985
+#: source\gui\chat.py:1459 source\gui\chat.py:1483 source\gui\chat.py:2044
+#: source\gui\chat.py:2046 source\gui\chat.py:2452 source\gui\chat.py:2519
+#: source\gui\chat.py:2780 source\gui\chat.py:2808 source\gui\chat.py:2815
+#: source\gui\dialogs.py:600 source\gui\dialogs.py:615
+#: source\gui\dialogs.py:749 source\gui\dialogs.py:796
+#: source\gui\dialogs.py:1031 source\gui\dialogs.py:1067
+#: source\gui\dialogs.py:1474 source\gui\dialogs.py:1482
+#: source\gui\dialogs.py:1583 source\gui\dialogs.py:1615
+#: source\gui\dialogs.py:2648 source\gui\dialogs.py:3061
+#: source\gui\dialogs.py:4166 source\gui\dialogs.py:4178
+#: source\gui\login.py:121 source\gui\login.py:145 source\gui\login.py:225
+#: source\gui\login.py:255 source\gui\login.py:280 source\gui\login.py:284
+#: source\gui\login.py:863 source\gui\login.py:890 source\gui\login.py:939
+#: source\gui\proxy.py:184 source\gui\settings.py:876
+#: source\gui\settings.py:1304 source\gui\settings.py:1362
+#: source\gui\settings.py:1368 source\gui\settings.py:1374
+#: source\gui\settings.py:1469 source\gui\settings.py:1506
+#: source\gui\settings.py:1663 source\gui\settings.py:1669
+#: source\gui\__init__.py:408 source\gui\__init__.py:426
+#: source\gui\__init__.py:1752 source\gui\__init__.py:1781
+#: source\gui\__init__.py:1800 source\gui\__init__.py:1833
+#: source\gui\__init__.py:1858 source\gui\__init__.py:1880
+#: source\gui\__init__.py:1888 source\gui\__init__.py:1903
+#: source\gui\__init__.py:1915 source\gui\__init__.py:1923
+#: source\objects\sounds.py:32
+msgid "Error"
+msgstr "Błąd"
+
+#: source\gui\chat.py:630
+msgid "Can't open chat for this message."
+msgstr "Nie można otworzyć czatu dla tej wiadomości."
+
+#: source\gui\chat.py:650
+msgid ""
+"You need a Telegram premium subscription to send messages on this name."
+msgstr ""
+"Do wysyłania wiadomości w tym imieniu wymagana jest subskrypcja Telegram "
+"Premium."
+
+#: source\gui\chat.py:650 source\gui\dialogs.py:3985 source\gui\login.py:109
+#: source\gui\settings.py:1353 source\gui\settings.py:1461
+#: source\gui\settings.py:1635
+msgid "Warning"
+msgstr "Ostrzeżenie"
+
+#: source\gui\chat.py:688
+msgid "Multiple selection enabled"
+msgstr "Wielokrotny wybór włączony"
+
+#: source\gui\chat.py:692
+msgid "Multiple selection disabled"
+msgstr "Wielokrotny wybór wyłączony"
+
+#: source\gui\chat.py:708 source\gui\dialogs.py:2760
+msgid "Files"
+msgstr "Pliki"
+
+#: source\gui\chat.py:710 source\gui\chat.py:2049 source\gui\dialogs.py:1568
+#: source\gui\dialogs.py:1641 source\gui\dialogs.py:1655
+#: source\gui\dialogs.py:1669 source\gui\dialogs.py:1685
+#: source\gui\dialogs.py:2909
+msgid "All files"
+msgstr "Wszystkie pliki"
+
+#: source\gui\chat.py:712
+msgid "Save file"
+msgstr "Zapisz plik"
+
+#: source\gui\chat.py:733 source\gui\chat.py:927
+#, python-brace-format
+msgid "Topic: {name}"
+msgstr "Temat: {name}"
+
+#: source\gui\chat.py:938
+msgid "The request has been sent"
+msgstr "Prośba została wysłana"
+
+#: source\gui\chat.py:938 source\gui\chat.py:1473 source\gui\chat.py:1497
+#: source\gui\chat.py:1779 source\gui\chat.py:1809 source\gui\chat.py:1825
+#: source\gui\dialogs.py:2086 source\gui\dialogs.py:2095
+#: source\gui\dialogs.py:4163 source\gui\dialogs.py:4175
+#: source\gui\__init__.py:1793 source\gui\__init__.py:1806
+msgid "Information"
+msgstr "Informacja"
+
+#: source\gui\chat.py:985 source\gui\chat.py:2808
+#, python-brace-format
+msgid ""
+"Failed to save file \"{name}\", such file already exists and name search "
+"limit exceeded."
+msgstr ""
+"Nie udało się zapisać pliku \"{name}\"; taki plik już istnieje i "
+"przekroczono limit wyszukiwania nazwy."
+
+#: source\gui\chat.py:1045 source\gui\dialogs.py:1865
+msgid "Messages"
+msgstr "Wiadomości"
+
+#: source\gui\chat.py:1048
+msgid "Message:"
+msgstr "Wiadomość:"
+
+#: source\gui\chat.py:1103
+#, python-brace-format
+msgid "Reply to {name}: {text}:"
+msgstr "Odpowiedź do {name}: {text}:"
+
+#: source\gui\chat.py:1180 source\gui\presentation.py:745
+#: source\gui\vdm.py:111
+msgid "online"
+msgstr "online"
+
+#: source\gui\chat.py:1182 source\gui\presentation.py:747
+#: source\gui\vdm.py:113
+msgid "last seen recently"
+msgstr "ostatnio widziany niedawno"
+
+#: source\gui\chat.py:1184 source\gui\presentation.py:749
+#: source\gui\vdm.py:115
+msgid "last seen within a week"
+msgstr "ostatnio widziany w tym tygodniu"
+
+#: source\gui\chat.py:1186 source\gui\presentation.py:751
+#: source\gui\vdm.py:117
+msgid "last seen within a month"
+msgstr "ostatnio widziany w tym miesiącu"
+
+#: source\gui\chat.py:1188 source\gui\presentation.py:753
+#: source\gui\vdm.py:119
+msgid "last seen never"
+msgstr "nigdy nie widziany"
+
+#: source\gui\chat.py:1190 source\gui\presentation.py:755
+#: source\gui\vdm.py:121
+#, python-brace-format
+msgid "last seen at {time}"
+msgstr "ostatnio widziany o {time}"
+
+#: source\gui\chat.py:1192 source\gui\presentation.py:757
+#: source\gui\vdm.py:123
+#, python-brace-format
+msgid "last seen yesterday at {time}"
+msgstr "ostatnio widziany wczoraj o {time}"
+
+#: source\gui\chat.py:1194 source\gui\presentation.py:759
+#: source\gui\vdm.py:125
+#, python-brace-format
+msgid "last seen {date} at {time}"
+msgstr "ostatnio widziany {date} o {time}"
+
+#: source\gui\chat.py:1203
+#, python-brace-format
+msgid "Channel: {name}, {count} subscriber"
+msgid_plural "Channel: {name}, {count} subscribers"
+msgstr[0] "Kanał: {name}, {count} subskrybent"
+msgstr[1] "Kanał: {name}, {count} subskrybenci"
+msgstr[2] "Kanał: {name}, {count} subskrybentów"
+
+#: source\gui\chat.py:1213
+#, python-brace-format
+msgid "Group: {name}, {count} member"
+msgid_plural "Group: {name}, {count} members"
+msgstr[0] "Grupa: {name}, {count} członek"
+msgstr[1] "Grupa: {name}, {count} członków"
+msgstr[2] "Grupa: {name}, {count} członków"
+
+#: source\gui\chat.py:1215
+#, python-brace-format
+msgid "Group: {name}, {status}, {count} member"
+msgid_plural "Group: {name}, {status}, {count} members"
+msgstr[0] "Grupa: {name}, {status}, {count} członek"
+msgstr[1] "Grupa: {name}, {status}, {count} członków"
+msgstr[2] "Grupa: {name}, {status}, {count} członków"
+
+#: source\gui\chat.py:1219 source\gui\dialogs.py:2288 source\gui\vdm.py:238
+#: source\gui\vdm.py:320 source\gui\vdm.py:448
+msgid "Favorites"
+msgstr "Ulubione"
+
+#: source\gui\chat.py:1222 source\gui\vdm.py:233 source\gui\vdm.py:315
+#: source\gui\vdm.py:443
+msgid "Replies"
+msgstr "Odpowiedzi"
+
+#: source\gui\chat.py:1226
+#, python-brace-format
+msgid "Bot: {name}"
+msgstr "Bot: {name}"
+
+#: source\gui\chat.py:1232 source\gui\dialogs.py:699
+#: source\gui\presentation.py:45 source\gui\presentation.py:70
+#: source\gui\presentation.py:132 source\gui\presentation.py:237
+#: source\gui\presentation.py:247 source\gui\vdm.py:243
+msgid "Deleted user"
+msgstr "Usunięty użytkownik"
+
+#: source\gui\chat.py:1240
+msgid "Premium account"
+msgstr "Konto Premium"
+
+#: source\gui\chat.py:1321 source\gui\__init__.py:689
+msgid "Skipped one-time voice message"
+msgstr "Pominięto jednorazową wiadomość głosową"
+
+#: source\gui\chat.py:1458 source\gui\chat.py:1482
+msgid "An error has occurred."
+msgstr "Wystąpił błąd."
+
+#: source\gui\chat.py:1472
+msgid "No unread reactions."
+msgstr "Brak nieprzeczytanych reakcji."
+
+#: source\gui\chat.py:1496
+msgid "No unread mentions."
+msgstr "Brak nieprzeczytanych wzmianek."
+
+#: source\gui\chat.py:1588
+msgid "Go to message"
+msgstr "Przejdź do wiadomości"
+
+#: source\gui\chat.py:1668
+msgid "Go to quoted message"
+msgstr "Przejdź do cytowanej wiadomości"
+
+#: source\gui\chat.py:1720 source\gui\chat.py:3079
+msgid "Copied"
+msgstr "Skopiowano"
+
+#: source\gui\chat.py:1779 source\gui\chat.py:1809 source\gui\chat.py:1825
+msgid "There are no links in this message."
+msgstr "W tej wiadomości nie ma linków."
+
+#: source\gui\chat.py:1910
+msgid "Searching unread reactions."
+msgstr "Wyszukiwanie nieprzeczytanych reakcji."
+
+#: source\gui\chat.py:1920
+msgid "Searching unread mentions."
+msgstr "Wyszukiwanie nieprzeczytanych wzmianek."
+
+#: source\gui\chat.py:1941
+msgid "There are no reactions for this message."
+msgstr "Nie ma reakcji na tę wiadomość."
+
+#: source\gui\chat.py:2037
+msgid "Voice and video messages in this chat are restricted!"
+msgstr "Wiadomości głosowe i wideo są ograniczone w tym czacie!"
+
+#: source\gui\chat.py:2044
+msgid "Unable to send a voice message because the input device was not found."
+msgstr ""
+"Nie można wysłać wiadomości głosowej, ponieważ nie znaleziono urządzenia "
+"wejściowego."
+
+#: source\gui\chat.py:2046
+msgid ""
+"It is not possible to send a voice message because the selected recording "
+"device could not be opened. Check if Easygram is allowed to access the "
+"selected device."
+msgstr ""
+"Nie można wysłać wiadomości głosowej, ponieważ nie udało się otworzyć "
+"wybranego urządzenia nagrywającego. Sprawdź, czy Easygram ma dostęp do "
+"wybranego urządzenia."
+
+#: source\gui\chat.py:2050 source\gui\dialogs.py:1574
+#: source\gui\dialogs.py:2910 source\gui\settings.py:1491
+msgid "Select file"
+msgstr "Wybierz plik"
+
+#: source\gui\chat.py:2165
+msgid "No pinned messages."
+msgstr "Brak przypiętych wiadomości."
+
+#: source\gui\chat.py:2331
+msgid "Unread messages"
+msgstr "Nieprzeczytane wiadomości"
+
+#: source\gui\chat.py:2444 source\gui\dialogs.py:1482
+msgid "The message is too long!"
+msgstr "Wiadomość jest za długa!"
+
+#: source\gui\chat.py:2444
+msgid "Send error"
+msgstr "Błąd wysyłania"
+
+#: source\gui\chat.py:2452 source\gui\dialogs.py:615
+#: source\gui\dialogs.py:2648 source\gui\dialogs.py:3061
+msgid "You have not set the date and time!"
+msgstr "Nie ustawiono daty i godziny!"
+
+#: source\gui\chat.py:2473 source\gui\dialogs.py:510
+#: source\gui\dialogs.py:2021 source\gui\dialogs.py:2581
+#: source\gui\dialogs.py:2999
+msgid "%d.%m.%Y at %H:%M"
+msgstr "%d.%m.%Y o %H:%M"
+
+#: source\gui\chat.py:2474 source\gui\dialogs.py:511
+#: source\gui\dialogs.py:2582 source\gui\dialogs.py:3000
+#, python-brace-format
+msgid "Scheduled for: {date}"
+msgstr "Zaplanowano na: {date}"
+
+#: source\gui\chat.py:2476 source\gui\dialogs.py:513
+#: source\gui\dialogs.py:3002
+msgid "Scheduled for: When the user is online"
+msgstr "Zaplanowano na: gdy użytkownik będzie online"
+
+#: source\gui\chat.py:2519
+msgid "Couldn't send message"
+msgstr "Nie udało się wysłać wiadomości"
+
+#: source\gui\chat.py:2780
+msgid "The file could not be opened. Unknown type of media data."
+msgstr "Nie udało się otworzyć pliku. Nieznany typ danych multimedialnych."
+
+#: source\gui\chat.py:2815
+msgid "Couldn't save the file. See the details in the log."
+msgstr "Nie udało się zapisać pliku. Szczegóły znajdziesz w dzienniku."
+
+#: source\gui\chat.py:2941
+msgid "The Transcription text is ready."
+msgstr "Tekst transkrypcji jest gotowy."
+
+#: source\gui\chat.py:3188
+msgid "An error occurred. See details in the event log."
+msgstr "Wystąpił błąd. Szczegóły znajdziesz w dzienniku zdarzeń."
+
+#: source\gui\chat.py:3192
+msgid ""
+"It was not possible to import contact. Perhaps it is absent in Telegram."
+msgstr "Nie udało się zaimportować kontaktu. Być może nie ma go w Telegramie."
+
+#: source\gui\chat.py:3195
+msgid "Successfully imported."
+msgstr "Zaimportowano pomyślnie."
+
+#: source\gui\chat.py:3239
+msgid "Comment:"
+msgstr "Komentarz:"
+
+#: source\gui\chat.py:3242
+msgid "Comments"
+msgstr "Komentarze"
+
+#: source\gui\chat.py:3248
+msgid "Comments for: "
+msgstr "Komentarze dla: "
+
+#: source\gui\dialogs.py:101 source\gui\dialogs.py:460
+#: source\gui\dialogs.py:2836
+msgid "Schedule"
+msgstr "Zaplanuj"
+
+#: source\gui\dialogs.py:109
+msgid "When to send"
+msgstr "Kiedy wysłać"
+
+#: source\gui\dialogs.py:111
+msgid "Date and time"
+msgstr "Data i godzina"
+
+#: source\gui\dialogs.py:115
+msgid "When will user be online"
+msgstr "Gdy użytkownik będzie online"
+
+#: source\gui\dialogs.py:122
+msgid "Date and time selection"
+msgstr "Wybór daty i godziny"
+
+#: source\gui\dialogs.py:158
+msgid "Hour:"
+msgstr "Godzina:"
+
+#: source\gui\dialogs.py:165
+msgid "Minute:"
+msgstr "Minuta:"
+
+#: source\gui\dialogs.py:175 source\gui\dialogs.py:777
+#: source\gui\dialogs.py:1135 source\gui\dialogs.py:1828
+#: source\gui\dialogs.py:2056 source\gui\dialogs.py:2322
+#: source\gui\dialogs.py:3151 source\gui\dialogs.py:3561
+#: source\gui\dialogs.py:4197 source\gui\dialogs.py:4294
+#: source\gui\editor.py:50 source\gui\settings.py:1259
+msgid "OK"
+msgstr "OK"
+
+#: source\gui\dialogs.py:180 source\gui\dialogs.py:481
+#: source\gui\dialogs.py:781 source\gui\dialogs.py:1140
+#: source\gui\dialogs.py:1405 source\gui\dialogs.py:1789
+#: source\gui\dialogs.py:2060 source\gui\dialogs.py:2326
+#: source\gui\dialogs.py:2540 source\gui\dialogs.py:2858
+#: source\gui\dialogs.py:3147 source\gui\dialogs.py:3264
+#: source\gui\dialogs.py:3565 source\gui\dialogs.py:3796
+#: source\gui\dialogs.py:3879 source\gui\dialogs.py:4202
+#: source\gui\dialogs.py:4299 source\gui\editor.py:55 source\gui\login.py:94
+#: source\gui\login.py:356 source\gui\login.py:473 source\gui\login.py:570
+#: source\gui\login.py:674 source\gui\login.py:800 source\gui\proxy.py:72
+#: source\gui\settings.py:169 source\gui\settings.py:436
+#: source\gui\settings.py:1264
+msgid "Cancel"
+msgstr "Anuluj"
+
+#: source\gui\dialogs.py:233
+msgid "About the bot"
+msgstr "O bocie"
+
+#: source\gui\dialogs.py:235 source\gui\__init__.py:242
+msgid "About user"
+msgstr "O użytkowniku"
+
+#: source\gui\dialogs.py:242 source\gui\dialogs.py:3851
+#: source\gui\login.py:774
+msgid "First name:"
+msgstr "Imię:"
+
+#: source\gui\dialogs.py:249 source\gui\dialogs.py:3196
+#: source\gui\dialogs.py:3382 source\gui\dialogs.py:3859
+#: source\gui\login.py:781
+msgid "Last name:"
+msgstr "Nazwisko:"
+
+#: source\gui\dialogs.py:259
+msgid "About Me:"
+msgstr "O mnie:"
+
+#: source\gui\dialogs.py:266 source\gui\dialogs.py:3408
+#: source\gui\dialogs.py:3867 source\gui\login.py:336
+msgid "Phone number:"
+msgstr "Numer telefonu:"
+
+#: source\gui\dialogs.py:276 source\gui\dialogs.py:3431
+msgid "User name:"
+msgstr "Nazwa użytkownika:"
+
+#: source\gui\dialogs.py:286 source\gui\dialogs.py:3397
+msgid "Birthday:"
+msgstr "Urodziny:"
+
+#: source\gui\dialogs.py:292 source\gui\dialogs.py:3421
+msgid "Personal channel"
+msgstr "Kanał osobisty"
+
+#: source\gui\dialogs.py:298 source\gui\dialogs.py:1325
+#: source\gui\dialogs.py:3445
+msgid "ID:"
+msgstr "ID:"
+
+#: source\gui\dialogs.py:349 source\gui\dialogs.py:3517
+#, python-brace-format
+msgid "{day}/{month}/{year}"
+msgstr "{day}.{month}.{year}"
+
+#: source\gui\dialogs.py:351 source\gui\dialogs.py:3519
+#, python-brace-format
+msgid "{day}/{month}"
+msgstr "{day}.{month}"
+
+#: source\gui\dialogs.py:364 source\gui\dialogs.py:3533
+#, python-brace-format
+msgid "Personal channel: {title}"
+msgstr "Kanał osobisty: {title}"
+
+#: source\gui\dialogs.py:370
+#, python-brace-format
+msgid "Clear history with {title}"
+msgstr "Wyczyść historię z {title}"
+
+#: source\gui\dialogs.py:374
+msgid "Are you sure you want to clear your history on this chat?"
+msgstr "Czy na pewno chcesz wyczyścić historię w tym czacie?"
+
+#: source\gui\dialogs.py:377
+msgid "Clear for all users"
+msgstr "Wyczyść u wszystkich użytkowników"
+
+#: source\gui\dialogs.py:380
+msgid "Remove from chat list"
+msgstr "Usuń z listy czatów"
+
+#: source\gui\dialogs.py:385
+msgid "Yes"
+msgstr "Tak"
+
+#: source\gui\dialogs.py:390
+msgid "No"
+msgstr "Nie"
+
+#: source\gui\dialogs.py:424
+#, python-brace-format
+msgid "Voice note: {title}"
+msgstr "Wiadomość głosowa: {title}"
+
+#: source\gui\dialogs.py:449 source\gui\dialogs.py:532
+msgid "Start recording"
+msgstr "Rozpocznij nagrywanie"
+
+#: source\gui\dialogs.py:454 source\gui\dialogs.py:2834
+msgid "Options"
+msgstr "Opcje"
+
+#: source\gui\dialogs.py:456
+msgid "Delete after listening"
+msgstr "Usuń po odsłuchaniu"
+
+#: source\gui\dialogs.py:527
+msgid "Stop recording"
+msgstr "Zatrzymaj nagrywanie"
+
+#: source\gui\dialogs.py:600
+msgid ""
+"An error occurred while sending a voice message. See the log for more "
+"details."
+msgstr ""
+"Wystąpił błąd podczas wysyłania wiadomości głosowej. Więcej szczegółów "
+"znajdziesz w dzienniku."
+
+#: source\gui\dialogs.py:610
+msgid "Can't send empty messages!"
+msgstr "Nie można wysyłać pustych wiadomości!"
+
+#: source\gui\dialogs.py:610
+msgid "Info"
+msgstr "Informacja"
+
+#. Change the label of the button to show that the upload has already started.
+#: source\gui\dialogs.py:622
+msgid "Sending in progress..."
+msgstr "Trwa wysyłanie..."
+
+#: source\gui\dialogs.py:636
+msgid "A message is being sent. Do you really want to close this window?"
+msgstr "Wiadomość jest wysyłana. Czy na pewno chcesz zamknąć to okno?"
+
+#: source\gui\dialogs.py:638
+msgid "Cancel the record and delete the message?"
+msgstr "Anulować nagranie i usunąć wiadomość?"
+
+#: source\gui\dialogs.py:661
+msgid "Voters"
+msgstr "Głosy"
+
+#: source\gui\dialogs.py:665
+msgid "Answer"
+msgstr "Odpowiedź"
+
+#: source\gui\dialogs.py:667
+msgid "Answer:"
+msgstr "Odpowiedź:"
+
+#: source\gui\dialogs.py:672
+msgid "Voters:"
+msgstr "Głosy:"
+
+#: source\gui\dialogs.py:677
+msgid "More"
+msgstr "Więcej"
+
+#: source\gui\dialogs.py:694 source\gui\dialogs.py:706 source\gui\login.py:395
+#: source\gui\login.py:518 source\gui\login.py:617 source\gui\login.py:716
+#: source\gui\__init__.py:1447 source\mediaPlayer\gui.py:69
+msgid "Unknown"
+msgstr "Nieznane"
+
+#: source\gui\dialogs.py:712
+#, python-brace-format
+msgid "Today at {time}"
+msgstr "Dzisiaj o {time}"
+
+#: source\gui\dialogs.py:714
+#, python-brace-format
+msgid "{date} at {time}"
+msgstr "{date} o {time}"
+
+#: source\gui\dialogs.py:716
+#, python-brace-format
+msgid "{name}, {date}"
+msgstr "{name}, {date}"
+
+#: source\gui\dialogs.py:749
+msgid "Can't get voters for this option."
+msgstr "Nie można pobrać głosujących dla tej opcji."
+
+#: source\gui\dialogs.py:758
+msgid "No voters"
+msgstr "Brak głosów"
+
+#: source\gui\dialogs.py:768 source\gui\dialogs.py:838
+msgid "Add option"
+msgstr "Dodaj opcję"
+
+#: source\gui\dialogs.py:771
+msgid "Option text:"
+msgstr "Tekst opcji:"
+
+#: source\gui\dialogs.py:796
+msgid "Option text must be 100 characters or less."
+msgstr "Tekst opcji musi mieć maksymalnie 100 znaków."
+
+#: source\gui\dialogs.py:822
+msgid "Choose one or more answers"
+msgstr "Wybierz jedną lub więcej odpowiedzi"
+
+#: source\gui\dialogs.py:824
+msgid "Choose only one answer"
+msgstr "Wybierz tylko jedną odpowiedź"
+
+#: source\gui\dialogs.py:830
+msgid "View voters"
+msgstr "Pokaż głosy"
+
+#: source\gui\dialogs.py:834
+msgid "Cancel vote"
+msgstr "Anuluj głos"
+
+#: source\gui\dialogs.py:909 source\gui\presentation.py:200
+#, python-brace-format
+msgid "Quiz: {title}, anonymous quiz"
+msgstr "Quiz: {title}, quiz anonimowy"
+
+#: source\gui\dialogs.py:910 source\gui\presentation.py:204
+#, python-brace-format
+msgid "Quiz: {title}, public quiz"
+msgstr "Quiz: {title}, quiz publiczny"
+
+#: source\gui\dialogs.py:912 source\gui\presentation.py:198
+#, python-brace-format
+msgid "Poll: {title}, anonymous poll"
+msgstr "Ankieta: {title}, ankieta anonimowa"
+
+#: source\gui\dialogs.py:913 source\gui\presentation.py:202
+#, python-brace-format
+msgid "Poll: {title}, public poll"
+msgstr "Ankieta: {title}, ankieta publiczna"
+
+#: source\gui\dialogs.py:919
+#, python-brace-format
+msgid "{text}: {count} vote ({p}%)"
+msgid_plural "{text}: {count} votes ({p}%)"
+msgstr[0] "{text}: {count} głos ({p}%)"
+msgstr[1] "{text}: {count} głosy ({p}%)"
+msgstr[2] "{text}: {count} głosów ({p}%)"
+
+#: source\gui\dialogs.py:921 source\gui\dialogs.py:929
+#, python-brace-format
+msgid "{option} - sending answer"
+msgstr "{option} - wysyłanie odpowiedzi"
+
+#: source\gui\dialogs.py:935
+#, python-brace-format
+msgid "{option} - This is the correct answer"
+msgstr "{option} - to jest poprawna odpowiedź"
+
+#: source\gui\dialogs.py:938
+#, python-brace-format
+msgid "{option}. Explanation: {text}"
+msgstr "{option}. Wyjaśnienie: {text}"
+
+#: source\gui\dialogs.py:940
+#, python-brace-format
+msgid "{option} - This is the wrong answer"
+msgstr "{option} - to jest niepoprawna odpowiedź"
+
+#: source\gui\dialogs.py:963
+msgid "This quiz is now closed."
+msgstr "Ten quiz jest teraz zamknięty."
+
+#: source\gui\dialogs.py:963
+msgid "This poll is now closed."
+msgstr "Ta ankieta jest teraz zamknięta."
+
+#: source\gui\dialogs.py:965 source\gui\dialogs.py:968
+msgid "Can't vote in this poll."
+msgstr "Nie można głosować w tej ankiecie."
+
+#: source\gui\dialogs.py:967
+msgid "Can't change answer in quiz mode."
+msgstr "Nie można zmienić odpowiedzi w trybie quizu."
+
+#: source\gui\dialogs.py:967
+msgid "Can't change answer in this poll."
+msgstr "Nie można zmienić odpowiedzi w tej ankiecie."
+
+#: source\gui\dialogs.py:988
+#, python-brace-format
+msgid "{count} total vote"
+msgid_plural "{count} total votes"
+msgstr[0] "Łącznie {count} głos"
+msgstr[1] "Łącznie {count} głosy"
+msgstr[2] "Łącznie {count} głosów"
+
+#: source\gui\dialogs.py:1067
+msgid "Can't add option to this poll."
+msgstr "Nie można dodać opcji do tej ankiety."
+
+#: source\gui\dialogs.py:1115
+msgid "Links"
+msgstr "Linki"
+
+#: source\gui\dialogs.py:1186 source\gui\__init__.py:279
+msgid "About Easygram"
+msgstr "O Easygram"
+
+#: source\gui\dialogs.py:1196
+msgid "Original text in English: © Eugene Poplavsky."
+msgstr "Tłumaczenie na język polski: © Eugene Poplavsky."
+
+#. text.append(_("Easygram is distributed under the GNU GPLv3 open source
+#. license, with the exception of certain additional components and Microsoft
+#. redistributable code. By using or distributing Easygram, you agree to be
+#. bound by the terms of the license agreement. The text of the license can be
+#. found
+#. at:\n{link}").format(link="https://www.gnu.org/licenses/gpl-3.0.en.html"))
+#: source\gui\dialogs.py:1199
+msgid "Easygram also includes a number of GNU GPL compatible components."
+msgstr "Easygram zawiera także szereg komponentów zgodnych z GNU GPL."
+
+#: source\gui\dialogs.py:1201 source\gui\dialogs.py:1203
+#: source\gui\dialogs.py:1205 source\gui\dialogs.py:1209
+#: source\gui\dialogs.py:1213 source\gui\dialogs.py:1219
+#: source\gui\dialogs.py:1223
+#, python-brace-format
+msgid ""
+"{name}, version: {version}\n"
+"{link}"
+msgstr ""
+"{name}, wersja: {version}\n"
+"{link}"
+
+#. TRANSLATORS: this text on button in about dialog.
+#: source\gui\dialogs.py:1237
+msgid "Keyboard shortcuts"
+msgstr "Skróty klawiaturowe"
+
+#: source\gui\dialogs.py:1269
+msgid "About the channel"
+msgstr "O kanale"
+
+#: source\gui\dialogs.py:1274
+msgid "Name:"
+msgstr "Nazwa:"
+
+#: source\gui\dialogs.py:1281
+msgid "About the channel:"
+msgstr "O kanale:"
+
+#: source\gui\dialogs.py:1287
+msgid "Member count:"
+msgstr "Liczba członków:"
+
+#: source\gui\dialogs.py:1294
+msgid "Public link:"
+msgstr "Link publiczny:"
+
+#: source\gui\dialogs.py:1298 source\gui\dialogs.py:1318
+msgid "Copy"
+msgstr "Kopiuj"
+
+#: source\gui\dialogs.py:1313
+msgid "Invite link:"
+msgstr "Link zaproszenia:"
+
+#: source\gui\dialogs.py:1334
+msgid "Open the channel"
+msgstr "Otwórz kanał"
+
+#: source\gui\dialogs.py:1352 source\gui\dialogs.py:1357
+#, python-brace-format
+msgid "Copied: {link}"
+msgstr "Skopiowano: {link}"
+
+#: source\gui\dialogs.py:1400 source\gui\dialogs.py:3259
+#: source\gui\proxy.py:232
+msgid "Save"
+msgstr "Zapisz"
+
+#: source\gui\dialogs.py:1417
+msgid "Edit message"
+msgstr "Edytuj wiadomość"
+
+#: source\gui\dialogs.py:1421
+msgid "Message text:"
+msgstr "Tekst wiadomości:"
+
+#: source\gui\dialogs.py:1474
+msgid "Can't send empty message!"
+msgstr "Nie można wysłać pustej wiadomości!"
+
+#: source\gui\dialogs.py:1506
+msgid "Edit document"
+msgstr "Edytuj dokument"
+
+#: source\gui\dialogs.py:1511 source\gui\dialogs.py:2788
+msgid "Caption:"
+msgstr "Podpis:"
+
+#: source\gui\dialogs.py:1526
+msgid "Override file..."
+msgstr "Zastąp plik..."
+
+#: source\gui\dialogs.py:1531
+msgid "File path:"
+msgstr "Ścieżka pliku:"
+
+#: source\gui\dialogs.py:1538 source\gui\settings.py:580
+msgid "Browse..."
+msgstr "Przeglądaj..."
+
+#: source\gui\dialogs.py:1543
+msgid "Cancel override file"
+msgstr "Anuluj zastąpienie pliku"
+
+#: source\gui\dialogs.py:1583
+msgid "This type of file is not supported!"
+msgstr "Ten typ pliku nie jest obsługiwany!"
+
+#: source\gui\dialogs.py:1615
+msgid "The caption is too long!"
+msgstr "Podpis jest za długi!"
+
+#: source\gui\dialogs.py:1632
+msgid "Edit photo"
+msgstr "Edytuj zdjęcie"
+
+#: source\gui\dialogs.py:1641
+msgid "All images"
+msgstr "Wszystkie obrazy"
+
+#: source\gui\dialogs.py:1646
+msgid "Edit video"
+msgstr "Edytuj wideo"
+
+#: source\gui\dialogs.py:1655
+msgid "All video files"
+msgstr "Wszystkie pliki wideo"
+
+#: source\gui\dialogs.py:1660
+msgid "Edit animation"
+msgstr "Edytuj animację"
+
+#: source\gui\dialogs.py:1669
+msgid "All animation"
+msgstr "Wszystkie animacje"
+
+#: source\gui\dialogs.py:1674
+msgid "Edit audio"
+msgstr "Edytuj audio"
+
+#: source\gui\dialogs.py:1685
+msgid "All audio files"
+msgstr "Wszystkie pliki audio"
+
+#: source\gui\dialogs.py:1691 source\gui\dialogs.py:2802
+msgid "Title:"
+msgstr "Tytuł:"
+
+#: source\gui\dialogs.py:1698 source\gui\dialogs.py:2812
+msgid "Performer:"
+msgstr "Wykonawca:"
+
+#: source\gui\dialogs.py:1722
+msgid "Edit voice note"
+msgstr "Edytuj wiadomość głosową"
+
+#: source\gui\dialogs.py:1735 source\gui\dialogs.py:1950
+msgid "Delete message"
+msgstr "Usuń wiadomość"
+
+#: source\gui\dialogs.py:1753 source\gui\dialogs.py:1950
+msgid "Are you sure you want to delete this message?"
+msgstr "Czy na pewno chcesz usunąć tę wiadomość?"
+
+#: source\gui\dialogs.py:1753
+#, python-brace-format
+msgid "Are you sure you want to delete {count} message?"
+msgid_plural "Are you sure you want to delete {count} messages?"
+msgstr[0] "Czy na pewno chcesz usunąć {count} wiadomość?"
+msgstr[1] "Czy na pewno chcesz usunąć {count} wiadomości?"
+msgstr[2] "Czy na pewno chcesz usunąć {count} wiadomości?"
+
+#: source\gui\dialogs.py:1759
+#, python-brace-format
+msgid "Delete also for {name}"
+msgstr "Usuń także dla {name}"
+
+#: source\gui\dialogs.py:1759
+msgid "Delete from all users"
+msgstr "Usuń u wszystkich użytkowników"
+
+#: source\gui\dialogs.py:1768
+msgid "Revoke my messages"
+msgstr "Wycofaj moje wiadomości"
+
+#: source\gui\dialogs.py:1784 source\gui\dialogs.py:1888
+#: source\gui\dialogs.py:2776 source\gui\login.py:73
+#: source\gui\settings.py:1193
+msgid "Delete"
+msgstr "Usuń"
+
+#: source\gui\dialogs.py:1814
+msgid "Successfully"
+msgstr "Pomyślnie"
+
+#: source\gui\dialogs.py:1821
+#, python-brace-format
+msgid "File '{name}' saved in downloads"
+msgstr "Plik „{name}” zapisano w pobranych"
+
+#: source\gui\dialogs.py:1823
+#, python-brace-format
+msgid "The file is saved in \"{path}\""
+msgstr "Plik zapisano w \"{path}\""
+
+#: source\gui\dialogs.py:1833
+msgid "Show in Folder"
+msgstr "Pokaż w folderze"
+
+#: source\gui\dialogs.py:1873
+msgid "Change..."
+msgstr "Zmień..."
+
+#: source\gui\dialogs.py:1878
+msgid "Change time..."
+msgstr "Zmień czas..."
+
+#: source\gui\dialogs.py:1883
+msgid "Send immediately"
+msgstr "Wyślij teraz"
+
+#: source\gui\dialogs.py:2037
+msgid "Reactions"
+msgstr "Reakcje"
+
+#: source\gui\dialogs.py:2046
+msgid "Available reactions:"
+msgstr "Dostępne reakcje:"
+
+#: source\gui\dialogs.py:2086
+msgid "You cannot send reactions if anonymity is enabled!"
+msgstr "Nie możesz wysyłać reakcji, jeśli włączona jest anonimowość!"
+
+#: source\gui\dialogs.py:2095
+msgid "There are no reactions available for this message!"
+msgstr "Dla tej wiadomości nie ma dostępnych reakcji!"
+
+#: source\gui\dialogs.py:2105
+msgid "Scheduled message"
+msgstr "Zaplanowana wiadomość"
+
+#: source\gui\dialogs.py:2111
+#, python-brace-format
+msgid "Message scheduled at {date}"
+msgstr "Wiadomość zaplanowana na {date}"
+
+#: source\gui\dialogs.py:2113
+msgid "The message will be sent when the user is online."
+msgstr "Wiadomość zostanie wysłana, gdy użytkownik będzie online."
+
+#: source\gui\dialogs.py:2134
+msgid "Message Detail"
+msgstr "Szczegóły wiadomości"
+
+#: source\gui\dialogs.py:2140
+msgid "Text message:"
+msgstr "Wiadomość tekstowa:"
+
+#: source\gui\dialogs.py:2144
+msgid "Voice message:"
+msgstr "Wiadomość głosowa:"
+
+#: source\gui\dialogs.py:2148
+msgid "Audio message:"
+msgstr "Wiadomość audio:"
+
+#: source\gui\dialogs.py:2152 source\gui\dialogs.py:2156
+msgid "Video message:"
+msgstr "Wiadomość wideo:"
+
+#: source\gui\dialogs.py:2158
+msgid "Photo:"
+msgstr "Zdjęcie:"
+
+#: source\gui\dialogs.py:2163
+#, python-brace-format
+msgid "Document message: {filename}"
+msgstr "Wiadomość z dokumentem: {filename}"
+
+#: source\gui\dialogs.py:2168 source\gui\dialogs.py:2183
+msgid "No caption"
+msgstr "Bez podpisu"
+
+#: source\gui\dialogs.py:2170
+msgid "Registration message:"
+msgstr "Wiadomość rejestracyjna:"
+
+#: source\gui\dialogs.py:2172 source\gui\dialogs.py:2175
+msgid "Creation message:"
+msgstr "Wiadomość o utworzeniu:"
+
+#: source\gui\dialogs.py:2173 source\gui\presentation.py:216
+msgid "Supergroup created."
+msgstr "Utworzono supergrupę."
+
+#: source\gui\dialogs.py:2176
+msgid "Group created."
+msgstr "Utworzono grupę."
+
+#: source\gui\dialogs.py:2178
+msgid "Gif:"
+msgstr "GIF:"
+
+#: source\gui\dialogs.py:2185
+msgid "Call message:"
+msgstr "Wiadomość o połączeniu:"
+
+#: source\gui\dialogs.py:2188
+msgid "Separator item:"
+msgstr "Separator:"
+
+#: source\gui\dialogs.py:2191
+msgid "Sticker:"
+msgstr "Naklejka:"
+
+#: source\gui\dialogs.py:2194 source\gui\dialogs.py:2311
+msgid "Emoji:"
+msgstr "Emoji:"
+
+#: source\gui\dialogs.py:2200
+#, python-brace-format
+msgid "Views: {count}"
+msgstr "Wyświetlenia: {count}"
+
+#: source\gui\dialogs.py:2211
+#, python-brace-format
+msgid "You sent a reaction {r}"
+msgstr "Wysłano reakcję {r}"
+
+#: source\gui\dialogs.py:2216 source\gui\presentation.py:334
+#: source\gui\presentation.py:359
+#, python-brace-format
+msgid "Transcription: {text}"
+msgstr "Transkrypcja: {text}"
+
+#: source\gui\dialogs.py:2253
+msgid "Emoji panel"
+msgstr "Panel emoji"
+
+#: source\gui\dialogs.py:2288
+msgid "All"
+msgstr "Wszystko"
+
+#: source\gui\dialogs.py:2290
+msgid "Categories"
+msgstr "Kategorie"
+
+#: source\gui\dialogs.py:2295
+msgid "Filter:"
+msgstr "Filtr:"
+
+#: source\gui\dialogs.py:2448
+#, python-brace-format
+msgid "Forward {count} message"
+msgid_plural "Forward {count} messages"
+msgstr[0] "Przekaż {count} wiadomość"
+msgstr[1] "Przekaż {count} wiadomości"
+msgstr[2] "Przekaż {count} wiadomości"
+
+#: source\gui\dialogs.py:2466
+msgid "Chats:"
+msgstr "Czaty:"
+
+#: source\gui\dialogs.py:2478
+msgid "Topic:"
+msgstr "Temat:"
+
+#: source\gui\dialogs.py:2510
+msgid "Advanced options"
+msgstr "Opcje zaawansowane"
+
+#: source\gui\dialogs.py:2517
+msgid "Hide sender name"
+msgstr "Ukryj nazwę nadawcy"
+
+#: source\gui\dialogs.py:2517
+msgid "Hide sender name (if available)"
+msgstr "Ukryj nazwę nadawcy (jeśli dostępne)"
+
+#: source\gui\dialogs.py:2523
+msgid "Remove caption"
+msgstr "Usuń podpis"
+
+#: source\gui\dialogs.py:2534 source\gui\dialogs.py:2632
+msgid "Forward in this chat"
+msgstr "Przekaż w tym czacie"
+
+#: source\gui\dialogs.py:2630
+#, python-brace-format
+msgid "Forward in {count} chat"
+msgid_plural "Forward in {count} chats"
+msgstr[0] "Przekaż do {count} czatu"
+msgstr[1] "Przekaż do {count} czatów"
+msgstr[2] "Przekaż do {count} czatów"
+
+#: source\gui\dialogs.py:2771 source\gui\login.py:78
+#: source\gui\settings.py:1198
+msgid "Add..."
+msgstr "Dodaj..."
+
+#: source\gui\dialogs.py:2785
+msgid "Properties"
+msgstr "Właściwości"
+
+#: source\gui\dialogs.py:2821
+msgid "Send without compression"
+msgstr "Wyślij bez kompresji"
+
+#: source\gui\dialogs.py:2883
+msgid "Attach files"
+msgstr "Załącz pliki"
+
+#: source\gui\dialogs.py:3135
+msgid "Service notification"
+msgstr "Powiadomienie serwisowe"
+
+#: source\gui\dialogs.py:3144 source\gui\dialogs.py:3453
+msgid "Log out"
+msgstr "Wyloguj"
+
+#: source\gui\dialogs.py:3179 source\gui\dialogs.py:3403
+msgid "Change personal information"
+msgstr "Zmień dane osobowe"
+
+#: source\gui\dialogs.py:3185
+msgid "Basic information"
+msgstr "Podstawowe informacje"
+
+#: source\gui\dialogs.py:3188 source\gui\dialogs.py:3375
+msgid "Your name:"
+msgstr "Twoje imię:"
+
+#: source\gui\dialogs.py:3204 source\gui\dialogs.py:3390
+msgid "Your bio:"
+msgstr "Opis profilu:"
+
+#: source\gui\dialogs.py:3213
+msgid "Birthday"
+msgstr "Urodziny"
+
+#: source\gui\dialogs.py:3216 source\gui\dialogs.py:3290
+msgid "None"
+msgstr "Brak"
+
+#: source\gui\dialogs.py:3219
+msgid "Day:"
+msgstr "Dzień:"
+
+#: source\gui\dialogs.py:3227
+msgid "Month:"
+msgstr "Miesiąc:"
+
+#: source\gui\dialogs.py:3236
+msgid "Year:"
+msgstr "Rok:"
+
+#: source\gui\dialogs.py:3308
+msgid "January"
+msgstr "Styczeń"
+
+#: source\gui\dialogs.py:3308
+msgid "February"
+msgstr "Luty"
+
+#: source\gui\dialogs.py:3308
+msgid "March"
+msgstr "Marzec"
+
+#: source\gui\dialogs.py:3308
+msgid "April"
+msgstr "Kwiecień"
+
+#: source\gui\dialogs.py:3308
+msgid "May"
+msgstr "Maj"
+
+#: source\gui\dialogs.py:3308
+msgid "June"
+msgstr "Czerwiec"
+
+#: source\gui\dialogs.py:3308
+msgid "July"
+msgstr "Lipiec"
+
+#: source\gui\dialogs.py:3308
+msgid "August"
+msgstr "Sierpień"
+
+#: source\gui\dialogs.py:3308
+msgid "September"
+msgstr "Wrzesień"
+
+#: source\gui\dialogs.py:3308
+msgid "October"
+msgstr "Październik"
+
+#: source\gui\dialogs.py:3308
+msgid "November"
+msgstr "Listopad"
+
+#: source\gui\dialogs.py:3308
+msgid "December"
+msgstr "Grudzień"
+
+#: source\gui\dialogs.py:3367 source\gui\__init__.py:267
+msgid "My profile"
+msgstr "Mój profil"
+
+#: source\gui\dialogs.py:3417 source\gui\login.py:480 source\gui\login.py:577
+msgid "Change phone number"
+msgstr "Zmień numer telefonu"
+
+#: source\gui\dialogs.py:3426
+msgid "Change personal channel"
+msgstr "Zmień kanał osobisty"
+
+#: source\gui\dialogs.py:3440
+msgid "Change User name"
+msgstr "Zmień nazwę użytkownika"
+
+#: source\gui\dialogs.py:3470
+msgid "Are you sure you want to log out of your account?"
+msgstr "Czy na pewno chcesz wylogować się z konta?"
+
+#: source\gui\dialogs.py:3496
+msgid "Feature not yet supported!"
+msgstr "Ta funkcja nie jest jeszcze obsługiwana!"
+
+#: source\gui\dialogs.py:3500
+msgid "Failed to get full profile information."
+msgstr "Nie udało się pobrać pełnych informacji o profilu."
+
+#: source\gui\dialogs.py:3551
+msgid "Topics:"
+msgstr "Tematy:"
+
+#: source\gui\dialogs.py:3619 source\gui\dialogs.py:3632
+#: source\gui\dialogs.py:4375 source\gui\dialogs.py:4411
+#: source\gui\dialogs.py:4428 source\gui\__init__.py:271
+msgid "Search"
+msgstr "Szukaj"
+
+#: source\gui\dialogs.py:3624 source\gui\dialogs.py:4362
+msgid "Search query:"
+msgstr "Zapytanie:"
+
+#: source\gui\dialogs.py:3637
+msgid "Search Results"
+msgstr "Wyniki wyszukiwania"
+
+#: source\gui\dialogs.py:3643
+msgid "Clear history"
+msgstr "Wyczyść historię"
+
+#: source\gui\dialogs.py:3726
+msgid "From your chats"
+msgstr "Z Twoich czatów"
+
+#: source\gui\dialogs.py:3737
+msgid "Global search"
+msgstr "Wyszukiwanie globalne"
+
+#: source\gui\dialogs.py:3746
+msgid "No results"
+msgstr "Brak wyników"
+
+#: source\gui\dialogs.py:3749
+msgid "An error has occurred"
+msgstr "Wystąpił błąd"
+
+#: source\gui\dialogs.py:3765
+msgid "Do you really want to clear search history?"
+msgstr "Czy na pewno chcesz wyczyścić historię wyszukiwania?"
+
+#: source\gui\dialogs.py:3788 source\gui\menu.py:589
+#: source\gui\settings.py:428
+msgid "Enable notifications"
+msgstr "Włącz powiadomienia"
+
+#: source\gui\dialogs.py:3789 source\gui\settings.py:429
+msgid "Show message previews"
+msgstr "Pokazuj podgląd wiadomości"
+
+#: source\gui\dialogs.py:3795 source\gui\settings.py:164
+#: source\gui\settings.py:336 source\gui\settings.py:435
+#: source\gui\settings.py:1268
+msgid "Apply"
+msgstr "Zastosuj"
+
+#: source\gui\dialogs.py:3830 source\gui\settings.py:937
+msgid "Notifications settings"
+msgstr "Ustawienia powiadomień"
+
+#: source\gui\dialogs.py:3844 source\gui\__init__.py:256
+msgid "Add contact"
+msgstr "Dodaj kontakt"
+
+#: source\gui\dialogs.py:3875 source\gui\proxy.py:68
+msgid "Add"
+msgstr "Dodaj"
+
+#: source\gui\dialogs.py:3930
+msgid "Call"
+msgstr "Połączenie"
+
+#: source\gui\dialogs.py:3954
+msgid "Initialization..."
+msgstr "Inicjalizacja..."
+
+#: source\gui\dialogs.py:3957
+msgid "Disable microphone"
+msgstr "Wyłącz mikrofon"
+
+#: source\gui\dialogs.py:3961 source\gui\dialogs.py:4086
+msgid "Decline"
+msgstr "Odrzuć"
+
+#: source\gui\dialogs.py:3985
+msgid "There is already an active call."
+msgstr "Trwa już aktywne połączenie."
+
+#: source\gui\dialogs.py:4021
+msgid "Ringing..."
+msgstr "Dzwonienie..."
+
+#: source\gui\dialogs.py:4029 source\gui\login.py:385 source\gui\login.py:508
+#: source\gui\login.py:607 source\gui\login.py:706 source\gui\__init__.py:1437
+msgid "Connecting..."
+msgstr "Łączenie..."
+
+#: source\gui\dialogs.py:4032 source\gui\login.py:389 source\gui\login.py:512
+#: source\gui\login.py:611 source\gui\login.py:710 source\gui\__init__.py:1441
+msgid "Connected"
+msgstr "Połączono"
+
+#: source\gui\dialogs.py:4050
+msgid "Do you really want to end the call?"
+msgstr "Czy na pewno chcesz zakończyć połączenie?"
+
+#: source\gui\dialogs.py:4050
+msgid "Warning!"
+msgstr "Ostrzeżenie!"
+
+#: source\gui\dialogs.py:4059
+msgid "Incoming call"
+msgstr "Połączenie przychodzące"
+
+#: source\gui\dialogs.py:4076
+#, python-brace-format
+msgid "Incoming call from {name}"
+msgstr "Połączenie przychodzące od {name}"
+
+#: source\gui\dialogs.py:4078
+#, python-brace-format
+msgid "Incoming call from {id}"
+msgstr "Połączenie przychodzące od {id}"
+
+#: source\gui\dialogs.py:4082
+msgid "Accept"
+msgstr "Odbierz"
+
+#: source\gui\dialogs.py:4122
+msgid "Someone has accessed your chats"
+msgstr "Ktoś uzyskał dostęp do Twoich czatów"
+
+#: source\gui\dialogs.py:4131
+#, python-brace-format
+msgid "Login to your account was detected on a new device: {device}"
+msgstr "Wykryto logowanie na Twoje konto na nowym urządzeniu: {device}"
+
+#: source\gui\dialogs.py:4136
+#, python-brace-format
+msgid "When: {date} at {time}"
+msgstr "Kiedy: {date} o {time}"
+
+#: source\gui\dialogs.py:4139
+#, python-brace-format
+msgid "Where: {location}"
+msgstr "Gdzie: {location}"
+
+#: source\gui\dialogs.py:4140
+msgid "Was it you?"
+msgstr "Czy to byłeś Ty?"
+
+#: source\gui\dialogs.py:4143
+msgid "Yes it's me."
+msgstr "Tak, to ja."
+
+#: source\gui\dialogs.py:4147
+msgid "No. Protect your account."
+msgstr "Nie. Chroń moje konto."
+
+#: source\gui\dialogs.py:4163
+msgid "Login allowed."
+msgstr "Logowanie dozwolone."
+
+#: source\gui\dialogs.py:4166 source\gui\dialogs.py:4178
+msgid "Unknown error."
+msgstr "Nieznany błąd."
+
+#: source\gui\dialogs.py:4175
+msgid "Login disallowed."
+msgstr "Logowanie zabronione."
+
+#: source\gui\dialogs.py:4185
+msgid "Contact Sorting"
+msgstr "Sortowanie kontaktów"
+
+#: source\gui\dialogs.py:4189
+msgid "Sort"
+msgstr "Sortuj"
+
+#: source\gui\dialogs.py:4189
+msgid "By name"
+msgstr "Według nazwy"
+
+#: source\gui\dialogs.py:4189
+msgid "By status"
+msgstr "Według statusu"
+
+#: source\gui\dialogs.py:4192
+msgid "Order"
+msgstr "Kolejność"
+
+#: source\gui\dialogs.py:4192
+msgid "Ascending"
+msgstr "Rosnąco"
+
+#: source\gui\dialogs.py:4192
+msgid "Descending"
+msgstr "Malejąco"
+
+#: source\gui\dialogs.py:4252
+msgid "Select a user"
+msgstr "Wybierz użytkownika"
+
+#: source\gui\dialogs.py:4282
+msgid "Users:"
+msgstr "Użytkownicy:"
+
+#: source\gui\dialogs.py:4283 source\gui\settings.py:1129
+msgid "Name"
+msgstr "Nazwa"
+
+#: source\gui\dialogs.py:4341
+msgid "Search messages"
+msgstr "Wyszukiwanie wiadomości"
+
+#: source\gui\dialogs.py:4344
+msgctxt "Messages search filter"
+msgid "Any"
+msgstr "Dowolne"
+
+#: source\gui\dialogs.py:4345
+msgctxt "Messages search filter"
+msgid "Animation"
+msgstr "Animacja"
+
+#: source\gui\dialogs.py:4346
+msgctxt "Messages search filter"
+msgid "Music"
+msgstr "Muzyka"
+
+#: source\gui\dialogs.py:4347
+msgctxt "Messages search filter"
+msgid "Files"
+msgstr "Pliki"
+
+#: source\gui\dialogs.py:4348
+msgctxt "Messages search filter"
+msgid "Photos"
+msgstr "Zdjęcia"
+
+#: source\gui\dialogs.py:4349
+msgctxt "Messages search filter"
+msgid "Polls"
+msgstr "Ankiety"
+
+#: source\gui\dialogs.py:4350
+msgctxt "Messages search filter"
+msgid "Videos"
+msgstr "Wideo"
+
+#: source\gui\dialogs.py:4351
+msgctxt "Messages search filter"
+msgid "Voice messages"
+msgstr "Wiadomości głosowe"
+
+#: source\gui\dialogs.py:4352
+msgctxt "Messages search filter"
+msgid "Photos and videos"
+msgstr "Zdjęcia i wideo"
+
+#: source\gui\dialogs.py:4353
+msgctxt "Messages search filter"
+msgid "Links"
+msgstr "Linki"
+
+#: source\gui\dialogs.py:4354
+msgctxt "Messages search filter"
+msgid "Video messages"
+msgstr "Wiadomości wideo"
+
+#: source\gui\dialogs.py:4355
+msgctxt "Messages search filter"
+msgid "Voice and video messages"
+msgstr "Wiadomości głosowe i wideo"
+
+#: source\gui\dialogs.py:4356
+msgctxt "Messages search filter"
+msgid "Failed to send"
+msgstr "Nie udało się wysłać"
+
+#: source\gui\dialogs.py:4371
+msgid "Content type"
+msgstr "Typ zawartości"
+
+#: source\gui\dialogs.py:4411
+msgid "Enter a search query or select a content type."
+msgstr "Wpisz zapytanie lub wybierz typ zawartości."
+
+#: source\gui\dialogs.py:4428
+msgid "Nothing was found."
+msgstr "Nic nie znaleziono."
+
+#: source\gui\editor.py:28
+msgid "Insert link"
+msgstr "Wstaw link"
+
+#: source\gui\editor.py:32
+msgid "Link text:"
+msgstr "Tekst linku:"
+
+#: source\gui\editor.py:40
+msgid "URL address:"
+msgstr "Adres URL:"
+
+#. standard items
+#: source\gui\editor.py:267
+msgid "&Undo"
+msgstr "&Cofnij"
+
+#: source\gui\editor.py:268
+msgid "&Redo"
+msgstr "&Ponów"
+
+#: source\gui\editor.py:270
+msgid "Cu&t"
+msgstr "Wy&tnij"
+
+#: source\gui\editor.py:271
+msgid "&Copy"
+msgstr "&Kopiuj"
+
+#: source\gui\editor.py:272
+msgid "&Paste"
+msgstr "W&klej"
+
+#: source\gui\editor.py:273 source\gui\menu.py:156 source\gui\menu.py:493
+#: source\gui\menu.py:530
+msgid "&Delete"
+msgstr "&Usuń"
+
+#: source\gui\editor.py:277
+msgid "Select &all"
+msgstr "Zaznacz &wszystko"
+
+#: source\gui\editor.py:282
+msgid "&Bold"
+msgstr "Po&grubienie"
+
+#: source\gui\editor.py:284
+msgid "&Italic"
+msgstr "&Kursywa"
+
+#: source\gui\editor.py:286
+msgid "&Strikethrough"
+msgstr "Przekre&ślenie"
+
+#: source\gui\editor.py:288
+msgid "&Monospace"
+msgstr "&Monospace"
+
+#: source\gui\editor.py:290
+msgid "S&poiler"
+msgstr "S&pojler"
+
+#: source\gui\editor.py:293
+msgid "&Link"
+msgstr "&Link"
+
+#: source\gui\editor.py:295
+msgid "&Formatting"
+msgstr "&Formatowanie"
+
+#: source\gui\editor.py:298
+msgid "C&lear"
+msgstr "Wy&czyść"
+
+#: source\gui\editor.py:327
+msgid "Cleared"
+msgstr "Wyczyszczono"
+
+#: source\gui\login.py:30
+msgid "Network configuration"
+msgstr "Konfiguracja sieci"
+
+#: source\gui\login.py:39 source\gui\settings.py:1161
+msgid "Connection"
+msgstr "Połączenie"
+
+#: source\gui\login.py:41 source\gui\settings.py:1164
+msgid "Connection Type"
+msgstr "Typ połączenia"
+
+#: source\gui\login.py:41 source\gui\settings.py:1164
+msgid "Direct connection"
+msgstr "Połączenie bezpośrednie"
+
+#: source\gui\login.py:41 source\gui\settings.py:1164
+msgid "Use system proxy settings"
+msgstr "Użyj systemowych ustawień proxy"
+
+#: source\gui\login.py:41 source\gui\settings.py:1164
+msgid "Manual proxy configuration"
+msgstr "Ręczna konfiguracja proxy"
+
+#: source\gui\login.py:49 source\gui\settings.py:1171
+msgid "Proxy servers:"
+msgstr "Serwery proxy:"
+
+#: source\gui\login.py:58 source\gui\settings.py:1178
+msgid "Enable"
+msgstr "Włącz"
+
+#: source\gui\login.py:63 source\gui\settings.py:1183
+msgid "Edit..."
+msgstr "Edytuj..."
+
+#: source\gui\login.py:68 source\gui\settings.py:1188
+msgid "Ping..."
+msgstr "Ping..."
+
+#: source\gui\login.py:89
+msgid "Ok"
+msgstr "OK"
+
+#: source\gui\login.py:109 source\gui\settings.py:1353
+msgid "Are you sure you want to delete this proxy?"
+msgstr "Czy na pewno chcesz usunąć to proxy?"
+
+#: source\gui\login.py:121 source\gui\settings.py:1362
+msgid "An error occurred while deleting the proxy."
+msgstr "Wystąpił błąd podczas usuwania proxy."
+
+#: source\gui\login.py:143 source\gui\settings.py:1302
+#, python-brace-format
+msgid "{ms} MS"
+msgstr "{ms} ms"
+
+#: source\gui\login.py:143 source\gui\settings.py:1302
+msgid "Ping"
+msgstr "Ping"
+
+#: source\gui\login.py:145 source\gui\settings.py:1304
+msgid "An error occurred while pinging the proxy."
+msgstr "Wystąpił błąd podczas sprawdzania proxy."
+
+#: source\gui\login.py:225 source\gui\settings.py:1368
+msgid "An error occurred while adding the proxy."
+msgstr "Wystąpił błąd podczas dodawania proxy."
+
+#: source\gui\login.py:255 source\gui\settings.py:1374
+msgid "An error occurred while editing the proxy."
+msgstr "Wystąpił błąd podczas edytowania proxy."
+
+#: source\gui\login.py:280 source\gui\settings.py:1663
+msgid ""
+"You have selected to use a proxy, but you have not added any proxies. Please"
+" add a proxy or select direct connection."
+msgstr ""
+"Wybrano używanie proxy, ale nie dodano żadnego serwera proxy. Dodaj proxy "
+"albo wybierz połączenie bezpośrednie."
+
+#: source\gui\login.py:284 source\gui\settings.py:1669
+msgid ""
+"You have selected to use a proxy, but you have not enabled any proxies. "
+"Please enable a proxy or select direct connection."
+msgstr ""
+"Wybrano używanie proxy, ale nie włączono żadnego serwera proxy. Włącz proxy "
+"albo wybierz połączenie bezpośrednie."
+
+#: source\gui\login.py:317
+msgid "Enter the phone number"
+msgstr "Wpisz numer telefonu"
+
+#: source\gui\login.py:327
+msgid "Country:"
+msgstr "Kraj:"
+
+#: source\gui\login.py:328
+msgid "Country"
+msgstr "Kraj"
+
+#: source\gui\login.py:344 source\gui\login.py:645
+msgid "Log in by QR Code"
+msgstr "Zaloguj kodem QR"
+
+#: source\gui\login.py:348 source\gui\login.py:670
+msgid "Connection settings..."
+msgstr "Ustawienia połączenia..."
+
+#: source\gui\login.py:352 source\gui\login.py:469 source\gui\login.py:566
+msgid "Next"
+msgstr "Dalej"
+
+#: source\gui\login.py:387 source\gui\login.py:510 source\gui\login.py:609
+#: source\gui\login.py:708 source\gui\__init__.py:1439
+msgid "Connecting to a proxy server..."
+msgstr "Łączenie z serwerem proxy..."
+
+#: source\gui\login.py:391 source\gui\login.py:514 source\gui\login.py:613
+#: source\gui\login.py:712 source\gui\__init__.py:1443
+msgid "Updating..."
+msgstr "Aktualizowanie..."
+
+#: source\gui\login.py:393 source\gui\login.py:516 source\gui\login.py:615
+#: source\gui\login.py:714 source\gui\__init__.py:1445
+msgid "Waiting for network..."
+msgstr "Oczekiwanie na sieć..."
+
+#: source\gui\login.py:430 source\gui\login.py:524 source\gui\login.py:626
+#: source\gui\login.py:752 source\gui\login.py:810
+msgid "Do you want to stop the verification process?"
+msgstr "Czy chcesz przerwać proces weryfikacji?"
+
+#: source\gui\login.py:444
+msgid "Enter confirmation code"
+msgstr "Wpisz kod potwierdzający"
+
+#: source\gui\login.py:454
+#, python-brace-format
+msgid "The code was sent to you via Telegram to {number}."
+msgstr "Kod został wysłany przez Telegram na {number}."
+
+#: source\gui\login.py:456
+#, python-brace-format
+msgid "The code was sent to you via SMS to {number}."
+msgstr "Kod został wysłany SMS-em na {number}."
+
+#: source\gui\login.py:461
+msgid "Confirmation code:"
+msgstr "Kod potwierdzający:"
+
+#: source\gui\login.py:479 source\gui\login.py:576
+msgid "Incorrect phone number?"
+msgstr "Nieprawidłowy numer telefonu?"
+
+#: source\gui\login.py:538
+msgid "Enter password"
+msgstr "Wpisz hasło"
+
+#: source\gui\login.py:546
+msgid "Password:"
+msgstr "Hasło:"
+
+#: source\gui\login.py:552
+msgid "Password hint:"
+msgstr "Podpowiedź hasła:"
+
+#: source\gui\login.py:655
+msgid ""
+"\n"
+"Instruction:\n"
+"\t\t1: Open Telegram on your phone.\n"
+"\t\t2: Go to Settings > Devices > Link Desktop Device.\n"
+"\t\t3: Point your phone at this screen to confirm login.\n"
+"\t\t"
+msgstr ""
+"\n"
+"Instrukcja:\n"
+"\t\t1: Otwórz Telegram na telefonie.\n"
+"\t\t2: Przejdź do Ustawienia > Urządzenia > Połącz urządzenie stacjonarne.\n"
+"\t\t3: Skieruj telefon na ten ekran, aby potwierdzić logowanie.\n"
+"\t\t"
+
+#: source\gui\login.py:666
+msgid "Log in by phone number"
+msgstr "Zaloguj numerem telefonu"
+
+#: source\gui\login.py:768
+msgid "Registration"
+msgstr "Rejestracja"
+
+#: source\gui\login.py:788
+msgid "Terms of service"
+msgstr "Warunki korzystania z usługi"
+
+#: source\gui\login.py:796
+msgid "Register"
+msgstr "Zarejestruj"
+
+#: source\gui\login.py:853
+#, python-brace-format
+msgid ""
+"The following phone number will be confirmed: +{code}{number}. This number "
+"is correct?"
+msgstr ""
+"Zostanie potwierdzony następujący numer telefonu: +{code}{number}. Czy ten "
+"numer jest poprawny?"
+
+#: source\gui\login.py:863
+msgid "Incorrect phone number!"
+msgstr "Nieprawidłowy numer telefonu!"
+
+#: source\gui\login.py:890
+msgid "Incorrect confirmation code!"
+msgstr "Nieprawidłowy kod potwierdzający!"
+
+#: source\gui\login.py:939
+msgid "Incorrect password!"
+msgstr "Nieprawidłowe hasło!"
+
+#: source\gui\menu.py:51
+msgid "S&how in chat"
+msgstr "Pokaż na &czacie"
+
+#: source\gui\menu.py:58
+msgid "Detailed &view\tSpace"
+msgstr "&Widok szczegółowy\tSpacja"
+
+#: source\gui\menu.py:61 source\gui\menu.py:299
+msgid "&Copy text"
+msgstr "&Kopiuj tekst"
+
+#: source\gui\menu.py:66
+msgid "Hide transcription"
+msgstr "Ukryj transkrypcję"
+
+#: source\gui\menu.py:68
+msgid "Show &transcription"
+msgstr "Pokaż &transkrypcję"
+
+#: source\gui\menu.py:72
+msgid "&Save in downloads"
+msgstr "&Zapisz w pobranych"
+
+#: source\gui\menu.py:75
+msgid "Save fi&le as..."
+msgstr "Zapisz p&lik jako..."
+
+#: source\gui\menu.py:79
+msgid "&Save VCard"
+msgstr "&Zapisz VCard"
+
+#: source\gui\menu.py:82
+msgid "Impor&t in to contacts"
+msgstr "Impor&tuj do kontaktów"
+
+#: source\gui\menu.py:88
+msgid "&Reply"
+msgstr "&Odpowiedz"
+
+#: source\gui\menu.py:92 source\gui\menu.py:325
+msgid "&Pin"
+msgstr "&Przypnij"
+
+#: source\gui\menu.py:96 source\gui\menu.py:328
+msgid "Un&pin"
+msgstr "O&depnij"
+
+#: source\gui\menu.py:101
+msgid "Go to &quoted message"
+msgstr "Przejdź do &cytowanej wiadomości"
+
+#: source\gui\menu.py:105
+#, python-brace-format
+msgid "Co&mments: {count}"
+msgstr "Ko&mentarze: {count}"
+
+#: source\gui\menu.py:109
+msgid "&Go to original message"
+msgstr "Przejdź do &oryginalnej wiadomości"
+
+#: source\gui\menu.py:113 source\gui\menu.py:526
+msgid "&Add to favorites"
+msgstr "Dodaj do &ulubionych"
+
+#: source\gui\menu.py:117 source\gui\menu.py:523
+msgid "&Forward"
+msgstr "&Przekaż"
+
+#: source\gui\menu.py:121
+msgid "Copy lin&k"
+msgstr "Kopiuj lin&k"
+
+#: source\gui\menu.py:126
+msgid "Add react&ion"
+msgstr "Dodaj &reakcję"
+
+#: source\gui\menu.py:134
+#, python-brace-format
+msgid "Remove reacti&on {r}"
+msgstr "Usuń reakc&ję {r}"
+
+#: source\gui\menu.py:138
+msgid "Open the &user profile"
+msgstr "Otwórz profil &użytkownika"
+
+#: source\gui\menu.py:148
+msgid "Open the channel &profile"
+msgstr "Otwórz &profil kanału"
+
+#: source\gui\menu.py:152
+msgid "&Edit message"
+msgstr "&Edytuj wiadomość"
+
+#: source\gui\menu.py:321
+msgid "&Open"
+msgstr "&Otwórz"
+
+#: source\gui\menu.py:332
+msgid "Mark as &read"
+msgstr "Oznacz jako p&rzeczytane"
+
+#: source\gui\menu.py:336
+msgid "Mark all &mentions as read"
+msgstr "Oznacz wszystkie &wzmianki jako przeczytane"
+
+#: source\gui\menu.py:340
+msgid "Mark all reactio&ns as read"
+msgstr "Oznacz wszystkie reakc&je jako przeczytane"
+
+#: source\gui\menu.py:344
+msgid "&View as messages"
+msgstr "Pokaż jako &wiadomości"
+
+#: source\gui\menu.py:347
+msgid "&View as topics"
+msgstr "Pokaż jako &tematy"
+
+#: source\gui\menu.py:351
+msgid "Move to &archive"
+msgstr "Przenieś do &archiwum"
+
+#: source\gui\menu.py:355
+msgid "Un&archive"
+msgstr "Przywróć z &archiwum"
+
+#: source\gui\menu.py:359
+msgid "A&bout user"
+msgstr "&O użytkowniku"
+
+#: source\gui\menu.py:363
+msgid "A&bout the channel"
+msgstr "&O kanale"
+
+#: source\gui\menu.py:367
+msgid "&Leave channel"
+msgstr "&Opuść kanał"
+
+#: source\gui\menu.py:371
+msgid "&Leave group"
+msgstr "&Opuść grupę"
+
+#: source\gui\menu.py:375
+msgid "&Clear history"
+msgstr "Wy&czyść historię"
+
+#: source\gui\menu.py:408
+msgid "Are you sure you want to leave this channel?"
+msgstr "Czy na pewno chcesz opuścić ten kanał?"
+
+#: source\gui\menu.py:408
+msgid "Leave channel"
+msgstr "Opuść kanał"
+
+#: source\gui\menu.py:412
+msgid "Are you sure you want to leave this group?"
+msgstr "Czy na pewno chcesz opuścić tę grupę?"
+
+#: source\gui\menu.py:412
+msgid "Leave group"
+msgstr "Opuść grupę"
+
+#: source\gui\menu.py:437
+msgid "&Show window"
+msgstr "P&okaż okno"
+
+#: source\gui\menu.py:440
+msgid "E&xit"
+msgstr "&Wyjdź"
+
+#: source\gui\menu.py:452 source\gui\__init__.py:165
+#: source\gui\__init__.py:508 source\gui\__init__.py:546
+#: source\gui\__init__.py:547 source\gui\__init__.py:640
+msgid "All chats"
+msgstr "Wszystkie czaty"
+
+#: source\gui\menu.py:463
+#, python-brace-format
+msgid "{title}: {count} unread chat"
+msgid_plural "{title}: {count} unread chats"
+msgstr[0] "{title}: {count} nieprzeczytany czat"
+msgstr[1] "{title}: {count} nieprzeczytane czaty"
+msgstr[2] "{title}: {count} nieprzeczytanych czatów"
+
+#: source\gui\menu.py:487
+msgid "Open &chat"
+msgstr "Otwórz &czat"
+
+#: source\gui\menu.py:490
+msgid "Contact &information"
+msgstr "&Informacje o kontakcie"
+
+#: source\gui\menu.py:550
+msgid "Delete from Favorites"
+msgstr "Usuń z ulubionych"
+
+#: source\gui\menu.py:553
+msgid "Add to Favorites"
+msgstr "Dodaj do ulubionych"
+
+#: source\gui\menu.py:590
+msgid "Disable for 30 minutes"
+msgstr "Wyłącz na 30 minut"
+
+#: source\gui\menu.py:591
+msgid "Disable for 1 hour"
+msgstr "Wyłącz na 1 godzinę"
+
+#: source\gui\menu.py:592
+msgid "Disable for 2 hours"
+msgstr "Wyłącz na 2 godziny"
+
+#: source\gui\menu.py:593
+msgid "Disable for 3 hours"
+msgstr "Wyłącz na 3 godziny"
+
+#: source\gui\menu.py:594
+msgid "Disable for 8 hours"
+msgstr "Wyłącz na 8 godzin"
+
+#: source\gui\menu.py:595
+msgid "Disable for 1 day"
+msgstr "Wyłącz na 1 dzień"
+
+#: source\gui\menu.py:596
+msgid "Disable for 2 days"
+msgstr "Wyłącz na 2 dni"
+
+#: source\gui\menu.py:597
+msgid "Disable for 3 days"
+msgstr "Wyłącz na 3 dni"
+
+#: source\gui\menu.py:598
+msgid "Disable for 4 days"
+msgstr "Wyłącz na 4 dni"
+
+#: source\gui\menu.py:599
+msgid "Disable for 1 week"
+msgstr "Wyłącz na 1 tydzień"
+
+#: source\gui\menu.py:600
+msgid "Disable for 1 month"
+msgstr "Wyłącz na 1 miesiąc"
+
+#: source\gui\menu.py:601
+msgid "Disable for 1 year"
+msgstr "Wyłącz na 1 rok"
+
+#: source\gui\menu.py:602
+msgid "Disable forever"
+msgstr "Wyłącz na zawsze"
+
+#: source\gui\menu.py:603
+msgid "Customize..."
+msgstr "Dostosuj..."
+
+#: source\gui\presentation.py:42 source\gui\presentation.py:67
+msgid "You"
+msgstr "Ty"
+
+#: source\gui\presentation.py:57
+msgid "Administrator"
+msgstr "Administrator"
+
+#: source\gui\presentation.py:59
+msgid "Owner"
+msgstr "Właściciel"
+
+#: source\gui\presentation.py:123
+msgid "Contains keyboard"
+msgstr "Zawiera klawiaturę"
+
+#: source\gui\presentation.py:129 source\gui\presentation.py:133
+#: source\gui\presentation.py:135
+#, python-brace-format
+msgid "Forwarded from {name}"
+msgstr "Przekazano od {name}"
+
+#: source\gui\presentation.py:167
+#, python-brace-format
+msgid "Received {count} reply"
+msgid_plural "Received {count} replies"
+msgstr[0] "Otrzymano {count} odpowiedź"
+msgstr[1] "Otrzymano {count} odpowiedzi"
+msgstr[2] "Otrzymano {count} odpowiedzi"
+
+#: source\gui\presentation.py:207
+#, python-brace-format
+msgid "Photo {caption}"
+msgstr "Zdjęcie {caption}"
+
+#: source\gui\presentation.py:210
+#, python-brace-format
+msgid "Gif {caption}"
+msgstr "GIF {caption}"
+
+#: source\gui\presentation.py:212
+msgid "The user is now in telegram."
+msgstr "Użytkownik jest teraz w Telegramie."
+
+#: source\gui\presentation.py:214
+msgid "Channel created."
+msgstr "Utworzono kanał."
+
+#. TRANSLATORS: This is the text of the message when the user creates a group.
+#: source\gui\presentation.py:219
+msgid "Group created"
+msgstr "Utworzono grupę"
+
+#: source\gui\presentation.py:221
+msgid "Channel photo updated"
+msgstr "Zaktualizowano zdjęcie kanału"
+
+#: source\gui\presentation.py:223
+msgid "Group photo updated"
+msgstr "Zaktualizowano zdjęcie grupy"
+
+#: source\gui\presentation.py:227
+msgid "This group has become a supergroup."
+msgstr "Ta grupa stała się supergrupą."
+
+#. TRANSLATORS: this is the message when a user has joined a group
+#: source\gui\presentation.py:232
+msgid "joined the group"
+msgstr "dołączył(a) do grupy"
+
+#. TRANSLATORS: this is the message when someone added a new user to the group
+#: source\gui\presentation.py:240
+#, python-brace-format
+msgid "added {users}"
+msgstr "dodał(a) {users}"
+
+#. TRANSLATORS: This is the message when a user leaves the group.
+#: source\gui\presentation.py:244
+msgid "left the group"
+msgstr "opuścił(a) grupę"
+
+#. TRANSLATORS: This is the message when someone has been removed from the
+#. group.
+#: source\gui\presentation.py:249
+#, python-brace-format
+msgid "removed {user}"
+msgstr "usunął/usunęła {user}"
+
+#: source\gui\presentation.py:251
+msgid "joined the group via invite link"
+msgstr "dołączył(a) do grupy przez link zaproszenia"
+
+#: source\gui\presentation.py:253
+msgid "was accepted into the group"
+msgstr "został(a) przyjęty(a) do grupy"
+
+#: source\gui\presentation.py:255
+#, python-brace-format
+msgid "Contact: {name}"
+msgstr "Kontakt: {name}"
+
+#: source\gui\presentation.py:257
+msgid "Location"
+msgstr "Lokalizacja"
+
+#: source\gui\presentation.py:262
+msgid "Pinned message"
+msgstr "Przypięta wiadomość"
+
+#: source\gui\presentation.py:266
+#, python-brace-format
+msgid "Changed the title to: {title}"
+msgstr "Zmieniono tytuł na: {title}"
+
+#: source\gui\presentation.py:268
+msgid "Expired voice message"
+msgstr "Wygasła wiadomość głosowa"
+
+#: source\gui\presentation.py:271
+msgid "Closed the topic."
+msgstr "Zamknięto temat."
+
+#: source\gui\presentation.py:273
+msgid "Opened the topic."
+msgstr "Otwarto temat."
+
+#: source\gui\presentation.py:281
+#, python-brace-format
+msgid "The topic {name} has been created"
+msgstr "Utworzono temat {name}"
+
+#: source\gui\presentation.py:284
+#, python-brace-format
+msgid "Topic name changed to {name}"
+msgstr "Nazwa tematu zmieniona na {name}"
+
+#: source\gui\presentation.py:291
+#, python-brace-format
+msgid "Audio {title} - {performer}"
+msgstr "Audio {title} - {performer}"
+
+#: source\gui\presentation.py:307 source\gui\vdm.py:353
+msgid "Video"
+msgstr "Wideo"
+
+#: source\gui\presentation.py:323
+msgid "One-time voice message"
+msgstr "Jednorazowa wiadomość głosowa"
+
+#: source\gui\presentation.py:325
+msgid "Voice message"
+msgstr "Wiadomość głosowa"
+
+#: source\gui\presentation.py:338
+#, python-brace-format
+msgid "Caption: {text}"
+msgstr "Podpis: {text}"
+
+#: source\gui\presentation.py:342
+msgid "(listened)"
+msgstr "(odsłuchano)"
+
+#: source\gui\presentation.py:344
+msgid "(not listened)"
+msgstr "(nie odsłuchano)"
+
+#: source\gui\presentation.py:350
+msgid "Video message"
+msgstr "Wiadomość wideo"
+
+#: source\gui\presentation.py:373
+#, python-brace-format
+msgid "File {description}"
+msgstr "Plik {description}"
+
+#. default (unsupported type)
+#: source\gui\presentation.py:385
+msgid "Unsupported message type"
+msgstr "Nieobsługiwany typ wiadomości"
+
+#: source\gui\presentation.py:395
+#, python-brace-format
+msgid "Pinned message: {name}: {message}..."
+msgstr "Przypięta wiadomość: {name}: {message}..."
+
+#: source\gui\presentation.py:402 source\gui\presentation.py:411
+#: source\gui\presentation.py:419
+#, python-brace-format
+msgid "In reply to {name}: {message}..."
+msgstr "W odpowiedzi do {name}: {message}..."
+
+#: source\gui\presentation.py:440
+msgid "Bytes"
+msgstr "Bajtów"
+
+#: source\gui\presentation.py:440
+msgid "KB"
+msgstr "KB"
+
+#: source\gui\presentation.py:440
+msgid "MB"
+msgstr "MB"
+
+#: source\gui\presentation.py:440
+msgid "GB"
+msgstr "GB"
+
+#: source\gui\presentation.py:440
+msgid "TB"
+msgstr "TB"
+
+#: source\gui\presentation.py:440
+msgid "PB"
+msgstr "PB"
+
+#: source\gui\presentation.py:440
+msgid "EB"
+msgstr "EB"
+
+#: source\gui\presentation.py:440
+msgid "ZB"
+msgstr "ZB"
+
+#: source\gui\presentation.py:440
+msgid "YB"
+msgstr "YB"
+
+#: source\gui\presentation.py:446
+msgid "I don't know what to call such a big size!"
+msgstr "Nie wiem, jak nazwać tak duży rozmiar!"
+
+#: source\gui\presentation.py:477 source\objects\messages.py:1220
+#, python-brace-format
+msgid "Scheduled at {time}"
+msgstr "Zaplanowano na {time}"
+
+#: source\gui\presentation.py:479 source\objects\messages.py:1222
+#, python-brace-format
+msgid "Scheduled {date} at {time}"
+msgstr "Zaplanowano na {date} o {time}"
+
+#: source\gui\presentation.py:481
+msgid "Send when online."
+msgstr "Wyślij, gdy będzie online."
+
+#: source\gui\presentation.py:483 source\objects\messages.py:1224
+#, python-brace-format
+msgid "Sent at {time}"
+msgstr "Wysłano o {time}"
+
+#: source\gui\presentation.py:485 source\objects\messages.py:1226
+#, python-brace-format
+msgid "Sent {date} at {time}"
+msgstr "Wysłano {date} o {time}"
+
+#: source\gui\presentation.py:487 source\objects\messages.py:1228
+#, python-brace-format
+msgid "Sending... at {time}"
+msgstr "Wysyłanie... o {time}"
+
+#: source\gui\presentation.py:489 source\objects\messages.py:1230
+#, python-brace-format
+msgid "Sending... {date} at {time}"
+msgstr "Wysyłanie... {date} o {time}"
+
+#: source\gui\presentation.py:491
+#, python-brace-format
+msgid "Sending failed. at {time}"
+msgstr "Wysyłanie nie powiodło się o {time}"
+
+#: source\gui\presentation.py:493
+#, python-brace-format
+msgid "Sending failed. {date} at {time}"
+msgstr "Wysyłanie nie powiodło się {date} o {time}"
+
+#: source\gui\presentation.py:495 source\objects\messages.py:1232
+#, python-brace-format
+msgid "Received at {time}"
+msgstr "Odebrano o {time}"
+
+#: source\gui\presentation.py:497 source\objects\messages.py:1234
+#, python-brace-format
+msgid "Received {date} at {time}"
+msgstr "Odebrano {date} o {time}"
+
+#: source\gui\presentation.py:515
+#, python-brace-format
+msgid "Custom emoji: {c}"
+msgstr "Niestandardowe emoji: {c}"
+
+#: source\gui\presentation.py:517
+#, python-brace-format
+msgid "Reaction paid: {c}"
+msgstr "Płatna reakcja: {c}"
+
+#: source\gui\presentation.py:519
+#, python-brace-format
+msgid "Unknown reaction: {c}"
+msgstr "Nieznana reakcja: {c}"
+
+#: source\gui\presentation.py:539
+#, python-brace-format
+msgid "Reactions: {reactions}"
+msgstr "Reakcje: {reactions}"
+
+#: source\gui\presentation.py:645
+#, python-brace-format
+msgid "Changed at {time}"
+msgstr "Zmieniono o {time}"
+
+#: source\gui\presentation.py:647
+#, python-brace-format
+msgid "Changed {date} at {time}"
+msgstr "Zmieniono {date} o {time}"
+
+#: source\gui\presentation.py:672
+msgid "Transcription error"
+msgstr "Błąd transkrypcji"
+
+#: source\gui\presentation.py:674
+msgid "Recognition in progress..."
+msgstr "Trwa rozpoznawanie..."
+
+#: source\gui\presentation.py:702
+#, python-brace-format
+msgid "{0} hour"
+msgid_plural "{0} hours"
+msgstr[0] "{0} godzina"
+msgstr[1] "{0} godziny"
+msgstr[2] "{0} godzin"
+
+#: source\gui\presentation.py:703
+#, python-brace-format
+msgid "{0} minute"
+msgid_plural "{0} minutes"
+msgstr[0] "{0} minuta"
+msgstr[1] "{0} minuty"
+msgstr[2] "{0} minut"
+
+#: source\gui\presentation.py:709
+#, python-brace-format
+msgid "{0} second"
+msgid_plural "{0} seconds"
+msgstr[0] "{0} sekunda"
+msgstr[1] "{0} sekundy"
+msgstr[2] "{0} sekund"
+
+#: source\gui\presentation.py:786
+#, python-brace-format
+msgid "{count} hour"
+msgid_plural "{count} hours"
+msgstr[0] "{count} godzina"
+msgstr[1] "{count} godziny"
+msgstr[2] "{count} godzin"
+
+#: source\gui\presentation.py:788
+#, python-brace-format
+msgid "{count} minute"
+msgid_plural "{count} minutes"
+msgstr[0] "{count} minuta"
+msgstr[1] "{count} minuty"
+msgstr[2] "{count} minut"
+
+#: source\gui\presentation.py:790
+#, python-brace-format
+msgid "{count} second"
+msgid_plural "{count} seconds"
+msgstr[0] "{count} sekunda"
+msgstr[1] "{count} sekundy"
+msgstr[2] "{count} sekund"
+
+#: source\gui\proxy.py:12
+msgid "Add proxy"
+msgstr "Dodaj proxy"
+
+#: source\gui\proxy.py:18
+msgid "Enable proxy"
+msgstr "Włącz proxy"
+
+#: source\gui\proxy.py:21
+msgid "Proxy server:"
+msgstr "Serwer proxy:"
+
+#: source\gui\proxy.py:25
+msgid "Port:"
+msgstr "Port:"
+
+#: source\gui\proxy.py:29
+msgid "Proxy type"
+msgstr "Typ proxy"
+
+#: source\gui\proxy.py:35
+msgid "MTProto secret:"
+msgstr "Klucz MTProto:"
+
+#: source\gui\proxy.py:42
+msgid "Socks5 username (optional):"
+msgstr "Nazwa użytkownika Socks5 (opcjonalnie):"
+
+#: source\gui\proxy.py:46
+msgid "Socks5 password (optional):"
+msgstr "Hasło Socks5 (opcjonalnie):"
+
+#: source\gui\proxy.py:54
+msgid "Http username (optional):"
+msgstr "Nazwa użytkownika HTTP (opcjonalnie):"
+
+#: source\gui\proxy.py:58
+msgid "Http password (optional):"
+msgstr "Hasło HTTP (opcjonalnie):"
+
+#: source\gui\proxy.py:138
+msgid "Enter server"
+msgstr "Wpisz serwer"
+
+#: source\gui\proxy.py:142
+msgid "Enter port"
+msgstr "Wpisz port"
+
+#: source\gui\proxy.py:147
+msgid "Port must be a number"
+msgstr "Port musi być liczbą"
+
+#: source\gui\proxy.py:150
+msgid "Port must be 1–65535"
+msgstr "Port musi być w zakresie 1–65535"
+
+#: source\gui\proxy.py:156
+msgid "Please enter MTProto secret"
+msgstr "Wpisz klucz MTProto"
+
+#: source\gui\proxy.py:171
+msgid "Please select a proxy type"
+msgstr "Wybierz typ proxy"
+
+#: source\gui\proxy.py:207
+msgid "Edit proxy"
+msgstr "Edytuj proxy"
+
+#: source\gui\settings.py:78
+msgid "Microphone parameters"
+msgstr "Parametry mikrofonu"
+
+#: source\gui\settings.py:82
+msgid "These settings apply only when recording voice messages."
+msgstr "Te ustawienia dotyczą tylko nagrywania wiadomości głosowych."
+
+#: source\gui\settings.py:84
+msgid "Disable stereo (if your microphone outputs to one channel only)"
+msgstr "Wyłącz stereo (jeśli mikrofon wysyła sygnał tylko na jeden kanał)"
+
+#: source\gui\settings.py:90
+msgid "Gain"
+msgstr "Wzmocnienie"
+
+#: source\gui\settings.py:97
+msgid "Microphone processing"
+msgstr "Przetwarzanie mikrofonu"
+
+#: source\gui\settings.py:99
+msgid "Noise suppression"
+msgstr "Tłumienie szumu"
+
+#: source\gui\settings.py:106
+msgid "Suppression level"
+msgstr "Poziom tłumienia"
+
+#: source\gui\settings.py:113
+msgid "Automatic gain control"
+msgstr "Automatyczna kontrola wzmocnienia"
+
+#: source\gui\settings.py:122
+msgid "Target level"
+msgstr "Poziom docelowy"
+
+#: source\gui\settings.py:132
+msgid "Attack"
+msgstr "Atak"
+
+#: source\gui\settings.py:142
+msgid "Release"
+msgstr "Powrót"
+
+#: source\gui\settings.py:152
+msgid "Maximum gain"
+msgstr "Maksymalne wzmocnienie"
+
+#: source\gui\settings.py:258 source\gui\settings.py:1136
+msgid "Storage settings"
+msgstr "Ustawienia pamięci"
+
+#: source\gui\settings.py:265 source\gui\settings.py:1004
+#: source\gui\settings.py:1042 source\gui\vdm.py:521
+msgid "Never"
+msgstr "Nigdy"
+
+#: source\gui\settings.py:266
+msgid "1 day"
+msgstr "1 dzień"
+
+#: source\gui\settings.py:267
+msgid "1 week"
+msgstr "1 tydzień"
+
+#: source\gui\settings.py:268
+msgid "1 month"
+msgstr "1 miesiąc"
+
+#: source\gui\settings.py:269
+msgid "1 year"
+msgstr "1 rok"
+
+#: source\gui\settings.py:281
+msgid "No limit"
+msgstr "Bez limitu"
+
+#: source\gui\settings.py:282
+msgid "100 MB"
+msgstr "100 MB"
+
+#: source\gui\settings.py:283
+msgid "200 MB"
+msgstr "200 MB"
+
+#: source\gui\settings.py:284
+msgid "500 MB"
+msgstr "500 MB"
+
+#: source\gui\settings.py:285
+msgid "1 GB"
+msgstr "1 GB"
+
+#: source\gui\settings.py:286
+msgid "2 GB"
+msgstr "2 GB"
+
+#: source\gui\settings.py:287
+msgid "5 GB"
+msgstr "5 GB"
+
+#: source\gui\settings.py:288
+msgid "10 GB"
+msgstr "10 GB"
+
+#: source\gui\settings.py:289
+msgid "20 GB"
+msgstr "20 GB"
+
+#: source\gui\settings.py:290
+msgid "50 GB"
+msgstr "50 GB"
+
+#: source\gui\settings.py:310
+msgid "Auto-remove cached media"
+msgstr "Automatycznie usuwaj multimedia z pamięci podręcznej"
+
+#: source\gui\settings.py:311
+msgid ""
+"Photos, videos and other files from cloud chats that you have not accessed "
+"during this period will be removed from this device to save disk space."
+msgstr ""
+"Zdjęcia, wideo i inne pliki z czatów w chmurze, których nie otwierano w tym "
+"okresie, zostaną usunięte z tego urządzenia, aby oszczędzić miejsce na "
+"dysku."
+
+#: source\gui\settings.py:313
+msgid "Personal chats: unknown"
+msgstr "Czaty prywatne: nieznane"
+
+#: source\gui\settings.py:317
+msgid "Groups: unknown"
+msgstr "Grupy: nieznane"
+
+#: source\gui\settings.py:321
+msgid "Channels: unknown"
+msgstr "Kanały: nieznane"
+
+#: source\gui\settings.py:326
+msgid "Maximum cache size"
+msgstr "Maksymalny rozmiar pamięci podręcznej"
+
+#: source\gui\settings.py:327
+msgid ""
+"If your cache size exceeds this limit, the oldest unused media will be "
+"removed from the device."
+msgstr ""
+"Jeśli rozmiar pamięci podręcznej przekroczy ten limit, najstarsze nieużywane"
+" multimedia zostaną usunięte z urządzenia."
+
+#: source\gui\settings.py:355 source\gui\settings.py:380
+#, python-brace-format
+msgid "Personal chats: {time}"
+msgstr "Czaty prywatne: {time}"
+
+#: source\gui\settings.py:361 source\gui\settings.py:386
+#, python-brace-format
+msgid "Groups: {time}"
+msgstr "Grupy: {time}"
+
+#: source\gui\settings.py:367 source\gui\settings.py:392
+#, python-brace-format
+msgid "Channels: {time}"
+msgstr "Kanały: {time}"
+
+#: source\gui\settings.py:477
+msgid "Groups notification settings"
+msgstr "Ustawienia powiadomień grup"
+
+#: source\gui\settings.py:485
+msgid "Channels notification settings"
+msgstr "Ustawienia powiadomień kanałów"
+
+#: source\gui\settings.py:493
+msgid "Private chats notification settings"
+msgstr "Ustawienia powiadomień czatów prywatnych"
+
+#: source\gui\settings.py:501
+#, python-brace-format
+msgid "{program} preferences"
+msgstr "Preferencje {program}"
+
+#: source\gui\settings.py:517
+msgid "General settings"
+msgstr "Ustawienia ogólne"
+
+#: source\gui\settings.py:521
+msgid "Interface"
+msgstr "Interfejs"
+
+#: source\gui\settings.py:526
+msgid "Default"
+msgstr "Domyślne"
+
+#: source\gui\settings.py:534
+msgid "Language (Restart required):"
+msgstr "Język (wymagany restart):"
+
+#: source\gui\settings.py:544
+msgid "Minimize on tray instead of exit"
+msgstr "Minimalizuj do zasobnika zamiast zamykać"
+
+#: source\gui\settings.py:548
+msgid "Confirmation before closing"
+msgstr "Potwierdzenie przed zamknięciem"
+
+#: source\gui\settings.py:552
+msgid "Close windows by pressing the ESCAPE key"
+msgstr "Zamykaj okna klawiszem ESCAPE"
+
+#: source\gui\settings.py:556
+msgid "Open window after download completes"
+msgstr "Otwieraj okno po zakończeniu pobierania"
+
+#: source\gui\settings.py:562
+msgid "Downloads"
+msgstr "Pobrane"
+
+#: source\gui\settings.py:565
+msgid "Path to save files:"
+msgstr "Ścieżka zapisu plików:"
+
+#: source\gui\settings.py:585
+msgid "Default path"
+msgstr "Domyślna ścieżka"
+
+#: source\gui\settings.py:591
+msgid "Logging"
+msgstr "Rejestrowanie"
+
+#: source\gui\settings.py:593
+msgid "Enable logging (restart required)"
+msgstr "Włącz rejestrowanie (wymagany restart)"
+
+#. TRANSLATORS: This is a logging option.
+#: source\gui\settings.py:598
+msgid "Infos"
+msgstr "Informacje"
+
+#: source\gui\settings.py:598
+msgid "Warnings"
+msgstr "Ostrzeżenia"
+
+#: source\gui\settings.py:598
+msgid "Errors"
+msgstr "Błędy"
+
+#: source\gui\settings.py:598
+msgid "Debug"
+msgstr "Debugowanie"
+
+#: source\gui\settings.py:602
+msgid "Logging level:"
+msgstr "Poziom rejestrowania:"
+
+#: source\gui\settings.py:608
+msgid "Flush log on startup"
+msgstr "Czyść dziennik przy starcie"
+
+#: source\gui\settings.py:612
+msgid "Log rotation"
+msgstr "Rotacja dziennika"
+
+#: source\gui\settings.py:621
+msgid "View settings"
+msgstr "Ustawienia widoku"
+
+#: source\gui\settings.py:625
+msgid "Display Format"
+msgstr "Format wyświetlania"
+
+#: source\gui\settings.py:631
+#, python-brace-format
+msgid "24-hour short ({example})"
+msgstr "24-godzinny krótki ({example})"
+
+#: source\gui\settings.py:632
+#, python-brace-format
+msgid "24-hour detailed ({example})"
+msgstr "24-godzinny szczegółowy ({example})"
+
+#: source\gui\settings.py:633
+#, python-brace-format
+msgid "12-hour ({example})"
+msgstr "12-godzinny ({example})"
+
+#: source\gui\settings.py:636
+msgid "Time format"
+msgstr "Format czasu"
+
+#: source\gui\settings.py:645
+#, python-brace-format
+msgid "Digital ({example})"
+msgstr "Cyfrowy ({example})"
+
+#: source\gui\settings.py:646
+#, python-brace-format
+msgid "Text ({example})"
+msgstr "Tekstowy ({example})"
+
+#: source\gui\settings.py:649
+msgid "Duration format"
+msgstr "Format czasu trwania"
+
+#: source\gui\settings.py:659
+msgid "Chat list"
+msgstr "Lista czatów"
+
+#: source\gui\settings.py:661
+msgid "Show time after message text"
+msgstr "Pokazuj czas po tekście wiadomości"
+
+#: source\gui\settings.py:666
+msgid "Mark chats without notifications"
+msgstr "Oznaczaj czaty bez powiadomień"
+
+#: source\gui\settings.py:673 source\gui\settings.py:705
+msgid "Chat window"
+msgstr "Okno czatu"
+
+#: source\gui\settings.py:675
+msgid "Display the \"Send\" button after the message input field"
+msgstr "Pokazuj przycisk „Wyślij” za polem wprowadzania wiadomości"
+
+#: source\gui\settings.py:681
+msgid "List of messages"
+msgstr "Lista wiadomości"
+
+#: source\gui\settings.py:683
+msgid "Show names in private chats"
+msgstr "Pokazuj nazwy w czatach prywatnych"
+
+#: source\gui\settings.py:687
+msgid "Show reading information before message text"
+msgstr "Pokazuj informacje o odczytaniu przed tekstem wiadomości"
+
+#: source\gui\settings.py:691
+msgid "Show the time after the caption (For Audio, video, and voice messages)"
+msgstr "Pokazuj czas po podpisie (dla audio, wideo i wiadomości głosowych)"
+
+#: source\gui\settings.py:701
+msgid "Behavior settings"
+msgstr "Ustawienia zachowania"
+
+#: source\gui\settings.py:707
+msgid "Break up long messages"
+msgstr "Dziel długie wiadomości"
+
+#: source\gui\settings.py:712
+msgid "Focus input field when typing in message list"
+msgstr "Ustawiaj fokus w polu wpisywania podczas pisania na liście wiadomości"
+
+#: source\gui\settings.py:717
+msgid ""
+"Automatically reply to the message under the cursor when moving to the "
+"message input field"
+msgstr ""
+"Automatycznie odpowiadaj na wiadomość pod kursorem po przejściu do pola "
+"wpisywania wiadomości"
+
+#: source\gui\settings.py:729
+msgid "Keyboard settings"
+msgstr "Ustawienia klawiatury"
+
+#: source\gui\settings.py:733
+msgid "Multimedia keys"
+msgstr "Klawisze multimedialne"
+
+#: source\gui\settings.py:735
+msgid "Handle multimedia keys"
+msgstr "Obsługuj klawisze multimedialne"
+
+#: source\gui\settings.py:743
+msgid "Multimedia keys:"
+msgstr "Klawisze multimedialne:"
+
+#: source\gui\settings.py:770
+msgid "chats settings"
+msgstr "ustawienia czatów"
+
+#: source\gui\settings.py:774
+msgid "Send messages by pressing enter"
+msgstr "Wysyłaj wiadomości klawiszem Enter"
+
+#: source\gui\settings.py:778
+msgid "Sequentially play voice messages and audio files in chats"
+msgstr "Odtwarzaj kolejno wiadomości głosowe i pliki audio w czatach"
+
+#: source\gui\settings.py:782
+msgid "Automatically start recording a voice message"
+msgstr "Automatycznie rozpoczynaj nagrywanie wiadomości głosowej"
+
+#: source\gui\settings.py:786
+msgid "Show emoji button"
+msgstr "Pokazuj przycisk emoji"
+
+#: source\gui\settings.py:790
+msgid ""
+"Disable Markdown markup (if there are issues with the messages being sent)"
+msgstr ""
+"Wyłącz formatowanie Markdown (jeśli są problemy z wysyłanymi wiadomościami)"
+
+#: source\gui\settings.py:794
+msgid "Don't show dialog box \"Message scheduled\""
+msgstr "Nie pokazuj okna dialogowego „Wiadomość zaplanowana”"
+
+#: source\gui\settings.py:798
+msgid "Use new search style in chat and message lists"
+msgstr "Używaj nowego stylu wyszukiwania na listach czatów i wiadomości"
+
+#: source\gui\settings.py:803
+msgid "Trim long messages (1 - 4096 characters, 0 - do not trim):"
+msgstr "Przycinaj długie wiadomości (1 - 4096 znaków, 0 - nie przycinaj):"
+
+#. TRANSLATORS: this is an option when selecting the quality of voice
+#. messages.
+#: source\gui\settings.py:814
+msgid "Auto (optimal: approximately 800 KB/Min)"
+msgstr "Auto (optymalnie: około 800 KB/min)"
+
+#. TRANSLATORS: this is an option when selecting the quality of voice
+#. messages.
+#: source\gui\settings.py:816
+msgid "Very high (approximately 2 MB/Min)"
+msgstr "Bardzo wysoka (około 2 MB/min)"
+
+#. TRANSLATORS: this is an option when selecting the quality of voice
+#. messages.
+#: source\gui\settings.py:818
+msgid "High (approximately 1.3 MB/Min)"
+msgstr "Wysoka (około 1,3 MB/min)"
+
+#. TRANSLATORS: this is an option when selecting the quality of voice
+#. messages.
+#: source\gui\settings.py:820
+msgid "Medium (approximately 800 KB/Min)"
+msgstr "Średnia (około 800 KB/min)"
+
+#. TRANSLATORS: this is an option when selecting the quality of voice
+#. messages.
+#: source\gui\settings.py:822
+msgid "Low (approximately 440 KB/Min)"
+msgstr "Niska (około 440 KB/min)"
+
+#. TRANSLATORS: this is an option when selecting the quality of voice
+#. messages.
+#: source\gui\settings.py:824
+msgid "Very low (approximately 290 KB/Min)"
+msgstr "Bardzo niska (około 290 KB/min)"
+
+#: source\gui\settings.py:828
+msgid "Voice message quality:"
+msgstr "Jakość wiadomości głosowych:"
+
+#: source\gui\settings.py:834
+msgid "Display size for:"
+msgstr "Pokazuj rozmiar dla:"
+
+#: source\gui\settings.py:836
+msgid "Documents"
+msgstr "Dokumenty"
+
+#: source\gui\settings.py:840
+msgid "Voice messages"
+msgstr "Wiadomości głosowe"
+
+#: source\gui\settings.py:844
+msgid "Audio messages"
+msgstr "Wiadomości audio"
+
+#: source\gui\settings.py:848
+msgid "Video messages"
+msgstr "Wiadomości wideo"
+
+#: source\gui\settings.py:858
+msgid "Sound scheme settings"
+msgstr "Ustawienia schematu dźwięków"
+
+#: source\gui\settings.py:862
+msgid "Play the sounds of events"
+msgstr "Odtwarzaj dźwięki zdarzeń"
+
+#: source\gui\settings.py:868
+msgid "Events:"
+msgstr "Zdarzenia:"
+
+#: source\gui\settings.py:877
+msgid "New incoming message in open chat "
+msgstr "Nowa wiadomość przychodząca w otwartym czacie "
+
+#: source\gui\settings.py:878
+msgid "New outgoing message in open chat"
+msgstr "Nowa wiadomość wychodząca w otwartym czacie"
+
+#: source\gui\settings.py:879
+msgid "New unread message"
+msgstr "Nowa nieprzeczytana wiadomość"
+
+#: source\gui\settings.py:880 source\objects\sounds.py:27
+msgid "Record"
+msgstr "Nagrywanie"
+
+#: source\gui\settings.py:881
+msgid "Chat action"
+msgstr "Akcja na czacie"
+
+#: source\gui\settings.py:882
+msgid "Download is completed"
+msgstr "Pobieranie zakończone"
+
+#: source\gui\settings.py:883 source\objects\sounds.py:38
+msgid "Important notification"
+msgstr "Ważne powiadomienie"
+
+#: source\gui\settings.py:901
+msgid "Select sound:"
+msgstr "Wybierz dźwięk:"
+
+#: source\gui\settings.py:912
+msgid "Play this sound"
+msgstr "Odtwórz ten dźwięk"
+
+#: source\gui\settings.py:918
+msgid "Add new sound..."
+msgstr "Dodaj nowy dźwięk..."
+
+#: source\gui\settings.py:924
+msgid "Delete sound"
+msgstr "Usuń dźwięk"
+
+#: source\gui\settings.py:941
+msgid "General notification settings"
+msgstr "Ogólne ustawienia powiadomień"
+
+#: source\gui\settings.py:943
+msgid "Private chats"
+msgstr "Czaty prywatne"
+
+#: source\gui\settings.py:947
+msgid "Groups"
+msgstr "Grupy"
+
+#: source\gui\settings.py:951
+msgid "Channels"
+msgstr "Kanały"
+
+#: source\gui\settings.py:957
+msgid "Advanced notification settings"
+msgstr "Zaawansowane ustawienia powiadomień"
+
+#: source\gui\settings.py:959
+msgid ""
+"Show notifications only when the program is minimized to the system tray"
+msgstr ""
+"Pokazuj powiadomienia tylko wtedy, gdy program jest zminimalizowany do "
+"zasobnika systemowego"
+
+#: source\gui\settings.py:963
+msgid "Always show message text, ignore custom chat settings"
+msgstr ""
+"Zawsze pokazuj tekst wiadomości, ignoruj niestandardowe ustawienia czatu"
+
+#: source\gui\settings.py:973
+msgid "Speech settings"
+msgstr "Ustawienia mowy"
+
+#: source\gui\settings.py:977
+msgid "Speech module settings"
+msgstr "Ustawienia modułu mowy"
+
+#: source\gui\settings.py:979
+msgid "Enable speech"
+msgstr "Włącz mowę"
+
+#: source\gui\settings.py:983
+msgid "Allow use of Microsoft Speech API"
+msgstr "Zezwól na użycie Microsoft Speech API"
+
+#: source\gui\settings.py:987
+msgid "Prefer using the Microsoft Speech API"
+msgstr "Preferuj użycie Microsoft Speech API"
+
+#: source\gui\settings.py:991
+msgid "Always interrupt speech before new notifications"
+msgstr "Zawsze przerywaj mowę przed nowymi powiadomieniami"
+
+#: source\gui\settings.py:995
+msgid "Interrupt speaking before starting recording"
+msgstr "Przerywaj mowę przed rozpoczęciem nagrywania"
+
+#: source\gui\settings.py:1001
+msgid "Speech notifications settings"
+msgstr "Ustawienia powiadomień mową"
+
+#. TRANSLATORS: These are the options for reading notifications.
+#: source\gui\settings.py:1004 source\gui\settings.py:1042
+msgid "Always"
+msgstr "Zawsze"
+
+#: source\gui\settings.py:1004
+msgid "In the foreground"
+msgstr "Na pierwszym planie"
+
+#: source\gui\settings.py:1009
+msgid "Network Status Changes:"
+msgstr "Zmiany stanu sieci:"
+
+#: source\gui\settings.py:1017
+msgid "Incoming messages:"
+msgstr "Wiadomości przychodzące:"
+
+#: source\gui\settings.py:1025
+msgid "Outgoing messages:"
+msgstr "Wiadomości wychodzące:"
+
+#: source\gui\settings.py:1031
+msgid "Speak outgoing messages only after confirmation by the server"
+msgstr "Odczytuj wiadomości wychodzące dopiero po potwierdzeniu przez serwer"
+
+#: source\gui\settings.py:1036
+msgid "Chat actions:"
+msgstr "Akcje na czacie:"
+
+#: source\gui\settings.py:1047
+msgid "Media player:"
+msgstr "Odtwarzacz multimediów:"
+
+#: source\gui\settings.py:1059
+msgid "Devices settings"
+msgstr "Ustawienia urządzeń"
+
+#: source\gui\settings.py:1064
+msgid "Microphone:"
+msgstr "Mikrofon:"
+
+#. Add default device
+#: source\gui\settings.py:1068
+msgid "Default input device"
+msgstr "Domyślne urządzenie wejściowe"
+
+#: source\gui\settings.py:1081
+msgid "Microphone parameters..."
+msgstr "Parametry mikrofonu..."
+
+#: source\gui\settings.py:1086
+msgid "Speakers:"
+msgstr "Głośniki:"
+
+#: source\gui\settings.py:1091
+msgid "Default playback device"
+msgstr "Domyślne urządzenie odtwarzania"
+
+#: source\gui\settings.py:1121
+msgid "File storage"
+msgstr "Przechowywanie plików"
+
+#: source\gui\settings.py:1128
+msgid "Statistics:"
+msgstr "Statystyki:"
+
+#: source\gui\settings.py:1132
+msgid "Clear cache"
+msgstr "Wyczyść pamięć podręczną"
+
+#: source\gui\settings.py:1144
+msgid "Delete all cloud drafts..."
+msgstr "Usuń wszystkie wersje robocze z chmury..."
+
+#: source\gui\settings.py:1157
+msgid "Network settings"
+msgstr "Ustawienia sieci"
+
+#: source\gui\settings.py:1213 source\gui\settings.py:1245
+msgid "Troubleshooting"
+msgstr "Rozwiązywanie problemów"
+
+#: source\gui\settings.py:1217
+msgid ""
+"Allow media sound volume to be increased to 200% (may cause sound distortion"
+" above the 100% level)"
+msgstr ""
+"Zezwól na zwiększenie głośności multimediów do 200% (powyżej 100% mogą "
+"wystąpić zniekształcenia dźwięku)"
+
+#: source\gui\settings.py:1222
+msgid "Keep the cursor position in the chat list"
+msgstr "Zachowuj pozycję kursora na liście czatów"
+
+#: source\gui\settings.py:1227
+msgid "Process internal Telegram links in the app (If available)"
+msgstr "Obsługuj wewnętrzne linki Telegrama w aplikacji (jeśli dostępne)"
+
+#: source\gui\settings.py:1234
+msgid "General"
+msgstr "Ogólne"
+
+#: source\gui\settings.py:1235
+msgid "View"
+msgstr "Widok"
+
+#: source\gui\settings.py:1236
+msgid "Behavior"
+msgstr "Zachowanie"
+
+#: source\gui\settings.py:1237
+msgid "Keyboard"
+msgstr "Klawiatura"
+
+#: source\gui\settings.py:1238 source\gui\__init__.py:154
+msgid "Chats"
+msgstr "Czaty"
+
+#: source\gui\settings.py:1239
+msgid "Sounds"
+msgstr "Dźwięki"
+
+#: source\gui\settings.py:1240
+msgid "Notifications"
+msgstr "Powiadomienia"
+
+#: source\gui\settings.py:1241
+msgid "Speech"
+msgstr "Mowa"
+
+#: source\gui\settings.py:1242
+msgid "Devices"
+msgstr "Urządzenia"
+
+#: source\gui\settings.py:1243
+msgid "Storage"
+msgstr "Pamięć"
+
+#: source\gui\settings.py:1244
+msgid "Network"
+msgstr "Sieć"
+
+#: source\gui\settings.py:1461
+msgid ""
+"Are you sure you want to delete all cloud drafts? This action cannot be "
+"undone!"
+msgstr ""
+"Czy na pewno chcesz usunąć wszystkie wersje robocze z chmury? Tej akcji nie "
+"można cofnąć!"
+
+#: source\gui\settings.py:1467
+msgid "All cloud drafts have been successfully deleted."
+msgstr "Wszystkie wersje robocze z chmury zostały pomyślnie usunięte."
+
+#: source\gui\settings.py:1467
+msgid "Message"
+msgstr "Wiadomość"
+
+#: source\gui\settings.py:1469
+msgid "An error occurred while deleting cloud drafts."
+msgstr "Wystąpił błąd podczas usuwania wersji roboczych z chmury."
+
+#: source\gui\settings.py:1490
+msgid "Sound files"
+msgstr "Pliki dźwiękowe"
+
+#: source\gui\settings.py:1506
+#, python-brace-format
+msgid "A file with this name already exists: {name}"
+msgstr "Plik o tej nazwie już istnieje: {name}"
+
+#: source\gui\settings.py:1628
+#, python-brace-format
+msgid "Disk usage: {size}, {count} file"
+msgid_plural "Disk usage: {size}, {count} files"
+msgstr[0] "Użycie dysku: {size}, {count} plik"
+msgstr[1] "Użycie dysku: {size}, {count} pliki"
+msgstr[2] "Użycie dysku: {size}, {count} plików"
+
+#: source\gui\settings.py:1635
+msgid ""
+"Are you sure you want to clear storage? After this, all local copies of "
+"files from the cache will be deleted. Your search queries will also be "
+"cleared. This action cannot be undone!"
+msgstr ""
+"Czy na pewno chcesz wyczyścić pamięć? Zostaną usunięte wszystkie lokalne "
+"kopie plików z pamięci podręcznej. Zostaną także wyczyszczone zapytania "
+"wyszukiwania. Tej akcji nie można cofnąć!"
+
+#: source\gui\settings.py:1826
+msgid ""
+"To apply some settings, it is required to reboot Easygram. Do you want to "
+"reboot Easygram right now?"
+msgstr ""
+"Aby zastosować niektóre ustawienia, wymagane jest ponowne uruchomienie "
+"Easygram. Czy uruchomić Easygram ponownie teraz?"
+
+#: source\gui\settings.py:1826
+msgid "Restart is required"
+msgstr "Wymagany restart"
+
+#: source\gui\vdm.py:191 source\gui\VListBox\Model.py:187
+msgid "Seen"
+msgstr "Przeczytane"
+
+#: source\gui\vdm.py:193 source\gui\VListBox\Model.py:189
+#: source\gui\VListBox\Model.py:191
+msgid "Not seen"
+msgstr "Nieprzeczytane"
+
+#: source\gui\vdm.py:196 source\gui\VListBox\Model.py:194
+#: source\mediaPlayer\player.py:250
+msgid "Playing"
+msgstr "Odtwarzanie"
+
+#: source\gui\vdm.py:198 source\gui\VListBox\Model.py:196
+msgid "Paused"
+msgstr "Wstrzymane"
+
+#: source\gui\vdm.py:200 source\gui\VListBox\Model.py:198
+msgid "Stopped"
+msgstr "Zatrzymane"
+
+#: source\gui\vdm.py:202 source\gui\VListBox\Model.py:200
+msgid "Played"
+msgstr "Odtworzono"
+
+#: source\gui\vdm.py:204 source\gui\VListBox\Model.py:202
+msgid "Loading"
+msgstr "Ładowanie"
+
+#: source\gui\vdm.py:207 source\gui\VListBox\Model.py:205
+msgid "Pinned"
+msgstr "Przypięte"
+
+#: source\gui\vdm.py:229 source\gui\vdm.py:311 source\gui\vdm.py:439
+#, python-brace-format
+msgid "{name} (channel)"
+msgstr "{name} (kanał)"
+
+#: source\gui\vdm.py:231 source\gui\vdm.py:313 source\gui\vdm.py:441
+#, python-brace-format
+msgid "{name} (group)"
+msgstr "{name} (grupa)"
+
+#: source\gui\vdm.py:236 source\gui\vdm.py:318 source\gui\vdm.py:446
+#, python-brace-format
+msgid "{name} (bot)"
+msgstr "{name} (bot)"
+
+#: source\gui\vdm.py:245 source\gui\vdm.py:324 source\gui\vdm.py:451
+#, python-brace-format
+msgid "{title} (online)"
+msgstr "{title} (online)"
+
+#: source\gui\vdm.py:252 source\gui\vdm.py:331 source\gui\vdm.py:365
+msgid "(pinned)"
+msgstr "(przypięte)"
+
+#: source\gui\vdm.py:257
+msgid "Muted"
+msgstr "Wyciszone"
+
+#: source\gui\vdm.py:261 source\gui\vdm.py:374 source\gui\__init__.py:1581
+#, python-brace-format
+msgid "{count} unread message"
+msgid_plural "{count} unread messages"
+msgstr[0] "{count} nieprzeczytana wiadomość"
+msgstr[1] "{count} nieprzeczytane wiadomości"
+msgstr[2] "{count} nieprzeczytanych wiadomości"
+
+#: source\gui\vdm.py:264 source\gui\vdm.py:377
+#, python-brace-format
+msgid "{count} mention"
+msgid_plural "{count} mentions"
+msgstr[0] "{count} wzmianka"
+msgstr[1] "{count} wzmianki"
+msgstr[2] "{count} wzmianek"
+
+#: source\gui\vdm.py:267
+#, python-brace-format
+msgid "{count} new reaction"
+msgid_plural "{count} new reactions"
+msgstr[0] "{count} nowa reakcja"
+msgstr[1] "{count} nowe reakcje"
+msgstr[2] "{count} nowych reakcji"
+
+#: source\gui\vdm.py:334
+msgid "A choice of topic is available"
+msgstr "Dostępny jest wybór tematu"
+
+#: source\gui\vdm.py:353
+msgid "Music"
+msgstr "Muzyka"
+
+#: source\gui\vdm.py:353
+msgid "Photo"
+msgstr "Zdjęcie"
+
+#: source\gui\vdm.py:353
+msgid "Animation"
+msgstr "Animacja"
+
+#: source\gui\vdm.py:353
+msgid "Document"
+msgstr "Dokument"
+
+#: source\gui\vdm.py:368
+msgid "(General topic)"
+msgstr "(Temat ogólny)"
+
+#: source\gui\vdm.py:371
+msgid "Closed"
+msgstr "Zamknięte"
+
+#: source\gui\vdm.py:380
+msgid "New reaction"
+msgid_plural "New reactions"
+msgstr[0] "Nowa reakcja"
+msgstr[1] "Nowe reakcje"
+msgstr[2] "Nowych reakcji"
+
+#: source\gui\vdm.py:439
+#, python-brace-format
+msgid "{name} (@{username}) (channel)"
+msgstr "{name} (@{username}) (kanał)"
+
+#: source\gui\vdm.py:441
+#, python-brace-format
+msgid "{name} (@{username}) (group)"
+msgstr "{name} (@{username}) (grupa)"
+
+#: source\gui\vdm.py:446
+#, python-brace-format
+msgid "{name} (@{username}) (bot)"
+msgstr "{name} (@{username}) (bot)"
+
+#: source\gui\vdm.py:451
+#, python-brace-format
+msgid "{title} (@{username}) (online)"
+msgstr "{title} (@{username}) (online)"
+
+#: source\gui\vdm.py:453
+#, python-brace-format
+msgid "{title} (@{username})"
+msgstr "{title} (@{username})"
+
+#: source\gui\vdm.py:458
+#, python-brace-format
+msgid "{count} subscriber"
+msgid_plural "{count} subscribers"
+msgstr[0] "{count} subskrybent"
+msgstr[1] "{count} subskrybenci"
+msgstr[2] "{count} subskrybentów"
+
+#: source\gui\vdm.py:460
+#, python-brace-format
+msgid "{count} member"
+msgid_plural "{count} members"
+msgstr[0] "{count} członek"
+msgstr[1] "{count} członków"
+msgstr[2] "{count} członków"
+
+#: source\gui\vdm.py:501
+#, python-brace-format
+msgid "{server}; Port: {port}"
+msgstr "{server}; port: {port}"
+
+#: source\gui\vdm.py:509 source\gui\vdm.py:511 source\gui\vdm.py:513
+#, python-brace-format
+msgid "Type: {proxyType}"
+msgstr "Typ: {proxyType}"
+
+#: source\gui\vdm.py:519 source\gui\vdm.py:521
+#, python-brace-format
+msgid "Last used: {lastUsed}"
+msgstr "Ostatnio użyto: {lastUsed}"
+
+#: source\gui\vdm.py:524
+msgid "Enabled"
+msgstr "Włączone"
+
+#: source\gui\vdm.py:527
+#, python-brace-format
+msgid "Ping: {time} MS"
+msgstr "Ping: {time} ms"
+
+#: source\gui\__init__.py:104
+msgid "Offline"
+msgstr "Offline"
+
+#: source\gui\__init__.py:160
+msgid "Someone has accessed your chats..."
+msgstr "Ktoś uzyskał dostęp do Twoich czatów..."
+
+#: source\gui\__init__.py:173
+msgid "Loading chats..."
+msgstr "Ładowanie czatów..."
+
+#: source\gui\__init__.py:182 source\gui\__init__.py:515
+#: source\gui\__init__.py:1328
+msgid "Archive"
+msgstr "Archiwum"
+
+#: source\gui\__init__.py:187
+msgid "Mark all chats as read"
+msgstr "Oznacz wszystkie czaty jako przeczytane"
+
+#: source\gui\__init__.py:197
+#, python-brace-format
+msgid "Chats ({0})"
+msgstr "Czaty ({0})"
+
+#: source\gui\__init__.py:201
+msgid "Contacts"
+msgstr "Kontakty"
+
+#: source\gui\__init__.py:205
+msgid "Sort..."
+msgstr "Sortuj..."
+
+#: source\gui\__init__.py:263 source\gui\__init__.py:1265
+#, python-brace-format
+msgid "Contacts ({0})"
+msgstr "Kontakty ({0})"
+
+#: source\gui\__init__.py:275
+msgid "Preferences"
+msgstr "Preferencje"
+
+#: source\gui\__init__.py:407
+#, python-brace-format
+msgid "Failed to add contact: {message}"
+msgstr "Nie udało się dodać kontaktu: {message}"
+
+#: source\gui\__init__.py:417
+msgid "The contact was added successfully"
+msgstr "Kontakt został pomyślnie dodany"
+
+#: source\gui\__init__.py:418
+msgid "Success"
+msgstr "Sukces"
+
+#: source\gui\__init__.py:425
+msgid "Failed to add contact: no contacts were imported"
+msgstr "Nie udało się dodać kontaktu: nie zaimportowano kontaktów"
+
+#: source\gui\__init__.py:515 source\gui\__init__.py:1328
+#, python-brace-format
+msgid "Archive: {count} unread chat"
+msgid_plural "Archive: {count} unread chats"
+msgstr[0] "Archiwum: {count} nieprzeczytany czat"
+msgstr[1] "Archiwum: {count} nieprzeczytane czaty"
+msgstr[2] "Archiwum: {count} nieprzeczytanych czatów"
+
+#: source\gui\__init__.py:551
+msgid "Archived chats"
+msgstr "Zarchiwizowane czaty"
+
+#: source\gui\__init__.py:636
+msgid "Folder not found"
+msgstr "Nie znaleziono folderu"
+
+#: source\gui\__init__.py:655
+#, python-brace-format
+msgid "{name} folder already selected"
+msgstr "{name}: folder jest już wybrany"
+
+#: source\gui\__init__.py:655
+#, python-brace-format
+msgid "{name} ({count} unread chat) folder already selected"
+msgid_plural "{name} ({count} unread chats) folder already selected"
+msgstr[0] "{name} ({count} nieprzeczytany czat): folder jest już wybrany"
+msgstr[1] "{name} ({count} nieprzeczytane czaty): folder jest już wybrany"
+msgstr[2] "{name} ({count} nieprzeczytanych czatów): folder jest już wybrany"
+
+#: source\gui\__init__.py:659
+#, python-brace-format
+msgid "{name} folder selected"
+msgstr "{name}: folder wybrany"
+
+#: source\gui\__init__.py:659
+#, python-brace-format
+msgid "{name} ({count} unread chat) folder selected"
+msgid_plural "{name} ({count} unread chats) folder selected"
+msgstr[0] "{name} ({count} nieprzeczytany czat): folder wybrany"
+msgstr[1] "{name} ({count} nieprzeczytane czaty): folder wybrany"
+msgstr[2] "{name} ({count} nieprzeczytanych czatów): folder wybrany"
+
+#: source\gui\__init__.py:786
+#, python-brace-format
+msgid "Do you really want to delete this \"{name}\" contact?"
+msgstr "Czy na pewno chcesz usunąć kontakt „{name}”?"
+
+#: source\gui\__init__.py:1024
+msgid "Are you sure you want to close application?"
+msgstr "Czy na pewno chcesz zamknąć aplikację?"
+
+#: source\gui\__init__.py:1024
+msgid "Exit the program"
+msgstr "Zamknij program"
+
+#: source\gui\__init__.py:1090
+msgid "Loading..."
+msgstr "Ładowanie..."
+
+#: source\gui\__init__.py:1111
+msgid "Invalid verification code!"
+msgstr "Nieprawidłowy kod weryfikacyjny!"
+
+#: source\gui\__init__.py:1113
+msgid "Invalid password!"
+msgstr "Nieprawidłowe hasło!"
+
+#: source\gui\__init__.py:1120
+msgid "Authorisation Error"
+msgstr "Błąd autoryzacji"
+
+#: source\gui\__init__.py:1157
+msgid ""
+"Easygram: Someone has accessed your chats. Press Control+N to open this "
+"notification."
+msgstr ""
+"Easygram: ktoś uzyskał dostęp do Twoich czatów. Naciśnij Control+N, aby "
+"otworzyć to powiadomienie."
+
+#: source\gui\__init__.py:1201
+#, python-brace-format
+msgid "New message from {sender}: {text}"
+msgstr "Nowa wiadomość od {sender}: {text}"
+
+#: source\gui\__init__.py:1201
+#, python-brace-format
+msgid "New message from {sender}"
+msgstr "Nowa wiadomość od {sender}"
+
+#: source\gui\__init__.py:1208
+#, python-brace-format
+msgid ""
+"{count} new message from {sender}:\n"
+"{text}"
+msgid_plural ""
+"{count} new messages from {sender}:\n"
+"{text}"
+msgstr[0] ""
+"{count} nowa wiadomość od {sender}:\n"
+"{text}"
+msgstr[1] ""
+"{count} nowe wiadomości od {sender}:\n"
+"{text}"
+msgstr[2] ""
+"{count} nowych wiadomości od {sender}:\n"
+"{text}"
+
+#: source\gui\__init__.py:1208
+#, python-brace-format
+msgid "{count} new message from {sender}"
+msgid_plural "{count} new messages from {sender}"
+msgstr[0] "{count} nowa wiadomość od {sender}"
+msgstr[1] "{count} nowe wiadomości od {sender}"
+msgstr[2] "{count} nowych wiadomości od {sender}"
+
+#: source\gui\__init__.py:1218
+#, python-brace-format
+msgid "{count} new message"
+msgid_plural "{count} new messages"
+msgstr[0] "{count} nowa wiadomość"
+msgstr[1] "{count} nowe wiadomości"
+msgstr[2] "{count} nowych wiadomości"
+
+#: source\gui\__init__.py:1218
+#, python-brace-format
+msgid "from {count} chat"
+msgid_plural "from {count} chats"
+msgstr[0] "z {count} czatu"
+msgstr[1] "z {count} czatów"
+msgstr[2] "z {count} czatów"
+
+#: source\gui\__init__.py:1219
+#, python-brace-format
+msgid ""
+"{title}:\n"
+"{text}"
+msgstr ""
+"{title}:\n"
+"{text}"
+
+#: source\gui\__init__.py:1337
+msgid "Do you really want to mark all the chats on this list as read?"
+msgstr ""
+"Czy na pewno chcesz oznaczyć wszystkie czaty na tej liście jako przeczytane?"
+
+#: source\gui\__init__.py:1575
+#, python-brace-format
+msgid "Chats: {count}"
+msgstr "Czaty: {count}"
+
+#: source\gui\__init__.py:1746 source\gui\__init__.py:1748
+#: source\gui\__init__.py:1750
+#, python-brace-format
+msgid ""
+"Are you sure you want to add this proxy server to the application: Type: "
+"{type}, server: {server}, port: {port}?"
+msgstr ""
+"Czy na pewno chcesz dodać ten serwer proxy do aplikacji: typ: {type}, "
+"serwer: {server}, port: {port}?"
+
+#: source\gui\__init__.py:1752
+msgid "Unsupported proxy type"
+msgstr "Nieobsługiwany typ proxy"
+
+#: source\gui\__init__.py:1787
+msgid "Proxy server was added successfully. Do you want to enable it now?"
+msgstr "Serwer proxy został pomyślnie dodany. Czy włączyć go teraz?"
+
+#: source\gui\__init__.py:1793
+msgid "Proxy server was enabled successfully."
+msgstr "Serwer proxy został pomyślnie włączony."
+
+#: source\gui\__init__.py:1806
+msgid "Not supported in this time."
+msgstr "Obecnie nieobsługiwane."
+
+#: source\gui\__init__.py:1832
+msgid "The invitation link is invalid"
+msgstr "Link zaproszenia jest nieprawidłowy"
+
+#: source\gui\__init__.py:1842
+#, python-brace-format
+msgid ""
+"Would you like to join this group?\n"
+"Title: {title},\n"
+"Members: {members},\n"
+"Description: {description}"
+msgstr ""
+"Czy chcesz dołączyć do tej grupy?\n"
+"Tytuł: {title},\n"
+"Członkowie: {members},\n"
+"Opis: {description}"
+
+#: source\gui\__init__.py:1844
+msgid "Join this chat"
+msgstr "Dołącz do tego czatu"
+
+#: source\gui\__init__.py:1879 source\gui\__init__.py:1914
+msgid "It is not possible to open this link in the application"
+msgstr "Nie można otworzyć tego linku w aplikacji"
+
+#: source\gui\__init__.py:1887 source\gui\__init__.py:1922
+msgid "Couldn't open the link in the app!"
+msgstr "Nie udało się otworzyć linku w aplikacji!"
+
+#: source\gui\__init__.py:1902
+msgid ""
+"It is not possible to open this link in the application. Most likely you are"
+" not a member of this chat."
+msgstr ""
+"Nie można otworzyć tego linku w aplikacji. Najprawdopodobniej nie jesteś "
+"członkiem tego czatu."
+
+#: source\gui\VListBox\Accessible.py:52
+msgid "List"
+msgstr "Lista"
+
+#: source\gui\VListBox\Accessible.py:59
+msgid "Selected"
+msgstr "Wybrane"
+
+#: source\gui\VListBox\Accessible.py:59
+msgid "Not selected"
+msgstr "Niewybrane"
+
+#: source\keyboardHandler\keyboard.py:31
+msgid "Play/Pause"
+msgstr "Odtwórz/pauza"
+
+#: source\keyboardHandler\keyboard.py:32
+msgid "Mute/Unmute"
+msgstr "Wycisz/wyłącz wyciszenie"
+
+#: source\keyboardHandler\keyboard.py:33
+msgid "Volume down"
+msgstr "Zmniejsz głośność"
+
+#: source\keyboardHandler\keyboard.py:34
+msgid "Volume up"
+msgstr "Zwiększ głośność"
+
+#: source\mediaPlayer\gui.py:15
+msgid "Disabled"
+msgstr "Wyłączone"
+
+#: source\mediaPlayer\gui.py:24
+msgid "Equalizer"
+msgstr "Korektor"
+
+#: source\mediaPlayer\gui.py:69 source\mediaPlayer\gui.py:108
+#: source\mediaPlayer\__init__.py:112
+#, python-brace-format
+msgid "Time: {t}/{l}"
+msgstr "Czas: {t}/{l}"
+
+#: source\mediaPlayer\gui.py:72 source\mediaPlayer\gui.py:97
+#, python-brace-format
+msgid "Playback rate: {rate}"
+msgstr "Tempo odtwarzania: {rate}"
+
+#: source\mediaPlayer\gui.py:75
+msgid "Player control panel"
+msgstr "Panel sterowania odtwarzaczem"
+
+#: source\mediaPlayer\gui.py:100
+msgid "Media player"
+msgstr "Odtwarzacz multimediów"
+
+#: source\mediaPlayer\gui.py:190
+msgid "Audio player"
+msgstr "Odtwarzacz audio"
+
+#: source\mediaPlayer\gui.py:193 source\mediaPlayer\gui.py:198
+#, python-brace-format
+msgid "Now playing: {title} - {artist}"
+msgstr "Teraz odtwarzane: {title} - {artist}"
+
+#: source\mediaPlayer\gui.py:205
+msgid "Video player"
+msgstr "Odtwarzacz wideo"
+
+#: source\mediaPlayer\photo.py:25
+msgid "Photo viewer"
+msgstr "Przeglądarka zdjęć"
+
+#: source\mediaPlayer\photo.py:41
+msgid "Copy to clipboard"
+msgstr "Kopiuj do schowka"
+
+#: source\mediaPlayer\photo.py:61
+msgid "Copied to clipboard."
+msgstr "Skopiowano do schowka."
+
+#: source\mediaPlayer\player.py:266
+msgid "Stop"
+msgstr "Stop"
+
+#: source\mediaPlayer\player.py:271
+msgid "Pause"
+msgstr "Pauza"
+
+#: source\mediaPlayer\player.py:285 source\mediaPlayer\player.py:297
+#: source\mediaPlayer\__init__.py:43
+msgid "Nothing is playing"
+msgstr "Nic nie jest odtwarzane"
+
+#: source\mediaPlayer\player.py:293 source\mediaPlayer\player.py:305
+#, python-brace-format
+msgid "Volume {v}"
+msgstr "Głośność {v}"
+
+#: source\mediaPlayer\player.py:311
+msgid "Sound unmuted"
+msgstr "Dźwięk włączony"
+
+#: source\mediaPlayer\player.py:311
+msgid "Sound muted"
+msgstr "Dźwięk wyciszony"
+
+#: source\mediaPlayer\player.py:350 source\mediaPlayer\player.py:358
+#: source\mediaPlayer\player.py:363
+#, python-brace-format
+msgid "Playback rate {rate}"
+msgstr "Tempo odtwarzania {rate}"
+
+#: source\objects\descriptions.py:14
+msgid "Selects a contact"
+msgstr "Wybiera kontakt"
+
+#: source\objects\descriptions.py:15
+msgid "Selects location"
+msgstr "Wybiera lokalizację"
+
+#: source\objects\descriptions.py:16
+msgid "Selects a sticker"
+msgstr "Wybiera naklejkę"
+
+#: source\objects\descriptions.py:17 source\objects\descriptions.py:18
+msgid "Recording video"
+msgstr "Nagrywa wideo"
+
+#: source\objects\descriptions.py:19
+msgid "Recording voice"
+msgstr "Nagrywa wiadomość głosową"
+
+#: source\objects\descriptions.py:20
+msgid "Start playing game"
+msgstr "Rozpoczyna grę"
+
+#: source\objects\descriptions.py:21
+msgid "Typing"
+msgstr "Pisze"
+
+#: source\objects\descriptions.py:22
+msgid "Sending a file"
+msgstr "Wysyła plik"
+
+#: source\objects\descriptions.py:23
+msgid "Sending a photo"
+msgstr "Wysyłanie zdjęcia"
+
+#: source\objects\descriptions.py:24 source\objects\descriptions.py:25
+msgid "Sending a video"
+msgstr "Wysyła wideo"
+
+#: source\objects\descriptions.py:26
+msgid "Sending an audio"
+msgstr "Wysyła audio"
+
+#: source\objects\descriptions.py:27
+msgid "Watching animations"
+msgstr "Ogląda animacje"
+
+#: source\objects\messages.py:1250
+msgid "Outgoing"
+msgstr "Wychodzące"
+
+#: source\objects\messages.py:1252
+msgid "Incoming"
+msgstr "Przychodzące"
+
+#: source\objects\messages.py:1254
+msgid "Cancelled"
+msgstr "Anulowane"
+
+#: source\objects\messages.py:1256
+msgid "Missed"
+msgstr "Nieodebrane"
+
+#: source\objects\messages.py:1258
+msgid "Declined"
+msgstr "Odrzucone"
+
+#: source\objects\messages.py:1262
+msgid "video call"
+msgstr "połączenie wideo"
+
+#: source\objects\messages.py:1264
+msgid "audio call"
+msgstr "połączenie audio"
+
+#: source\objects\sounds.py:28
+msgid "Action"
+msgstr "Akcja"
+
+#: source\objects\sounds.py:29
+msgid "Foreground message"
+msgstr "Wiadomość na pierwszym planie"
+
+#: source\objects\sounds.py:30
+msgid "Background message"
+msgstr "Wiadomość w tle"
+
+#: source\objects\sounds.py:31
+msgid "Operation completed"
+msgstr "Operacja zakończona"
+
+#: source\objects\sounds.py:33
+msgid "Background message classic"
+msgstr "Klasyczna wiadomość w tle"
+
+#: source\objects\sounds.py:34
+msgid "Message notification telegram"
+msgstr "Powiadomienie o wiadomości Telegram"
+
+#: source\objects\sounds.py:35
+msgid "Incoming message telegram"
+msgstr "Wiadomość przychodząca Telegram"
+
+#: source\objects\sounds.py:36
+msgid "Outgoing message telegram"
+msgstr "Wiadomość wychodząca Telegram"
+
+#: source\objects\sounds.py:37
+msgid "Outgoing message"
+msgstr "Wiadomość wychodząca"
+
+#: source\objects\sounds.py:49
+#, python-brace-format
+msgid "{sound} (builtin)"
+msgstr "{sound} (wbudowany)"
+
+#: source\objects\sounds.py:51
+#, python-brace-format
+msgid "{sound} (user)"
+msgstr "{sound} (użytkownika)"
+
+#: source\recording\util.py:50
+msgid "Unknown device"
+msgstr "Nieznane urządzenie"
+
+#: source\td\tdjson.py:90
+msgid ""
+"A mismatch between the database version and the TDLib version was detected. "
+"Do you want to reset the database and log in again?"
+msgstr ""
+"Wykryto niezgodność między wersją bazy danych a wersją TDLib. Czy zresetować"
+" bazę danych i zalogować się ponownie?"
+
+#: source\td\tdjson.py:90
+msgid "Database error"
+msgstr "Błąd bazy danych"
