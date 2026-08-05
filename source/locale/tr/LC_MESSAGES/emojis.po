@@ -1,0 +1,5547 @@
+# Easygram localization
+# Copyright (C) 2021 - 2025 Eugene  Poplavsky
+# Copyright (C) 2022 - 2025 Peter Ivanovich
+# This file is distributed under the same license as the 'easygram' package.
+# these lines are based on CLDR 45
+msgid ""
+msgstr ""
+"Project-Id-Version: Easygram 0.40\n"
+"Language: tr\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+
+msgid "grinning face"
+msgstr "sırıtan yüz"
+
+msgid "grinning face with big eyes"
+msgstr "ağzı açık sırıtma"
+
+msgid "grinning face with smiling eyes"
+msgstr "gülen gözlerle ağzı açık sırıtma"
+
+msgid "beaming face with smiling eyes"
+msgstr "gülen gözlerle sırıtma"
+
+msgid "grinning squinting face"
+msgstr "kapalı gözlerle ağzı açık sırıtma"
+
+msgid "grinning face with sweat"
+msgstr "soğuk terli ağzı açık gülümseme"
+
+msgid "rolling on the floor laughing"
+msgstr "gülmekten yerlere yatma"
+
+msgid "face with tears of joy"
+msgstr "sevinç gözyaşları"
+
+msgid "slightly smiling face"
+msgstr "hafifçe gülümseyen yüz"
+
+msgid "upside-down face"
+msgstr "ters yüz"
+
+msgid "melting face"
+msgstr "eriyen yüz"
+
+msgid "winking face"
+msgstr "göz kırpan yüz"
+
+msgid "smiling face with smiling eyes"
+msgstr "ağzı açık gülme"
+
+msgid "smiling face with halo"
+msgstr "ışık halkalı gülümseme"
+
+msgid "smiling face with hearts"
+msgstr "3 kalpli gülümseyen yüz"
+
+msgid "smiling face with heart-eyes"
+msgstr "kalp gözlü gülümseme"
+
+msgid "star-struck"
+msgstr "yıldız çarpmış"
+
+msgid "face blowing a kiss"
+msgstr "öpücük gönderen yüz"
+
+msgid "kissing face"
+msgstr "öpen yüz"
+
+msgid "smiling face"
+msgstr "gülen yüz"
+
+msgid "kissing face with closed eyes"
+msgstr "kapalı gözlerle öpen yüz"
+
+msgid "kissing face with smiling eyes"
+msgstr "gülen gözlerle öpen yüz"
+
+msgid "smiling face with tear"
+msgstr "gözü yaşlı gülümseyen yüz"
+
+msgid "face savoring food"
+msgstr "lezzetli yiyecek beğenen yüz"
+
+msgid "face with tongue"
+msgstr "dil dışarıda"
+
+msgid "winking face with tongue"
+msgstr "dili dışarda göz kırpma"
+
+msgid "zany face"
+msgstr "çılgın surat"
+
+msgid "squinting face with tongue"
+msgstr "dil dışarıda ve gözler kapalı"
+
+msgid "money-mouth face"
+msgstr "para ağızlı yüz"
+
+msgid "smiling face with open hands"
+msgstr "kucaklayarak gülümseme"
+
+msgid "face with hand over mouth"
+msgstr "eliyle ağzını kapatan yüz"
+
+msgid "face with open eyes and hand over mouth"
+msgstr "gözleri açık ve eliyle ağzını kapatan yüz"
+
+msgid "face with peeking eye"
+msgstr "gizlice bakan yüz"
+
+msgid "shushing face"
+msgstr "sus işareti yapan yüz"
+
+msgid "thinking face"
+msgstr "düşünen yüz"
+
+msgid "saluting face"
+msgstr "selamlayan yüz"
+
+msgid "zipper-mouth face"
+msgstr "ağzı fermuarlı yüz"
+
+msgid "face with raised eyebrow"
+msgstr "tek kaşı çatık yüz"
+
+msgid "neutral face"
+msgstr "duygusuz yüz"
+
+msgid "expressionless face"
+msgstr "ifadesiz yüz"
+
+msgid "face without mouth"
+msgstr "ağzı olmayan yüz"
+
+msgid "dotted line face"
+msgstr "noktalı çizgili yüz"
+
+msgid "face in clouds"
+msgstr "bulutlardaki yüz"
+
+msgid "smirking face"
+msgstr "imalı gülümseme"
+
+msgid "unamused face"
+msgstr "keyifsiz yüz"
+
+msgid "face with rolling eyes"
+msgstr "gözlerini deviren yüz"
+
+msgid "grimacing face"
+msgstr "dişlerini gösteren yüz"
+
+msgid "face exhaling"
+msgstr "nefes veren yüz"
+
+msgid "lying face"
+msgstr "yalan söyleyen yüz"
+
+msgid "shaking face"
+msgstr "sallanan yüz"
+
+msgid "relieved face"
+msgstr "rahatlamış yüz"
+
+msgid "pensive face"
+msgstr "düşünceli yüz"
+
+msgid "sleepy face"
+msgstr "uykulu yüz"
+
+msgid "drooling face"
+msgstr "salya akıtan yüz"
+
+msgid "sleeping face"
+msgstr "uyuyan yüz"
+
+msgid "face with medical mask"
+msgstr "maskeli yüz"
+
+msgid "face with thermometer"
+msgstr "ağzında termometre olan yüz"
+
+msgid "face with head-bandage"
+msgstr "kafası sarılı yüz"
+
+msgid "nauseated face"
+msgstr "kusmak üzere olan yüz"
+
+msgid "face vomiting"
+msgstr "kusan yüz"
+
+msgid "sneezing face"
+msgstr "hapşıran yüz"
+
+msgid "hot face"
+msgstr "kızarmış yüz"
+
+msgid "cold face"
+msgstr "üşümüş yüz"
+
+msgid "woozy face"
+msgstr "sarhoş yüz"
+
+msgid "face with crossed-out eyes"
+msgstr "sersemlemiş yüz"
+
+msgid "face with spiral eyes"
+msgstr "sarmal gözlü yüz"
+
+msgid "exploding head"
+msgstr "patlayan kafa"
+
+msgid "cowboy hat face"
+msgstr "kovboy şapkalı yüz"
+
+msgid "partying face"
+msgstr "partide eğlenen yüz"
+
+msgid "disguised face"
+msgstr "gizlenmiş yüz"
+
+msgid "smiling face with sunglasses"
+msgstr "güneş gözlüklü gülümseme"
+
+msgid "nerd face"
+msgstr "ukala yüz"
+
+msgid "face with monocle"
+msgstr "tek cam gözlüklü yüz"
+
+msgid "confused face"
+msgstr "kafası karışık yüz"
+
+msgid "face with diagonal mouth"
+msgstr "yamuk ağızlı yüz"
+
+msgid "worried face"
+msgstr "endişeli yüz"
+
+msgid "slightly frowning face"
+msgstr "biraz asık surat"
+
+msgid "frowning face"
+msgstr "asık surat"
+
+msgid "face with open mouth"
+msgstr "ağzı açık yüz"
+
+msgid "hushed face"
+msgstr "şaşkın yüz"
+
+msgid "astonished face"
+msgstr "afallamış yüz"
+
+msgid "flushed face"
+msgstr "kızarmış ve şaşkın yüz"
+
+msgid "pleading face"
+msgstr "yalvaran yüz"
+
+msgid "face holding back tears"
+msgstr "gözleri dolmuş yüz"
+
+msgid "frowning face with open mouth"
+msgstr "hoşnutsuz yüz"
+
+msgid "anguished face"
+msgstr "kederli yüz"
+
+msgid "fearful face"
+msgstr "korkulu yüz"
+
+msgid "anxious face with sweat"
+msgstr "terli ve endişeli yüz"
+
+msgid "sad but relieved face"
+msgstr "üzgün ama rahatlamış yüz"
+
+msgid "crying face"
+msgstr "ağlayan yüz"
+
+msgid "loudly crying face"
+msgstr "avaz avaz ağlayan yüz"
+
+msgid "face screaming in fear"
+msgstr "korkuyla çığlık atan yüz"
+
+msgid "confounded face"
+msgstr "kafası çok karışık yüz"
+
+msgid "persevering face"
+msgstr "kararlı yüz"
+
+msgid "disappointed face"
+msgstr "memnuniyetsiz yüz"
+
+msgid "downcast face with sweat"
+msgstr "soğuk ter"
+
+msgid "weary face"
+msgstr "çok yorgun"
+
+msgid "tired face"
+msgstr "yorgun yüz"
+
+msgid "yawning face"
+msgstr "esneyen yüz"
+
+msgid "face with steam from nose"
+msgstr "burnundan soluyan yüz"
+
+msgid "enraged face"
+msgstr "somurtkan yüz"
+
+msgid "angry face"
+msgstr "öfkeli yüz"
+
+msgid "face with symbols on mouth"
+msgstr "ağzında semboller olan yüz"
+
+msgid "smiling face with horns"
+msgstr "boynuzlu gülen yüz"
+
+msgid "angry face with horns"
+msgstr "boynuzlu kızgın yüz"
+
+msgid "skull"
+msgstr "kafatası"
+
+msgid "skull and crossbones"
+msgstr "kuru kafa"
+
+msgid "pile of poo"
+msgstr "kaka"
+
+msgid "clown face"
+msgstr "palyaço yüzü"
+
+msgid "ogre"
+msgstr "dev"
+
+msgid "goblin"
+msgstr "goblin"
+
+msgid "ghost"
+msgstr "hayalet"
+
+msgid "alien"
+msgstr "uzaylı"
+
+msgid "alien monster"
+msgstr "uzaylı canavar"
+
+msgid "robot"
+msgstr "robot"
+
+msgid "grinning cat"
+msgstr "sırıtan kedi"
+
+msgid "grinning cat with smiling eyes"
+msgstr "gülen gözlerle sırıtan kedi"
+
+msgid "cat with tears of joy"
+msgstr "sevinç gözyaşları döken kedi"
+
+msgid "smiling cat with heart-eyes"
+msgstr "kalp gözlü gülümseyen kedi"
+
+msgid "cat with wry smile"
+msgstr "iğneleyici kedi yüzü"
+
+msgid "kissing cat"
+msgstr "öpen kedi"
+
+msgid "weary cat"
+msgstr "korkuyla bağıran kedi"
+
+msgid "crying cat"
+msgstr "ağlayan kedi"
+
+msgid "pouting cat"
+msgstr "somurtan kedi"
+
+msgid "see-no-evil monkey"
+msgstr "görmedim"
+
+msgid "hear-no-evil monkey"
+msgstr "duymadım"
+
+msgid "speak-no-evil monkey"
+msgstr "bilmiyorum"
+
+msgid "love letter"
+msgstr "aşk mektubu"
+
+msgid "heart with arrow"
+msgstr "ok saplanmış kalp"
+
+msgid "heart with ribbon"
+msgstr "kurdeleli kalp"
+
+msgid "sparkling heart"
+msgstr "pırıldayan kalp"
+
+msgid "growing heart"
+msgstr "büyüyen kalp"
+
+msgid "beating heart"
+msgstr "çarpan kalp"
+
+msgid "revolving hearts"
+msgstr "dönen kalpler"
+
+msgid "two hearts"
+msgstr "iki kalp"
+
+msgid "heart decoration"
+msgstr "kalpli dekorasyon"
+
+msgid "heart exclamation"
+msgstr "kalp şeklinde ünlem işareti"
+
+msgid "broken heart"
+msgstr "kırık kalp"
+
+msgid "heart on fire"
+msgstr "ateşli kalp"
+
+msgid "mending heart"
+msgstr "iyileşen kalp"
+
+msgid "red heart"
+msgstr "kırmızı kalp"
+
+msgid "pink heart"
+msgstr "pembe kalp"
+
+msgid "orange heart"
+msgstr "turuncu kalp"
+
+msgid "yellow heart"
+msgstr "sarı kalp"
+
+msgid "green heart"
+msgstr "yeşil kalp"
+
+msgid "blue heart"
+msgstr "mavi kalp"
+
+msgid "light blue heart"
+msgstr "açık mavi kalp"
+
+msgid "purple heart"
+msgstr "mor kalp"
+
+msgid "brown heart"
+msgstr "kahverengi kalp"
+
+msgid "black heart"
+msgstr "siyah kalp"
+
+msgid "grey heart"
+msgstr "gri kalp"
+
+msgid "white heart"
+msgstr "beyaz kalp"
+
+msgid "kiss mark"
+msgstr "öpücük izi"
+
+msgid "hundred points"
+msgstr "yüz puan"
+
+msgid "anger symbol"
+msgstr "öfke simgesi"
+
+msgid "collision"
+msgstr "çarpışma"
+
+msgid "dizzy"
+msgstr "baş dönmesi"
+
+msgid "sweat droplets"
+msgstr "ter damlası"
+
+msgid "dashing away"
+msgstr "hızla fırlama"
+
+msgid "hole"
+msgstr "delik"
+
+msgid "speech balloon"
+msgstr "konuşma balonu"
+
+msgid "eye in speech bubble"
+msgstr "konuşma balonunda göz"
+
+msgid "left speech bubble"
+msgstr "sol konuşma balonu"
+
+msgid "right anger bubble"
+msgstr "sağ öfke balonu"
+
+msgid "thought balloon"
+msgstr "düşünce balonu"
+
+msgid "ZZZ"
+msgstr "zzz"
+
+msgid "waving hand"
+msgstr "el sallama"
+
+msgid "raised back of hand"
+msgstr "elinin tersini kaldırma"
+
+msgid "hand with fingers splayed"
+msgstr "parmaklar açık el kaldırma"
+
+msgid "raised hand"
+msgstr "el kaldırma"
+
+msgid "vulcan salute"
+msgstr "Vulkan selamı"
+
+msgid "rightwards hand"
+msgstr "sağa bakan el"
+
+msgid "leftwards hand"
+msgstr "sola bakan el"
+
+msgid "palm down hand"
+msgstr "avuç içi aşağı bakan el"
+
+msgid "palm up hand"
+msgstr "avuç içi yukarı bakan el"
+
+msgid "leftwards pushing hand"
+msgstr "sola iten el"
+
+msgid "rightwards pushing hand"
+msgstr "sağa iten el"
+
+msgid "OK hand"
+msgstr "tamam işareti"
+
+msgid "pinched fingers"
+msgstr "kıstırma hareketi yapan parmaklar"
+
+msgid "pinching hand"
+msgstr "kıstırma hareketi yapan el"
+
+msgid "victory hand"
+msgstr "zafer işareti"
+
+msgid "crossed fingers"
+msgstr "şans dileme"
+
+msgid "hand with index finger and thumb crossed"
+msgstr "işaret parmağı ve baş parmak birbirine geçmiş el"
+
+msgid "love-you gesture"
+msgstr "seni seviyorum işareti"
+
+msgid "sign of the horns"
+msgstr "boynuz işareti"
+
+msgid "call me hand"
+msgstr "beni ara işareti"
+
+msgid "backhand index pointing left"
+msgstr "elinin tersiyle solu gösteren işaret parmağı"
+
+msgid "backhand index pointing right"
+msgstr "elinin tersiyle sağı gösteren işaret parmağı"
+
+msgid "backhand index pointing up"
+msgstr "elinin tersiyle yukarıyı gösteren işaret parmağı"
+
+msgid "middle finger"
+msgstr "orta parmak"
+
+msgid "backhand index pointing down"
+msgstr "elinin tersiyle aşağıyı gösteren işaret parmağı"
+
+msgid "index pointing up"
+msgstr "yukarıyı gösteren işaret parmağı"
+
+msgid "index pointing at the viewer"
+msgstr "karşıyı işaret eden işaret parmağı"
+
+msgid "thumbs up"
+msgstr "baş parmak yukarıda"
+
+msgid "thumbs down"
+msgstr "baş parmak aşağıda"
+
+msgid "raised fist"
+msgstr "yumruk kaldırma"
+
+msgid "oncoming fist"
+msgstr "yaklaşan yumruk"
+
+msgid "left-facing fist"
+msgstr "sola bakan yumruk"
+
+msgid "right-facing fist"
+msgstr "sağa bakan yumruk"
+
+msgid "clapping hands"
+msgstr "el çırpma"
+
+msgid "raising hands"
+msgstr "eller havaya"
+
+msgid "heart hands"
+msgstr "kalp oluşturan eller"
+
+msgid "open hands"
+msgstr "eller açık"
+
+msgid "palms up together"
+msgstr "iki avuç açık"
+
+msgid "handshake"
+msgstr "el sıkışma"
+
+msgid "folded hands"
+msgstr "birleşen eller"
+
+msgid "writing hand"
+msgstr "yazı yazan el"
+
+msgid "nail polish"
+msgstr "oje sürme"
+
+msgid "selfie"
+msgstr "selfie"
+
+msgid "flexed biceps"
+msgstr "pazı"
+
+msgid "mechanical arm"
+msgstr "mekanik kol"
+
+msgid "mechanical leg"
+msgstr "mekanik bacak"
+
+msgid "leg"
+msgstr "bacak"
+
+msgid "foot"
+msgstr "ayak"
+
+msgid "ear"
+msgstr "kulak"
+
+msgid "ear with hearing aid"
+msgstr "işitme cihazı olan kulak"
+
+msgid "nose"
+msgstr "burun"
+
+msgid "brain"
+msgstr "beyin"
+
+msgid "anatomical heart"
+msgstr "kalp"
+
+msgid "lungs"
+msgstr "akciğer"
+
+msgid "tooth"
+msgstr "diş"
+
+msgid "bone"
+msgstr "kemik"
+
+msgid "eyes"
+msgstr "gözler"
+
+msgid "eye"
+msgstr "göz"
+
+msgid "tongue"
+msgstr "dil"
+
+msgid "mouth"
+msgstr "ağız"
+
+msgid "biting lip"
+msgstr "ısırılan dudak"
+
+msgid "baby"
+msgstr "bebek"
+
+msgid "child"
+msgstr "çocuk"
+
+msgid "boy"
+msgstr "erkek çocuk"
+
+msgid "girl"
+msgstr "kız çocuk"
+
+msgid "person"
+msgstr "yetişkin"
+
+msgid "person: blond hair"
+msgstr "sarışın kişi"
+
+msgid "man"
+msgstr "erkek"
+
+msgid "person: beard"
+msgstr "sakallı kişi"
+
+msgid "man: beard"
+msgstr "erkek: sakal"
+
+msgid "man: blond hair"
+msgstr "sarışın erkek"
+
+msgid "woman"
+msgstr "kadın"
+
+msgid "woman: beard"
+msgstr "kadın: sakal"
+
+msgid "woman: blond hair"
+msgstr "sarışın kadın"
+
+msgid "older person"
+msgstr "yaşlı yetişkin"
+
+msgid "old man"
+msgstr "yaşlı erkek"
+
+msgid "old woman"
+msgstr "yaşlı kadın"
+
+msgid "person frowning"
+msgstr "somurtma"
+
+msgid "man frowning"
+msgstr "somurtan erkek"
+
+msgid "woman frowning"
+msgstr "somurtan kadın"
+
+msgid "person pouting"
+msgstr "darılma"
+
+msgid "man pouting"
+msgstr "darılan erkek"
+
+msgid "woman pouting"
+msgstr "darılan kadın"
+
+msgid "person gesturing NO"
+msgstr "hayır hareketi"
+
+msgid "man gesturing NO"
+msgstr "hayır hareketi yapan erkek"
+
+msgid "woman gesturing NO"
+msgstr "hayır hareketi yapan kadın"
+
+msgid "person gesturing OK"
+msgstr "tamam hareketi"
+
+msgid "man gesturing OK"
+msgstr "tamam hareketi yapan erkek"
+
+msgid "woman gesturing OK"
+msgstr "tamam hareketi yapan kadın"
+
+msgid "person tipping hand"
+msgstr "elini yana yatırma"
+
+msgid "man tipping hand"
+msgstr "elini yana yatıran erkek"
+
+msgid "woman tipping hand"
+msgstr "elini yana yatıran kadın"
+
+msgid "person raising hand"
+msgstr "elini kaldırma"
+
+msgid "man raising hand"
+msgstr "elini kaldıran erkek"
+
+msgid "woman raising hand"
+msgstr "elini kaldıran kadın"
+
+msgid "deaf person"
+msgstr "işitme engelli kişi"
+
+msgid "deaf man"
+msgstr "işitme engelli erkek"
+
+msgid "deaf woman"
+msgstr "işitme engelli kadın"
+
+msgid "person bowing"
+msgstr "başını öne eğme"
+
+msgid "man bowing"
+msgstr "başını öne eğen erkek"
+
+msgid "woman bowing"
+msgstr "başını öne eğen kadın"
+
+msgid "person facepalming"
+msgstr "yüzünü eliyle kapama"
+
+msgid "man facepalming"
+msgstr "eliyle yüzünü kapatan erkek"
+
+msgid "woman facepalming"
+msgstr "eliyle yüzünü kapatan kadın"
+
+msgid "person shrugging"
+msgstr "omuz silkme"
+
+msgid "man shrugging"
+msgstr "omuz silken erkek"
+
+msgid "woman shrugging"
+msgstr "omuz silken kadın"
+
+msgid "health worker"
+msgstr "sağlık çalışanı"
+
+msgid "man health worker"
+msgstr "erkek sağlık çalışanı"
+
+msgid "woman health worker"
+msgstr "kadın sağlık çalışanı"
+
+msgid "student"
+msgstr "öğrenci"
+
+msgid "man student"
+msgstr "erkek öğrenci"
+
+msgid "woman student"
+msgstr "kız öğrenci"
+
+msgid "teacher"
+msgstr "öğretmen"
+
+msgid "man teacher"
+msgstr "erkek öğretmen"
+
+msgid "woman teacher"
+msgstr "kadın öğretmen"
+
+msgid "judge"
+msgstr "hakim"
+
+msgid "man judge"
+msgstr "erkek hakim"
+
+msgid "woman judge"
+msgstr "kadın hakim"
+
+msgid "farmer"
+msgstr "çiftçi"
+
+msgid "man farmer"
+msgstr "erkek çiftçi"
+
+msgid "woman farmer"
+msgstr "kadın çiftçi"
+
+msgid "cook"
+msgstr "aşçı"
+
+msgid "man cook"
+msgstr "erkek aşçı"
+
+msgid "woman cook"
+msgstr "kadın aşçı"
+
+msgid "mechanic"
+msgstr "tamirci"
+
+msgid "man mechanic"
+msgstr "erkek tamirci"
+
+msgid "woman mechanic"
+msgstr "kadın tamirci"
+
+msgid "factory worker"
+msgstr "fabrika işçisi"
+
+msgid "man factory worker"
+msgstr "erkek fabrika işçisi"
+
+msgid "woman factory worker"
+msgstr "kadın fabrika işçisi"
+
+msgid "office worker"
+msgstr "ofis çalışanı"
+
+msgid "man office worker"
+msgstr "erkek ofis çalışanı"
+
+msgid "woman office worker"
+msgstr "kadın ofis çalışanı"
+
+msgid "scientist"
+msgstr "bilim insanı"
+
+msgid "man scientist"
+msgstr "erkek bilim insanı"
+
+msgid "woman scientist"
+msgstr "kadın bilim insanı"
+
+msgid "technologist"
+msgstr "teknoloji uzmanı"
+
+msgid "man technologist"
+msgstr "erkek teknoloji uzmanı"
+
+msgid "woman technologist"
+msgstr "kadın teknoloji uzmanı"
+
+msgid "singer"
+msgstr "şarkıcı"
+
+msgid "man singer"
+msgstr "erkek şarkıcı"
+
+msgid "woman singer"
+msgstr "kadın şarkıcı"
+
+msgid "artist"
+msgstr "ressam"
+
+msgid "man artist"
+msgstr "erkek ressam"
+
+msgid "woman artist"
+msgstr "kadın ressam"
+
+msgid "pilot"
+msgstr "pilot"
+
+msgid "man pilot"
+msgstr "erkek pilot"
+
+msgid "woman pilot"
+msgstr "kadın pilot"
+
+msgid "astronaut"
+msgstr "astronot"
+
+msgid "man astronaut"
+msgstr "erkek astronot"
+
+msgid "woman astronaut"
+msgstr "kadın astronot"
+
+msgid "firefighter"
+msgstr "itfaiyeci"
+
+msgid "man firefighter"
+msgstr "erkek itfaiyeci"
+
+msgid "woman firefighter"
+msgstr "kadın itfaiyeci"
+
+msgid "police officer"
+msgstr "polis memuru"
+
+msgid "man police officer"
+msgstr "erkek polis memuru"
+
+msgid "woman police officer"
+msgstr "kadın polis memuru"
+
+msgid "detective"
+msgstr "dedektif"
+
+msgid "man detective"
+msgstr "erkek dedektif"
+
+msgid "woman detective"
+msgstr "kadın dedektif"
+
+msgid "guard"
+msgstr "muhafız"
+
+msgid "man guard"
+msgstr "erkek muhafız"
+
+msgid "woman guard"
+msgstr "kadın muhafız"
+
+msgid "ninja"
+msgstr "ninja"
+
+msgid "construction worker"
+msgstr "inşaat işçisi"
+
+msgid "man construction worker"
+msgstr "erkek inşaat işçisi"
+
+msgid "woman construction worker"
+msgstr "kadın inşaat işçisi"
+
+msgid "person with crown"
+msgstr "taç takmış insan"
+
+msgid "prince"
+msgstr "prens"
+
+msgid "princess"
+msgstr "prenses"
+
+msgid "person wearing turban"
+msgstr "sarıklı kişi"
+
+msgid "man wearing turban"
+msgstr "sarıklı erkek"
+
+msgid "woman wearing turban"
+msgstr "sarıklı kadın"
+
+msgid "person with skullcap"
+msgstr "çin şapkalı erkek"
+
+msgid "woman with headscarf"
+msgstr "başörtülü kadın"
+
+msgid "person in tuxedo"
+msgstr "smokinli kişi"
+
+msgid "man in tuxedo"
+msgstr "smokinli erkek"
+
+msgid "woman in tuxedo"
+msgstr "smokinli kadın"
+
+msgid "person with veil"
+msgstr "duvaklı gelin"
+
+msgid "man with veil"
+msgstr "duvaklı erkek"
+
+msgid "woman with veil"
+msgstr "duvaklı kadın"
+
+msgid "pregnant woman"
+msgstr "hamile kadın"
+
+msgid "pregnant man"
+msgstr "hamile adam"
+
+msgid "pregnant person"
+msgstr "hamile kişi"
+
+msgid "breast-feeding"
+msgstr "emziren kadın"
+
+msgid "woman feeding baby"
+msgstr "bebek emziren kadın"
+
+msgid "man feeding baby"
+msgstr "bebek emziren erkek"
+
+msgid "person feeding baby"
+msgstr "bebek emziren kişi"
+
+msgid "baby angel"
+msgstr "bebek melek"
+
+msgid "Santa Claus"
+msgstr "Noel Baba"
+
+msgid "Mrs. Claus"
+msgstr "Noel Anne"
+
+msgid "mx claus"
+msgstr "cinsiyet belirtmeyen noel karakteri"
+
+msgid "superhero"
+msgstr "süper kahraman"
+
+msgid "man superhero"
+msgstr "erkek süper kahraman"
+
+msgid "woman superhero"
+msgstr "kadın süper kahraman"
+
+msgid "supervillain"
+msgstr "süper kötü"
+
+msgid "man supervillain"
+msgstr "erkek süper kötü"
+
+msgid "woman supervillain"
+msgstr "kadın süper kötü"
+
+msgid "mage"
+msgstr "büyücü"
+
+msgid "man mage"
+msgstr "erkek büyücü"
+
+msgid "woman mage"
+msgstr "kadın büyücü"
+
+msgid "fairy"
+msgstr "peri"
+
+msgid "man fairy"
+msgstr "erkek peri"
+
+msgid "woman fairy"
+msgstr "kadın peri"
+
+msgid "vampire"
+msgstr "vampir"
+
+msgid "man vampire"
+msgstr "erkek vampir"
+
+msgid "woman vampire"
+msgstr "kadın vampir"
+
+msgid "merperson"
+msgstr "balık insan"
+
+msgid "merman"
+msgstr "balık adam"
+
+msgid "mermaid"
+msgstr "denizkızı"
+
+msgid "elf"
+msgstr "elf"
+
+msgid "man elf"
+msgstr "erkek elf"
+
+msgid "woman elf"
+msgstr "kadın elf"
+
+msgid "genie"
+msgstr "cin"
+
+msgid "man genie"
+msgstr "erkek cin"
+
+msgid "woman genie"
+msgstr "kadın cin"
+
+msgid "zombie"
+msgstr "zombi"
+
+msgid "man zombie"
+msgstr "erkek zombi"
+
+msgid "woman zombie"
+msgstr "kadın zombi"
+
+msgid "troll"
+msgstr "trol"
+
+msgid "person getting massage"
+msgstr "yüz masajı"
+
+msgid "man getting massage"
+msgstr "yüz masajı yaptıran erkek"
+
+msgid "woman getting massage"
+msgstr "yüz masajı yaptıran kadın"
+
+msgid "person getting haircut"
+msgstr "saç kesimi"
+
+msgid "man getting haircut"
+msgstr "saç kestiren erkek"
+
+msgid "woman getting haircut"
+msgstr "saç kestiren kadın"
+
+msgid "person walking"
+msgstr "yürüyen kişi"
+
+msgid "man walking"
+msgstr "yürüyen erkek"
+
+msgid "woman walking"
+msgstr "yürüyen kadın"
+
+msgid "person standing"
+msgstr "ayakta duran kişi"
+
+msgid "man standing"
+msgstr "ayakta duran erkek"
+
+msgid "woman standing"
+msgstr "ayakta duran kadın"
+
+msgid "person kneeling"
+msgstr "diz çöken kişi"
+
+msgid "man kneeling"
+msgstr "diz çöken erkek"
+
+msgid "woman kneeling"
+msgstr "diz çöken kadın"
+
+msgid "person with white cane"
+msgstr "görme engelli bastonlu kişi"
+
+msgid "man with white cane"
+msgstr "görme engelli bastonlu erkek"
+
+msgid "woman with white cane"
+msgstr "görme engelli bastonlu kadın"
+
+msgid "person in motorized wheelchair"
+msgstr "elektrikli tekerlekli sandalyede kişi"
+
+msgid "man in motorized wheelchair"
+msgstr "elektrikli tekerlekli sandalyede erkek"
+
+msgid "woman in motorized wheelchair"
+msgstr "elektrikli tekerlekli sandalyede kadın"
+
+msgid "person in manual wheelchair"
+msgstr "tekerlekli sandalyede kişi"
+
+msgid "man in manual wheelchair"
+msgstr "tekerlekli sandalyede erkek"
+
+msgid "woman in manual wheelchair"
+msgstr "tekerlekli sandalyede kadın"
+
+msgid "person running"
+msgstr "koşan kişi"
+
+msgid "man running"
+msgstr "koşan erkek"
+
+msgid "woman running"
+msgstr "koşan kadın"
+
+msgid "woman dancing"
+msgstr "dans eden kadın"
+
+msgid "man dancing"
+msgstr "dans eden adam"
+
+msgid "person in suit levitating"
+msgstr "havalanan takım elbiseli adam"
+
+msgid "people with bunny ears"
+msgstr "tavşan kulaklı kişiler"
+
+msgid "men with bunny ears"
+msgstr "tavşan kulaklı erkekler"
+
+msgid "women with bunny ears"
+msgstr "tavşan kulaklı kadınlar"
+
+msgid "person in steamy room"
+msgstr "buhar odasındaki kişi"
+
+msgid "man in steamy room"
+msgstr "buhar odasındaki erkek"
+
+msgid "woman in steamy room"
+msgstr "buhar odasındaki kadın"
+
+msgid "person climbing"
+msgstr "dağcı kişi"
+
+msgid "man climbing"
+msgstr "dağcı erkek"
+
+msgid "woman climbing"
+msgstr "dağcı kadın"
+
+msgid "person fencing"
+msgstr "eskrimci"
+
+msgid "horse racing"
+msgstr "at yarışı"
+
+msgid "skier"
+msgstr "kayakçı"
+
+msgid "snowboarder"
+msgstr "snowbordçu"
+
+msgid "person golfing"
+msgstr "golf oynayan kişi"
+
+msgid "man golfing"
+msgstr "golf oynayan erkek"
+
+msgid "woman golfing"
+msgstr "golf oynayan kadın"
+
+msgid "person surfing"
+msgstr "sörf yapan kişi"
+
+msgid "man surfing"
+msgstr "sörf yapan erkek"
+
+msgid "woman surfing"
+msgstr "sörf yapan kadın"
+
+msgid "person rowing boat"
+msgstr "sandalda kürek çeken kişi"
+
+msgid "man rowing boat"
+msgstr "sandalda kürek çeken erkek"
+
+msgid "woman rowing boat"
+msgstr "sandalda kürek çeken kadın"
+
+msgid "person swimming"
+msgstr "yüzen kişi"
+
+msgid "man swimming"
+msgstr "yüzen erkek"
+
+msgid "woman swimming"
+msgstr "yüzen kadın"
+
+msgid "person bouncing ball"
+msgstr "top sektiren kişi"
+
+msgid "man bouncing ball"
+msgstr "top sektiren erkek"
+
+msgid "woman bouncing ball"
+msgstr "top sektiren kadın"
+
+msgid "person lifting weights"
+msgstr "ağırlık kaldıran kişi"
+
+msgid "man lifting weights"
+msgstr "ağırlık kaldıran erkek"
+
+msgid "woman lifting weights"
+msgstr "ağırlık kaldıran kadın"
+
+msgid "person biking"
+msgstr "bisiklet süren kişi"
+
+msgid "man biking"
+msgstr "bisiklet süren erkek"
+
+msgid "woman biking"
+msgstr "bisiklet süren kadın"
+
+msgid "person mountain biking"
+msgstr "dağ bisikletçisi"
+
+msgid "man mountain biking"
+msgstr "dağ bisikleti süren erkek"
+
+msgid "woman mountain biking"
+msgstr "dağ bisikleti süren kadın"
+
+msgid "person cartwheeling"
+msgstr "perende atan kişi"
+
+msgid "man cartwheeling"
+msgstr "perende atan erkek"
+
+msgid "woman cartwheeling"
+msgstr "perende atan kadın"
+
+msgid "people wrestling"
+msgstr "güreşen kişiler"
+
+msgid "men wrestling"
+msgstr "güreş yapan erkek"
+
+msgid "women wrestling"
+msgstr "güreş yapan kadın"
+
+msgid "person playing water polo"
+msgstr "su topu"
+
+msgid "man playing water polo"
+msgstr "su topu oynayan erkek"
+
+msgid "woman playing water polo"
+msgstr "su topu oynayan kadın"
+
+msgid "person playing handball"
+msgstr "hentbol"
+
+msgid "man playing handball"
+msgstr "hentbol oynayan erkek"
+
+msgid "woman playing handball"
+msgstr "hentbol oynayan kadın"
+
+msgid "person juggling"
+msgstr "jonglör"
+
+msgid "man juggling"
+msgstr "jonglör erkek"
+
+msgid "woman juggling"
+msgstr "jonglör kadın"
+
+msgid "person in lotus position"
+msgstr "lotus pozisyonundaki kişi"
+
+msgid "man in lotus position"
+msgstr "lotus pozisyonundaki erkek"
+
+msgid "woman in lotus position"
+msgstr "lotus pozisyonundaki kadın"
+
+msgid "person taking bath"
+msgstr "banyo yapan kişi"
+
+msgid "person in bed"
+msgstr "yatakta yatan kişi"
+
+msgid "people holding hands"
+msgstr "el ele tutuşan insanlar"
+
+msgid "women holding hands"
+msgstr "el ele tutuşan kadınlar"
+
+msgid "woman and man holding hands"
+msgstr "el ele tutuşan erkek ve kadın"
+
+msgid "men holding hands"
+msgstr "el ele tutuşan erkekler"
+
+msgid "kiss"
+msgstr "öpücük"
+
+msgid "couple with heart"
+msgstr "kalpli çift"
+
+msgid "speaking head"
+msgstr "konuşan kişi"
+
+msgid "bust in silhouette"
+msgstr "siluet büst"
+
+msgid "busts in silhouette"
+msgstr "siluet büstler"
+
+msgid "people hugging"
+msgstr "kucaklaşan insanlar"
+
+msgid "family"
+msgstr "aile"
+
+msgid "footprints"
+msgstr "ayak izi"
+
+msgid "monkey face"
+msgstr "maymun yüzü"
+
+msgid "monkey"
+msgstr "maymun"
+
+msgid "gorilla"
+msgstr "goril"
+
+msgid "orangutan"
+msgstr "orangutan"
+
+msgid "dog face"
+msgstr "köpek yüzü"
+
+msgid "dog"
+msgstr "köpek"
+
+msgid "guide dog"
+msgstr "rehber köpek"
+
+msgid "service dog"
+msgstr "yardımcı köpek"
+
+msgid "poodle"
+msgstr "kaniş"
+
+msgid "wolf"
+msgstr "kurt"
+
+msgid "fox"
+msgstr "tilki"
+
+msgid "raccoon"
+msgstr "rakun"
+
+msgid "cat face"
+msgstr "kedi yüzü"
+
+msgid "cat"
+msgstr "kedi"
+
+msgid "black cat"
+msgstr "kara kedi"
+
+msgid "lion"
+msgstr "aslan"
+
+msgid "tiger face"
+msgstr "kaplan yüzü"
+
+msgid "tiger"
+msgstr "kaplan"
+
+msgid "leopard"
+msgstr "leopar"
+
+msgid "horse face"
+msgstr "at yüzü"
+
+msgid "moose"
+msgstr "sığın"
+
+msgid "donkey"
+msgstr "eşek"
+
+msgid "horse"
+msgstr "at"
+
+msgid "unicorn"
+msgstr "tek boynuzlu at"
+
+msgid "zebra"
+msgstr "zebra"
+
+msgid "deer"
+msgstr "geyik"
+
+msgid "bison"
+msgstr "bizon"
+
+msgid "cow face"
+msgstr "inek yüzü"
+
+msgid "ox"
+msgstr "öküz"
+
+msgid "water buffalo"
+msgstr "manda"
+
+msgid "cow"
+msgstr "inek"
+
+msgid "pig face"
+msgstr "domuz yüzü"
+
+msgid "pig"
+msgstr "domuz"
+
+msgid "boar"
+msgstr "yaban domuzu"
+
+msgid "pig nose"
+msgstr "domuz burnu"
+
+msgid "ram"
+msgstr "koç"
+
+msgid "ewe"
+msgstr "koyun"
+
+msgid "goat"
+msgstr "keçi"
+
+msgid "camel"
+msgstr "deve"
+
+msgid "two-hump camel"
+msgstr "iki hörgüçlü deve"
+
+msgid "llama"
+msgstr "lama"
+
+msgid "giraffe"
+msgstr "zürafa"
+
+msgid "elephant"
+msgstr "fil"
+
+msgid "mammoth"
+msgstr "mamut"
+
+msgid "rhinoceros"
+msgstr "gergedan"
+
+msgid "hippopotamus"
+msgstr "hipopotam"
+
+msgid "mouse face"
+msgstr "fare yüzü"
+
+msgid "mouse"
+msgstr "fare"
+
+msgid "rat"
+msgstr "sıçan"
+
+msgid "hamster"
+msgstr "hamster"
+
+msgid "rabbit face"
+msgstr "tavşan yüzü"
+
+msgid "rabbit"
+msgstr "tavşan"
+
+msgid "chipmunk"
+msgstr "sincap"
+
+msgid "beaver"
+msgstr "kunduz"
+
+msgid "hedgehog"
+msgstr "kirpi"
+
+msgid "bat"
+msgstr "yarasa"
+
+msgid "bear"
+msgstr "ayı"
+
+msgid "polar bear"
+msgstr "kutup ayısı"
+
+msgid "koala"
+msgstr "koala"
+
+msgid "panda"
+msgstr "panda"
+
+msgid "sloth"
+msgstr "tembel hayvan"
+
+msgid "otter"
+msgstr "su samuru"
+
+msgid "skunk"
+msgstr "kokarca"
+
+msgid "kangaroo"
+msgstr "kanguru"
+
+msgid "badger"
+msgstr "porsuk"
+
+msgid "paw prints"
+msgstr "pençe izi"
+
+msgid "turkey"
+msgstr "hindi"
+
+msgid "chicken"
+msgstr "tavuk"
+
+msgid "rooster"
+msgstr "horoz"
+
+msgid "hatching chick"
+msgstr "yumurtadan çıkan civciv"
+
+msgid "baby chick"
+msgstr "civciv"
+
+msgid "front-facing baby chick"
+msgstr "önden civciv"
+
+msgid "bird"
+msgstr "kuş"
+
+msgid "penguin"
+msgstr "penguen"
+
+msgid "dove"
+msgstr "güvercin"
+
+msgid "eagle"
+msgstr "kartal"
+
+msgid "duck"
+msgstr "ördek"
+
+msgid "swan"
+msgstr "kuğu"
+
+msgid "owl"
+msgstr "baykuş"
+
+msgid "dodo"
+msgstr "dodo kuşu"
+
+msgid "feather"
+msgstr "kuş tüyü"
+
+msgid "flamingo"
+msgstr "flamingo"
+
+msgid "peacock"
+msgstr "tavus kuşu"
+
+msgid "parrot"
+msgstr "papağan"
+
+msgid "wing"
+msgstr "kanat"
+
+msgid "black bird"
+msgstr "siyah kuş"
+
+msgid "goose"
+msgstr "kaz"
+
+msgid "frog"
+msgstr "kurbağa"
+
+msgid "crocodile"
+msgstr "timsah"
+
+msgid "turtle"
+msgstr "kaplumbağa"
+
+msgid "lizard"
+msgstr "kertenkele"
+
+msgid "snake"
+msgstr "yılan"
+
+msgid "dragon face"
+msgstr "ejderha yüzü"
+
+msgid "dragon"
+msgstr "ejderha"
+
+msgid "sauropod"
+msgstr "soropod"
+
+msgid "T-Rex"
+msgstr "T-Rex"
+
+msgid "spouting whale"
+msgstr "su püskürten balina"
+
+msgid "whale"
+msgstr "balina"
+
+msgid "dolphin"
+msgstr "yunus"
+
+msgid "seal"
+msgstr "fok"
+
+msgid "fish"
+msgstr "balık"
+
+msgid "tropical fish"
+msgstr "tropikal balık"
+
+msgid "blowfish"
+msgstr "balon balığı"
+
+msgid "shark"
+msgstr "köpek balığı"
+
+msgid "octopus"
+msgstr "ahtapot"
+
+msgid "spiral shell"
+msgstr "deniz kabuğu"
+
+msgid "coral"
+msgstr "mercan"
+
+msgid "jellyfish"
+msgstr "denizanası"
+
+msgid "snail"
+msgstr "salyangoz"
+
+msgid "butterfly"
+msgstr "kelebek"
+
+msgid "bug"
+msgstr "tırtıl"
+
+msgid "ant"
+msgstr "karınca"
+
+msgid "honeybee"
+msgstr "bal arısı"
+
+msgid "beetle"
+msgstr "böcek"
+
+msgid "lady beetle"
+msgstr "uğur böceği"
+
+msgid "cricket"
+msgstr "cırcır böceği"
+
+msgid "cockroach"
+msgstr "hamam böceği"
+
+msgid "spider"
+msgstr "örümcek"
+
+msgid "spider web"
+msgstr "örümcek ağı"
+
+msgid "scorpion"
+msgstr "akrep"
+
+msgid "mosquito"
+msgstr "sivrisinek"
+
+msgid "fly"
+msgstr "karasinek"
+
+msgid "worm"
+msgstr "solucan"
+
+msgid "microbe"
+msgstr "mikrop"
+
+msgid "bouquet"
+msgstr "buket"
+
+msgid "cherry blossom"
+msgstr "kiraz çiçeği"
+
+msgid "white flower"
+msgstr "beyaz çiçek"
+
+msgid "lotus"
+msgstr "nilüfer"
+
+msgid "rosette"
+msgstr "çiçek rozet"
+
+msgid "rose"
+msgstr "gül"
+
+msgid "wilted flower"
+msgstr "solmuş çiçek"
+
+msgid "hibiscus"
+msgstr "çingülü"
+
+msgid "sunflower"
+msgstr "ayçiçeği"
+
+msgid "blossom"
+msgstr "çiçek açma"
+
+msgid "tulip"
+msgstr "lale"
+
+msgid "hyacinth"
+msgstr "sümbül"
+
+msgid "seedling"
+msgstr "filizlenme"
+
+msgid "potted plant"
+msgstr "saksı bitkisi"
+
+msgid "evergreen tree"
+msgstr "yaprak dökmeyen ağaç"
+
+msgid "deciduous tree"
+msgstr "yaprak döken ağaç"
+
+msgid "palm tree"
+msgstr "palmiye ağacı"
+
+msgid "cactus"
+msgstr "kaktüs"
+
+msgid "sheaf of rice"
+msgstr "pirinç bitkisi"
+
+msgid "herb"
+msgstr "ot"
+
+msgid "shamrock"
+msgstr "yonca"
+
+msgid "four leaf clover"
+msgstr "dört yapraklı yonca"
+
+msgid "maple leaf"
+msgstr "akçaağaç yaprağı"
+
+msgid "fallen leaf"
+msgstr "düşen yapraklar"
+
+msgid "leaf fluttering in wind"
+msgstr "rüzgardaki yaprak"
+
+msgid "empty nest"
+msgstr "boş yuva"
+
+msgid "nest with eggs"
+msgstr "yumurta bulunan yuva"
+
+msgid "mushroom"
+msgstr "mantar"
+
+msgid "grapes"
+msgstr "üzüm"
+
+msgid "melon"
+msgstr "kavun"
+
+msgid "watermelon"
+msgstr "karpuz"
+
+msgid "tangerine"
+msgstr "mandalina"
+
+msgid "lemon"
+msgstr "limon"
+
+msgid "banana"
+msgstr "muz"
+
+msgid "pineapple"
+msgstr "ananas"
+
+msgid "mango"
+msgstr "mango"
+
+msgid "red apple"
+msgstr "kırmızı elma"
+
+msgid "green apple"
+msgstr "yeşil elma"
+
+msgid "pear"
+msgstr "armut"
+
+msgid "peach"
+msgstr "şeftali"
+
+msgid "cherries"
+msgstr "kiraz"
+
+msgid "strawberry"
+msgstr "çilek"
+
+msgid "blueberries"
+msgstr "yaban mersini"
+
+msgid "kiwi fruit"
+msgstr "kivi"
+
+msgid "tomato"
+msgstr "domates"
+
+msgid "olive"
+msgstr "zeytin"
+
+msgid "coconut"
+msgstr "Hindistan cevizi"
+
+msgid "avocado"
+msgstr "avokado"
+
+msgid "eggplant"
+msgstr "patlıcan"
+
+msgid "potato"
+msgstr "patates"
+
+msgid "carrot"
+msgstr "havuç"
+
+msgid "ear of corn"
+msgstr "mısır koçanı"
+
+msgid "hot pepper"
+msgstr "acı biber"
+
+msgid "bell pepper"
+msgstr "dolma biber"
+
+msgid "cucumber"
+msgstr "salatalık"
+
+msgid "leafy green"
+msgstr "yeşil yapraklı sebze"
+
+msgid "broccoli"
+msgstr "brokoli"
+
+msgid "garlic"
+msgstr "sarımsak"
+
+msgid "onion"
+msgstr "soğan"
+
+msgid "peanuts"
+msgstr "yer fıstığı"
+
+msgid "beans"
+msgstr "fasulye"
+
+msgid "chestnut"
+msgstr "kestane"
+
+msgid "ginger root"
+msgstr "kök zencefil"
+
+msgid "pea pod"
+msgstr "kabuklu bezelye"
+
+msgid "bread"
+msgstr "ekmek"
+
+msgid "croissant"
+msgstr "kruvasan"
+
+msgid "baguette bread"
+msgstr "baget ekmek"
+
+msgid "flatbread"
+msgstr "yassı ekmek"
+
+msgid "pretzel"
+msgstr "pretzel"
+
+msgid "bagel"
+msgstr "simit"
+
+msgid "pancakes"
+msgstr "krep"
+
+msgid "waffle"
+msgstr "waffle"
+
+msgid "cheese wedge"
+msgstr "peynir dilimi"
+
+msgid "meat on bone"
+msgstr "kemikli et"
+
+msgid "poultry leg"
+msgstr "tavuk butu"
+
+msgid "cut of meat"
+msgstr "parça et"
+
+msgid "bacon"
+msgstr "domuz pastırması"
+
+msgid "hamburger"
+msgstr "hamburger"
+
+msgid "french fries"
+msgstr "patates kızartması"
+
+msgid "pizza"
+msgstr "pizza dilimi"
+
+msgid "hot dog"
+msgstr "sosisli sandviç"
+
+msgid "sandwich"
+msgstr "sandviç"
+
+msgid "taco"
+msgstr "tako"
+
+msgid "burrito"
+msgstr "burito"
+
+msgid "tamale"
+msgstr "tamale"
+
+msgid "stuffed flatbread"
+msgstr "dürüm"
+
+msgid "falafel"
+msgstr "falafel"
+
+msgid "egg"
+msgstr "yumurta"
+
+msgid "cooking"
+msgstr "yemek pişirme"
+
+msgid "shallow pan of food"
+msgstr "sahanda yemek"
+
+msgid "pot of food"
+msgstr "yemek tenceresi"
+
+msgid "fondue"
+msgstr "fondü"
+
+msgid "bowl with spoon"
+msgstr "kaşıklı kase"
+
+msgid "green salad"
+msgstr "yeşil salata"
+
+msgid "popcorn"
+msgstr "patlamış mısır"
+
+msgid "butter"
+msgstr "tereyağı"
+
+msgid "salt"
+msgstr "tuz"
+
+msgid "canned food"
+msgstr "konserve gıda"
+
+msgid "bento box"
+msgstr "bento"
+
+msgid "rice cracker"
+msgstr "pirinç gevreği"
+
+msgid "rice ball"
+msgstr "pirinç topu"
+
+msgid "cooked rice"
+msgstr "pilav"
+
+msgid "curry rice"
+msgstr "körili pilav"
+
+msgid "steaming bowl"
+msgstr "erişte"
+
+msgid "spaghetti"
+msgstr "spagetti"
+
+msgid "roasted sweet potato"
+msgstr "fırınlanmış patates"
+
+msgid "oden"
+msgstr "oden"
+
+msgid "sushi"
+msgstr "suşi"
+
+msgid "fried shrimp"
+msgstr "kızarmış karides"
+
+msgid "fish cake with swirl"
+msgstr "balık köftesi"
+
+msgid "moon cake"
+msgstr "ay pastası"
+
+msgid "dango"
+msgstr "pirinç tatlısı"
+
+msgid "dumpling"
+msgstr "mantı"
+
+msgid "fortune cookie"
+msgstr "fal kurabiyesi"
+
+msgid "takeout box"
+msgstr "yiyecek paketi"
+
+msgid "crab"
+msgstr "yengeç"
+
+msgid "lobster"
+msgstr "ıstakoz"
+
+msgid "shrimp"
+msgstr "karides"
+
+msgid "squid"
+msgstr "mürekkep balığı"
+
+msgid "oyster"
+msgstr "istiridye"
+
+msgid "soft ice cream"
+msgstr "yumuşak dondurma"
+
+msgid "shaved ice"
+msgstr "meyveli buz"
+
+msgid "ice cream"
+msgstr "dondurma"
+
+msgid "doughnut"
+msgstr "donut"
+
+msgid "cookie"
+msgstr "kurabiye"
+
+msgid "birthday cake"
+msgstr "doğum günü pastası"
+
+msgid "shortcake"
+msgstr "pasta dilimi"
+
+msgid "cupcake"
+msgstr "cupcake"
+
+msgid "pie"
+msgstr "tart"
+
+msgid "chocolate bar"
+msgstr "çikolata"
+
+msgid "candy"
+msgstr "şekerleme"
+
+msgid "lollipop"
+msgstr "lolipop"
+
+msgid "custard"
+msgstr "krem karamel"
+
+msgid "honey pot"
+msgstr "bal kabı"
+
+msgid "baby bottle"
+msgstr "biberon"
+
+msgid "glass of milk"
+msgstr "süt bardağı"
+
+msgid "hot beverage"
+msgstr "sıcak içecek"
+
+msgid "teapot"
+msgstr "demlik"
+
+msgid "teacup without handle"
+msgstr "çay fincanı"
+
+msgid "sake"
+msgstr "sake"
+
+msgid "bottle with popping cork"
+msgstr "patlayan mantarlı şişe"
+
+msgid "wine glass"
+msgstr "şarap kadehi"
+
+msgid "cocktail glass"
+msgstr "kokteyl kadehi"
+
+msgid "tropical drink"
+msgstr "tropik içecek"
+
+msgid "beer mug"
+msgstr "bira kupası"
+
+msgid "clinking beer mugs"
+msgstr "bira kupaları tokuşturma"
+
+msgid "clinking glasses"
+msgstr "kadeh tokuşturma"
+
+msgid "tumbler glass"
+msgstr "kısa ve geniş bardak"
+
+msgid "pouring liquid"
+msgstr "dökülen sıvı"
+
+msgid "cup with straw"
+msgstr "pipetli bardak"
+
+msgid "bubble tea"
+msgstr "bubble tea"
+
+msgid "beverage box"
+msgstr "içecek kutusu"
+
+msgid "mate"
+msgstr "mate çayı"
+
+msgid "ice"
+msgstr "buz küpü"
+
+msgid "chopsticks"
+msgstr "yemek çubukları"
+
+msgid "fork and knife with plate"
+msgstr "tabakla birlikte çatal ve bıçak"
+
+msgid "fork and knife"
+msgstr "çatal ve bıçak"
+
+msgid "spoon"
+msgstr "kaşık"
+
+msgid "kitchen knife"
+msgstr "mutfak bıçağı"
+
+msgid "jar"
+msgstr "kavanoz"
+
+msgid "amphora"
+msgstr "amfora"
+
+msgid "globe showing Europe-Africa"
+msgstr "yerkürede Avrupa-Afrika"
+
+msgid "globe showing Americas"
+msgstr "yerkürede Amerika"
+
+msgid "globe showing Asia-Australia"
+msgstr "yerkürede Asya-Avustralya"
+
+msgid "globe with meridians"
+msgstr "meridyenli yerküre"
+
+msgid "world map"
+msgstr "dünya haritası"
+
+msgid "map of Japan"
+msgstr "Japonya haritası"
+
+msgid "compass"
+msgstr "pusula"
+
+msgid "snow-capped mountain"
+msgstr "karla kaplı dağ"
+
+msgid "mountain"
+msgstr "dağ"
+
+msgid "volcano"
+msgstr "yanardağ"
+
+msgid "mount fuji"
+msgstr "Fuji Dağı"
+
+msgid "camping"
+msgstr "kamp"
+
+msgid "beach with umbrella"
+msgstr "plaj ve şemsiye"
+
+msgid "desert"
+msgstr "çöl"
+
+msgid "desert island"
+msgstr "ıssız ada"
+
+msgid "national park"
+msgstr "milli park"
+
+msgid "stadium"
+msgstr "stadyum"
+
+msgid "classical building"
+msgstr "tarihi yapı"
+
+msgid "building construction"
+msgstr "bina inşaatı"
+
+msgid "brick"
+msgstr "tuğla"
+
+msgid "rock"
+msgstr "kaya"
+
+msgid "wood"
+msgstr "kütük"
+
+msgid "hut"
+msgstr "kulübe"
+
+msgid "houses"
+msgstr "evler"
+
+msgid "derelict house"
+msgstr "terkedilmiş ev"
+
+msgid "house"
+msgstr "ev"
+
+msgid "house with garden"
+msgstr "bahçeli ev"
+
+msgid "office building"
+msgstr "ofis binası"
+
+msgid "Japanese post office"
+msgstr "Japon postanesi"
+
+msgid "post office"
+msgstr "postane"
+
+msgid "hospital"
+msgstr "hastane"
+
+msgid "bank"
+msgstr "banka"
+
+msgid "hotel"
+msgstr "otel"
+
+msgid "love hotel"
+msgstr "aşk oteli"
+
+msgid "convenience store"
+msgstr "sürekli açık market"
+
+msgid "school"
+msgstr "okul"
+
+msgid "department store"
+msgstr "çok katlı mağaza"
+
+msgid "factory"
+msgstr "fabrika"
+
+msgid "Japanese castle"
+msgstr "Japon şatosu"
+
+msgid "castle"
+msgstr "şato"
+
+msgid "wedding"
+msgstr "düğün"
+
+msgid "Tokyo tower"
+msgstr "Tokyo kulesi"
+
+msgid "Statue of Liberty"
+msgstr "Özgürlük Heykeli"
+
+msgid "church"
+msgstr "kilise"
+
+msgid "mosque"
+msgstr "cami"
+
+msgid "hindu temple"
+msgstr "Hindu tapınağı"
+
+msgid "synagogue"
+msgstr "sinagog"
+
+msgid "shinto shrine"
+msgstr "Şinto tapınağı"
+
+msgid "kaaba"
+msgstr "Kâbe"
+
+msgid "fountain"
+msgstr "fıskiye"
+
+msgid "tent"
+msgstr "çadır"
+
+msgid "foggy"
+msgstr "sisli"
+
+msgid "night with stars"
+msgstr "yıldızlı gece"
+
+msgid "cityscape"
+msgstr "şehir manzarası"
+
+msgid "sunrise over mountains"
+msgstr "dağların arasından güneşin doğuşu"
+
+msgid "sunrise"
+msgstr "güneşin doğuşu"
+
+msgid "cityscape at dusk"
+msgstr "şehirde alacakaranlık"
+
+msgid "sunset"
+msgstr "gün batımı"
+
+msgid "bridge at night"
+msgstr "gece vakti köprü"
+
+msgid "hot springs"
+msgstr "kaplıca"
+
+msgid "carousel horse"
+msgstr "atlıkarınca"
+
+msgid "playground slide"
+msgstr "kaydırak"
+
+msgid "ferris wheel"
+msgstr "dönme dolap"
+
+msgid "roller coaster"
+msgstr "hız treni"
+
+msgid "barber pole"
+msgstr "berber dükkanı"
+
+msgid "circus tent"
+msgstr "sirk çadırı"
+
+msgid "locomotive"
+msgstr "buharlı lokomotif"
+
+msgid "railway car"
+msgstr "vagon"
+
+msgid "high-speed train"
+msgstr "yüksek hızlı tren"
+
+msgid "bullet train"
+msgstr "yuvarlak uçlu yüksek hızlı tren"
+
+msgid "train"
+msgstr "tren"
+
+msgid "metro"
+msgstr "metro"
+
+msgid "light rail"
+msgstr "hafif raylı"
+
+msgid "station"
+msgstr "tren istasyonu"
+
+msgid "tram"
+msgstr "tramvay"
+
+msgid "monorail"
+msgstr "monoray"
+
+msgid "mountain railway"
+msgstr "dağ demiryolu"
+
+msgid "tram car"
+msgstr "tramvay vagonu"
+
+msgid "bus"
+msgstr "otobüs"
+
+msgid "oncoming bus"
+msgstr "yaklaşan otobüs"
+
+msgid "trolleybus"
+msgstr "troleybüs"
+
+msgid "minibus"
+msgstr "minibüs"
+
+msgid "ambulance"
+msgstr "ambulans"
+
+msgid "fire engine"
+msgstr "itfaiye arabası"
+
+msgid "police car"
+msgstr "polis arabası"
+
+msgid "oncoming police car"
+msgstr "yaklaşan polis arabası"
+
+msgid "taxi"
+msgstr "taksi"
+
+msgid "oncoming taxi"
+msgstr "yaklaşan taksi"
+
+msgid "automobile"
+msgstr "araba"
+
+msgid "oncoming automobile"
+msgstr "yaklaşan araba"
+
+msgid "sport utility vehicle"
+msgstr "cip"
+
+msgid "pickup truck"
+msgstr "pikap"
+
+msgid "delivery truck"
+msgstr "nakliye kamyonu"
+
+msgid "articulated lorry"
+msgstr "tır"
+
+msgid "tractor"
+msgstr "traktör"
+
+msgid "racing car"
+msgstr "yarış arabası"
+
+msgid "motorcycle"
+msgstr "motosiklet"
+
+msgid "motor scooter"
+msgstr "motorlu skuter"
+
+msgid "manual wheelchair"
+msgstr "tekerlekli sandalye"
+
+msgid "motorized wheelchair"
+msgstr "elektrikli tekerlekli sandalye"
+
+msgid "auto rickshaw"
+msgstr "elektrikli çekçek"
+
+msgid "bicycle"
+msgstr "bisiklet"
+
+msgid "kick scooter"
+msgstr "ayakla sürülen skuter"
+
+msgid "skateboard"
+msgstr "kaykay"
+
+msgid "roller skate"
+msgstr "paten"
+
+msgid "bus stop"
+msgstr "otobüs durağı"
+
+msgid "motorway"
+msgstr "otoban"
+
+msgid "railway track"
+msgstr "tren yolu"
+
+msgid "oil drum"
+msgstr "petrol varili"
+
+msgid "fuel pump"
+msgstr "akaryakıt istasyonu"
+
+msgid "wheel"
+msgstr "tekerlek"
+
+msgid "police car light"
+msgstr "polis lambası"
+
+msgid "horizontal traffic light"
+msgstr "yatay trafik ışıkları"
+
+msgid "vertical traffic light"
+msgstr "dikey trafik ışıkları"
+
+msgid "stop sign"
+msgstr "dur işareti"
+
+msgid "construction"
+msgstr "inşaat"
+
+msgid "anchor"
+msgstr "çıpa"
+
+msgid "ring buoy"
+msgstr "cankurtaran simidi"
+
+msgid "sailboat"
+msgstr "yelkenli tekne"
+
+msgid "canoe"
+msgstr "kano"
+
+msgid "speedboat"
+msgstr "sürat teknesi"
+
+msgid "passenger ship"
+msgstr "yolcu gemisi"
+
+msgid "ferry"
+msgstr "feribot"
+
+msgid "motor boat"
+msgstr "motorlu tekne"
+
+msgid "ship"
+msgstr "gemi"
+
+msgid "airplane"
+msgstr "uçak"
+
+msgid "small airplane"
+msgstr "küçük uçak"
+
+msgid "airplane departure"
+msgstr "kalkan uçak"
+
+msgid "airplane arrival"
+msgstr "inen uçak"
+
+msgid "parachute"
+msgstr "paraşüt"
+
+msgid "seat"
+msgstr "koltuk"
+
+msgid "helicopter"
+msgstr "helikopter"
+
+msgid "suspension railway"
+msgstr "asma demiryolu"
+
+msgid "mountain cableway"
+msgstr "dağ teleferik hattı"
+
+msgid "aerial tramway"
+msgstr "teleferik"
+
+msgid "satellite"
+msgstr "uydu"
+
+msgid "rocket"
+msgstr "roket"
+
+msgid "flying saucer"
+msgstr "uçan daire"
+
+msgid "bellhop bell"
+msgstr "resepsiyon zili"
+
+msgid "luggage"
+msgstr "bavul"
+
+msgid "hourglass done"
+msgstr "kum saati"
+
+msgid "hourglass not done"
+msgstr "akan kum saati"
+
+msgid "watch"
+msgstr "kol saati"
+
+msgid "alarm clock"
+msgstr "çalar saat"
+
+msgid "stopwatch"
+msgstr "kronometre"
+
+msgid "timer clock"
+msgstr "alarm"
+
+msgid "mantelpiece clock"
+msgstr "raf saati"
+
+msgid "twelve o’clock"
+msgstr "saat 12"
+
+msgid "twelve-thirty"
+msgstr "on iki buçuk"
+
+msgid "one o’clock"
+msgstr "saat 1"
+
+msgid "one-thirty"
+msgstr "bir buçuk"
+
+msgid "two o’clock"
+msgstr "saat 2"
+
+msgid "two-thirty"
+msgstr "iki buçuk"
+
+msgid "three o’clock"
+msgstr "saat 3"
+
+msgid "three-thirty"
+msgstr "üç buçuk"
+
+msgid "four o’clock"
+msgstr "saat 4"
+
+msgid "four-thirty"
+msgstr "dört buçuk"
+
+msgid "five o’clock"
+msgstr "saat 5"
+
+msgid "five-thirty"
+msgstr "beş buçuk"
+
+msgid "six o’clock"
+msgstr "saat 6"
+
+msgid "six-thirty"
+msgstr "altı buçuk"
+
+msgid "seven o’clock"
+msgstr "saat 7"
+
+msgid "seven-thirty"
+msgstr "yedi buçuk"
+
+msgid "eight o’clock"
+msgstr "saat 8"
+
+msgid "eight-thirty"
+msgstr "sekiz buçuk"
+
+msgid "nine o’clock"
+msgstr "saat 9"
+
+msgid "nine-thirty"
+msgstr "dokuz buçuk"
+
+msgid "ten o’clock"
+msgstr "saat 10"
+
+msgid "ten-thirty"
+msgstr "on buçuk"
+
+msgid "eleven o’clock"
+msgstr "saat 11"
+
+msgid "eleven-thirty"
+msgstr "on bir buçuk"
+
+msgid "new moon"
+msgstr "yeni ay"
+
+msgid "waxing crescent moon"
+msgstr "büyüyen ay"
+
+msgid "first quarter moon"
+msgstr "ilk dördün"
+
+msgid "waxing gibbous moon"
+msgstr "geniş ay"
+
+msgid "full moon"
+msgstr "dolunay"
+
+msgid "waning gibbous moon"
+msgstr "küçülen ay"
+
+msgid "last quarter moon"
+msgstr "son dördün"
+
+msgid "waning crescent moon"
+msgstr "ince ay"
+
+msgid "crescent moon"
+msgstr "hilal"
+
+msgid "new moon face"
+msgstr "yeni ay yüzü"
+
+msgid "first quarter moon face"
+msgstr "ilk dördün ay yüzü"
+
+msgid "last quarter moon face"
+msgstr "son dördün ay yüzü"
+
+msgid "thermometer"
+msgstr "termometre"
+
+msgid "sun"
+msgstr "güneş"
+
+msgid "full moon face"
+msgstr "dolunay yüzü"
+
+msgid "sun with face"
+msgstr "güneş yüz"
+
+msgid "ringed planet"
+msgstr "halkalı gezegen"
+
+msgid "star"
+msgstr "yıldız"
+
+msgid "glowing star"
+msgstr "parıldayan yıldız"
+
+msgid "shooting star"
+msgstr "yıldız kayması"
+
+msgid "milky way"
+msgstr "samanyolu"
+
+msgid "cloud"
+msgstr "bulut"
+
+msgid "sun behind cloud"
+msgstr "bulutlar ardındaki güneş"
+
+msgid "cloud with lightning and rain"
+msgstr "şimşek ve yağmurlu bulut"
+
+msgid "sun behind small cloud"
+msgstr "bulutun arkasındaki güneş"
+
+msgid "sun behind large cloud"
+msgstr "bulutta kaybolan güneş"
+
+msgid "sun behind rain cloud"
+msgstr "yağmur bulutunun arkasındaki güneş"
+
+msgid "cloud with rain"
+msgstr "yağmur bulutu"
+
+msgid "cloud with snow"
+msgstr "kar bulutu"
+
+msgid "cloud with lightning"
+msgstr "şimşek bulutu"
+
+msgid "tornado"
+msgstr "hortum"
+
+msgid "fog"
+msgstr "sis"
+
+msgid "wind face"
+msgstr "rüzgar"
+
+msgid "cyclone"
+msgstr "siklon"
+
+msgid "rainbow"
+msgstr "gökkuşağı"
+
+msgid "closed umbrella"
+msgstr "kapalı şemsiye"
+
+msgid "umbrella"
+msgstr "şemsiye"
+
+msgid "umbrella with rain drops"
+msgstr "yağmur damlalı şemsiye"
+
+msgid "umbrella on ground"
+msgstr "sabit şemsiye"
+
+msgid "high voltage"
+msgstr "yüksek voltaj"
+
+msgid "snowflake"
+msgstr "kar tanesi"
+
+msgid "snowman"
+msgstr "kardan adam"
+
+msgid "snowman without snow"
+msgstr "kar yağmadan kardan adam"
+
+msgid "comet"
+msgstr "kuyruklu yıldız"
+
+msgid "fire"
+msgstr "ateş"
+
+msgid "droplet"
+msgstr "damlacık"
+
+msgid "water wave"
+msgstr "dalga"
+
+msgid "jack-o-lantern"
+msgstr "kabak fener"
+
+msgid "Christmas tree"
+msgstr "Noel ağacı"
+
+msgid "fireworks"
+msgstr "havai fişek"
+
+msgid "sparkler"
+msgstr "fişek"
+
+msgid "firecracker"
+msgstr "maytap"
+
+msgid "sparkles"
+msgstr "parıltılar"
+
+msgid "balloon"
+msgstr "balon"
+
+msgid "party popper"
+msgstr "parti konfetisi"
+
+msgid "confetti ball"
+msgstr "konfeti"
+
+msgid "tanabata tree"
+msgstr "tanabata ağacı"
+
+msgid "pine decoration"
+msgstr "çam süsleme"
+
+msgid "Japanese dolls"
+msgstr "Japon oyuncak bebekleri"
+
+msgid "carp streamer"
+msgstr "sazan şekilli flama"
+
+msgid "wind chime"
+msgstr "rüzgar çanı"
+
+msgid "moon viewing ceremony"
+msgstr "ay izleme"
+
+msgid "red envelope"
+msgstr "kırmızı zarf"
+
+msgid "ribbon"
+msgstr "kurdele"
+
+msgid "wrapped gift"
+msgstr "paketlenmiş hediye"
+
+msgid "reminder ribbon"
+msgstr "anma kurdelesi"
+
+msgid "admission tickets"
+msgstr "giriş bileti"
+
+msgid "ticket"
+msgstr "bilet"
+
+msgid "military medal"
+msgstr "askeri madalya"
+
+msgid "trophy"
+msgstr "zafer kupası"
+
+msgid "sports medal"
+msgstr "spor madalyası"
+
+msgid "1st place medal"
+msgstr "birincilik madalyası"
+
+msgid "2nd place medal"
+msgstr "ikincilik madalyası"
+
+msgid "3rd place medal"
+msgstr "üçüncülük madalyası"
+
+msgid "soccer ball"
+msgstr "futbol topu"
+
+msgid "baseball"
+msgstr "beyzbol"
+
+msgid "softball"
+msgstr "softball"
+
+msgid "basketball"
+msgstr "basketbol"
+
+msgid "volleyball"
+msgstr "voleybol"
+
+msgid "american football"
+msgstr "amerikan futbolu"
+
+msgid "rugby football"
+msgstr "ragbi"
+
+msgid "tennis"
+msgstr "tenis"
+
+msgid "flying disc"
+msgstr "frizbi"
+
+msgid "bowling"
+msgstr "bovling"
+
+msgid "cricket game"
+msgstr "kriket"
+
+msgid "field hockey"
+msgstr "çim hokeyi"
+
+msgid "ice hockey"
+msgstr "buz hokeyi"
+
+msgid "lacrosse"
+msgstr "lakros"
+
+msgid "ping pong"
+msgstr "masa tenisi"
+
+msgid "badminton"
+msgstr "badminton"
+
+msgid "boxing glove"
+msgstr "boks eldiveni"
+
+msgid "martial arts uniform"
+msgstr "dövüş sporu forması"
+
+msgid "goal net"
+msgstr "kale ağı"
+
+msgid "flag in hole"
+msgstr "delikteki bayrak"
+
+msgid "ice skate"
+msgstr "buz pateni"
+
+msgid "fishing pole"
+msgstr "olta"
+
+msgid "diving mask"
+msgstr "dalgıç maskesi"
+
+msgid "running shirt"
+msgstr "koşu tişörtü"
+
+msgid "skis"
+msgstr "kayak"
+
+msgid "sled"
+msgstr "kızak"
+
+msgid "curling stone"
+msgstr "curling taşı"
+
+msgid "bullseye"
+msgstr "tam isabet"
+
+msgid "yo-yo"
+msgstr "yoyo"
+
+msgid "kite"
+msgstr "uçurtma"
+
+msgid "water pistol"
+msgstr "su tabancası"
+
+msgid "pool 8 ball"
+msgstr "bilardo"
+
+msgid "crystal ball"
+msgstr "kristal küre"
+
+msgid "magic wand"
+msgstr "sihirli asa"
+
+msgid "video game"
+msgstr "video oyunu"
+
+msgid "joystick"
+msgstr "oyun çubuğu"
+
+msgid "slot machine"
+msgstr "kumar makinesi"
+
+msgid "game die"
+msgstr "oyun zarı"
+
+msgid "puzzle piece"
+msgstr "yapboz parçası"
+
+msgid "teddy bear"
+msgstr "oyuncak ayı"
+
+msgid "piñata"
+msgstr "pinyata"
+
+msgid "mirror ball"
+msgstr "aynalı küre"
+
+msgid "nesting dolls"
+msgstr "matruşka"
+
+msgid "spade suit"
+msgstr "maça"
+
+msgid "heart suit"
+msgstr "kupa"
+
+msgid "diamond suit"
+msgstr "karo"
+
+msgid "club suit"
+msgstr "sinek"
+
+msgid "chess pawn"
+msgstr "piyon"
+
+msgid "joker"
+msgstr "joker"
+
+msgid "mahjong red dragon"
+msgstr "kızıl ejder mahjong taşı"
+
+msgid "flower playing cards"
+msgstr "çiçekli oyun kağıtları"
+
+msgid "performing arts"
+msgstr "sahne sanatları"
+
+msgid "framed picture"
+msgstr "resimli çerçeve"
+
+msgid "artist palette"
+msgstr "boya paleti"
+
+msgid "thread"
+msgstr "iplik"
+
+msgid "sewing needle"
+msgstr "dikiş iğnesi"
+
+msgid "yarn"
+msgstr "iplik yumağı"
+
+msgid "knot"
+msgstr "denizci düğümü"
+
+msgid "glasses"
+msgstr "gözlük"
+
+msgid "sunglasses"
+msgstr "güneş gözlüğü"
+
+msgid "goggles"
+msgstr "koruyucu gözlük"
+
+msgid "lab coat"
+msgstr "laboratuvar önlüğü"
+
+msgid "safety vest"
+msgstr "güvenlik yeleği"
+
+msgid "necktie"
+msgstr "kravat"
+
+msgid "t-shirt"
+msgstr "tişört"
+
+msgid "jeans"
+msgstr "kot"
+
+msgid "scarf"
+msgstr "atkı"
+
+msgid "gloves"
+msgstr "eldiven"
+
+msgid "coat"
+msgstr "kaban"
+
+msgid "socks"
+msgstr "çorap"
+
+msgid "dress"
+msgstr "elbise"
+
+msgid "kimono"
+msgstr "kimono"
+
+msgid "sari"
+msgstr "sari"
+
+msgid "one-piece swimsuit"
+msgstr "tek parça mayo"
+
+msgid "briefs"
+msgstr "slip mayo"
+
+msgid "shorts"
+msgstr "şort"
+
+msgid "bikini"
+msgstr "bikini"
+
+msgid "woman’s clothes"
+msgstr "kadın giysisi"
+
+msgid "folding hand fan"
+msgstr "yelpaze"
+
+msgid "purse"
+msgstr "cüzdan"
+
+msgid "handbag"
+msgstr "el çantası"
+
+msgid "clutch bag"
+msgstr "para kesesi"
+
+msgid "shopping bags"
+msgstr "alışveriş çantası"
+
+msgid "backpack"
+msgstr "okul çantası"
+
+msgid "thong sandal"
+msgstr "parmak arası terlik"
+
+msgid "man’s shoe"
+msgstr "erkek ayakkabısı"
+
+msgid "running shoe"
+msgstr "koşu ayakkabısı"
+
+msgid "hiking boot"
+msgstr "yürüyüş botu"
+
+msgid "flat shoe"
+msgstr "düz ayakkabı"
+
+msgid "high-heeled shoe"
+msgstr "yüksek topuklu ayakkabı"
+
+msgid "woman’s sandal"
+msgstr "kadın sandaleti"
+
+msgid "ballet shoes"
+msgstr "bale ayakkabıları"
+
+msgid "woman’s boot"
+msgstr "kadın botu"
+
+msgid "hair pick"
+msgstr "perma tarağı"
+
+msgid "crown"
+msgstr "taç"
+
+msgid "woman’s hat"
+msgstr "kadın şapkası"
+
+msgid "top hat"
+msgstr "silindir şapka"
+
+msgid "graduation cap"
+msgstr "mezuniyet kepi"
+
+msgid "billed cap"
+msgstr "siperli şapka"
+
+msgid "military helmet"
+msgstr "asker kaskı"
+
+msgid "rescue worker’s helmet"
+msgstr "yardım ekibi kaskı"
+
+msgid "prayer beads"
+msgstr "tespih"
+
+msgid "lipstick"
+msgstr "ruj"
+
+msgid "ring"
+msgstr "yüzük"
+
+msgid "gem stone"
+msgstr "mücevher"
+
+msgid "muted speaker"
+msgstr "ses kapalı"
+
+msgid "speaker low volume"
+msgstr "kısık ses"
+
+msgid "speaker medium volume"
+msgstr "ses açık"
+
+msgid "speaker high volume"
+msgstr "yüksek ses"
+
+msgid "loudspeaker"
+msgstr "hoparlör"
+
+msgid "megaphone"
+msgstr "megafon"
+
+msgid "postal horn"
+msgstr "posta klaksonu"
+
+msgid "bell"
+msgstr "zil"
+
+msgid "bell with slash"
+msgstr "üzeri çizili zil"
+
+msgid "musical score"
+msgstr "sol anahtarı"
+
+msgid "musical note"
+msgstr "müzik notası"
+
+msgid "musical notes"
+msgstr "müzik notaları"
+
+msgid "studio microphone"
+msgstr "stüdyo mikrofonu"
+
+msgid "level slider"
+msgstr "ayarlama çubuğu"
+
+msgid "control knobs"
+msgstr "kontrol düğmeleri"
+
+msgid "microphone"
+msgstr "mikrofon"
+
+msgid "headphone"
+msgstr "kulaklık"
+
+msgid "radio"
+msgstr "radyo"
+
+msgid "saxophone"
+msgstr "saksafon"
+
+msgid "accordion"
+msgstr "akordiyon"
+
+msgid "guitar"
+msgstr "gitar"
+
+msgid "musical keyboard"
+msgstr "müzik klavyesi"
+
+msgid "trumpet"
+msgstr "trompet"
+
+msgid "violin"
+msgstr "keman"
+
+msgid "banjo"
+msgstr "banjo"
+
+msgid "drum"
+msgstr "davul"
+
+msgid "long drum"
+msgstr "uzun davul"
+
+msgid "maracas"
+msgstr "marakas"
+
+msgid "flute"
+msgstr "flüt"
+
+msgid "mobile phone"
+msgstr "cep telefonu"
+
+msgid "mobile phone with arrow"
+msgstr "ok işaretli cep telefonu"
+
+msgid "telephone"
+msgstr "telefon"
+
+msgid "telephone receiver"
+msgstr "ahize"
+
+msgid "pager"
+msgstr "çağrı cihazı"
+
+msgid "fax machine"
+msgstr "faks makinesi"
+
+msgid "battery"
+msgstr "pil"
+
+msgid "low battery"
+msgstr "düşük pil"
+
+msgid "electric plug"
+msgstr "elektrik fişi"
+
+msgid "laptop"
+msgstr "dizüstü bilgisayar"
+
+msgid "desktop computer"
+msgstr "masaüstü bilgisayar"
+
+msgid "printer"
+msgstr "yazıcı"
+
+msgid "keyboard"
+msgstr "klavye"
+
+msgid "computer mouse"
+msgstr "bilgisayar faresi"
+
+msgid "trackball"
+msgstr "iz topu"
+
+msgid "computer disk"
+msgstr "mini disk"
+
+msgid "floppy disk"
+msgstr "disket"
+
+msgid "optical disk"
+msgstr "optik disk"
+
+msgid "dvd"
+msgstr "dvd"
+
+msgid "abacus"
+msgstr "abaküs"
+
+msgid "movie camera"
+msgstr "film kamerası"
+
+msgid "film frames"
+msgstr "film kareleri"
+
+msgid "film projector"
+msgstr "film projektörü"
+
+msgid "clapper board"
+msgstr "film tahtası"
+
+msgid "television"
+msgstr "televizyon"
+
+msgid "camera"
+msgstr "fotoğraf makinesi"
+
+msgid "camera with flash"
+msgstr "flaşlı fotoğraf makinesi"
+
+msgid "video camera"
+msgstr "video kamera"
+
+msgid "videocassette"
+msgstr "videokaset"
+
+msgid "magnifying glass tilted left"
+msgstr "sola dönük büyüteç"
+
+msgid "magnifying glass tilted right"
+msgstr "sağa dönük büyüteç"
+
+msgid "candle"
+msgstr "mum"
+
+msgid "light bulb"
+msgstr "ampul"
+
+msgid "flashlight"
+msgstr "el feneri"
+
+msgid "red paper lantern"
+msgstr "kırmızı kağıt fener"
+
+msgid "diya lamp"
+msgstr "diya lamba"
+
+msgid "notebook with decorative cover"
+msgstr "süslü not defteri"
+
+msgid "closed book"
+msgstr "kapalı kitap"
+
+msgid "open book"
+msgstr "açık kitap"
+
+msgid "green book"
+msgstr "yeşil kitap"
+
+msgid "blue book"
+msgstr "mavi kitap"
+
+msgid "orange book"
+msgstr "turuncu kitap"
+
+msgid "books"
+msgstr "kitaplar"
+
+msgid "notebook"
+msgstr "not defteri"
+
+msgid "ledger"
+msgstr "resmi defter"
+
+msgid "page with curl"
+msgstr "kıvrık sayfa"
+
+msgid "scroll"
+msgstr "parşömen"
+
+msgid "page facing up"
+msgstr "yüzü yukarıda sayfa"
+
+msgid "newspaper"
+msgstr "gazete"
+
+msgid "rolled-up newspaper"
+msgstr "rulo gazete"
+
+msgid "bookmark tabs"
+msgstr "sayfa ayraçları"
+
+msgid "bookmark"
+msgstr "yer işareti"
+
+msgid "label"
+msgstr "etiket"
+
+msgid "money bag"
+msgstr "para torbası"
+
+msgid "coin"
+msgstr "bozuk para"
+
+msgid "yen banknote"
+msgstr "yen banknot"
+
+msgid "dollar banknote"
+msgstr "dolar banknot"
+
+msgid "euro banknote"
+msgstr "euro banknot"
+
+msgid "pound banknote"
+msgstr "sterlin banknot"
+
+msgid "money with wings"
+msgstr "kanatlı para"
+
+msgid "credit card"
+msgstr "kredi kartı"
+
+msgid "receipt"
+msgstr "makbuz"
+
+msgid "chart increasing with yen"
+msgstr "yen simgeli artış grafiği"
+
+msgid "envelope"
+msgstr "zarf"
+
+msgid "e-mail"
+msgstr "e-posta"
+
+msgid "incoming envelope"
+msgstr "gelen zarf"
+
+msgid "envelope with arrow"
+msgstr "oklu zarf"
+
+msgid "outbox tray"
+msgstr "giden kutusu"
+
+msgid "inbox tray"
+msgstr "gelen kutusu"
+
+msgid "package"
+msgstr "paket"
+
+msgid "closed mailbox with raised flag"
+msgstr "işareti yukarıda kapalı posta kutusu"
+
+msgid "closed mailbox with lowered flag"
+msgstr "işareti aşağıda kapalı posta kutusu"
+
+msgid "open mailbox with raised flag"
+msgstr "işareti yukarıda açık posta kutusu"
+
+msgid "open mailbox with lowered flag"
+msgstr "işareti aşağıda açık posta kutusu"
+
+msgid "postbox"
+msgstr "posta kutusu"
+
+msgid "ballot box with ballot"
+msgstr "oy sandığı"
+
+msgid "pencil"
+msgstr "kurşun kalem"
+
+msgid "black nib"
+msgstr "siyah uç"
+
+msgid "fountain pen"
+msgstr "dolma kalem"
+
+msgid "pen"
+msgstr "kalem"
+
+msgid "paintbrush"
+msgstr "boya fırçası"
+
+msgid "crayon"
+msgstr "pastel boya"
+
+msgid "memo"
+msgstr "not"
+
+msgid "briefcase"
+msgstr "evrak çantası"
+
+msgid "file folder"
+msgstr "dosya klasörü"
+
+msgid "open file folder"
+msgstr "açık dosya klasörü"
+
+msgid "card index dividers"
+msgstr "dosya ayırıcı"
+
+msgid "calendar"
+msgstr "takvim"
+
+msgid "tear-off calendar"
+msgstr "koparmalı takvim"
+
+msgid "spiral notepad"
+msgstr "spiral not defteri"
+
+msgid "spiral calendar"
+msgstr "spiral takvim"
+
+msgid "card index"
+msgstr "kart dizini"
+
+msgid "chart increasing"
+msgstr "artış grafiği"
+
+msgid "chart decreasing"
+msgstr "iniş grafiği"
+
+msgid "bar chart"
+msgstr "çubuk grafiği"
+
+msgid "clipboard"
+msgstr "pano"
+
+msgid "pushpin"
+msgstr "raptiye"
+
+msgid "round pushpin"
+msgstr "yuvarlak raptiye"
+
+msgid "paperclip"
+msgstr "ataş"
+
+msgid "linked paperclips"
+msgstr "iç içe geçmiş ataşlar"
+
+msgid "straight ruler"
+msgstr "düz cetvel"
+
+msgid "triangular ruler"
+msgstr "gönye"
+
+msgid "scissors"
+msgstr "makas"
+
+msgid "card file box"
+msgstr "dosya kutusu"
+
+msgid "file cabinet"
+msgstr "dosya dolabı"
+
+msgid "wastebasket"
+msgstr "çöp sepeti"
+
+msgid "locked"
+msgstr "kilit"
+
+msgid "unlocked"
+msgstr "açık kilit"
+
+msgid "locked with pen"
+msgstr "kilit ve kalem"
+
+msgid "locked with key"
+msgstr "anahtarlı kapalı kilit"
+
+msgid "key"
+msgstr "anahtar"
+
+msgid "old key"
+msgstr "eski anahtar"
+
+msgid "hammer"
+msgstr "çekiç"
+
+msgid "axe"
+msgstr "balta"
+
+msgid "pick"
+msgstr "kazma"
+
+msgid "hammer and pick"
+msgstr "çekiç ve kazma"
+
+msgid "hammer and wrench"
+msgstr "çekiç ve somun anahtarı"
+
+msgid "dagger"
+msgstr "hançer"
+
+msgid "crossed swords"
+msgstr "çapraz kılıçlar"
+
+msgid "bomb"
+msgstr "bomba"
+
+msgid "boomerang"
+msgstr "bumerang"
+
+msgid "bow and arrow"
+msgstr "ok ve yay"
+
+msgid "shield"
+msgstr "kalkan"
+
+msgid "carpentry saw"
+msgstr "testere"
+
+msgid "wrench"
+msgstr "somun anahtarı"
+
+msgid "screwdriver"
+msgstr "tornavida"
+
+msgid "nut and bolt"
+msgstr "somun ve vida"
+
+msgid "gear"
+msgstr "dişli"
+
+msgid "clamp"
+msgstr "mengene"
+
+msgid "balance scale"
+msgstr "terazi"
+
+msgid "white cane"
+msgstr "görme engelli bastonu"
+
+msgid "link"
+msgstr "bağlantı işareti"
+
+msgid "chains"
+msgstr "zincir"
+
+msgid "hook"
+msgstr "çengel"
+
+msgid "toolbox"
+msgstr "alet çantası"
+
+msgid "magnet"
+msgstr "mıknatıs"
+
+msgid "ladder"
+msgstr "merdiven"
+
+msgid "alembic"
+msgstr "imbik"
+
+msgid "test tube"
+msgstr "deney tüpü"
+
+msgid "petri dish"
+msgstr "petri kabı"
+
+msgid "dna"
+msgstr "dna"
+
+msgid "microscope"
+msgstr "mikroskop"
+
+msgid "telescope"
+msgstr "teleskop"
+
+msgid "satellite antenna"
+msgstr "uydu anteni"
+
+msgid "syringe"
+msgstr "şırınga"
+
+msgid "drop of blood"
+msgstr "kan damlası"
+
+msgid "pill"
+msgstr "hap"
+
+msgid "adhesive bandage"
+msgstr "yara bandı"
+
+msgid "crutch"
+msgstr "koltuk değneği"
+
+msgid "stethoscope"
+msgstr "stetoskop"
+
+msgid "x-ray"
+msgstr "x ışını"
+
+msgid "door"
+msgstr "kapı"
+
+msgid "elevator"
+msgstr "asansör"
+
+msgid "mirror"
+msgstr "ayna"
+
+msgid "window"
+msgstr "pencere"
+
+msgid "bed"
+msgstr "yatak"
+
+msgid "couch and lamp"
+msgstr "kanepe ve lamba"
+
+msgid "chair"
+msgstr "sandalye"
+
+msgid "toilet"
+msgstr "klozet"
+
+msgid "plunger"
+msgstr "lavabo pompası"
+
+msgid "shower"
+msgstr "duş"
+
+msgid "bathtub"
+msgstr "banyo küveti"
+
+msgid "mouse trap"
+msgstr "fare kapanı"
+
+msgid "razor"
+msgstr "ustura"
+
+msgid "lotion bottle"
+msgstr "losyon şişesi"
+
+msgid "safety pin"
+msgstr "çengelli iğne"
+
+msgid "broom"
+msgstr "süpürge"
+
+msgid "basket"
+msgstr "sepet"
+
+msgid "roll of paper"
+msgstr "kağıt rulosu"
+
+msgid "bucket"
+msgstr "kova"
+
+msgid "soap"
+msgstr "sabun"
+
+msgid "bubbles"
+msgstr "baloncuk"
+
+msgid "toothbrush"
+msgstr "diş fırçası"
+
+msgid "sponge"
+msgstr "sünger"
+
+msgid "fire extinguisher"
+msgstr "yangın söndürücü"
+
+msgid "shopping cart"
+msgstr "alışveriş arabası"
+
+msgid "cigarette"
+msgstr "sigara"
+
+msgid "coffin"
+msgstr "tabut"
+
+msgid "headstone"
+msgstr "mezar taşı"
+
+msgid "funeral urn"
+msgstr "kül kavanozu"
+
+msgid "nazar amulet"
+msgstr "nazarlık"
+
+msgid "hamsa"
+msgstr "Fatıma’nın Eli"
+
+msgid "moai"
+msgstr "moyai heykeli"
+
+msgid "placard"
+msgstr "tabela"
+
+msgid "identification card"
+msgstr "kimlik kartı"
+
+msgid "ATM sign"
+msgstr "ATM işareti"
+
+msgid "litter in bin sign"
+msgstr "çöp kutusu işareti"
+
+msgid "potable water"
+msgstr "içilebilir su"
+
+msgid "wheelchair symbol"
+msgstr "tekerlekli sandalye sembolü"
+
+msgid "men’s room"
+msgstr "erkekler tuvaleti"
+
+msgid "women’s room"
+msgstr "kadınlar tuvaleti"
+
+msgid "restroom"
+msgstr "tuvalet"
+
+msgid "baby symbol"
+msgstr "bebek işareti"
+
+msgid "water closet"
+msgstr "wc"
+
+msgid "passport control"
+msgstr "pasaport kontrolü"
+
+msgid "customs"
+msgstr "gümrük"
+
+msgid "baggage claim"
+msgstr "bagaj teslim"
+
+msgid "left luggage"
+msgstr "eşya emanet"
+
+msgid "warning"
+msgstr "uyarı işareti"
+
+msgid "children crossing"
+msgstr "karşıya geçen çocuklar"
+
+msgid "no entry"
+msgstr "girilmez"
+
+msgid "prohibited"
+msgstr "girmek yasak"
+
+msgid "no bicycles"
+msgstr "bisiklet yasak"
+
+msgid "no smoking"
+msgstr "sigara içilmez"
+
+msgid "no littering"
+msgstr "çöp atılmaz"
+
+msgid "non-potable water"
+msgstr "içilmeyen su"
+
+msgid "no pedestrians"
+msgstr "yayalara yasak"
+
+msgid "no mobile phones"
+msgstr "cep telefonu yasak"
+
+msgid "no one under eighteen"
+msgstr "18 yaş altı yasak"
+
+msgid "radioactive"
+msgstr "radyoaktif"
+
+msgid "biohazard"
+msgstr "biyolojik tehlike"
+
+msgid "up arrow"
+msgstr "yukarı ok"
+
+msgid "up-right arrow"
+msgstr "sağ yukarı ok"
+
+msgid "right arrow"
+msgstr "sağ ok"
+
+msgid "down-right arrow"
+msgstr "sağ aşağı ok"
+
+msgid "down arrow"
+msgstr "aşağı ok"
+
+msgid "down-left arrow"
+msgstr "sol aşağı ok"
+
+msgid "left arrow"
+msgstr "sol ok"
+
+msgid "up-left arrow"
+msgstr "sol yukarı ok"
+
+msgid "up-down arrow"
+msgstr "yukarı ve aşağı ok"
+
+msgid "right arrow curving left"
+msgstr "sola kıvrımlı sağ ok"
+
+msgid "left arrow curving right"
+msgstr "sağa kıvrımlı sol ok"
+
+msgid "clockwise vertical arrows"
+msgstr "saat yönünde dönen oklar"
+
+msgid "counterclockwise arrows button"
+msgstr "saat yönünün tersinde dönen oklar"
+
+msgid "BACK arrow"
+msgstr "geri oku"
+
+msgid "END arrow"
+msgstr "bitiş oku"
+
+msgid "ON! arrow"
+msgstr "açık oku"
+
+msgid "SOON arrow"
+msgstr "yakında işareti"
+
+msgid "TOP arrow"
+msgstr "yukarı oku"
+
+msgid "place of worship"
+msgstr "ibadethane"
+
+msgid "atom symbol"
+msgstr "atom sembolü"
+
+msgid "om"
+msgstr "om"
+
+msgid "star of David"
+msgstr "Davut yıldızı"
+
+msgid "wheel of dharma"
+msgstr "darma çemberi"
+
+msgid "yin yang"
+msgstr "yin yang"
+
+msgid "latin cross"
+msgstr "Latin haçı"
+
+msgid "orthodox cross"
+msgstr "Ortodoks haçı"
+
+msgid "star and crescent"
+msgstr "ay yıldız"
+
+msgid "peace symbol"
+msgstr "barış sembolü"
+
+msgid "menorah"
+msgstr "Yahudi şamdanı"
+
+msgid "dotted six-pointed star"
+msgstr "altı köşeli yıldız"
+
+msgid "khanda"
+msgstr "khanda"
+
+msgid "Aries"
+msgstr "koç burcu"
+
+msgid "Taurus"
+msgstr "boğa burcu"
+
+msgid "Gemini"
+msgstr "ikizler burcu"
+
+msgid "Cancer"
+msgstr "yengeç burcu"
+
+msgid "Leo"
+msgstr "aslan burcu"
+
+msgid "Virgo"
+msgstr "başak burcu"
+
+msgid "Libra"
+msgstr "terazi burcu"
+
+msgid "Scorpio"
+msgstr "akrep burcu"
+
+msgid "Sagittarius"
+msgstr "yay burcu"
+
+msgid "Capricorn"
+msgstr "oğlak burcu"
+
+msgid "Aquarius"
+msgstr "kova burcu"
+
+msgid "Pisces"
+msgstr "balık burcu"
+
+msgid "Ophiuchus"
+msgstr "Yılancı"
+
+msgid "shuffle tracks button"
+msgstr "parça karıştırma düğmesi"
+
+msgid "repeat button"
+msgstr "tekrarlama düğmesi"
+
+msgid "repeat single button"
+msgstr "tek parça tekrarlama düğmesi"
+
+msgid "play button"
+msgstr "oynatma düğmesi"
+
+msgid "fast-forward button"
+msgstr "ileri sarma düğmesi"
+
+msgid "next track button"
+msgstr "sonraki parça düğmesi"
+
+msgid "play or pause button"
+msgstr "oynatma veya duraklatma düğmesi"
+
+msgid "reverse button"
+msgstr "geri düğmesi"
+
+msgid "fast reverse button"
+msgstr "hızlı geri düğmesi"
+
+msgid "last track button"
+msgstr "son parça düğmesi"
+
+msgid "upwards button"
+msgstr "yukarı düğmesi"
+
+msgid "fast up button"
+msgstr "hızlı yukarı düğmesi"
+
+msgid "downwards button"
+msgstr "aşağı düğmesi"
+
+msgid "fast down button"
+msgstr "hızlı aşağı düğmesi"
+
+msgid "pause button"
+msgstr "duraklatma düğmesi"
+
+msgid "stop button"
+msgstr "durdurma düğmesi"
+
+msgid "record button"
+msgstr "kayıt düğmesi"
+
+msgid "eject button"
+msgstr "çıkarma düğmesi"
+
+msgid "cinema"
+msgstr "sinema"
+
+msgid "dim button"
+msgstr "düşük parlaklık"
+
+msgid "bright button"
+msgstr "yüksek parlaklık"
+
+msgid "antenna bars"
+msgstr "sinyal gücü"
+
+msgid "wireless"
+msgstr "kablosuz"
+
+msgid "vibration mode"
+msgstr "titreşim modu"
+
+msgid "mobile phone off"
+msgstr "cep telefonu kapalı"
+
+msgid "female sign"
+msgstr "kadın sembolü"
+
+msgid "male sign"
+msgstr "erkek sembolü"
+
+msgid "multiply"
+msgstr "çarpım işareti"
+
+msgid "plus"
+msgstr "artı"
+
+msgid "minus"
+msgstr "eksi"
+
+msgid "divide"
+msgstr "bölü işareti"
+
+msgid "heavy equals sign"
+msgstr "kalın eşittir işareti"
+
+msgid "infinity"
+msgstr "sonsuz"
+
+msgid "red question mark"
+msgstr "kırmızı soru işareti"
+
+msgid "white question mark"
+msgstr "beyaz soru işareti"
+
+msgid "white exclamation mark"
+msgstr "beyaz ünlem işareti"
+
+msgid "red exclamation mark"
+msgstr "kırmızı ünlem işareti"
+
+msgid "currency exchange"
+msgstr "kambiyo"
+
+msgid "heavy dollar sign"
+msgstr "dolar işareti"
+
+msgid "medical symbol"
+msgstr "tıp sembolü"
+
+msgid "recycling symbol"
+msgstr "geri dönüşüm simgesi"
+
+msgid "fleur-de-lis"
+msgstr "zambak"
+
+msgid "trident emblem"
+msgstr "üçlü çatal işareti"
+
+msgid "name badge"
+msgstr "ad rozeti"
+
+msgid "Japanese symbol for beginner"
+msgstr "Japonca yeni başlayan sembolü"
+
+msgid "hollow red circle"
+msgstr "kalın kırmızı çember"
+
+msgid "check mark button"
+msgstr "onay işareti düğmesi"
+
+msgid "check box with check"
+msgstr "seçilmiş onay kutusu"
+
+msgid "check mark"
+msgstr "onay işareti"
+
+msgid "cross mark"
+msgstr "çarpı işareti"
+
+msgid "cross mark button"
+msgstr "çarpı işareti düğmesi"
+
+msgid "curly loop"
+msgstr "kıvrık döngü"
+
+msgid "double curly loop"
+msgstr "çift kıvrık döngü"
+
+msgid "eight-spoked asterisk"
+msgstr "sekiz uçlu yıldız"
+
+msgid "eight-pointed star"
+msgstr "sekiz noktalı yıldız"
+
+msgid "sparkle"
+msgstr "parlama"
+
+msgid "copyright"
+msgstr "telif hakkı işareti"
+
+msgid "registered"
+msgstr "tescil işareti"
+
+msgid "trade mark"
+msgstr "ticari marka işareti"
+
+msgid "input latin uppercase"
+msgstr "büyük harfler"
+
+msgid "input latin lowercase"
+msgstr "küçük harfler"
+
+msgid "input numbers"
+msgstr "sayılar"
+
+msgid "input symbols"
+msgstr "işaretler"
+
+msgid "input latin letters"
+msgstr "Latin alfabesi"
+
+msgid "A button (blood type)"
+msgstr "A düğmesi (kan grubu)"
+
+msgid "AB button (blood type)"
+msgstr "AB düğmesi (kan grubu)"
+
+msgid "B button (blood type)"
+msgstr "B grubu (kan grubu)"
+
+msgid "CL button"
+msgstr "CL düğmesi"
+
+msgid "COOL button"
+msgstr "COOL düğmesi"
+
+msgid "FREE button"
+msgstr "FREE düğmesi"
+
+msgid "ID button"
+msgstr "ID düğmesi"
+
+msgid "circled M"
+msgstr "daire içinde M harfi"
+
+msgid "NEW button"
+msgstr "NEW düğmesi"
+
+msgid "NG button"
+msgstr "NG düğmesi"
+
+msgid "O button (blood type)"
+msgstr "0 düğmesi (kan grubu)"
+
+msgid "OK button"
+msgstr "OK düğmesi"
+
+msgid "P button"
+msgstr "P düğmesi"
+
+msgid "SOS button"
+msgstr "SOS düğmesi"
+
+msgid "UP! button"
+msgstr "UP! düğmesi"
+
+msgid "VS button"
+msgstr "VS düğmesi"
+
+msgid "Japanese “here” button"
+msgstr "Japonca \"burada\" düğmesi"
+
+msgid "Japanese “service charge” button"
+msgstr "Japonca \"servis ücreti\" düğmesi"
+
+msgid "Japanese “monthly amount” button"
+msgstr "Japonca \"aylık ücret\" düğmesi"
+
+msgid "Japanese “not free of charge” button"
+msgstr "Japonca \"ücretsiz değil\" düğmesi"
+
+msgid "Japanese “reserved” button"
+msgstr "Japonca \"rezerve\" düğmesi"
+
+msgid "Japanese “bargain” button"
+msgstr "Japonca \"avantaj\" düğmesi"
+
+msgid "Japanese “discount” button"
+msgstr "Japonca \"indirim\" düğmesi"
+
+msgid "Japanese “free of charge” button"
+msgstr "Japonca \"ücretsiz\" düğmesi"
+
+msgid "Japanese “prohibited” button"
+msgstr "Japonca \"yasak\" düğmesi"
+
+msgid "Japanese “acceptable” button"
+msgstr "Japonca \"kabul edilebilir\" düğmesi"
+
+msgid "Japanese “application” button"
+msgstr "Japonca \"uygulama\" düğmesi"
+
+msgid "Japanese “passing grade” button"
+msgstr "Japonca \"geçer not\" düğmesi"
+
+msgid "Japanese “vacancy” button"
+msgstr "Japonca \"yer var\" düğmesi"
+
+msgid "Japanese “congratulations” button"
+msgstr "Japonca \"tebrikler\" düğmesi"
+
+msgid "Japanese “secret” button"
+msgstr "Japonca \"sır\" düğmesi"
+
+msgid "Japanese “open for business” button"
+msgstr "Japonca \"hizmete hazır\" düğmesi"
+
+msgid "Japanese “no vacancy” button"
+msgstr "Japonca \"yer yok\" düğmesi"
+
+msgid "red circle"
+msgstr "kırmızı daire"
+
+msgid "orange circle"
+msgstr "turuncu daire"
+
+msgid "yellow circle"
+msgstr "sarı daire"
+
+msgid "green circle"
+msgstr "yeşil daire"
+
+msgid "blue circle"
+msgstr "mavi daire"
+
+msgid "purple circle"
+msgstr "mor daire"
+
+msgid "brown circle"
+msgstr "kahverengi daire"
+
+msgid "black circle"
+msgstr "siyah daire"
+
+msgid "white circle"
+msgstr "beyaz daire"
+
+msgid "red square"
+msgstr "kırmızı kare"
+
+msgid "orange square"
+msgstr "turuncu kare"
+
+msgid "yellow square"
+msgstr "sarı kare"
+
+msgid "green square"
+msgstr "yeşil kare"
+
+msgid "blue square"
+msgstr "mavi kare"
+
+msgid "purple square"
+msgstr "mor kare"
+
+msgid "brown square"
+msgstr "kahverengi kare"
+
+msgid "black large square"
+msgstr "büyük siyah kare"
+
+msgid "white large square"
+msgstr "büyük beyaz kare"
+
+msgid "black small square"
+msgstr "küçük siyah kare"
+
+msgid "white small square"
+msgstr "küçük beyaz kare"
+
+msgid "large orange diamond"
+msgstr "büyük turuncu karo"
+
+msgid "large blue diamond"
+msgstr "büyük mavi karo"
+
+msgid "small orange diamond"
+msgstr "küçük turuncu karo"
+
+msgid "small blue diamond"
+msgstr "küçük mavi karo"
+
+msgid "red triangle pointed up"
+msgstr "yukarı bakan kırmızı üçgen"
+
+msgid "red triangle pointed down"
+msgstr "aşağı bakan kırmızı üçgen"
+
+msgid "diamond with a dot"
+msgstr "içinde noktalı karo"
+
+msgid "radio button"
+msgstr "radyo düğmesi"
+
+msgid "white square button"
+msgstr "beyaz kare düğme"
+
+msgid "black square button"
+msgstr "siyah kare düğme"
+
+msgid "chequered flag"
+msgstr "damalı bayrak"
+
+msgid "triangular flag"
+msgstr "üçgen bayrak"
+
+msgid "crossed flags"
+msgstr "çapraz bayraklar"
+
+msgid "black flag"
+msgstr "siyah bayrak"
+
+msgid "white flag"
+msgstr "beyaz bayrak"
+
+msgid "pirate flag"
+msgstr "korsan bayrağı"
+
+msgid "person: red hair"
+msgstr "yetişkin: kızıl saç"
+
+msgid "person: curly hair"
+msgstr "yetişkin: kıvırcık saç"
+
+msgid "person: white hair"
+msgstr "yetişkin: beyaz saç"
+
+msgid "person: bald"
+msgstr "yetişkin: kel"
+
+msgid "man: red hair"
+msgstr "erkek: kızıl saç"
+
+msgid "man: curly hair"
+msgstr "erkek: kıvırcık saç"
+
+msgid "man: white hair"
+msgstr "erkek: beyaz saç"
+
+msgid "man: bald"
+msgstr "erkek: kel"
+
+msgid "woman: red hair"
+msgstr "kadın: kızıl saç"
+
+msgid "woman: curly hair"
+msgstr "kadın: kıvırcık saç"
+
+msgid "woman: white hair"
+msgstr "kadın: beyaz saç"
+
+msgid "woman: bald"
+msgstr "kadın: kel"
+
+msgid "kiss: woman, man"
+msgstr "öpücük: kadın erkek"
+
+msgid "kiss: man, man"
+msgstr "öpücük: erkek erkek"
+
+msgid "kiss: woman, woman"
+msgstr "öpücük: kadın kadın"
+
+msgid "couple with heart: woman, man"
+msgstr "kalpli çift: kadın erkek"
+
+msgid "couple with heart: man, man"
+msgstr "kalpli çift: erkek erkek"
+
+msgid "couple with heart: woman, woman"
+msgstr "kalpli çift: kadın kadın"
+
+msgid "family: man, woman, boy"
+msgstr "aile: erkek kadın erkek çocuk"
+
+msgid "family: man, woman, girl"
+msgstr "aile: erkek kadın kız çocuk"
+
+msgid "family: man, woman, girl, boy"
+msgstr "aile: erkek kadın kız çocuk erkek çocuk"
+
+msgid "family: man, woman, boy, boy"
+msgstr "aile: erkek kadın erkek çocuk erkek çocuk"
+
+msgid "family: man, woman, girl, girl"
+msgstr "aile: erkek kadın kız çocuk kız çocuk"
+
+msgid "family: man, man, boy"
+msgstr "aile: erkek erkek erkek çocuk"
+
+msgid "family: man, man, girl"
+msgstr "aile: erkek erkek kız çocuk"
+
+msgid "family: man, man, girl, boy"
+msgstr "aile: erkek erkek kız çocuk erkek çocuk"
+
+msgid "family: man, man, boy, boy"
+msgstr "aile: erkek erkek erkek çocuk erkek çocuk"
+
+msgid "family: man, man, girl, girl"
+msgstr "aile: erkek erkek kız çocuk kız çocuk"
+
+msgid "family: woman, woman, boy"
+msgstr "aile: kadın kadın erkek çocuk"
+
+msgid "family: woman, woman, girl"
+msgstr "aile: kadın kadın kız çocuk"
+
+msgid "family: woman, woman, girl, boy"
+msgstr "aile: kadın kadın kız çocuk erkek çocuk"
+
+msgid "family: woman, woman, boy, boy"
+msgstr "aile: kadın kadın erkek çocuk erkek çocuk"
+
+msgid "family: woman, woman, girl, girl"
+msgstr "aile: kadın kadın kız çocuk kız çocuk"
+
+msgid "family: man, boy"
+msgstr "aile: erkek erkek çocuk"
+
+msgid "family: man, boy, boy"
+msgstr "aile: erkek erkek çocuk erkek çocuk"
+
+msgid "family: man, girl"
+msgstr "aile: erkek kız çocuk"
+
+msgid "family: man, girl, boy"
+msgstr "aile: erkek kız çocuk erkek çocuk"
+
+msgid "family: man, girl, girl"
+msgstr "aile: erkek kız çocuk kız çocuk"
+
+msgid "family: woman, boy"
+msgstr "aile: kadın erkek çocuk"
+
+msgid "family: woman, boy, boy"
+msgstr "aile: kadın erkek çocuk erkek çocuk"
+
+msgid "family: woman, girl"
+msgstr "aile: kadın kız çocuk"
+
+msgid "family: woman, girl, boy"
+msgstr "aile: kadın kız çocuk erkek çocuk"
+
+msgid "family: woman, girl, girl"
+msgstr "aile: kadın kız çocuk kız çocuk"
+
+msgid "keycap: 10"
+msgstr "tuş: 10"
+
+msgid "flag: Ascension Island"
+msgstr "bayrak: Ascension Adası"
+
+msgid "flag: Andorra"
+msgstr "bayrak: Andorra"
+
+msgid "flag: United Arab Emirates"
+msgstr "bayrak: Birleşik Arap Emirlikleri"
+
+msgid "flag: Afghanistan"
+msgstr "bayrak: Afganistan"
+
+msgid "flag: Antigua & Barbuda"
+msgstr "bayrak: Antigua ve Barbuda"
+
+msgid "flag: Anguilla"
+msgstr "bayrak: Anguilla"
+
+msgid "flag: Albania"
+msgstr "bayrak: Arnavutluk"
+
+msgid "flag: Armenia"
+msgstr "bayrak: Ermenistan"
+
+msgid "flag: Angola"
+msgstr "bayrak: Angola"
+
+msgid "flag: Antarctica"
+msgstr "bayrak: Antarktika"
+
+msgid "flag: Argentina"
+msgstr "bayrak: Arjantin"
+
+msgid "flag: American Samoa"
+msgstr "bayrak: Amerikan Samoası"
+
+msgid "flag: Austria"
+msgstr "bayrak: Avusturya"
+
+msgid "flag: Australia"
+msgstr "bayrak: Avustralya"
+
+msgid "flag: Aruba"
+msgstr "bayrak: Aruba"
+
+msgid "flag: Åland Islands"
+msgstr "bayrak: Åland Adaları"
+
+msgid "flag: Azerbaijan"
+msgstr "bayrak: Azerbaycan"
+
+msgid "flag: Bosnia & Herzegovina"
+msgstr "bayrak: Bosna-Hersek"
+
+msgid "flag: Barbados"
+msgstr "bayrak: Barbados"
+
+msgid "flag: Bangladesh"
+msgstr "bayrak: Bangladeş"
+
+msgid "flag: Belgium"
+msgstr "bayrak: Belçika"
+
+msgid "flag: Burkina Faso"
+msgstr "bayrak: Burkina Faso"
+
+msgid "flag: Bulgaria"
+msgstr "bayrak: Bulgaristan"
+
+msgid "flag: Bahrain"
+msgstr "bayrak: Bahreyn"
+
+msgid "flag: Burundi"
+msgstr "bayrak: Burundi"
+
+msgid "flag: Benin"
+msgstr "bayrak: Benin"
+
+msgid "flag: St. Barthélemy"
+msgstr "bayrak: Saint Barthelemy"
+
+msgid "flag: Bermuda"
+msgstr "bayrak: Bermuda"
+
+msgid "flag: Brunei"
+msgstr "bayrak: Brunei"
+
+msgid "flag: Bolivia"
+msgstr "bayrak: Bolivya"
+
+msgid "flag: Caribbean Netherlands"
+msgstr "bayrak: Karayip Hollandası"
+
+msgid "flag: Brazil"
+msgstr "bayrak: Brezilya"
+
+msgid "flag: Bahamas"
+msgstr "bayrak: Bahamalar"
+
+msgid "flag: Bhutan"
+msgstr "bayrak: Butan"
+
+msgid "flag: Bouvet Island"
+msgstr "bayrak: Bouvet Adası"
+
+msgid "flag: Botswana"
+msgstr "bayrak: Botsvana"
+
+msgid "flag: Belarus"
+msgstr "bayrak: Belarus"
+
+msgid "flag: Belize"
+msgstr "bayrak: Belize"
+
+msgid "flag: Canada"
+msgstr "bayrak: Kanada"
+
+msgid "flag: Cocos (Keeling) Islands"
+msgstr "bayrak: Cocos (Keeling) Adaları"
+
+msgid "flag: Congo - Kinshasa"
+msgstr "bayrak: Kongo - Kinşasa"
+
+msgid "flag: Central African Republic"
+msgstr "bayrak: Orta Afrika Cumhuriyeti"
+
+msgid "flag: Congo - Brazzaville"
+msgstr "bayrak: Kongo - Brazavil"
+
+msgid "flag: Switzerland"
+msgstr "bayrak: İsviçre"
+
+msgid "flag: Côte d’Ivoire"
+msgstr "bayrak: Côte d’Ivoire"
+
+msgid "flag: Cook Islands"
+msgstr "bayrak: Cook Adaları"
+
+msgid "flag: Chile"
+msgstr "bayrak: Şili"
+
+msgid "flag: Cameroon"
+msgstr "bayrak: Kamerun"
+
+msgid "flag: China"
+msgstr "bayrak: Çin"
+
+msgid "flag: Colombia"
+msgstr "bayrak: Kolombiya"
+
+msgid "flag: Clipperton Island"
+msgstr "bayrak: Clipperton Adası"
+
+msgid "flag: Costa Rica"
+msgstr "bayrak: Kosta Rika"
+
+msgid "flag: Cuba"
+msgstr "bayrak: Küba"
+
+msgid "flag: Cape Verde"
+msgstr "bayrak: Cabo Verde"
+
+msgid "flag: Curaçao"
+msgstr "bayrak: Curaçao"
+
+msgid "flag: Christmas Island"
+msgstr "bayrak: Christmas Adası"
+
+msgid "flag: Cyprus"
+msgstr "bayrak: Kıbrıs"
+
+msgid "flag: Czechia"
+msgstr "bayrak: Çekya"
+
+msgid "flag: Germany"
+msgstr "bayrak: Almanya"
+
+msgid "flag: Diego Garcia"
+msgstr "bayrak: Diego Garcia"
+
+msgid "flag: Djibouti"
+msgstr "bayrak: Cibuti"
+
+msgid "flag: Denmark"
+msgstr "bayrak: Danimarka"
+
+msgid "flag: Dominica"
+msgstr "bayrak: Dominika"
+
+msgid "flag: Dominican Republic"
+msgstr "bayrak: Dominik Cumhuriyeti"
+
+msgid "flag: Algeria"
+msgstr "bayrak: Cezayir"
+
+msgid "flag: Ceuta & Melilla"
+msgstr "bayrak: Ceuta ve Melilla"
+
+msgid "flag: Ecuador"
+msgstr "bayrak: Ekvador"
+
+msgid "flag: Estonia"
+msgstr "bayrak: Estonya"
+
+msgid "flag: Egypt"
+msgstr "bayrak: Mısır"
+
+msgid "flag: Western Sahara"
+msgstr "bayrak: Batı Sahra"
+
+msgid "flag: Eritrea"
+msgstr "bayrak: Eritre"
+
+msgid "flag: Spain"
+msgstr "bayrak: İspanya"
+
+msgid "flag: Ethiopia"
+msgstr "bayrak: Etiyopya"
+
+msgid "flag: European Union"
+msgstr "bayrak: Avrupa Birliği"
+
+msgid "flag: Finland"
+msgstr "bayrak: Finlandiya"
+
+msgid "flag: Fiji"
+msgstr "bayrak: Fiji"
+
+msgid "flag: Falkland Islands"
+msgstr "bayrak: Falkland Adaları"
+
+msgid "flag: Micronesia"
+msgstr "bayrak: Mikronezya"
+
+msgid "flag: Faroe Islands"
+msgstr "bayrak: Faroe Adaları"
+
+msgid "flag: France"
+msgstr "bayrak: Fransa"
+
+msgid "flag: Gabon"
+msgstr "bayrak: Gabon"
+
+msgid "flag: United Kingdom"
+msgstr "bayrak: Birleşik Krallık"
+
+msgid "flag: Grenada"
+msgstr "bayrak: Grenada"
+
+msgid "flag: Georgia"
+msgstr "bayrak: Gürcistan"
+
+msgid "flag: French Guiana"
+msgstr "bayrak: Fransız Guyanası"
+
+msgid "flag: Guernsey"
+msgstr "bayrak: Guernsey"
+
+msgid "flag: Ghana"
+msgstr "bayrak: Gana"
+
+msgid "flag: Gibraltar"
+msgstr "bayrak: Cebelitarık"
+
+msgid "flag: Greenland"
+msgstr "bayrak: Grönland"
+
+msgid "flag: Gambia"
+msgstr "bayrak: Gambiya"
+
+msgid "flag: Guinea"
+msgstr "bayrak: Gine"
+
+msgid "flag: Guadeloupe"
+msgstr "bayrak: Guadeloupe"
+
+msgid "flag: Equatorial Guinea"
+msgstr "bayrak: Ekvator Ginesi"
+
+msgid "flag: Greece"
+msgstr "bayrak: Yunanistan"
+
+msgid "flag: South Georgia & South Sandwich Islands"
+msgstr "bayrak: Güney Georgia ve Güney Sandwich Adaları"
+
+msgid "flag: Guatemala"
+msgstr "bayrak: Guatemala"
+
+msgid "flag: Guam"
+msgstr "bayrak: Guam"
+
+msgid "flag: Guinea-Bissau"
+msgstr "bayrak: Gine-Bissau"
+
+msgid "flag: Guyana"
+msgstr "bayrak: Guyana"
+
+msgid "flag: Hong Kong SAR China"
+msgstr "bayrak: Çin Hong Kong ÖİB"
+
+msgid "flag: Heard & McDonald Islands"
+msgstr "bayrak: Heard Adası ve McDonald Adaları"
+
+msgid "flag: Honduras"
+msgstr "bayrak: Honduras"
+
+msgid "flag: Croatia"
+msgstr "bayrak: Hırvatistan"
+
+msgid "flag: Haiti"
+msgstr "bayrak: Haiti"
+
+msgid "flag: Hungary"
+msgstr "bayrak: Macaristan"
+
+msgid "flag: Canary Islands"
+msgstr "bayrak: Kanarya Adaları"
+
+msgid "flag: Indonesia"
+msgstr "bayrak: Endonezya"
+
+msgid "flag: Ireland"
+msgstr "bayrak: İrlanda"
+
+msgid "flag: Israel"
+msgstr "bayrak: İsrail"
+
+msgid "flag: Isle of Man"
+msgstr "bayrak: Man Adası"
+
+msgid "flag: India"
+msgstr "bayrak: Hindistan"
+
+msgid "flag: British Indian Ocean Territory"
+msgstr "bayrak: Britanya Hint Okyanusu Toprakları"
+
+msgid "flag: Iraq"
+msgstr "bayrak: Irak"
+
+msgid "flag: Iran"
+msgstr "bayrak: İran"
+
+msgid "flag: Iceland"
+msgstr "bayrak: İzlanda"
+
+msgid "flag: Italy"
+msgstr "bayrak: İtalya"
+
+msgid "flag: Jersey"
+msgstr "bayrak: Jersey"
+
+msgid "flag: Jamaica"
+msgstr "bayrak: Jamaika"
+
+msgid "flag: Jordan"
+msgstr "bayrak: Ürdün"
+
+msgid "flag: Japan"
+msgstr "bayrak: Japonya"
+
+msgid "flag: Kenya"
+msgstr "bayrak: Kenya"
+
+msgid "flag: Kyrgyzstan"
+msgstr "bayrak: Kırgızistan"
+
+msgid "flag: Cambodia"
+msgstr "bayrak: Kamboçya"
+
+msgid "flag: Kiribati"
+msgstr "bayrak: Kiribati"
+
+msgid "flag: Comoros"
+msgstr "bayrak: Komorlar"
+
+msgid "flag: St. Kitts & Nevis"
+msgstr "bayrak: Saint Kitts ve Nevis"
+
+msgid "flag: North Korea"
+msgstr "bayrak: Kuzey Kore"
+
+msgid "flag: South Korea"
+msgstr "bayrak: Güney Kore"
+
+msgid "flag: Kuwait"
+msgstr "bayrak: Kuveyt"
+
+msgid "flag: Cayman Islands"
+msgstr "bayrak: Cayman Adaları"
+
+msgid "flag: Kazakhstan"
+msgstr "bayrak: Kazakistan"
+
+msgid "flag: Laos"
+msgstr "bayrak: Laos"
+
+msgid "flag: Lebanon"
+msgstr "bayrak: Lübnan"
+
+msgid "flag: St. Lucia"
+msgstr "bayrak: Saint Lucia"
+
+msgid "flag: Liechtenstein"
+msgstr "bayrak: Liechtenstein"
+
+msgid "flag: Sri Lanka"
+msgstr "bayrak: Sri Lanka"
+
+msgid "flag: Liberia"
+msgstr "bayrak: Liberya"
+
+msgid "flag: Lesotho"
+msgstr "bayrak: Lesotho"
+
+msgid "flag: Lithuania"
+msgstr "bayrak: Litvanya"
+
+msgid "flag: Luxembourg"
+msgstr "bayrak: Lüksemburg"
+
+msgid "flag: Latvia"
+msgstr "bayrak: Letonya"
+
+msgid "flag: Libya"
+msgstr "bayrak: Libya"
+
+msgid "flag: Morocco"
+msgstr "bayrak: Fas"
+
+msgid "flag: Monaco"
+msgstr "bayrak: Monako"
+
+msgid "flag: Moldova"
+msgstr "bayrak: Moldova"
+
+msgid "flag: Montenegro"
+msgstr "bayrak: Karadağ"
+
+msgid "flag: St. Martin"
+msgstr "bayrak: Saint Martin"
+
+msgid "flag: Madagascar"
+msgstr "bayrak: Madagaskar"
+
+msgid "flag: Marshall Islands"
+msgstr "bayrak: Marshall Adaları"
+
+msgid "flag: North Macedonia"
+msgstr "bayrak: Kuzey Makedonya"
+
+msgid "flag: Mali"
+msgstr "bayrak: Mali"
+
+msgid "flag: Myanmar (Burma)"
+msgstr "bayrak: Myanmar (Burma)"
+
+msgid "flag: Mongolia"
+msgstr "bayrak: Moğolistan"
+
+msgid "flag: Macao SAR China"
+msgstr "bayrak: Çin Makao ÖİB"
+
+msgid "flag: Northern Mariana Islands"
+msgstr "bayrak: Kuzey Mariana Adaları"
+
+msgid "flag: Martinique"
+msgstr "bayrak: Martinik"
+
+msgid "flag: Mauritania"
+msgstr "bayrak: Moritanya"
+
+msgid "flag: Montserrat"
+msgstr "bayrak: Montserrat"
+
+msgid "flag: Malta"
+msgstr "bayrak: Malta"
+
+msgid "flag: Mauritius"
+msgstr "bayrak: Mauritius"
+
+msgid "flag: Maldives"
+msgstr "bayrak: Maldivler"
+
+msgid "flag: Malawi"
+msgstr "bayrak: Malavi"
+
+msgid "flag: Mexico"
+msgstr "bayrak: Meksika"
+
+msgid "flag: Malaysia"
+msgstr "bayrak: Malezya"
+
+msgid "flag: Mozambique"
+msgstr "bayrak: Mozambik"
+
+msgid "flag: Namibia"
+msgstr "bayrak: Namibya"
+
+msgid "flag: New Caledonia"
+msgstr "bayrak: Yeni Kaledonya"
+
+msgid "flag: Niger"
+msgstr "bayrak: Nijer"
+
+msgid "flag: Norfolk Island"
+msgstr "bayrak: Norfolk Adası"
+
+msgid "flag: Nigeria"
+msgstr "bayrak: Nijerya"
+
+msgid "flag: Nicaragua"
+msgstr "bayrak: Nikaragua"
+
+msgid "flag: Netherlands"
+msgstr "bayrak: Hollanda"
+
+msgid "flag: Norway"
+msgstr "bayrak: Norveç"
+
+msgid "flag: Nepal"
+msgstr "bayrak: Nepal"
+
+msgid "flag: Nauru"
+msgstr "bayrak: Nauru"
+
+msgid "flag: Niue"
+msgstr "bayrak: Niue"
+
+msgid "flag: New Zealand"
+msgstr "bayrak: Yeni Zelanda"
+
+msgid "flag: Oman"
+msgstr "bayrak: Umman"
+
+msgid "flag: Panama"
+msgstr "bayrak: Panama"
+
+msgid "flag: Peru"
+msgstr "bayrak: Peru"
+
+msgid "flag: French Polynesia"
+msgstr "bayrak: Fransız Polinezyası"
+
+msgid "flag: Papua New Guinea"
+msgstr "bayrak: Papua Yeni Gine"
+
+msgid "flag: Philippines"
+msgstr "bayrak: Filipinler"
+
+msgid "flag: Pakistan"
+msgstr "bayrak: Pakistan"
+
+msgid "flag: Poland"
+msgstr "bayrak: Polonya"
+
+msgid "flag: St. Pierre & Miquelon"
+msgstr "bayrak: Saint Pierre ve Miquelon"
+
+msgid "flag: Pitcairn Islands"
+msgstr "bayrak: Pitcairn Adaları"
+
+msgid "flag: Puerto Rico"
+msgstr "bayrak: Porto Riko"
+
+msgid "flag: Palestinian Territories"
+msgstr "bayrak: Filistin Bölgeleri"
+
+msgid "flag: Portugal"
+msgstr "bayrak: Portekiz"
+
+msgid "flag: Palau"
+msgstr "bayrak: Palau"
+
+msgid "flag: Paraguay"
+msgstr "bayrak: Paraguay"
+
+msgid "flag: Qatar"
+msgstr "bayrak: Katar"
+
+msgid "flag: Réunion"
+msgstr "bayrak: Reunion"
+
+msgid "flag: Romania"
+msgstr "bayrak: Romanya"
+
+msgid "flag: Serbia"
+msgstr "bayrak: Sırbistan"
+
+msgid "flag: Russia"
+msgstr "bayrak: Rusya"
+
+msgid "flag: Rwanda"
+msgstr "bayrak: Ruanda"
+
+msgid "flag: Saudi Arabia"
+msgstr "bayrak: Suudi Arabistan"
+
+msgid "flag: Solomon Islands"
+msgstr "bayrak: Solomon Adaları"
+
+msgid "flag: Seychelles"
+msgstr "bayrak: Seyşeller"
+
+msgid "flag: Sudan"
+msgstr "bayrak: Sudan"
+
+msgid "flag: Sweden"
+msgstr "bayrak: İsveç"
+
+msgid "flag: Singapore"
+msgstr "bayrak: Singapur"
+
+msgid "flag: St. Helena"
+msgstr "bayrak: Saint Helena"
+
+msgid "flag: Slovenia"
+msgstr "bayrak: Slovenya"
+
+msgid "flag: Svalbard & Jan Mayen"
+msgstr "bayrak: Svalbard ve Jan Mayen"
+
+msgid "flag: Slovakia"
+msgstr "bayrak: Slovakya"
+
+msgid "flag: Sierra Leone"
+msgstr "bayrak: Sierra Leone"
+
+msgid "flag: San Marino"
+msgstr "bayrak: San Marino"
+
+msgid "flag: Senegal"
+msgstr "bayrak: Senegal"
+
+msgid "flag: Somalia"
+msgstr "bayrak: Somali"
+
+msgid "flag: Suriname"
+msgstr "bayrak: Surinam"
+
+msgid "flag: South Sudan"
+msgstr "bayrak: Güney Sudan"
+
+msgid "flag: São Tomé & Príncipe"
+msgstr "bayrak: Sao Tome ve Principe"
+
+msgid "flag: El Salvador"
+msgstr "bayrak: El Salvador"
+
+msgid "flag: Sint Maarten"
+msgstr "bayrak: Sint Maarten"
+
+msgid "flag: Syria"
+msgstr "bayrak: Suriye"
+
+msgid "flag: Eswatini"
+msgstr "bayrak: Esvatini"
+
+msgid "flag: Tristan da Cunha"
+msgstr "bayrak: Tristan da Cunha"
+
+msgid "flag: Turks & Caicos Islands"
+msgstr "bayrak: Turks ve Caicos Adaları"
+
+msgid "flag: Chad"
+msgstr "bayrak: Çad"
+
+msgid "flag: French Southern Territories"
+msgstr "bayrak: Fransız Güney Toprakları"
+
+msgid "flag: Togo"
+msgstr "bayrak: Togo"
+
+msgid "flag: Thailand"
+msgstr "bayrak: Tayland"
+
+msgid "flag: Tajikistan"
+msgstr "bayrak: Tacikistan"
+
+msgid "flag: Tokelau"
+msgstr "bayrak: Tokelau"
+
+msgid "flag: Timor-Leste"
+msgstr "bayrak: Timor-Leste"
+
+msgid "flag: Turkmenistan"
+msgstr "bayrak: Türkmenistan"
+
+msgid "flag: Tunisia"
+msgstr "bayrak: Tunus"
+
+msgid "flag: Tonga"
+msgstr "bayrak: Tonga"
+
+msgid "flag: Türkiye"
+msgstr "bayrak: Türkiye"
+
+msgid "flag: Trinidad & Tobago"
+msgstr "bayrak: Trinidad ve Tobago"
+
+msgid "flag: Tuvalu"
+msgstr "bayrak: Tuvalu"
+
+msgid "flag: Taiwan"
+msgstr "bayrak: Tayvan"
+
+msgid "flag: Tanzania"
+msgstr "bayrak: Tanzanya"
+
+msgid "flag: Ukraine"
+msgstr "bayrak: Ukrayna"
+
+msgid "flag: Uganda"
+msgstr "bayrak: Uganda"
+
+msgid "flag: U.S. Outlying Islands"
+msgstr "bayrak: ABD Küçük Harici Adaları"
+
+msgid "flag: United Nations"
+msgstr "bayrak: Birleşmiş Milletler"
+
+msgid "flag: United States"
+msgstr "bayrak: Amerika Birleşik Devletleri"
+
+msgid "flag: Uruguay"
+msgstr "bayrak: Uruguay"
+
+msgid "flag: Uzbekistan"
+msgstr "bayrak: Özbekistan"
+
+msgid "flag: Vatican City"
+msgstr "bayrak: Vatikan"
+
+msgid "flag: St. Vincent & Grenadines"
+msgstr "bayrak: Saint Vincent ve Grenadinler"
+
+msgid "flag: Venezuela"
+msgstr "bayrak: Venezuela"
+
+msgid "flag: British Virgin Islands"
+msgstr "bayrak: Britanya Virjin Adaları"
+
+msgid "flag: U.S. Virgin Islands"
+msgstr "bayrak: ABD Virjin Adaları"
+
+msgid "flag: Vietnam"
+msgstr "bayrak: Vietnam"
+
+msgid "flag: Vanuatu"
+msgstr "bayrak: Vanuatu"
+
+msgid "flag: Wallis & Futuna"
+msgstr "bayrak: Wallis ve Futuna"
+
+msgid "flag: Samoa"
+msgstr "bayrak: Samoa"
+
+msgid "flag: Kosovo"
+msgstr "bayrak: Kosova"
+
+msgid "flag: Yemen"
+msgstr "bayrak: Yemen"
+
+msgid "flag: Mayotte"
+msgstr "bayrak: Mayotte"
+
+msgid "flag: South Africa"
+msgstr "bayrak: Güney Afrika"
+
+msgid "flag: Zambia"
+msgstr "bayrak: Zambiya"
+
+msgid "flag: Zimbabwe"
+msgstr "bayrak: Zimbabve"
+
+msgid "flag: England"
+msgstr "bayrak: İngiltere"
+
+msgid "flag: Scotland"
+msgstr "bayrak: İskoçya"
+
+msgid "flag: Wales"
+msgstr "bayrak: Galler"

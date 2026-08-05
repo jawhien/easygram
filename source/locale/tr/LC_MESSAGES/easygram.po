@@ -5,11 +5,11 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Easygram 0.50.0 \n"
+"Project-Id-Version: Easygram 0.50.0\n"
 "Report-Msgid-Bugs-To: 'jawhien@gmail.com'\n"
-"POT-Creation-Date: 2025-12-30 14:40+0400\n"
-"PO-Revision-Date: 2025-12-30 14:42+0400\n"
-"Last-Translator: Peter Ivanovich <piatro97@gmail.com>\n"
+"POT-Creation-Date: 2026-02-11 22:12+0300\n"
+"PO-Revision-Date: 2026-02-11 22:12+0300\n"
+"Last-Translator: Eugene Poplavsky <jawhien@gmail.com>\n"
 "Language-Team: Neyman Agayev <neyman1993@gmail.com> <neyman1993@gmail.com>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
@@ -19,8 +19,16 @@ msgstr ""
 "X-Generator: Poedit 1.8.8\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-Basepath: ../../..\n"
-"X-Poedit-KeywordsList: N_\n"
+"X-Poedit-KeywordsList: _;N_;ngettext:1,2;pgettext:1c,2\n"
 "X-Poedit-SearchPath-0: .\n"
+
+msgid ""
+"Are you sure you want to delete the database? You will have to log in to "
+"Telegram again."
+msgstr ""
+
+msgid "Confirmation"
+msgstr "Onay"
 
 msgid "Faces and emotions"
 msgstr "Yüzler ve duygular"
@@ -49,6 +57,191 @@ msgstr "Semboller"
 msgid "Flags"
 msgstr "Bayraklar"
 
+msgid "Offline"
+msgstr "Çevrimdışı"
+
+msgid "Chats"
+msgstr "Sohbetler"
+
+msgid "All chats"
+msgstr "Tüm sohbetler"
+
+msgid "Loading chats..."
+msgstr "Sohbetler yükleniyor..."
+
+msgid "Archive"
+msgstr "Arşiv"
+
+msgid "Mark all chats as read"
+msgstr "Tüm sohbetleri okundu olarak işaretle"
+
+#, python-brace-format
+msgid "Chats ({0})"
+msgstr "Sohbetler ({0})"
+
+msgid "Contacts"
+msgstr "Kişiler"
+
+msgid "About user"
+msgstr "Kullanıcı hakkında"
+
+msgid "Open chat"
+msgstr "Sohbeti aç"
+
+#, python-brace-format
+msgid "Contacts ({0})"
+msgstr "Kişiler ({0})"
+
+msgid "My profile"
+msgstr "Profilim"
+
+msgid "Search"
+msgstr "Ara"
+
+msgid "Preferences"
+msgstr "Ayarlar"
+
+msgid "About Easygram"
+msgstr "Easygram Hakkında"
+
+#, python-brace-format
+msgid "Archive: {count} unread chat"
+msgid_plural "Archive: {count} unread chats"
+msgstr[0] "Arşiv: {count} okunmamış sohbet."
+msgstr[1] "Arşiv: {count} okunmamış sohbetler."
+
+msgid "Skipped one-time voice message"
+msgstr "Tek seferlik sesli mesaj atlandı"
+
+#, python-brace-format
+msgid "Do you really want to delete this \"{name}\" contact?"
+msgstr "\"{name}\" kişisini gerçekten silmek istiyor musunuz?"
+
+msgid "Archived chats"
+msgstr "Arşivlenmiş sohbetler"
+
+msgid "Are you sure you want to close application?"
+msgstr "Uygulamayı kapatmak istediğinize emin misiniz?"
+
+msgid "Exit the program"
+msgstr "Programdan çıkış"
+
+msgid "Loading..."
+msgstr "Yükleniyor..."
+
+msgid "Invalid verification code!"
+msgstr "Doğrulama kodunu girin"
+
+msgid "Invalid password!"
+msgstr "Yanlış şifre!"
+
+msgid "Authorisation Error"
+msgstr "Yetkilendirme Hatası"
+
+#, python-brace-format
+msgid "New message from {sender}: {text}"
+msgstr "{sender} adlı kişiden yeni mesaj: {text}"
+
+#, python-brace-format
+msgid "New message from {sender}"
+msgstr "{sender} adlı kişiden yeni mesaj"
+
+#, python-brace-format
+msgid ""
+"{count} new message from {sender}:\n"
+"{text}"
+msgid_plural ""
+"{count} new messages from {sender}:\n"
+"{text}"
+msgstr[0] ""
+"{sender} adlı kişiden {count} yeni mesaj:\n"
+"{text}"
+msgstr[1] ""
+"{sender} adlı kişiden {count} yeni mesaj:\n"
+"{text}"
+
+#, python-brace-format
+msgid "{count} new message from {sender}"
+msgid_plural "{count} new messages from {sender}"
+msgstr[0] "{sender} adlı kişiden {count} yeni mesaj"
+msgstr[1] "{sender} adlı kişiden {count} yeni mesaj"
+
+#, python-brace-format
+msgid "{count} new message"
+msgid_plural "{count} new messages"
+msgstr[0] "{count} yeni mesaj"
+msgstr[1] "{count} yeni mesaj"
+
+#, python-brace-format
+msgid "from {count} chat"
+msgid_plural "from {count} chats"
+msgstr[0] "{count} sohbetten {count} yeni mesaj"
+msgstr[1] "{count} sohbetten {count} yeni mesaj"
+
+#, python-brace-format
+msgid ""
+"{title}:\n"
+"{text}"
+msgstr ""
+"{title}:\n"
+"{text}"
+
+msgid "Do you really want to mark all the chats on this list as read?"
+msgstr "Bu listedeki tüm sohbetleri okundu olarak işaretlemek istiyor musunuz?"
+
+msgid "Updating..."
+msgstr "Güncelleme..."
+
+msgid "Ready"
+msgstr "Hazır"
+
+msgid "Connecting..."
+msgstr "Bağlanıyor..."
+
+#, python-brace-format
+msgid "{count} unread message"
+msgid_plural "{count} unread messages"
+msgstr[0] "{count} okunmamış mesaj"
+msgstr[1] "{count} okunmamış mesajlar"
+
+msgid "Not supported in this time."
+msgstr "Şu anda desteklenmiyor."
+
+msgid "Information"
+msgstr "Bilgi"
+
+msgid "The invitation link is invalid"
+msgstr "Davet bağlantısı geçersiz."
+
+msgid "Error"
+msgstr "Hata"
+
+#, python-brace-format
+msgid ""
+"Would you like to join this group?\n"
+"Title: {title},\n"
+"Members: {members},\n"
+"Description: {description}"
+msgstr ""
+"Bu gruba katılmak ister misiniz?\n"
+"Adı: {title},\n"
+"Katılımcı sayısı: {members},\n"
+"Açıklama: {description}"
+
+msgid "Join this chat"
+msgstr "Bu sohbete katıl"
+
+msgid "It is not possible to open this link in the application"
+msgstr "Bu bağlantıyı uygulama içinde açmak mümkün değil."
+
+msgid "Couldn't open the link in the app!"
+msgstr "Bağlantı uygulama içinde açılamadı!"
+
+msgid ""
+"It is not possible to open this link in the application. Most likely you are "
+"not a member of this chat."
+msgstr ""
+
 msgid "Selected"
 msgstr "Seçili"
 
@@ -61,12 +254,14 @@ msgstr "Bot menüsü"
 msgid "Bot keyboard"
 msgstr "Bot klavyesi"
 
-#. sizer for the inline bot keyboard.
 msgid "Inline keyboard"
 msgstr "Yerleşik klavye"
 
 msgid "Emoji"
 msgstr "Emoji"
+
+msgid "Send"
+msgstr "Gönder"
 
 msgid "Schedule message"
 msgstr "Mesajı Zamanla"
@@ -76,9 +271,6 @@ msgstr "Tarih ve saati ayarlayın..."
 
 msgid "Without sound"
 msgstr "Sessiz"
-
-msgid "Send"
-msgstr "Gönder"
 
 msgid "Remove reply"
 msgstr "Yanıtı kaldır"
@@ -119,6 +311,9 @@ msgstr "Konu seç"
 msgid "Close"
 msgstr "Kapat"
 
+msgid "Can't open chat for this message."
+msgstr ""
+
 msgid "You need a Telegram premium subscription to send messages on this name."
 msgstr "Bu adla mesaj göndermek için Telegram Premium aboneliği gereklidir."
 
@@ -130,6 +325,9 @@ msgstr "Çoklu seçim etkin"
 
 msgid "Multiple selection disabled"
 msgstr "Çoklu seçim devre dışı"
+
+msgid "Files"
+msgstr "Dosyalar"
 
 msgid "All files"
 msgstr "Tüm dosyalar"
@@ -144,9 +342,6 @@ msgstr "Konu: {name}"
 msgid "The request has been sent"
 msgstr "İstek gönderildi"
 
-msgid "Information"
-msgstr "Bilgi"
-
 #, python-brace-format
 msgid ""
 "Failed to save file \"{name}\", such file already exists and name search "
@@ -154,9 +349,6 @@ msgid ""
 msgstr ""
 "Dosya kaydedilemedi  \"{name}\", böyle bir dosya zaten var ve ad arama "
 "sınırı aşıldı."
-
-msgid "Error"
-msgstr "Hata"
 
 msgid "Messages"
 msgstr "Mesajlar"
@@ -223,11 +415,11 @@ msgstr "Yanıtlar"
 msgid "Bot: {name}"
 msgstr "Bot: {name}"
 
+msgid "Deleted user"
+msgstr "Silinen kullanıcı"
+
 msgid "Premium account"
 msgstr "Premium Hesap"
-
-msgid "Skipped one-time voice message"
-msgstr "Tek seferlik sesli mesaj atlandı"
 
 msgid "An error has occurred."
 msgstr "Bir hata oluştu."
@@ -249,6 +441,9 @@ msgstr "Mesaja git"
 
 msgid "Go to quoted message"
 msgstr "Alıntılanan mesaja git"
+
+msgid "Copyed"
+msgstr ""
 
 msgid "There are no links in this message."
 msgstr "Bu mesajda bağlantı yok."
@@ -333,9 +528,6 @@ msgstr "İptal"
 msgid "About the bot"
 msgstr "Bot hakkında"
 
-msgid "About user"
-msgstr "Kullanıcı hakkında"
-
 msgid "First name:"
 msgstr "Ad:"
 
@@ -359,9 +551,6 @@ msgstr "Kişisel kanal"
 
 msgid "ID:"
 msgstr "ID:"
-
-msgid "Open chat"
-msgstr "Sohbeti aç"
 
 #, python-brace-format
 msgid "{day}/{month}/{year}"
@@ -426,15 +615,11 @@ msgstr "Boş mesaj gönderemezsiniz!"
 msgid "Info"
 msgstr "Bilgi"
 
-#. Change the label of the button to show that the upload has already started.
 msgid "Sending in progress..."
 msgstr "Gönderiliyor..."
 
 msgid "A message is being sent. Do you really want to close this window?"
 msgstr "Mesaj gönderiliyor. Bu pencereyi kapatmak istediğinize emin misiniz?"
-
-msgid "Confirmation"
-msgstr "Onay"
 
 msgid "Cancel the record and delete the message?"
 msgstr "Kayıt iptal edilip mesaj silinsin mi?"
@@ -453,6 +638,12 @@ msgstr "Bir veya daha fazla  cevap seçin"
 msgid "Choose only one answer"
 msgstr "Yalnızca bir cevap seçin"
 
+#, python-brace-format
+msgid "{text}: {count} vote ({p}%)"
+msgid_plural "{text}: {count} votes ({p}%)"
+msgstr[0] ""
+msgstr[1] ""
+
 msgid "This poll is now closed."
 msgstr "Bu sınav kapalı"
 
@@ -465,12 +656,16 @@ msgid "Quiz: {title}, public quiz"
 msgstr "Sınav: {title}, genel sınav"
 
 #, python-brace-format
-msgid "{text} ({p}%) - This is the wrong answer"
-msgstr "{text} ({p}%) - Bu yanlış cevap"
+msgid "{text}: {count} vote ({p}%) - This is the wrong answer"
+msgid_plural "{text}: {count} votes ({p}%) - This is the wrong answer"
+msgstr[0] ""
+msgstr[1] ""
 
 #, python-brace-format
-msgid "{text} ({p}%) - This is the correct answer"
-msgstr "{text} ({p}%) - Bu doğru cevap"
+msgid "{text}: {count} vote ({p}%) - This is the correct answer"
+msgid_plural "{text}: {count} votes ({p}%) - This is the correct answer"
+msgstr[0] ""
+msgstr[1] ""
 
 #, python-brace-format
 msgid "{option}. Explanation: {text}"
@@ -485,13 +680,9 @@ msgstr "Bu sınav kapalı"
 msgid "Links"
 msgstr "Bağlantılar"
 
-msgid "About Easygram"
-msgstr "Easygram Hakkında"
-
 msgid "Original text in English: © Eugene Poplavsky."
 msgstr "Türkçeye çeviren: © Neyman Agayev."
 
-#. text.append(_("Easygram is distributed under the GNU GPLv3 open source license, with the exception of certain additional components and Microsoft redistributable code. By using or distributing Easygram, you agree to be bound by the terms of the license agreement. The text of the license can be found at:\n{link}").format(link="https://www.gnu.org/licenses/gpl-3.0.en.html"))
 msgid "Easygram also includes a number of GNU GPL compatible components."
 msgstr "Easygram ayrıca GNU GPL ile uyumlu bir dizi bileşen içerir."
 
@@ -634,6 +825,9 @@ msgstr "Değiştir..."
 
 msgid "Change time..."
 msgstr "Zamanı değiştir..."
+
+msgid "Send immediately"
+msgstr ""
 
 msgid "Reactions"
 msgstr "Tepkiler"
@@ -782,9 +976,6 @@ msgid_plural "Forward in {count} chats"
 msgstr[0] "İlet {count} sohpete"
 msgstr[1] "İlet {count} sohbetlere"
 
-msgid "Files"
-msgstr "Dosyalar"
-
 msgid "Add..."
 msgstr "Ekle"
 
@@ -866,9 +1057,6 @@ msgstr "Kasım"
 msgid "December"
 msgstr "Aralık"
 
-msgid "My profile"
-msgstr "Profilim"
-
 msgid "Change phone number"
 msgstr "Telefon numarasını değiştir"
 
@@ -889,9 +1077,6 @@ msgstr "Profil hakkında tam bilgi alınamadı."
 
 msgid "Topics:"
 msgstr "Konular:"
-
-msgid "Search"
-msgstr "Ara"
 
 msgid "Search query:"
 msgstr "Arama sorgusu:"
@@ -1110,6 +1295,12 @@ msgstr "&Aç"
 msgid "Mark as &read"
 msgstr "&Okundu Olarak İşaretle"
 
+msgid "Mark all &mentions as read"
+msgstr ""
+
+msgid "Mark all reactio&ns as read"
+msgstr ""
+
 msgid "&View as messages"
 msgstr "&Mesajlara Göre Görüntüle"
 
@@ -1221,8 +1412,11 @@ msgstr "Özelleştir..."
 msgid "You"
 msgstr "Siz"
 
-msgid "Deleted user"
-msgstr "Silinen kullanıcı"
+msgid "Administrator"
+msgstr ""
+
+msgid "Owner"
+msgstr ""
 
 msgid "Contains keyboard"
 msgstr "Klavye içerir"
@@ -1362,6 +1556,14 @@ msgstr "Konuyu kapattı"
 
 msgid "Opened the topic."
 msgstr "Konuyu açtı."
+
+#, python-brace-format
+msgid "The topic {name} has been created"
+msgstr ""
+
+#, python-brace-format
+msgid "Topic name changed to {name}"
+msgstr ""
 
 msgid "Unsupported message type"
 msgstr "Desteklenmeyen mesaj türü"
@@ -1644,14 +1846,31 @@ msgstr "Mesaj metninden sonra zamanı göster"
 msgid "Mark chats without notifications"
 msgstr "Bildirim almayan sohbetleri işaretle"
 
-msgid "Behavior settings"
-msgstr "Davranış ayarları"
-
 msgid "Chat window"
 msgstr "Sohbet penceresi"
 
+msgid "Display the \"Send\" button after the message input field"
+msgstr ""
+
+msgid "List of messages"
+msgstr ""
+
+msgid "Show names in private chats"
+msgstr ""
+
+msgid "Behavior settings"
+msgstr "Davranış ayarları"
+
 msgid "Break up long messages"
 msgstr "Uzun mesajları böl"
+
+msgid "Focus input field when typing in message list"
+msgstr ""
+
+msgid ""
+"Automatically reply to the message under the cursor when moving to the "
+"message input field"
+msgstr ""
 
 msgid "Keyboard settings"
 msgstr "Klavye ayarları"
@@ -1776,6 +1995,9 @@ msgstr "Yeni ses ekleyin..."
 msgid "Delete sound"
 msgstr "Sesi sil"
 
+msgid "General notification settings"
+msgstr ""
+
 msgid "Private chats"
 msgstr "Özel sohbetler"
 
@@ -1784,6 +2006,16 @@ msgstr "Gruplar"
 
 msgid "Channels"
 msgstr "Kanallar"
+
+msgid "Advanced notification settings"
+msgstr ""
+
+msgid ""
+"Show notifications only when the program is minimized to the system tray"
+msgstr ""
+
+msgid "Always show message text, ignore custom chat settings"
+msgstr ""
 
 msgid "Speech settings"
 msgstr "Konuşma ayarları"
@@ -1881,6 +2113,9 @@ msgstr "Sohbet listesindeki odak konumunu koru"
 msgid "Process internal Telegram links in the app (If available)"
 msgstr "Uygulama içinde Telegram dahili bağlantılarını aç (varsa)"
 
+msgid "Use new TDLib client (may cause instability)"
+msgstr ""
+
 msgid "General"
 msgstr "Genel"
 
@@ -1892,9 +2127,6 @@ msgstr "Davranış"
 
 msgid "Keyboard"
 msgstr "Klavye"
-
-msgid "Chats"
-msgstr "Sohbetler"
 
 msgid "Sounds"
 msgstr "Sesler"
@@ -1992,21 +2224,16 @@ msgid "Muted"
 msgstr "Sessiz"
 
 #, python-brace-format
-msgid "{count} unread message"
-msgid_plural "{count} unread messages"
-msgstr[0] "{count} okunmamış mesaj"
-msgstr[1] "{count} okunmamış mesajlar"
-
-#, python-brace-format
 msgid "{count} mention"
 msgid_plural "{count} mentions"
 msgstr[0] "{count} bahsedildi"
 msgstr[1] "{count} bahsetmeler"
 
-msgid "New reaction"
-msgid_plural "New reactions"
-msgstr[0] "Yeni tepki"
-msgstr[1] "Yeni tepkiler"
+#, python-brace-format
+msgid "{count} new reaction"
+msgid_plural "{count} new reactions"
+msgstr[0] ""
+msgstr[1] ""
 
 msgid "A choice of topic is available"
 msgstr "Konu seçimi mevcuttur"
@@ -2031,6 +2258,11 @@ msgstr "(Ana konu)"
 
 msgid "Closed"
 msgstr "Kapalı"
+
+msgid "New reaction"
+msgid_plural "New reactions"
+msgstr[0] "Yeni tepki"
+msgstr[1] "Yeni tepkiler"
 
 #, python-brace-format
 msgid "{name} (@{username}) (channel)"
@@ -2064,153 +2296,6 @@ msgid_plural "{count} members"
 msgstr[0] "{count} üye"
 msgstr[1] "{count} üye"
 
-msgid "Offline"
-msgstr "Çevrimdışı"
-
-msgid "All chats"
-msgstr "Tüm sohbetler"
-
-msgid "Loading chats..."
-msgstr "Sohbetler yükleniyor..."
-
-msgid "Archive"
-msgstr "Arşiv"
-
-msgid "Mark all chats as read"
-msgstr "Tüm sohbetleri okundu olarak işaretle"
-
-#, python-brace-format
-msgid "Chats ({0})"
-msgstr "Sohbetler ({0})"
-
-msgid "Contacts"
-msgstr "Kişiler"
-
-#, python-brace-format
-msgid "Contacts ({0})"
-msgstr "Kişiler ({0})"
-
-msgid "Preferences"
-msgstr "Ayarlar"
-
-#, python-brace-format
-msgid "Archive: {count} unread chat"
-msgid_plural "Archive: {count} unread chats"
-msgstr[0] "Arşiv: {count} okunmamış sohbet."
-msgstr[1] "Arşiv: {count} okunmamış sohbetler."
-
-#, python-brace-format
-msgid "Do you really want to delete this \"{name}\" contact?"
-msgstr "\"{name}\" kişisini gerçekten silmek istiyor musunuz?"
-
-msgid "Archived chats"
-msgstr "Arşivlenmiş sohbetler"
-
-msgid "Are you sure you want to close application?"
-msgstr "Uygulamayı kapatmak istediğinize emin misiniz?"
-
-msgid "Exit the program"
-msgstr "Programdan çıkış"
-
-msgid "Loading..."
-msgstr "Yükleniyor..."
-
-msgid "Invalid verification code!"
-msgstr "Doğrulama kodunu girin"
-
-msgid "Invalid password!"
-msgstr "Yanlış şifre!"
-
-msgid "Authorisation Error"
-msgstr "Yetkilendirme Hatası"
-
-#, python-brace-format
-msgid "New message from {sender}: {text}"
-msgstr "{sender} adlı kişiden yeni mesaj: {text}"
-
-#, python-brace-format
-msgid "New message from {sender}"
-msgstr "{sender} adlı kişiden yeni mesaj"
-
-#, python-brace-format
-msgid ""
-"{count} new message from {sender}:\n"
-"{text}"
-msgid_plural ""
-"{count} new messages from {sender}:\n"
-"{text}"
-msgstr[0] ""
-"{sender} adlı kişiden {count} yeni mesaj:\n"
-"{text}"
-msgstr[1] ""
-"{sender} adlı kişiden {count} yeni mesaj:\n"
-"{text}"
-
-#, python-brace-format
-msgid "{count} new message from {sender}"
-msgid_plural "{count} new messages from {sender}"
-msgstr[0] "{sender} adlı kişiden {count} yeni mesaj"
-msgstr[1] "{sender} adlı kişiden {count} yeni mesaj"
-
-#, python-brace-format
-msgid "{count} new message"
-msgid_plural "{count} new messages"
-msgstr[0] "{count} yeni mesaj"
-msgstr[1] "{count} yeni mesaj"
-
-#, python-brace-format
-msgid "from {count} chat"
-msgid_plural "from {count} chats"
-msgstr[0] "{count} sohbetten {count} yeni mesaj"
-msgstr[1] "{count} sohbetten {count} yeni mesaj"
-
-#, python-brace-format
-msgid ""
-"{title}:\n"
-"{text}"
-msgstr ""
-"{title}:\n"
-"{text}"
-
-msgid "Do you really want to mark all the chats on this list as read?"
-msgstr "Bu listedeki tüm sohbetleri okundu olarak işaretlemek istiyor musunuz?"
-
-msgid "Updating..."
-msgstr "Güncelleme..."
-
-msgid "Ready"
-msgstr "Hazır"
-
-msgid "Connecting..."
-msgstr "Bağlanıyor..."
-
-msgid "Not supported in this time."
-msgstr "Şu anda desteklenmiyor."
-
-msgid "The invitation link is invalid"
-msgstr "Davet bağlantısı geçersiz."
-
-#, python-brace-format
-msgid ""
-"Would you like to join this group?\n"
-"Title: {title},\n"
-"Members: {members},\n"
-"Description: {description}"
-msgstr ""
-"Bu gruba katılmak ister misiniz?\n"
-"Adı: {title},\n"
-"Katılımcı sayısı: {members},\n"
-"Açıklama: {description}"
-
-msgid "Join this chat"
-msgstr "Bu sohbete katıl"
-
-msgid "It is not possible to open this link in the application"
-msgstr "Bu bağlantıyı uygulama içinde açmak mümkün değil."
-
-msgid "Couldn't open the link in the app!"
-msgstr "Bağlantı uygulama içinde açılamadı!"
-
 msgid "Play/Pause"
 msgstr "Oynat/ Duraklat\\"
 
@@ -2223,15 +2308,18 @@ msgstr "Sesi kıs"
 msgid "Volume up"
 msgstr "Sesi aç"
 
+msgid "Nothing is playing"
+msgstr "Hiçbir şey oynatılmıyor"
+
+#, python-brace-format
+msgid "Time: {t}/{l}"
+msgstr "Zaman: {t}/{l}"
+
 msgid "Disabled"
 msgstr "Kapalı"
 
 msgid "Equalizer"
 msgstr "Ekolayzır"
-
-#, python-brace-format
-msgid "Time: {t}/{l}"
-msgstr "Zaman: {t}/{l}"
 
 #, python-brace-format
 msgid "Playback rate: {rate}"
@@ -2256,14 +2344,17 @@ msgstr "Video Oynatıcı"
 msgid "Photo viewer"
 msgstr "Fotoğraf görüntüleyici"
 
+msgid "Copy to clipboard"
+msgstr ""
+
+msgid "Copied to clipboard."
+msgstr ""
+
 msgid "Stop"
 msgstr "Durdur"
 
 msgid "Pause"
 msgstr "Duraklat"
-
-msgid "Nothing is playing"
-msgstr "Hiçbir şey oynatılmıyor"
 
 #, python-brace-format
 msgid "Volume {v}"
@@ -2373,3 +2464,35 @@ msgstr "{sound} (yerleşik)"
 #, python-brace-format
 msgid "{sound} (user)"
 msgstr "{sound} (kullanıcı tanımlı)"
+
+msgid ""
+"A mismatch between the database version and the TDLib version was detected. "
+"Do you want to reset the database and log in again?"
+msgstr ""
+
+msgid "Database error"
+msgstr ""
+
+#~ msgid "{text} ({p}%) - This is the wrong answer"
+#~ msgstr "{text} ({p}%) - Bu yanlış cevap"
+
+#~ msgid "{text} ({p}%) - This is the correct answer"
+#~ msgstr "{text} ({p}%) - Bu doğru cevap"
+
+#~ msgid "Show transcription"
+#~ msgstr "Transkripsiyonu goster"
+
+#~ msgid "Hide transcription"
+#~ msgstr "Transkripsiyonu gizle"
+
+#~ msgid "Transcription is ready"
+#~ msgstr "Transkripsiyon hazir"
+
+#~ msgid "Recognition in progress"
+#~ msgstr "Tanimlama suruyor"
+
+#~ msgid "Transcription: {text}"
+#~ msgstr "Transkripsiyon: {text}"
+
+#~ msgid "{message}, {transcription}"
+#~ msgstr "{message}, {transcription}"
