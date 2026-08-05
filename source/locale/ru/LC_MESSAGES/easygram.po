@@ -4,11 +4,11 @@
 # This file is distributed under the same license as the 'easygram' package.
 msgid ""
 msgstr ""
-"Project-Id-Version: Easygram 0.51.0\n"
+"Project-Id-Version: Easygram 0.60.0.24\n"
 "Report-Msgid-Bugs-To: 'jawhien@gmail.com'\n"
-"POT-Creation-Date: 2026-03-03 11:41+0300\n"
-"PO-Revision-Date: 2026-03-03 11:42+0300\n"
-"Last-Translator: Eugene Poplavsky <jawhien@gmail.com>\n"
+"POT-Creation-Date: 2026-08-02 13:30+0300\n"
+"PO-Revision-Date: 2026-08-02 13:30+0300\n"
+"Last-Translator: Peter Ivanovich <piatro97@gmail.com>\n"
 "Language-Team: Eugene Poplavsky <jawhien@gmail.com>, Peter Ivanovich "
 "<piatro97@gmail.com>, Danil Kostenkov <danilkostenkov38@gmail.com>\n"
 "Language: ru_RU\n"
@@ -20,7 +20,7 @@ msgstr ""
 "X-Generator: Poedit 1.8.8\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-Basepath: ../../..\n"
-"X-Poedit-KeywordsList: N_\n"
+"X-Poedit-KeywordsList: _;N_;ngettext:1,2;pgettext:1c,2\n"
 "X-Poedit-SearchPath-0: .\n"
 
 msgid ""
@@ -60,11 +60,47 @@ msgstr "Символы"
 msgid "Flags"
 msgstr "Флаги"
 
+msgid "List"
+msgstr "Список"
+
+msgid "Selected"
+msgstr "Выделено"
+
+msgid "Not selected"
+msgstr "Не выделено"
+
+msgid "Seen"
+msgstr "Прочитано"
+
+msgid "Not seen"
+msgstr "Не прочитано"
+
+msgid "Playing"
+msgstr "Воспроизводится"
+
+msgid "Paused"
+msgstr "Приостановлено"
+
+msgid "Stopped"
+msgstr "Остановлено"
+
+msgid "Played"
+msgstr "Воспроизведено"
+
+msgid "Loading"
+msgstr "Загрузка"
+
+msgid "Pinned"
+msgstr "Закреплено"
+
 msgid "Offline"
 msgstr "Не в сети"
 
 msgid "Chats"
 msgstr "Чаты"
+
+msgid "Someone has accessed your chats..."
+msgstr "Кто-то получил доступ к вашим чатам..."
 
 msgid "All chats"
 msgstr "Все чаты"
@@ -84,6 +120,9 @@ msgstr "Чаты ({0})"
 
 msgid "Contacts"
 msgstr "Контакты"
+
+msgid "Sort..."
+msgstr "Сортировать..."
 
 msgid "About user"
 msgstr "О пользователе"
@@ -186,6 +225,13 @@ msgstr "Неправильный пароль!"
 msgid "Authorisation Error"
 msgstr "Ошибка авторизации"
 
+msgid ""
+"Easygram: Someone has accessed your chats. Press Control+N to open this "
+"notification."
+msgstr ""
+"Easygram: Кто-то получил доступ к вашим чатам. Нажмите Control+N, чтобы "
+"открыть это уведомление."
+
 #, python-brace-format
 msgid "New message from {sender}: {text}"
 msgstr "Новое сообщение от {sender}: {text}"
@@ -243,14 +289,23 @@ msgstr ""
 msgid "Do you really want to mark all the chats on this list as read?"
 msgstr "Вы действительно хотите пометить все чаты в этом списке прочитанными?"
 
+msgid "Connecting..."
+msgstr "Соединение..."
+
+msgid "Connecting to a proxy server..."
+msgstr "Подключение к прокси-серверу..."
+
+msgid "Connected"
+msgstr "Подключено"
+
 msgid "Updating..."
 msgstr "Обновление..."
 
-msgid "Ready"
-msgstr "Готов"
+msgid "Waiting for network..."
+msgstr "Ожидание сети..."
 
-msgid "Connecting..."
-msgstr "Соединение..."
+msgid "Unknown"
+msgstr "Неизвестно"
 
 #, python-brace-format
 msgid "Chats: {count}"
@@ -317,23 +372,23 @@ msgstr ""
 "Невозможно открыть эту ссылку в приложении. Скорее всего, вы не являетесь "
 "участником этого чата."
 
-msgid "Selected"
-msgstr "Выделено"
+msgid "Inline keyboard"
+msgstr "Встроенная клавиатура"
 
-msgid "Not selected"
-msgstr "Не выделено"
+msgid "Show in chat"
+msgstr "Показать в чате"
+
+msgid "Clear search"
+msgstr "Очистить поиск"
 
 msgid "Bot menu"
 msgstr "Меню бота"
 
-msgid "Bot keyboard"
-msgstr "Клавиатура бота"
-
-msgid "Inline keyboard"
-msgstr "Встроенная клавиатура"
-
 msgid "Emoji"
 msgstr "Эмодзи"
+
+msgid "Bot keyboard"
+msgstr "Клавиатура бота"
 
 msgid "Send"
 msgstr "Отправить"
@@ -362,6 +417,9 @@ msgstr "Прикрепить..."
 msgid "Voice note"
 msgstr "Голосовое сообщение"
 
+msgid "Call..."
+msgstr "Позвонить..."
+
 msgid "Pinned messages"
 msgstr "Закреплённые сообщения"
 
@@ -382,6 +440,9 @@ msgstr "Вступить в группу"
 
 msgid "Select topic"
 msgstr "Выберите тему"
+
+msgid "Search..."
+msgstr "Искать..."
 
 msgid "Close"
 msgstr "Закрыть"
@@ -515,7 +576,7 @@ msgstr "Перейти к сообщению"
 msgid "Go to quoted message"
 msgstr "Перейти к цитируемому сообщению"
 
-msgid "Copyed"
+msgid "Copied"
 msgstr "Скопировано"
 
 msgid "There are no links in this message."
@@ -538,8 +599,20 @@ msgstr ""
 "Невозможно отправить голосовое сообщение, так как устройство ввода не "
 "найдено."
 
+msgid ""
+"It is not possible to send a voice message because the selected recording "
+"device could not be opened. Check if Easygram is allowed to access the "
+"selected device."
+msgstr ""
+"Невозможно отправить голосовое сообщение, поскольку не удалось открыть "
+"выбранное устройство записи. Проверьте, разрешен ли Easygram доступ к "
+"выбранному устройству."
+
 msgid "Select file"
 msgstr "Выберите файл"
+
+msgid "No pinned messages."
+msgstr "Нет закреплённых сообщений."
 
 msgid "Unread messages"
 msgstr "Непрочитанные сообщения"
@@ -562,6 +635,15 @@ msgstr "Отложено на: {date}"
 
 msgid "Scheduled for: When the user is online"
 msgstr "Отложено на: когда пользователь будет в сети"
+
+msgid "Couldn't send message"
+msgstr "Не удалось отправить сообщение"
+
+msgid "The file could not be opened. Unknown type of media data."
+msgstr "Не удалось открыть файл. Неизвестный тип мультимедийных данных."
+
+msgid "Couldn't save the file. See the details in the log."
+msgstr "Не удалось сохранить файл. Подробности смотрите в журнале."
 
 msgid "The Transcription text is ready."
 msgstr "Текст расшифровки готов."
@@ -693,9 +775,6 @@ msgstr ""
 "Произошла ошибка при отправке голосового сообщения. Подробности смотрите в "
 "журнале."
 
-msgid "An error occurred while converting the file."
-msgstr "Произошла ошибка при преобразовании файла."
-
 msgid "Can't send empty messages!"
 msgstr "Невозможно отправлять пустые сообщения!"
 
@@ -711,13 +790,47 @@ msgstr "Сообщение отправляется. Вы действитель
 msgid "Cancel the record and delete the message?"
 msgstr "Отменить запись и удалить сообщение?"
 
-#, python-brace-format
-msgid "Poll: {title}, anonymous poll"
-msgstr "Опрос: {title}, анонимный опрос"
+msgid "Voters"
+msgstr "Голоса"
+
+msgid "Answer"
+msgstr "Ответ"
+
+msgid "Answer:"
+msgstr "Ответ:"
+
+msgid "Voters:"
+msgstr "Голоса:"
+
+msgid "More"
+msgstr "Ещё"
 
 #, python-brace-format
-msgid "Poll: {title}, public poll"
-msgstr "Опрос: {title}, публичный опрос"
+msgid "Today at {time}"
+msgstr "Сегодня в {time}"
+
+#, python-brace-format
+msgid "{date} at {time}"
+msgstr "{date} в {time}"
+
+#, python-brace-format
+msgid "{name}, {date}"
+msgstr "{name}, {date}"
+
+msgid "Can't get voters for this option."
+msgstr "Не удается получить голоса для этого варианта."
+
+msgid "No voters"
+msgstr "Нет голосов"
+
+msgid "Add option"
+msgstr "Добавить вариант"
+
+msgid "Option text:"
+msgstr "Текст варианта:"
+
+msgid "Option text must be 100 characters or less."
+msgstr "Текст варианта должен содержать не более 100 символов."
 
 msgid "Choose one or more answers"
 msgstr "Выберите один или несколько ответов"
@@ -725,15 +838,11 @@ msgstr "Выберите один или несколько ответов"
 msgid "Choose only one answer"
 msgstr "Выберите только один ответ"
 
-#, python-brace-format
-msgid "{text}: {count} vote ({p}%)"
-msgid_plural "{text}: {count} votes ({p}%)"
-msgstr[0] "{text}: {count} голос ({p}%)"
-msgstr[1] "{text}: {count} голоса ({p}%)"
-msgstr[2] "{text}: {count} голосов ({p}%)"
+msgid "View voters"
+msgstr "Посмотреть голоса"
 
-msgid "This poll is now closed."
-msgstr "На данный момент этот опрос закрыт."
+msgid "Cancel vote"
+msgstr "Отменить голос"
 
 #, python-brace-format
 msgid "Quiz: {title}, anonymous quiz"
@@ -744,28 +853,60 @@ msgid "Quiz: {title}, public quiz"
 msgstr "Викторина: {title}, публичная викторина"
 
 #, python-brace-format
-msgid "{text}: {count} vote ({p}%) - This is the wrong answer"
-msgid_plural "{text}: {count} votes ({p}%) - This is the wrong answer"
-msgstr[0] "{text}: {count} голос ({p}%) - Это неправильный ответ"
-msgstr[1] "{text}: {count} голоса ({p}%) - Это неправильный ответ"
-msgstr[2] "{text}: {count} голосов ({p}%) - Это неправильный ответ"
+msgid "Poll: {title}, anonymous poll"
+msgstr "Опрос: {title}, анонимный опрос"
 
 #, python-brace-format
-msgid "{text}: {count} vote ({p}%) - This is the correct answer"
-msgid_plural "{text}: {count} votes ({p}%) - This is the correct answer"
-msgstr[0] "{text}: {count} голос ({p}%) - Это правильный ответ"
-msgstr[1] "{text}: {count} голоса ({p}%) - Это правильный ответ"
-msgstr[2] "{text}: {count} голосов ({p}%) - Это правильный ответ"
+msgid "Poll: {title}, public poll"
+msgstr "Опрос: {title}, публичный опрос"
+
+#, python-brace-format
+msgid "{text}: {count} vote ({p}%)"
+msgid_plural "{text}: {count} votes ({p}%)"
+msgstr[0] "{text}: {count} голос ({p}%)"
+msgstr[1] "{text}: {count} голоса ({p}%)"
+msgstr[2] "{text}: {count} голосов ({p}%)"
+
+#, python-brace-format
+msgid "{option} - sending answer"
+msgstr "{option} - отправка ответа"
+
+#, python-brace-format
+msgid "{option} - This is the correct answer"
+msgstr "{option} - Это правильный ответ"
 
 #, python-brace-format
 msgid "{option}. Explanation: {text}"
 msgstr "{option}. Объяснение: {text}"
 
+#, python-brace-format
+msgid "{option} - This is the wrong answer"
+msgstr "{option} - Это неправильный ответ"
+
+msgid "This quiz is now closed."
+msgstr "Сейчас эта викторина закрыта."
+
+msgid "This poll is now closed."
+msgstr "Сейчас этот опрос закрыт."
+
+msgid "Can't vote in this poll."
+msgstr "Невозможно проголосовать в этом опросе."
+
 msgid "Can't change answer in quiz mode."
 msgstr "Невозможно изменить ответ в режиме викторины."
 
-msgid "This quiz is now closed."
-msgstr "Эта викторина закрыта."
+msgid "Can't change answer in this poll."
+msgstr "Невозможно изменить ответ в этом опросе."
+
+#, python-brace-format
+msgid "{count} total vote"
+msgid_plural "{count} total votes"
+msgstr[0] "Всего {count} голос"
+msgstr[1] "Всего {count} голоса"
+msgstr[2] "Всего {count} голосов"
+
+msgid "Can't add option to this poll."
+msgstr "Не удается добавить вариант в этот опрос."
 
 msgid "Links"
 msgstr "Ссылки"
@@ -796,11 +937,27 @@ msgstr "О канале"
 msgid "Name:"
 msgstr "Название:"
 
+msgid "About the channel:"
+msgstr "О канале"
+
 msgid "Member count:"
 msgstr "Количество участников:"
 
+msgid "Public link:"
+msgstr "Публичная ссылка:"
+
+msgid "Copy"
+msgstr "Копировать"
+
 msgid "Invite link:"
 msgstr "Ссылка-приглашение:"
+
+msgid "Open the channel"
+msgstr "Открыть канал"
+
+#, python-brace-format
+msgid "Copied: {link}"
+msgstr "Скопировано: {link}"
 
 msgid "Save"
 msgstr "Сохранить"
@@ -1002,6 +1159,10 @@ msgstr "Просмотры: {count}"
 msgid "You sent a reaction {r}"
 msgstr "Вы отправили реакцию {r}"
 
+#, python-brace-format
+msgid "Transcription: {text}"
+msgstr "Расшифровка: {text}"
+
 msgid "Emoji panel"
 msgstr "Панель эмодзи"
 
@@ -1013,24 +1174,6 @@ msgstr "Категории"
 
 msgid "Filter:"
 msgstr "Фильтр:"
-
-msgid "List of pinned messages"
-msgstr "Список закреплённых сообщений"
-
-msgid "Messages:"
-msgstr "Сообщения:"
-
-msgid "Unpin"
-msgstr "О&ткрепить"
-
-msgid "Unpin all"
-msgstr "Открепить все"
-
-msgid "Are you sure you want to unpin all messages in this chat?"
-msgstr "Вы уверены, что хотите открепить все сообщения в этом чате?"
-
-msgid "Unpin all messages"
-msgstr "Открепить все сообщения"
 
 #, python-brace-format
 msgid "Forward {count} message"
@@ -1208,29 +1351,170 @@ msgstr "Настройки уведомлений"
 msgid "Add"
 msgstr "Добавить"
 
-msgid "Seen"
-msgstr "Прочитано"
+msgid "Call"
+msgstr "Звонок"
 
-msgid "Not seen"
-msgstr "Не прочитано"
+msgid "Initialization..."
+msgstr "Инициализация..."
 
-msgid "Playing"
-msgstr "Воспроизводится"
+msgid "Disable microphone"
+msgstr "Отключить микрофон"
 
-msgid "Paused"
-msgstr "Приостановлено"
+msgid "Decline"
+msgstr "Завершить"
 
-msgid "Stopped"
-msgstr "Остановлено"
+msgid "There is already an active call."
+msgstr "Уже есть активный звонок."
 
-msgid "Played"
-msgstr "Воспроизведено"
+msgid "Ringing..."
+msgstr "Вызов..."
 
-msgid "Loading"
-msgstr "Загрузка"
+msgid "Do you really want to end the call?"
+msgstr "Вы действительно хотите завершить звонок?"
 
-msgid "Pinned"
-msgstr "Закреплено"
+msgid "Warning!"
+msgstr "Предупреждение!"
+
+msgid "Incoming call"
+msgstr "Входящий звонок"
+
+#, python-brace-format
+msgid "Incoming call from {name}"
+msgstr "Входящий звонок от {name}"
+
+#, python-brace-format
+msgid "Incoming call from {id}"
+msgstr "Входящий звонок от {id}"
+
+msgid "Accept"
+msgstr "Принять"
+
+msgid "Someone has accessed your chats"
+msgstr "Кто-то получил доступ к вашим чатам"
+
+#, python-brace-format
+msgid "Login to your account was detected on a new device: {device}"
+msgstr "Обнаружен вход в вашу учётную запись на новом устройстве: {device}"
+
+#, python-brace-format
+msgid "When: {date} at {time}"
+msgstr "Когда: {date} в {time}"
+
+#, python-brace-format
+msgid "Where: {location}"
+msgstr "Где: {location}"
+
+msgid "Was it you?"
+msgstr "Это были вы?"
+
+msgid "Yes it's me."
+msgstr "Да, это я."
+
+msgid "No. Protect your account."
+msgstr "Нет. Защитить ваш аккаунт."
+
+msgid "Login allowed."
+msgstr "Вход разрешен."
+
+msgid "Unknown error."
+msgstr "Неизвестная ошибка."
+
+msgid "Login disallowed."
+msgstr "Вход запрещен."
+
+msgid "Contact Sorting"
+msgstr "Сортировка контактов"
+
+msgid "Sort"
+msgstr "Сортировать"
+
+msgid "By name"
+msgstr "По имени"
+
+msgid "By status"
+msgstr "По статусу"
+
+msgid "Order"
+msgstr "Порядок"
+
+msgid "Ascending"
+msgstr "По возрастанию"
+
+msgid "Descending"
+msgstr "По убыванию"
+
+msgid "Select a user"
+msgstr "Выберите пользователя"
+
+msgid "Users:"
+msgstr "Пользователи:"
+
+msgid "Name"
+msgstr "Имя"
+
+msgid "Search messages"
+msgstr "Поиск сообщений"
+
+msgctxt "Messages search filter"
+msgid "Any"
+msgstr "Любое"
+
+msgctxt "Messages search filter"
+msgid "Animation"
+msgstr "Анимация"
+
+msgctxt "Messages search filter"
+msgid "Music"
+msgstr "Музыка"
+
+msgctxt "Messages search filter"
+msgid "Files"
+msgstr "Файлы"
+
+msgctxt "Messages search filter"
+msgid "Photos"
+msgstr "Фото"
+
+msgctxt "Messages search filter"
+msgid "Polls"
+msgstr "Опросы"
+
+msgctxt "Messages search filter"
+msgid "Videos"
+msgstr "Видео"
+
+msgctxt "Messages search filter"
+msgid "Voice messages"
+msgstr "Голосовые сообщения"
+
+msgctxt "Messages search filter"
+msgid "Photos and videos"
+msgstr "Фото и видео"
+
+msgctxt "Messages search filter"
+msgid "Links"
+msgstr "Ссылки"
+
+msgctxt "Messages search filter"
+msgid "Video messages"
+msgstr "Видеосообщения"
+
+msgctxt "Messages search filter"
+msgid "Voice and video messages"
+msgstr "Голосовые и видеосообщения"
+
+msgctxt "Messages search filter"
+msgid "Failed to send"
+msgstr "Не удалось отправить"
+
+msgid "Content type"
+msgstr "Тип содержимого"
+
+msgid "Enter a search query or select a content type."
+msgstr "Введите поисковый запрос или выберите тип содержимого."
+
+msgid "Nothing was found."
+msgstr "Ничего не было найдено."
 
 msgid "Insert link"
 msgstr "Вставить ссылку"
@@ -1289,6 +1573,75 @@ msgstr "О&чистить"
 msgid "Cleared"
 msgstr "Очищено"
 
+msgid "Network configuration"
+msgstr "Конфигурация сети"
+
+msgid "Connection"
+msgstr "Подключение"
+
+msgid "Connection Type"
+msgstr "Тип подключения"
+
+msgid "Direct connection"
+msgstr "Прямое подключение"
+
+msgid "Use system proxy settings"
+msgstr "Использовать системные настройки прокси"
+
+msgid "Manual proxy configuration"
+msgstr "Ручная настройка прокси"
+
+msgid "Proxy servers:"
+msgstr "Прокси-серверы:"
+
+msgid "Enable"
+msgstr "Включить"
+
+msgid "Edit..."
+msgstr "Изменить..."
+
+msgid "Ping..."
+msgstr "Пинг..."
+
+msgid "Ok"
+msgstr "ОК"
+
+msgid "Are you sure you want to delete this proxy?"
+msgstr "Вы действительно хотите удалить этот прокси?"
+
+msgid "An error occurred while deleting the proxy."
+msgstr "Произошла ошибка при удалении прокси."
+
+#, python-brace-format
+msgid "{ms} MS"
+msgstr "{ms} МС"
+
+msgid "Ping"
+msgstr "Пинг"
+
+msgid "An error occurred while pinging the proxy."
+msgstr "Произошла ошибка при проверке соединения с прокси."
+
+msgid "An error occurred while adding the proxy."
+msgstr "Произошла ошибка при добавлении прокси."
+
+msgid "An error occurred while editing the proxy."
+msgstr "Произошла ошибка при изменении прокси."
+
+msgid ""
+"You have selected to use a proxy, but you have not added any proxies. Please "
+"add a proxy or select direct connection."
+msgstr ""
+"Вы выбрали использование прокси, но не добавили ни одного прокси-сервера. "
+"Пожалуйста, добавьте прокси или выберите прямое подключение."
+
+msgid ""
+"You have selected to use a proxy, but you have not enabled any proxies. "
+"Please enable a proxy or select direct connection."
+msgstr ""
+"Вы выбрали использование прокси, но не включили ни одного прокси-сервера. "
+"Пожалуйста, включите прокси или выберите прямое подключение."
+
 msgid "Enter the phone number"
 msgstr "Введите номер телефона"
 
@@ -1300,6 +1653,9 @@ msgstr "Страна"
 
 msgid "Log in by QR Code"
 msgstr "Войти по QR-коду"
+
+msgid "Connection settings..."
+msgstr "Настройки подключения..."
 
 msgid "Next"
 msgstr "Далее"
@@ -1377,6 +1733,9 @@ msgstr "Неверный код подтверждения!"
 msgid "Incorrect password!"
 msgstr "Неверный пароль!"
 
+msgid "S&how in chat"
+msgstr "Показать в &чате"
+
 msgid "Detailed &view\tSpace"
 msgstr "&Детальный просмотр\tПробел"
 
@@ -1438,6 +1797,9 @@ msgstr "Удалить реакци&ю {r}"
 
 msgid "Open the &user profile"
 msgstr "Открыть &профиль пользователя"
+
+msgid "Open the channel &profile"
+msgstr "Открыть &профиль канала"
 
 msgid "&Edit message"
 msgstr "&Изменить сообщение"
@@ -1584,30 +1946,6 @@ msgstr[1] "Получено {count} ответа"
 msgstr[2] "Получено {count} ответов"
 
 #, python-brace-format
-msgid "Document {name} ({size}) {caption}"
-msgstr "Документ {name} ({size}) {caption}"
-
-#, python-brace-format
-msgid "Document {name} {caption}"
-msgstr "Документ {name} {caption}"
-
-#, python-brace-format
-msgid "Audio {title} - {performer} ({h}:{m}:{s}) ({size}) {caption}"
-msgstr "Аудио {title} - {performer} ({h}:{m}:{s}) ({size}) {caption}"
-
-#, python-brace-format
-msgid "Audio {title} - {performer} ({h}:{m}:{s}) {caption}"
-msgstr "Аудио {title} - {performer} ({h}:{m}:{s}) {caption}"
-
-#, python-brace-format
-msgid "Video ({h}:{m}:{s}) ({size}) {caption}"
-msgstr "Видео ({h}:{m}:{s}) ({size}) {caption}"
-
-#, python-brace-format
-msgid "Video ({h}:{m}:{s}) {caption}"
-msgstr "Видео ({h}:{m}:{s}) {caption}"
-
-#, python-brace-format
 msgid "Photo {caption}"
 msgstr "Фото {caption}"
 
@@ -1633,30 +1971,6 @@ msgstr "Фотография группы обновлена"
 
 msgid "This group has become a supergroup."
 msgstr "Эта группа стала супергруппой."
-
-msgid "One-time voice message"
-msgstr "Одноразовое голосовое сообщение"
-
-msgid "Voice message"
-msgstr "Голосовое сообщение"
-
-#, python-brace-format
-msgid "{name} {h}:{m}:{s} ({size})"
-msgstr "{name} {h}:{m}:{s} ({size})"
-
-#, python-brace-format
-msgid "{name} {h}:{m}:{s}"
-msgstr "{name} {h}:{m}:{s}"
-
-msgid "(listened)"
-msgstr "(прослушано)"
-
-msgid "(not listened)"
-msgstr "(не прослушано)"
-
-#, python-brace-format
-msgid "{message}, {transcription}"
-msgstr "{message}, {transcription}"
 
 #. TRANSLATORS: this is the message when a user has joined a group
 msgid "joined the group"
@@ -1696,14 +2010,6 @@ msgstr "Закрепил(а) сообщение"
 msgid "Changed the title to: {title}"
 msgstr "Изменено название на: {title}"
 
-#, python-brace-format
-msgid "Video message {h}:{m}:{s} ({size})"
-msgstr "Видеосообщение {h}:{m}:{s} ({size})"
-
-#, python-brace-format
-msgid "Video message {h}:{m}:{s}"
-msgstr "Видеосообщение  {h}:{m}:{s}"
-
 msgid "Expired voice message"
 msgstr "Истёкшее голосовое сообщение"
 
@@ -1720,6 +2026,36 @@ msgstr "Тема {name} создана"
 #, python-brace-format
 msgid "Topic name changed to {name}"
 msgstr "Название темы изменено на {name}"
+
+#, python-brace-format
+msgid "Audio {title} - {performer}"
+msgstr "Аудио {title} - {performer}"
+
+msgid "Video"
+msgstr "Видео"
+
+msgid "One-time voice message"
+msgstr "Одноразовое голосовое сообщение"
+
+msgid "Voice message"
+msgstr "Голосовое сообщение"
+
+#, python-brace-format
+msgid "Caption: {text}"
+msgstr "Подпись: {text}"
+
+msgid "(listened)"
+msgstr "(прослушано)"
+
+msgid "(not listened)"
+msgstr "(не прослушано)"
+
+msgid "Video message"
+msgstr "Видеосообщение"
+
+#, python-brace-format
+msgid "File {description}"
+msgstr "Файл {description}"
 
 msgid "Unsupported message type"
 msgstr "Неподдерживаемый тип сообщения"
@@ -1836,8 +2172,46 @@ msgid "Recognition in progress..."
 msgstr "Выполняется распознавание..."
 
 #, python-brace-format
-msgid "Transcription: {text}"
-msgstr "Расшифровка: {text}"
+msgid "{0} hour"
+msgid_plural "{0} hours"
+msgstr[0] "{0} час"
+msgstr[1] "{0} часа"
+msgstr[2] "{0} часов"
+
+#, python-brace-format
+msgid "{0} minute"
+msgid_plural "{0} minutes"
+msgstr[0] "{0} минута"
+msgstr[1] "{0} минуты"
+msgstr[2] "{0} минут"
+
+#, python-brace-format
+msgid "{0} second"
+msgid_plural "{0} seconds"
+msgstr[0] "{0} секунда"
+msgstr[1] "{0} секунды"
+msgstr[2] "{0} секунд"
+
+#, python-brace-format
+msgid "{count} hour"
+msgid_plural "{count} hours"
+msgstr[0] "{count} час"
+msgstr[1] "{count} часа"
+msgstr[2] "{count} часов"
+
+#, python-brace-format
+msgid "{count} minute"
+msgid_plural "{count} minutes"
+msgstr[0] "{count} минута"
+msgstr[1] "{count} минуты"
+msgstr[2] "{count} минут"
+
+#, python-brace-format
+msgid "{count} second"
+msgid_plural "{count} seconds"
+msgstr[0] "{count} секунда"
+msgstr[1] "{count} секунды"
+msgstr[2] "{count} секунд"
 
 msgid "Add proxy"
 msgstr "Добавить прокси"
@@ -1869,11 +2243,17 @@ msgstr "Имя пользователя http (необязательно):"
 msgid "Http password (optional):"
 msgstr "Пароль http (необязательно):"
 
-msgid "Please enter both host and port"
-msgstr "Пожалуйста, введите хост и порт"
+msgid "Enter server"
+msgstr "Введите сервер"
+
+msgid "Enter port"
+msgstr "Введите порт"
 
 msgid "Port must be a number"
 msgstr "Порт должен быть числом"
+
+msgid "Port must be 1–65535"
+msgstr "Порт должен быть в диапазоне 1–65535"
 
 msgid "Please enter MTProto secret"
 msgstr "Пожалуйста, введите ключ MTProto"
@@ -1883,6 +2263,43 @@ msgstr "Пожалуйста, выберите тип прокси"
 
 msgid "Edit proxy"
 msgstr "Изменить прокси"
+
+msgid "Microphone parameters"
+msgstr "Параметры микрофона"
+
+msgid "These settings apply only when recording voice messages."
+msgstr "Эти настройки применяются только при записи голосовых сообщений."
+
+msgid "Disable stereo (if your microphone outputs to one channel only)"
+msgstr ""
+"Отключить стерео (если ваш микрофон выводит сигнал только на один канал)."
+
+msgid "Gain"
+msgstr "Усиление"
+
+msgid "Microphone processing"
+msgstr "Обработка микрофона"
+
+msgid "Noise suppression"
+msgstr "Подавление шума"
+
+msgid "Suppression level"
+msgstr "Уровень подавления"
+
+msgid "Automatic gain control"
+msgstr "Автоматическая регулировка усиления"
+
+msgid "Target level"
+msgstr "Целевой уровень"
+
+msgid "Attack"
+msgstr "Атака"
+
+msgid "Release"
+msgstr "Восстановление"
+
+msgid "Maximum gain"
+msgstr "Максимальное усиление"
 
 msgid "Storage settings"
 msgstr "Настройки хранилища"
@@ -2051,6 +2468,35 @@ msgstr "Ротация журнала"
 msgid "View settings"
 msgstr "Настройки отображения"
 
+msgid "Display Format"
+msgstr "Формат отображения"
+
+#, python-brace-format
+msgid "24-hour short ({example})"
+msgstr "24-часовой короткий ({example})"
+
+#, python-brace-format
+msgid "24-hour detailed ({example})"
+msgstr "24-часовой подробный ({example})"
+
+#, python-brace-format
+msgid "12-hour ({example})"
+msgstr "12-часовой ({example})"
+
+msgid "Time format"
+msgstr "Формат времени"
+
+#, python-brace-format
+msgid "Digital ({example})"
+msgstr "Числовой ({example})"
+
+#, python-brace-format
+msgid "Text ({example})"
+msgstr "Текстовый ({example})"
+
+msgid "Duration format"
+msgstr "Формат продолжительности"
+
 msgid "Chat list"
 msgstr "Список чатов"
 
@@ -2074,6 +2520,10 @@ msgstr "Показывать имена в личных чатах"
 
 msgid "Show reading information before message text"
 msgstr "Показывать информацию о прочтении перед текстом сообщения"
+
+msgid "Show the time after the caption (For Audio, video, and voice messages)"
+msgstr ""
+"Показывать время после подписи (для аудио-, видео- и голосовых сообщений)"
 
 msgid "Behavior settings"
 msgstr "Настройки поведения"
@@ -2134,28 +2584,28 @@ msgid "Trim long messages (1 - 4096 characters, 0 - do not trim):"
 msgstr "Обрезать длинные сообщения (1 - 4096 символов, 0- не обрезать):"
 
 #. TRANSLATORS: this is an option when selecting the quality of voice messages.
-msgid "Auto (optimal: approximately 550 kB/Min)"
-msgstr "Авто (оптимальное: приблизительно 550 кБ/мин)"
+msgid "Auto (optimal: approximately 800 KB/Min)"
+msgstr "Авто (оптимальное: приблизительно 800 КБ/мин)"
 
 #. TRANSLATORS: this is an option when selecting the quality of voice messages.
-msgid "Very high (approximately 1.6 mB/Min)"
-msgstr "Очень высокое (приблизительно 1.6 мБ/мин)"
+msgid "Very high (approximately 2 MB/Min)"
+msgstr "Очень высокое (приблизительно 2 МБ/мин)"
 
 #. TRANSLATORS: this is an option when selecting the quality of voice messages.
-msgid "High (approximately 950 kB/Min)"
-msgstr "Высокое (приблизительно 950 кБ/мин)"
+msgid "High (approximately 1.3 MB/Min)"
+msgstr "Высокое (приблизительно 1,3 МБ/мин)"
 
 #. TRANSLATORS: this is an option when selecting the quality of voice messages.
-msgid "Medium (approximately 630 kB/Min)"
-msgstr "Среднее (приблизительно 630 кБ/мин)"
+msgid "Medium (approximately 800 KB/Min)"
+msgstr "Среднее (приблизительно 800 КБ/мин)"
 
 #. TRANSLATORS: this is an option when selecting the quality of voice messages.
-msgid "Low (approximately 330 kB/Min)"
-msgstr "Низкое (приблизительно 330 кБ/мин)"
+msgid "Low (approximately 440 KB/Min)"
+msgstr "Низкое (приблизительно 440 КБ/мин)"
 
 #. TRANSLATORS: this is an option when selecting the quality of voice messages.
-msgid "Very low (approximately 220 kB/Min)"
-msgstr "Очень низкое (приблизительно 220 кБ/мин)"
+msgid "Very low (approximately 290 KB/Min)"
+msgstr "Очень низкое (приблизительно 290 КБ/мин)"
 
 msgid "Voice message quality:"
 msgstr "Качество голосовых сообщений:"
@@ -2201,6 +2651,9 @@ msgstr "Действие в чате"
 
 msgid "Download is completed"
 msgstr "Скачивание завершено"
+
+msgid "Important notification"
+msgstr "Важное уведомление"
 
 msgid "Select sound:"
 msgstr "Выберите звук:"
@@ -2295,6 +2748,12 @@ msgstr "Настройки устройств"
 msgid "Microphone:"
 msgstr "Микрофон:"
 
+msgid "Default input device"
+msgstr "Устройство ввода по умолчанию"
+
+msgid "Microphone parameters..."
+msgstr "Параметры микрофона..."
+
 msgid "Speakers:"
 msgstr "Динамики:"
 
@@ -2303,9 +2762,6 @@ msgstr "Хранилище файлов"
 
 msgid "Statistics:"
 msgstr "Статистика:"
-
-msgid "Name"
-msgstr "Имя"
 
 msgid "Clear cache"
 msgstr "Очистить кэш"
@@ -2316,56 +2772,21 @@ msgstr "Удалить все черновики из облака..."
 msgid "Network settings"
 msgstr "Настройки сети"
 
-msgid "Connection"
-msgstr "Подключение"
-
-msgid "Connection Type"
-msgstr "Тип подключения"
-
-msgid "Direct connection"
-msgstr "Прямое подключение"
-
-msgid "Proxy"
-msgstr "Прокси"
-
-msgid "Proxy servers:"
-msgstr "Прокси-серверы:"
-
-msgid "Enable"
-msgstr "Включить"
-
-msgid "Edit..."
-msgstr "Изменить..."
-
-msgid "Ping..."
-msgstr "Пинг..."
-
 msgid "Troubleshooting"
 msgstr "Устранение проблем"
 
-msgid "Use streaming audio encoding when recording"
-msgstr "Использовать потоковое кодирование аудио во время записи"
-
 msgid ""
-"Disable record optimization (reduces RAM usage, but requires more free space "
-"on the system drive to store temporary files)"
+"Allow media sound volume to be increased to 200% (may cause sound distortion "
+"above the 100% level)"
 msgstr ""
-"Отключить оптимизацию записи (уменьшает использование оперативной памяти, но "
-"требует больше свободного места на системном диске для хранения временных "
-"файлов)"
-
-msgid "Disable stereo (if your microphone outputs to one channel only)"
-msgstr ""
-"Отключить стерео (если ваш микрофон выводит сигнал только на один канал)."
+"Разрешить увеличение громкости звука медиафайлов до 200% (при уровне "
+"громкости выше 100% могут возникнуть искажения звука)"
 
 msgid "Keep the cursor position in the chat list"
 msgstr "Сохранять позицию курсора в списке чатов"
 
 msgid "Process internal Telegram links in the app (If available)"
 msgstr "Обрабатывать внутренние ссылки Telegram в приложении (если доступно)"
-
-msgid "Use new TDLib client (may cause instability)"
-msgstr "Использовать новый клиент TDLib (может вызывать нестабильность)"
 
 msgid "General"
 msgstr "Общие"
@@ -2397,43 +2818,6 @@ msgstr "Хранилище"
 msgid "Network"
 msgstr "Сеть"
 
-#, python-brace-format
-msgid "{ms} MS"
-msgstr "{ms} МС"
-
-msgid "Ping"
-msgstr "Пинг"
-
-msgid "An error occurred while pinging the proxy."
-msgstr "Произошла ошибка при проверке соединения с прокси."
-
-msgid "Are you sure you want to delete this proxy?"
-msgstr "Вы действительно хотите удалить этот прокси?"
-
-msgid "An error occurred while deleting the proxy."
-msgstr "Произошла ошибка при удалении прокси."
-
-msgid "An error occurred while adding the proxy."
-msgstr "Произошла ошибка при добавлении прокси."
-
-msgid "An error occurred while editing the proxy."
-msgstr "Произошла ошибка при изменении прокси."
-
-#, python-brace-format
-msgid "{server}; Port: {port}"
-msgstr "{server}; Порт: {port}"
-
-#, python-brace-format
-msgid "Type: {proxyType}"
-msgstr "Тип: {proxyType}"
-
-#, python-brace-format
-msgid "Last used: {lastUsed}"
-msgstr "Последнее использование: {lastUsed}"
-
-msgid "Enabled"
-msgstr "Включён"
-
 msgid ""
 "Are you sure you want to delete all cloud drafts? This action cannot be "
 "undone!"
@@ -2457,16 +2841,6 @@ msgstr "Звуковые файлы"
 msgid "A file with this name already exists: {name}"
 msgstr "Файл с таким именем уже существует: {name}"
 
-msgid ""
-"Disabling this option will result in more RAM being used during recording. "
-"Do you want to continue?"
-msgstr ""
-"Отключение этой опции приведет к увеличению объема оперативной памяти, "
-"используемой во время записи. Вы хотите продолжить?"
-
-msgid "Warning!"
-msgstr "Предупреждение!"
-
 #, python-brace-format
 msgid "Disk usage: {size}, {count} file"
 msgid_plural "Disk usage: {size}, {count} files"
@@ -2482,20 +2856,6 @@ msgstr ""
 "Вы уверены, что хотите очистить хранилище? После этого все локальные копии "
 "файлов из кэша будут удалены. Ваша история поисковых запросов также будет "
 "очищена. Это действие невозможно отменить!"
-
-msgid ""
-"You have selected to use a proxy, but you have not added any proxies. Please "
-"add a proxy or select direct connection."
-msgstr ""
-"Вы выбрали использование прокси, но не добавили ни одного прокси-сервера. "
-"Пожалуйста, добавьте прокси или выберите прямое подключение."
-
-msgid ""
-"You have selected to use a proxy, but you have not enabled any proxies. "
-"Please enable a proxy or select direct connection."
-msgstr ""
-"Вы выбрали использование прокси, но не включили ни одного прокси-сервера. "
-"Пожалуйста, включите прокси или выберите прямое подключение."
 
 msgid ""
 "To apply some settings, it is required to reboot Easygram. Do you want to "
@@ -2548,9 +2908,6 @@ msgstr "Доступен выбор темы"
 
 msgid "Music"
 msgstr "Музыка"
-
-msgid "Video"
-msgstr "Видео"
 
 msgid "Photo"
 msgstr "Фото"
@@ -2606,6 +2963,25 @@ msgid_plural "{count} members"
 msgstr[0] "{count} участник"
 msgstr[1] "{count} участника"
 msgstr[2] "{count} участников"
+
+#, python-brace-format
+msgid "{server}; Port: {port}"
+msgstr "{server}; Порт: {port}"
+
+#, python-brace-format
+msgid "Type: {proxyType}"
+msgstr "Тип: {proxyType}"
+
+#, python-brace-format
+msgid "Last used: {lastUsed}"
+msgstr "Последнее использование: {lastUsed}"
+
+msgid "Enabled"
+msgstr "Включён"
+
+#, python-brace-format
+msgid "Ping: {time} MS"
+msgstr "Пинг: {time} МС"
 
 msgid "Play/Pause"
 msgstr "Воспроизведение/пауза"
@@ -2736,10 +3112,10 @@ msgid "Declined"
 msgstr "Отклонённый"
 
 msgid "video call"
-msgstr "видео вызов"
+msgstr "видеозвонок"
 
 msgid "audio call"
-msgstr "аудио вызов"
+msgstr "аудиозвонок"
 
 msgid "Action"
 msgstr "Действие"
@@ -2775,6 +3151,9 @@ msgstr "{sound} (встроенный)"
 #, python-brace-format
 msgid "{sound} (user)"
 msgstr "{sound} (пользовательский)"
+
+msgid "Unknown device"
+msgstr "Неизвестное устройство"
 
 msgid ""
 "A mismatch between the database version and the TDLib version was detected. "

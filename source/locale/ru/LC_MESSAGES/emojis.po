@@ -46,7 +46,7 @@ msgid "rolling on the floor laughing"
 msgstr "катается со смеху"
 
 msgid "face with tears of joy"
-msgstr "смеётся до слез"
+msgstr "смеётся до слёз"
 
 msgid "slightly smiling face"
 msgstr "слегка улыбается"
@@ -2890,7 +2890,7 @@ msgid "ringed planet"
 msgstr "планета с кольцом"
 
 msgid "star"
-msgstr "желтая звезда"
+msgstr "жёлтая звезда"
 
 msgid "glowing star"
 msgstr "сияющая звезда"
