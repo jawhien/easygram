@@ -18,7 +18,6 @@ msgstr ""
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
-#: source\easygram.py:86
 msgid ""
 "Are you sure you want to delete the database? You will have to log in to "
 "Telegram again."
@@ -26,256 +25,157 @@ msgstr ""
 "Ви справді хочете видалити базу даних? Вам доведеться знову увійти в "
 "Telegram."
 
-#: source\easygram.py:86 source\gui\dialogs.py:636 source\gui\dialogs.py:638
-#: source\gui\dialogs.py:3470 source\gui\dialogs.py:3765
-#: source\gui\login.py:430 source\gui\login.py:524 source\gui\login.py:626
-#: source\gui\login.py:752 source\gui\login.py:810 source\gui\login.py:854
-#: source\gui\__init__.py:786 source\gui\__init__.py:1337
-#: source\gui\__init__.py:1755 source\gui\__init__.py:1787
 msgid "Confirmation"
 msgstr "Підтвердження"
 
-#: source\emoji\data.py:29
 msgid "Faces and emotions"
 msgstr "Обличчя та емоції"
 
-#: source\emoji\data.py:30
 msgid "People and gestures"
 msgstr "Люди та жести"
 
-#: source\emoji\data.py:31
 msgid "Animals and nature"
 msgstr "Тварини та природа"
 
-#: source\emoji\data.py:32
 msgid "Food and drink"
 msgstr "Їжа та напої"
 
-#: source\emoji\data.py:33
 msgid "Travel and places"
 msgstr "Подорожі та інші місця"
 
-#: source\emoji\data.py:34
 msgid "Activities"
 msgstr "Дії"
 
-#: source\emoji\data.py:35
 msgid "Objects"
 msgstr "Об'єкти"
 
-#: source\emoji\data.py:36
 msgid "Symbols"
 msgstr "Символ"
 
-#: source\emoji\data.py:37
 msgid "Flags"
 msgstr "Прапор"
 
 #. sizer for the inline bot keyboard.
-#: source\gui\chat.py:221
 msgid "Inline keyboard"
 msgstr "Вбудована клавіатура"
 
 #. Open chat button for replies
-#: source\gui\chat.py:227 source\gui\dialogs.py:306 source\gui\menu.py:55
-#: source\gui\__init__.py:248
 msgid "Open chat"
 msgstr "Відкрити чат"
 
-#: source\gui\chat.py:233
 msgid "Show in chat"
 msgstr "Показати в чаті"
 
-#: source\gui\chat.py:238
 msgid "Clear search"
 msgstr "Очистити пошук"
 
-#: source\gui\chat.py:246
 msgid "Bot menu"
 msgstr "Меню бота"
 
-#: source\gui\chat.py:251 source\gui\dialogs.py:1438
-#: source\gui\dialogs.py:1520 source\gui\dialogs.py:2797
 msgid "Emoji"
 msgstr "Емодзі"
 
 #. bot main keyboard
-#: source\gui\chat.py:269 source\gui\chat.py:274
 msgid "Bot keyboard"
 msgstr "Клавіатура бота"
 
-#: source\gui\chat.py:281 source\gui\chat.py:298 source\gui\dialogs.py:476
-#: source\gui\dialogs.py:2852
 msgid "Send"
 msgstr "Надіслати"
 
-#: source\gui\chat.py:286 source\gui\dialogs.py:2490
 msgid "Schedule message"
 msgstr "Розклад повідомлення"
 
-#: source\gui\chat.py:290 source\gui\chat.py:2463 source\gui\dialogs.py:464
-#: source\gui\dialogs.py:515 source\gui\dialogs.py:2495
-#: source\gui\dialogs.py:2840 source\gui\dialogs.py:3004
 msgid "Set date and time..."
 msgstr "Установити дату й час..."
 
-#: source\gui\chat.py:294 source\gui\dialogs.py:469 source\gui\dialogs.py:2504
-#: source\gui\dialogs.py:2845
 msgid "Without sound"
 msgstr "Без звуку"
 
-#: source\gui\chat.py:303
 msgid "Remove reply"
 msgstr "Видалити відповідь"
 
-#: source\gui\chat.py:308
 msgid "Send as:"
 msgstr "Надіслати як:"
 
-#: source\gui\chat.py:317 source\gui\dialogs.py:1858
 msgid "Scheduled messages"
 msgstr "Заплановані повідомлення"
 
-#: source\gui\chat.py:323
 msgid "Attach..."
 msgstr "Прикріпити..."
 
-#: source\gui\chat.py:327
 msgid "Voice note"
 msgstr "Записати голосове повідомленя"
 
-#: source\gui\chat.py:346
 msgid "Call..."
 msgstr "Зателефонувати..."
 
-#: source\gui\chat.py:351 source\gui\chat.py:2165
 msgid "Pinned messages"
 msgstr "Закріплені повідомлення"
 
-#: source\gui\chat.py:359 source\gui\chat.py:2834
 msgid "Notifications disabled"
 msgstr "Сповіщення вимкнено"
 
-#: source\gui\chat.py:359 source\gui\chat.py:2834
 msgid "Notifications enabled"
 msgstr "Сповіщення ввімкнено"
 
-#: source\gui\chat.py:368
 msgid "Join the channel"
 msgstr "приєднаться до каналу"
 
-#: source\gui\chat.py:370
 msgid "Apply to join group"
 msgstr "Подати заявку на вступ до групи"
 
-#: source\gui\chat.py:372
 msgid "Join the group"
 msgstr "Приєднуйтесь до групи"
 
-#: source\gui\chat.py:380 source\gui\dialogs.py:3544
 msgid "Select topic"
 msgstr "Виберіть тему"
 
-#: source\gui\chat.py:385
 msgid "Search..."
 msgstr "Пошук..."
 
-#: source\gui\chat.py:389 source\gui\dialogs.py:310 source\gui\dialogs.py:681
-#: source\gui\dialogs.py:842 source\gui\dialogs.py:1242
-#: source\gui\dialogs.py:1338 source\gui\dialogs.py:1893
-#: source\gui\dialogs.py:2120 source\gui\dialogs.py:2231
-#: source\gui\dialogs.py:3457 source\gui\dialogs.py:3648
-#: source\gui\dialogs.py:4379 source\mediaPlayer\photo.py:45
 msgid "Close"
 msgstr "Закрити"
 
-#: source\gui\chat.py:615 source\gui\chat.py:630 source\gui\chat.py:985
-#: source\gui\chat.py:1459 source\gui\chat.py:1483 source\gui\chat.py:2044
-#: source\gui\chat.py:2046 source\gui\chat.py:2452 source\gui\chat.py:2519
-#: source\gui\chat.py:2780 source\gui\chat.py:2808 source\gui\chat.py:2815
-#: source\gui\dialogs.py:600 source\gui\dialogs.py:615
-#: source\gui\dialogs.py:749 source\gui\dialogs.py:796
-#: source\gui\dialogs.py:1031 source\gui\dialogs.py:1067
-#: source\gui\dialogs.py:1474 source\gui\dialogs.py:1482
-#: source\gui\dialogs.py:1583 source\gui\dialogs.py:1615
-#: source\gui\dialogs.py:2648 source\gui\dialogs.py:3061
-#: source\gui\dialogs.py:4166 source\gui\dialogs.py:4178
-#: source\gui\login.py:121 source\gui\login.py:145 source\gui\login.py:225
-#: source\gui\login.py:255 source\gui\login.py:280 source\gui\login.py:284
-#: source\gui\login.py:863 source\gui\login.py:890 source\gui\login.py:939
-#: source\gui\proxy.py:184 source\gui\settings.py:876
-#: source\gui\settings.py:1304 source\gui\settings.py:1362
-#: source\gui\settings.py:1368 source\gui\settings.py:1374
-#: source\gui\settings.py:1469 source\gui\settings.py:1506
-#: source\gui\settings.py:1663 source\gui\settings.py:1669
-#: source\gui\__init__.py:408 source\gui\__init__.py:426
-#: source\gui\__init__.py:1752 source\gui\__init__.py:1781
-#: source\gui\__init__.py:1800 source\gui\__init__.py:1833
-#: source\gui\__init__.py:1858 source\gui\__init__.py:1880
-#: source\gui\__init__.py:1888 source\gui\__init__.py:1903
-#: source\gui\__init__.py:1915 source\gui\__init__.py:1923
-#: source\objects\sounds.py:32
 msgid "Error"
 msgstr "Помилка"
 
-#: source\gui\chat.py:630
 msgid "Can't open chat for this message."
 msgstr "Не вдалося відкрити чат для цього повідомлення."
 
-#: source\gui\chat.py:650
 msgid ""
 "You need a Telegram premium subscription to send messages on this name."
 msgstr ""
 "Щоб надсилати повідомлення від цього імені, потрібна підписка Telegram "
 "Premium."
 
-#: source\gui\chat.py:650 source\gui\dialogs.py:3985 source\gui\login.py:109
-#: source\gui\settings.py:1353 source\gui\settings.py:1461
-#: source\gui\settings.py:1635
 msgid "Warning"
 msgstr "Попередження"
 
-#: source\gui\chat.py:688
 msgid "Multiple selection enabled"
 msgstr "Множинний вибір увімкнено"
 
-#: source\gui\chat.py:692
 msgid "Multiple selection disabled"
 msgstr "Множинний вибір вимкнено"
 
-#: source\gui\chat.py:708 source\gui\dialogs.py:2760
 msgid "Files"
 msgstr "Файли"
 
-#: source\gui\chat.py:710 source\gui\chat.py:2049 source\gui\dialogs.py:1568
-#: source\gui\dialogs.py:1641 source\gui\dialogs.py:1655
-#: source\gui\dialogs.py:1669 source\gui\dialogs.py:1685
-#: source\gui\dialogs.py:2909
 msgid "All files"
 msgstr "Всі файли"
 
-#: source\gui\chat.py:712
 msgid "Save file"
 msgstr "Зберегти файл"
 
-#: source\gui\chat.py:733 source\gui\chat.py:927
 #, python-brace-format
 msgid "Topic: {name}"
 msgstr "Тема: {name}"
 
-#: source\gui\chat.py:938
 msgid "The request has been sent"
 msgstr "Запит був відправлений"
 
-#: source\gui\chat.py:938 source\gui\chat.py:1473 source\gui\chat.py:1497
-#: source\gui\chat.py:1779 source\gui\chat.py:1809 source\gui\chat.py:1825
-#: source\gui\dialogs.py:2086 source\gui\dialogs.py:2095
-#: source\gui\dialogs.py:4163 source\gui\dialogs.py:4175
-#: source\gui\__init__.py:1793 source\gui\__init__.py:1806
 msgid "Information"
 msgstr "Інформація"
 
-#: source\gui\chat.py:985 source\gui\chat.py:2808
 #, python-brace-format
 msgid ""
 "Failed to save file \"{name}\", such file already exists and name search "
@@ -284,63 +184,43 @@ msgstr ""
 "Не вдалося зберегти файл \"{name}\",такий файл уже існує, і перевищено ліміт"
 " пошуку за назвою."
 
-#: source\gui\chat.py:1045 source\gui\dialogs.py:1865
 msgid "Messages"
 msgstr "Повідомлення"
 
-#: source\gui\chat.py:1048
 msgid "Message:"
 msgstr "повідомлення:"
 
-#: source\gui\chat.py:1103
 #, python-brace-format
 msgid "Reply to {name}: {text}:"
 msgstr "Відповісти на {name}: {text}:"
 
-#: source\gui\chat.py:1180 source\gui\presentation.py:745
-#: source\gui\vdm.py:111
 msgid "online"
 msgstr "онлайн"
 
-#: source\gui\chat.py:1182 source\gui\presentation.py:747
-#: source\gui\vdm.py:113
 msgid "last seen recently"
 msgstr "востаннє бачили нещодавно"
 
-#: source\gui\chat.py:1184 source\gui\presentation.py:749
-#: source\gui\vdm.py:115
 msgid "last seen within a week"
 msgstr "востаннє бачив протягом тижня"
 
-#: source\gui\chat.py:1186 source\gui\presentation.py:751
-#: source\gui\vdm.py:117
 msgid "last seen within a month"
 msgstr "востаннє бачив протягом місяця"
 
-#: source\gui\chat.py:1188 source\gui\presentation.py:753
-#: source\gui\vdm.py:119
 msgid "last seen never"
 msgstr "востаннє ніколи не бачив"
 
-#: source\gui\chat.py:1190 source\gui\presentation.py:755
-#: source\gui\vdm.py:121
 #, python-brace-format
 msgid "last seen at {time}"
 msgstr "востаннє бачили вчора о {time}"
 
-#: source\gui\chat.py:1192 source\gui\presentation.py:757
-#: source\gui\vdm.py:123
 #, python-brace-format
 msgid "last seen yesterday at {time}"
 msgstr "востаннє бачили вчора о {time}"
 
-#: source\gui\chat.py:1194 source\gui\presentation.py:759
-#: source\gui\vdm.py:125
 #, python-brace-format
 msgid "last seen {date} at {time}"
 msgstr "востаннє бачив {date} at {time}"
 
-#: source\gui\chat.py:1203
 #, python-brace-format
 msgid "Channel: {name}, {count} subscriber"
 msgid_plural "Channel: {name}, {count} subscribers"
@@ -348,7 +228,6 @@ msgstr[0] "Канал: {name}, {count} підписник"
 msgstr[1] "Канал: {name}, {count} підписники"
 msgstr[2] "Канал: {name}, {count} підписників"
 
-#: source\gui\chat.py:1213
 #, python-brace-format
 msgid "Group: {name}, {count} member"
 msgid_plural "Group: {name}, {count} members"
@@ -356,7 +235,6 @@ msgstr[0] "Група: {name}, {count} учасник"
 msgstr[1] "Група: {name}, {count} учасники"
 msgstr[2] "Група: {name}, {count} учасників"
 
-#: source\gui\chat.py:1215
 #, python-brace-format
 msgid "Group: {name}, {status}, {count} member"
 msgid_plural "Group: {name}, {status}, {count} members"
@@ -364,87 +242,63 @@ msgstr[0] "Група: {name}, {status}, {count} учасник"
 msgstr[1] "Група: {name}, {status}, {count} учасники"
 msgstr[2] "Група: {name}, {status}, {count} учасників"
 
-#: source\gui\chat.py:1219 source\gui\dialogs.py:2288 source\gui\vdm.py:238
-#: source\gui\vdm.py:320 source\gui\vdm.py:448
 msgid "Favorites"
 msgstr "Вибране"
 
-#: source\gui\chat.py:1222 source\gui\vdm.py:233 source\gui\vdm.py:315
-#: source\gui\vdm.py:443
 msgid "Replies"
 msgstr "Відповіді"
 
-#: source\gui\chat.py:1226
 #, python-brace-format
 msgid "Bot: {name}"
 msgstr "Бот: {name}"
 
-#: source\gui\chat.py:1232 source\gui\dialogs.py:699
-#: source\gui\presentation.py:45 source\gui\presentation.py:70
-#: source\gui\presentation.py:132 source\gui\presentation.py:237
-#: source\gui\presentation.py:247 source\gui\vdm.py:243
 msgid "Deleted user"
 msgstr "Видалений користувач"
 
-#: source\gui\chat.py:1240
 msgid "Premium account"
 msgstr "Преміум акаунт"
 
-#: source\gui\chat.py:1321 source\gui\__init__.py:689
 msgid "Skipped one-time voice message"
 msgstr "Пропущено одноразове голосове повідомлення"
 
-#: source\gui\chat.py:1458 source\gui\chat.py:1482
 msgid "An error has occurred."
 msgstr "Сталася помилка."
 
-#: source\gui\chat.py:1472
 msgid "No unread reactions."
 msgstr "Немає непрочитаних реакцій."
 
-#: source\gui\chat.py:1496
 msgid "No unread mentions."
 msgstr "Немає непрочитаних згадок."
 
-#: source\gui\chat.py:1588
 msgid "Go to message"
 msgstr "Перейти до повідомлення"
 
-#: source\gui\chat.py:1668
 msgid "Go to quoted message"
 msgstr "Перейти до цитованого повідомлення"
 
-#: source\gui\chat.py:1720 source\gui\chat.py:3079
 msgid "Copied"
 msgstr "Скопійовано"
 
-#: source\gui\chat.py:1779 source\gui\chat.py:1809 source\gui\chat.py:1825
 msgid "There are no links in this message."
 msgstr "У цьому повідомленні немає посилань."
 
-#: source\gui\chat.py:1910
 msgid "Searching unread reactions."
 msgstr "Пошук непрочитаних реакцій."
 
-#: source\gui\chat.py:1920
 msgid "Searching unread mentions."
 msgstr "Пошук непрочитаних згадок."
 
-#: source\gui\chat.py:1941
 msgid "There are no reactions for this message."
 msgstr "Для цього повідомлення немає реакцій."
 
-#: source\gui\chat.py:2037
 msgid "Voice and video messages in this chat are restricted!"
 msgstr "Голосові та відеоповідомлення в цьому чаті обмежені!"
 
-#: source\gui\chat.py:2044
 msgid "Unable to send a voice message because the input device was not found."
 msgstr ""
 "Не вдається надіслати голосове повідомлення, оскільки пристрій введення не "
 "знайдено."
 
-#: source\gui\chat.py:2046
 msgid ""
 "It is not possible to send a voice message because the selected recording "
 "device could not be opened. Check if Easygram is allowed to access the "
@@ -454,251 +308,169 @@ msgstr ""
 "вибраний пристрій запису. Перевірте, чи Easygram дозволено доступ до "
 "вибраного пристрою."
 
-#: source\gui\chat.py:2050 source\gui\dialogs.py:1574
-#: source\gui\dialogs.py:2910 source\gui\settings.py:1491
 msgid "Select file"
 msgstr "Виберіть файл"
 
-#: source\gui\chat.py:2165
 msgid "No pinned messages."
 msgstr "Немає закріплених повідомлень."
 
-#: source\gui\chat.py:2331
 msgid "Unread messages"
 msgstr "Непрочитані повідомлення"
 
-#: source\gui\chat.py:2444 source\gui\dialogs.py:1482
 msgid "The message is too long!"
 msgstr "Повідомлення занадто довге!"
 
-#: source\gui\chat.py:2444
 msgid "Send error"
 msgstr "Помилка надсилання"
 
-#: source\gui\chat.py:2452 source\gui\dialogs.py:615
-#: source\gui\dialogs.py:2648 source\gui\dialogs.py:3061
 msgid "You have not set the date and time!"
 msgstr "Ви не встановили дату та час!"
 
-#: source\gui\chat.py:2473 source\gui\dialogs.py:510
-#: source\gui\dialogs.py:2021 source\gui\dialogs.py:2581
-#: source\gui\dialogs.py:2999
 msgid "%d.%m.%Y at %H:%M"
 msgstr "%d.%m.%Y о %H:%M"
 
-#: source\gui\chat.py:2474 source\gui\dialogs.py:511
-#: source\gui\dialogs.py:2582 source\gui\dialogs.py:3000
 #, python-brace-format
 msgid "Scheduled for: {date}"
 msgstr "Заплановано на: {date}"
 
-#: source\gui\chat.py:2476 source\gui\dialogs.py:513
-#: source\gui\dialogs.py:3002
 msgid "Scheduled for: When the user is online"
 msgstr "Заплановано на: коли користувач знаходиться в мережі"
 
-#: source\gui\chat.py:2519
 msgid "Couldn't send message"
 msgstr "Не вдалося надіслати повідомлення"
 
-#: source\gui\chat.py:2780
 msgid "The file could not be opened. Unknown type of media data."
 msgstr "Не вдалося відкрити файл. Невідомий тип мультимедійних даних."
 
-#: source\gui\chat.py:2815
 msgid "Couldn't save the file. See the details in the log."
 msgstr "Не вдалося зберегти файл. Докладніше дивіться в журналі."
 
-#: source\gui\chat.py:2941
 msgid "The Transcription text is ready."
 msgstr "Текст розшифрування готовий."
 
-#: source\gui\chat.py:3188
 msgid "An error occurred. See details in the event log."
 msgstr "Сталася помилка. Подробиці дивіться в журналі подій."
 
-#: source\gui\chat.py:3192
 msgid ""
 "It was not possible to import contact. Perhaps it is absent in Telegram."
 msgstr "Не вдалося імпортувати контакт. Можливо, він відсутній у Telegram."
 
-#: source\gui\chat.py:3195
 msgid "Successfully imported."
 msgstr "Успішно імпортовано."
 
-#: source\gui\chat.py:3239
 msgid "Comment:"
 msgstr "коментар:"
 
-#: source\gui\chat.py:3242
 msgid "Comments"
 msgstr "Коментарі"
 
-#: source\gui\chat.py:3248
 msgid "Comments for: "
 msgstr "Коментарі для:"
 
-#: source\gui\dialogs.py:101 source\gui\dialogs.py:460
-#: source\gui\dialogs.py:2836
 msgid "Schedule"
 msgstr "розклад"
 
-#: source\gui\dialogs.py:109
 msgid "When to send"
 msgstr "Коли відправляти"
 
-#: source\gui\dialogs.py:111
 msgid "Date and time"
 msgstr "Дата і час"
 
-#: source\gui\dialogs.py:115
 msgid "When will user be online"
 msgstr "Коли користувач буде підключений до мережі"
 
-#: source\gui\dialogs.py:122
 msgid "Date and time selection"
 msgstr "Вибір дати і часу"
 
-#: source\gui\dialogs.py:158
 msgid "Hour:"
 msgstr "година:"
 
-#: source\gui\dialogs.py:165
 msgid "Minute:"
 msgstr "Хвилина:"
 
-#: source\gui\dialogs.py:175 source\gui\dialogs.py:777
-#: source\gui\dialogs.py:1135 source\gui\dialogs.py:1828
-#: source\gui\dialogs.py:2056 source\gui\dialogs.py:2322
-#: source\gui\dialogs.py:3151 source\gui\dialogs.py:3561
-#: source\gui\dialogs.py:4197 source\gui\dialogs.py:4294
-#: source\gui\editor.py:50 source\gui\settings.py:1259
 msgid "OK"
 msgstr "ОК"
 
-#: source\gui\dialogs.py:180 source\gui\dialogs.py:481
-#: source\gui\dialogs.py:781 source\gui\dialogs.py:1140
-#: source\gui\dialogs.py:1405 source\gui\dialogs.py:1789
-#: source\gui\dialogs.py:2060 source\gui\dialogs.py:2326
-#: source\gui\dialogs.py:2540 source\gui\dialogs.py:2858
-#: source\gui\dialogs.py:3147 source\gui\dialogs.py:3264
-#: source\gui\dialogs.py:3565 source\gui\dialogs.py:3796
-#: source\gui\dialogs.py:3879 source\gui\dialogs.py:4202
-#: source\gui\dialogs.py:4299 source\gui\editor.py:55 source\gui\login.py:94
-#: source\gui\login.py:356 source\gui\login.py:473 source\gui\login.py:570
-#: source\gui\login.py:674 source\gui\login.py:800 source\gui\proxy.py:72
-#: source\gui\settings.py:169 source\gui\settings.py:436
-#: source\gui\settings.py:1264
 msgid "Cancel"
 msgstr "Скасувати"
 
-#: source\gui\dialogs.py:233
 msgid "About the bot"
 msgstr "Про бота"
 
-#: source\gui\dialogs.py:235 source\gui\__init__.py:242
 msgid "About user"
 msgstr "Про користувача"
 
-#: source\gui\dialogs.py:242 source\gui\dialogs.py:3851
-#: source\gui\login.py:774
 msgid "First name:"
 msgstr "Ім'я:"
 
-#: source\gui\dialogs.py:249 source\gui\dialogs.py:3196
-#: source\gui\dialogs.py:3382 source\gui\dialogs.py:3859
-#: source\gui\login.py:781
 msgid "Last name:"
 msgstr "Прізвище:"
 
-#: source\gui\dialogs.py:259
 msgid "About Me:"
 msgstr "Про мене:"
 
-#: source\gui\dialogs.py:266 source\gui\dialogs.py:3408
-#: source\gui\dialogs.py:3867 source\gui\login.py:336
 msgid "Phone number:"
 msgstr "Номер телефону:"
 
-#: source\gui\dialogs.py:276 source\gui\dialogs.py:3431
 msgid "User name:"
 msgstr "Ім'я користувача:"
 
-#: source\gui\dialogs.py:286 source\gui\dialogs.py:3397
 msgid "Birthday:"
 msgstr "день народження:"
 
-#: source\gui\dialogs.py:292 source\gui\dialogs.py:3421
 msgid "Personal channel"
 msgstr "Персональний канал"
 
-#: source\gui\dialogs.py:298 source\gui\dialogs.py:1325
-#: source\gui\dialogs.py:3445
 msgid "ID:"
 msgstr "Ідентифікатор:"
 
-#: source\gui\dialogs.py:349 source\gui\dialogs.py:3517
 #, python-brace-format
 msgid "{day}/{month}/{year}"
 msgstr "{day}/{month}/{year}"
 
-#: source\gui\dialogs.py:351 source\gui\dialogs.py:3519
 #, python-brace-format
 msgid "{day}/{month}"
 msgstr "{day}/{month}"
 
-#: source\gui\dialogs.py:364 source\gui\dialogs.py:3533
 #, python-brace-format
 msgid "Personal channel: {title}"
 msgstr "Персональний канал: {title}"
 
-#: source\gui\dialogs.py:370
 #, python-brace-format
 msgid "Clear history with {title}"
 msgstr "Очистити історію за допомогою {title}"
 
-#: source\gui\dialogs.py:374
 msgid "Are you sure you want to clear your history on this chat?"
 msgstr "Ви впевнені, що бажаєте очистити історію цього чату?"
 
-#: source\gui\dialogs.py:377
 msgid "Clear for all users"
 msgstr "Зрозуміло для всіх користувачів"
 
-#: source\gui\dialogs.py:380
 msgid "Remove from chat list"
 msgstr "Видалити зі списку чату"
 
-#: source\gui\dialogs.py:385
 msgid "Yes"
 msgstr "так"
 
-#: source\gui\dialogs.py:390
 msgid "No"
 msgstr "ні"
 
-#: source\gui\dialogs.py:424
 #, python-brace-format
 msgid "Voice note: {title}"
 msgstr "голосове повідомленя: {title}"
 
-#: source\gui\dialogs.py:449 source\gui\dialogs.py:532
 msgid "Start recording"
 msgstr "Почніть запис"
 
-#: source\gui\dialogs.py:454 source\gui\dialogs.py:2834
 msgid "Options"
 msgstr "Опції"
 
-#: source\gui\dialogs.py:456
 msgid "Delete after listening"
 msgstr "Видалити після прослуховування"
 
-#: source\gui\dialogs.py:527
 msgid "Stop recording"
 msgstr "Зупинити запис"
 
-#: source\gui\dialogs.py:600
 msgid ""
 "An error occurred while sending a voice message. See the log for more "
 "details."
@@ -706,125 +478,95 @@ msgstr ""
 "Сталася помилка під час надсилання голосового повідомлення. Більш детальну "
 "інформацію дивіться в журналі."
 
-#: source\gui\dialogs.py:610
 msgid "Can't send empty messages!"
 msgstr "Не можна надсилати порожні повідомлення!"
 
-#: source\gui\dialogs.py:610
 msgid "Info"
 msgstr "Інформація"
 
 #. Change the label of the button to show that the upload has already started.
-#: source\gui\dialogs.py:622
 msgid "Sending in progress..."
 msgstr "Триває надсилання..."
 
-#: source\gui\dialogs.py:636
 msgid "A message is being sent. Do you really want to close this window?"
 msgstr "Надсилається повідомлення. Ви дійсно хочете закрити це вікно?"
 
-#: source\gui\dialogs.py:638
 msgid "Cancel the record and delete the message?"
 msgstr "Скасувати запис і видалити повідомлення?"
 
-#: source\gui\dialogs.py:661
 msgid "Voters"
 msgstr "Голоси"
 
-#: source\gui\dialogs.py:665
 msgid "Answer"
 msgstr "Відповідь"
 
-#: source\gui\dialogs.py:667
 msgid "Answer:"
 msgstr "Відповідь:"
 
-#: source\gui\dialogs.py:672
 msgid "Voters:"
 msgstr "Голоси:"
 
-#: source\gui\dialogs.py:677
 msgid "More"
 msgstr "Ще"
 
-#: source\gui\dialogs.py:694 source\gui\dialogs.py:706 source\gui\login.py:395
-#: source\gui\login.py:518 source\gui\login.py:617 source\gui\login.py:716
-#: source\gui\__init__.py:1447 source\mediaPlayer\gui.py:69
 msgid "Unknown"
 msgstr "Невідомо"
 
-#: source\gui\dialogs.py:712
 #, python-brace-format
 msgid "Today at {time}"
 msgstr "Сьогодні о {time}"
 
-#: source\gui\dialogs.py:714
 #, python-brace-format
 msgid "{date} at {time}"
 msgstr "{date} о {time}"
 
-#: source\gui\dialogs.py:716
 #, python-brace-format
 msgid "{name}, {date}"
 msgstr "{name}, {date}"
 
-#: source\gui\dialogs.py:749
 msgid "Can't get voters for this option."
 msgstr "Не вдалося отримати список голосів для цього варіанта."
 
-#: source\gui\dialogs.py:758
 msgid "No voters"
 msgstr "Немає голосів"
 
-#: source\gui\dialogs.py:768 source\gui\dialogs.py:838
 msgid "Add option"
 msgstr "Додати варіант"
 
-#: source\gui\dialogs.py:771
 msgid "Option text:"
 msgstr "Текст варіанта:"
 
-#: source\gui\dialogs.py:796
 msgid "Option text must be 100 characters or less."
 msgstr "Текст варіанта має містити не більше 100 символів."
 
-#: source\gui\dialogs.py:822
 msgid "Choose one or more answers"
 msgstr "Виберіть одну або декілька відповідей"
 
-#: source\gui\dialogs.py:824
 msgid "Choose only one answer"
 msgstr "Виберіть лише одну відповідь"
 
-#: source\gui\dialogs.py:830
 msgid "View voters"
 msgstr "Переглянути голоси"
 
-#: source\gui\dialogs.py:834
 msgid "Cancel vote"
 msgstr "Скасувати голос"
 
-#: source\gui\dialogs.py:909 source\gui\presentation.py:200
 #, python-brace-format
 msgid "Quiz: {title}, anonymous quiz"
 msgstr "Вікторина: {title}, анонімна вікторина"
 
-#: source\gui\dialogs.py:910 source\gui\presentation.py:204
 #, python-brace-format
 msgid "Quiz: {title}, public quiz"
 msgstr "Вікторина: {title}, публічна вікторина"
 
-#: source\gui\dialogs.py:912 source\gui\presentation.py:198
 #, python-brace-format
 msgid "Poll: {title}, anonymous poll"
 msgstr "Опитування: {title}, анонімне опитування"
 
-#: source\gui\dialogs.py:913 source\gui\presentation.py:202
 #, python-brace-format
 msgid "Poll: {title}, public poll"
 msgstr "Опитування: {title}, громадське опитування"
 
-#: source\gui\dialogs.py:919
 #, python-brace-format
 msgid "{text}: {count} vote ({p}%)"
 msgid_plural "{text}: {count} votes ({p}%)"
@@ -832,47 +574,37 @@ msgstr[0] "{text}: {count} голос ({p}%)"
 msgstr[1] "{text}: {count} голоси ({p}%)"
 msgstr[2] "{text}: {count} голосів ({p}%)"
 
-#: source\gui\dialogs.py:921 source\gui\dialogs.py:929
 #, python-brace-format
 msgid "{option} - sending answer"
 msgstr "{option} - надсилання відповіді"
 
-#: source\gui\dialogs.py:935
 #, python-brace-format
 msgid "{option} - This is the correct answer"
 msgstr "{option} - це правильна відповідь"
 
-#: source\gui\dialogs.py:938
 #, python-brace-format
 msgid "{option}. Explanation: {text}"
 msgstr "{option}. Пояснення: {text}"
 
-#: source\gui\dialogs.py:940
 #, python-brace-format
 msgid "{option} - This is the wrong answer"
 msgstr "{option} - це неправильна відповідь"
 
-#: source\gui\dialogs.py:963
 msgid "This quiz is now closed."
 msgstr "Зараз цей тест закрито."
 
-#: source\gui\dialogs.py:963
 msgid "This poll is now closed."
 msgstr "Опитування закрито."
 
-#: source\gui\dialogs.py:965 source\gui\dialogs.py:968
 msgid "Can't vote in this poll."
 msgstr "Не можна проголосувати в цьому опитуванні."
 
-#: source\gui\dialogs.py:967
 msgid "Can't change answer in quiz mode."
 msgstr "Неможливо змінити відповідь у режимі тесту."
 
-#: source\gui\dialogs.py:967
 msgid "Can't change answer in this poll."
 msgstr "Не можна змінити відповідь у цьому опитуванні."
 
-#: source\gui\dialogs.py:988
 #, python-brace-format
 msgid "{count} total vote"
 msgid_plural "{count} total votes"
@@ -880,19 +612,15 @@ msgstr[0] "Усього {count} голос"
 msgstr[1] "Усього {count} голоси"
 msgstr[2] "Усього {count} голосів"
 
-#: source\gui\dialogs.py:1067
 msgid "Can't add option to this poll."
 msgstr "Не вдалося додати варіант до цього опитування."
 
-#: source\gui\dialogs.py:1115
 msgid "Links"
 msgstr "Посилання"
 
-#: source\gui\dialogs.py:1186 source\gui\__init__.py:279
 msgid "About Easygram"
 msgstr "Про Easygram"
 
-#: source\gui\dialogs.py:1196
 msgid "Original text in English: © Eugene Poplavsky."
 msgstr "Переклад українською мовою: © Євген Поплавський."
 
@@ -902,14 +630,9 @@ msgstr "Переклад українською мовою: © Євген Поп
 #. bound by the terms of the license agreement. The text of the license can be
 #. found
 #. at:\n{link}").format(link="https://www.gnu.org/licenses/gpl-3.0.en.html"))
-#: source\gui\dialogs.py:1199
 msgid "Easygram also includes a number of GNU GPL compatible components."
 msgstr "Easygram також містить ряд компонентів, сумісних із GNU GPL."
 
-#: source\gui\dialogs.py:1201 source\gui\dialogs.py:1203
-#: source\gui\dialogs.py:1205 source\gui\dialogs.py:1209
-#: source\gui\dialogs.py:1213 source\gui\dialogs.py:1219
-#: source\gui\dialogs.py:1223
 #, python-brace-format
 msgid ""
 "{name}, version: {version}\n"
@@ -919,149 +642,112 @@ msgstr ""
 "{link}"
 
 #. TRANSLATORS: this text on button in about dialog.
-#: source\gui\dialogs.py:1237
 msgid "Keyboard shortcuts"
 msgstr "Комбінації клавіш"
 
-#: source\gui\dialogs.py:1269
 msgid "About the channel"
 msgstr "Про канал"
 
-#: source\gui\dialogs.py:1274
 msgid "Name:"
 msgstr "Ім'я:"
 
-#: source\gui\dialogs.py:1281
 msgid "About the channel:"
 msgstr "Про канал:"
 
-#: source\gui\dialogs.py:1287
 msgid "Member count:"
 msgstr "Кількість учасників:"
 
-#: source\gui\dialogs.py:1294
 msgid "Public link:"
 msgstr "Публічне посилання:"
 
-#: source\gui\dialogs.py:1298 source\gui\dialogs.py:1318
 msgid "Copy"
 msgstr "Копіювати"
 
-#: source\gui\dialogs.py:1313
 msgid "Invite link:"
 msgstr "Посилання для запрошення:"
 
-#: source\gui\dialogs.py:1334
 msgid "Open the channel"
 msgstr "Відкрити канал"
 
-#: source\gui\dialogs.py:1352 source\gui\dialogs.py:1357
 #, python-brace-format
 msgid "Copied: {link}"
 msgstr "Скопійовано: {link}"
 
-#: source\gui\dialogs.py:1400 source\gui\dialogs.py:3259
-#: source\gui\proxy.py:232
 msgid "Save"
 msgstr "зберегти"
 
-#: source\gui\dialogs.py:1417
 msgid "Edit message"
 msgstr "Редагувати повідомлення"
 
-#: source\gui\dialogs.py:1421
 msgid "Message text:"
 msgstr "Текст повідомлення:"
 
-#: source\gui\dialogs.py:1474
 msgid "Can't send empty message!"
 msgstr "Неможливо надіслати пусте повідомлення!"
 
-#: source\gui\dialogs.py:1506
 msgid "Edit document"
 msgstr "Редагувати документ"
 
-#: source\gui\dialogs.py:1511 source\gui\dialogs.py:2788
 msgid "Caption:"
 msgstr "Підпис:"
 
-#: source\gui\dialogs.py:1526
 msgid "Override file..."
 msgstr "Перевизначити файл..."
 
-#: source\gui\dialogs.py:1531
 msgid "File path:"
 msgstr "шлях до файлу:"
 
-#: source\gui\dialogs.py:1538 source\gui\settings.py:580
 msgid "Browse..."
 msgstr "Огляд..."
 
-#: source\gui\dialogs.py:1543
 msgid "Cancel override file"
 msgstr "Скасувати файл заміни"
 
-#: source\gui\dialogs.py:1583
 msgid "This type of file is not supported!"
 msgstr "Цей тип файлу не підтримується!"
 
-#: source\gui\dialogs.py:1615
 msgid "The caption is too long!"
 msgstr "Підпис занадто довгий!"
 
-#: source\gui\dialogs.py:1632
 msgid "Edit photo"
 msgstr "Редагувати фото"
 
-#: source\gui\dialogs.py:1641
 msgid "All images"
 msgstr "Всі зображення"
 
-#: source\gui\dialogs.py:1646
 msgid "Edit video"
 msgstr "Редагувати відео"
 
-#: source\gui\dialogs.py:1655
 msgid "All video files"
 msgstr "Всі відео файли"
 
-#: source\gui\dialogs.py:1660
 msgid "Edit animation"
 msgstr "Редагувати анімацію"
 
-#: source\gui\dialogs.py:1669
 msgid "All animation"
 msgstr "Вся анімація"
 
-#: source\gui\dialogs.py:1674
 msgid "Edit audio"
 msgstr "Редагувати аудіо"
 
-#: source\gui\dialogs.py:1685
 msgid "All audio files"
 msgstr "Всі аудіофайли"
 
-#: source\gui\dialogs.py:1691 source\gui\dialogs.py:2802
 msgid "Title:"
 msgstr "Назва:"
 
-#: source\gui\dialogs.py:1698 source\gui\dialogs.py:2812
 msgid "Performer:"
 msgstr "Виконавець:"
 
-#: source\gui\dialogs.py:1722
 msgid "Edit voice note"
 msgstr "Редагувати голосову нотатку"
 
-#: source\gui\dialogs.py:1735 source\gui\dialogs.py:1950
 msgid "Delete message"
 msgstr "Видалити повідомлення"
 
-#: source\gui\dialogs.py:1753 source\gui\dialogs.py:1950
 msgid "Are you sure you want to delete this message?"
 msgstr "Ви впевнені, що хочете видалити це повідомлення?"
 
-#: source\gui\dialogs.py:1753
 #, python-brace-format
 msgid "Are you sure you want to delete {count} message?"
 msgid_plural "Are you sure you want to delete {count} messages?"
@@ -1069,186 +755,140 @@ msgstr[0] "Ви справді хочете видалити {count} повід�
 msgstr[1] "Ви справді хочете видалити {count} повідомлення?"
 msgstr[2] "Ви справді хочете видалити {count} повідомлень?"
 
-#: source\gui\dialogs.py:1759
 #, python-brace-format
 msgid "Delete also for {name}"
 msgstr "Також видалити для {name}"
 
-#: source\gui\dialogs.py:1759
 msgid "Delete from all users"
 msgstr "Видалити для всіх користувачів"
 
-#: source\gui\dialogs.py:1768
 msgid "Revoke my messages"
 msgstr "Відкликати мої повідомлення"
 
-#: source\gui\dialogs.py:1784 source\gui\dialogs.py:1888
-#: source\gui\dialogs.py:2776 source\gui\login.py:73
-#: source\gui\settings.py:1193
 msgid "Delete"
 msgstr "Видалити"
 
-#: source\gui\dialogs.py:1814
 msgid "Successfully"
 msgstr "Успішно"
 
-#: source\gui\dialogs.py:1821
 #, python-brace-format
 msgid "File '{name}' saved in downloads"
 msgstr "Файл '{name}' збережено в завантаженнях"
 
-#: source\gui\dialogs.py:1823
 #, python-brace-format
 msgid "The file is saved in \"{path}\""
 msgstr "Файл збережено в \"{path}\""
 
-#: source\gui\dialogs.py:1833
 msgid "Show in Folder"
 msgstr "Показати в папці"
 
-#: source\gui\dialogs.py:1873
 msgid "Change..."
 msgstr "змінити..."
 
-#: source\gui\dialogs.py:1878
 msgid "Change time..."
 msgstr "Змінити час..."
 
-#: source\gui\dialogs.py:1883
 msgid "Send immediately"
 msgstr "Надіслати зараз"
 
-#: source\gui\dialogs.py:2037
 msgid "Reactions"
 msgstr "реакції"
 
-#: source\gui\dialogs.py:2046
 msgid "Available reactions:"
 msgstr "Доступні реакції:"
 
-#: source\gui\dialogs.py:2086
 msgid "You cannot send reactions if anonymity is enabled!"
 msgstr "Ви не можете надсилати реакції, якщо ввімкнено анонімність!"
 
-#: source\gui\dialogs.py:2095
 msgid "There are no reactions available for this message!"
 msgstr "На це повідомлення немає відповідей!"
 
-#: source\gui\dialogs.py:2105
 msgid "Scheduled message"
 msgstr "Заплановане повідомлення"
 
-#: source\gui\dialogs.py:2111
 #, python-brace-format
 msgid "Message scheduled at {date}"
 msgstr "Повідомлення заплановане на {date}"
 
-#: source\gui\dialogs.py:2113
 msgid "The message will be sent when the user is online."
 msgstr "Повідомлення буде надіслано, коли користувач буде в мережі."
 
-#: source\gui\dialogs.py:2134
 msgid "Message Detail"
 msgstr "Деталі повідомлення"
 
-#: source\gui\dialogs.py:2140
 msgid "Text message:"
 msgstr "Текстове повідомлення:"
 
-#: source\gui\dialogs.py:2144
 msgid "Voice message:"
 msgstr "Голосове повідомлення:"
 
-#: source\gui\dialogs.py:2148
 msgid "Audio message:"
 msgstr "Звукове повідомлення:"
 
-#: source\gui\dialogs.py:2152 source\gui\dialogs.py:2156
 msgid "Video message:"
 msgstr "Відеоповідомлення:"
 
-#: source\gui\dialogs.py:2158
 msgid "Photo:"
 msgstr "фото:"
 
-#: source\gui\dialogs.py:2163
 #, python-brace-format
 msgid "Document message: {filename}"
 msgstr "Повідомлення документа: {filename}"
 
-#: source\gui\dialogs.py:2168 source\gui\dialogs.py:2183
 msgid "No caption"
 msgstr "Без підпису"
 
-#: source\gui\dialogs.py:2170
 msgid "Registration message:"
 msgstr "Реєстраційне повідомлення:"
 
-#: source\gui\dialogs.py:2172 source\gui\dialogs.py:2175
 msgid "Creation message:"
 msgstr "Повідомлення про створення:"
 
-#: source\gui\dialogs.py:2173 source\gui\presentation.py:216
 msgid "Supergroup created."
 msgstr "Створена супергрупа."
 
-#: source\gui\dialogs.py:2176
 msgid "Group created."
 msgstr "Групу створено."
 
-#: source\gui\dialogs.py:2178
 msgid "Gif:"
 msgstr "GIF:"
 
-#: source\gui\dialogs.py:2185
 msgid "Call message:"
 msgstr "Повідомлення про виклик:"
 
-#: source\gui\dialogs.py:2188
 msgid "Separator item:"
 msgstr "Елемент роздільника:"
 
-#: source\gui\dialogs.py:2191
 msgid "Sticker:"
 msgstr "наклейка:"
 
-#: source\gui\dialogs.py:2194 source\gui\dialogs.py:2311
 msgid "Emoji:"
 msgstr "Емодзі:"
 
-#: source\gui\dialogs.py:2200
 #, python-brace-format
 msgid "Views: {count}"
 msgstr "Перегляди: {count}"
 
-#: source\gui\dialogs.py:2211
 #, python-brace-format
 msgid "You sent a reaction {r}"
 msgstr "Ви надіслали реакцію {r}"
 
-#: source\gui\dialogs.py:2216 source\gui\presentation.py:334
-#: source\gui\presentation.py:359
 #, python-brace-format
 msgid "Transcription: {text}"
 msgstr "Розшифрування: {text}"
 
-#: source\gui\dialogs.py:2253
 msgid "Emoji panel"
 msgstr "Панель емодзі"
 
-#: source\gui\dialogs.py:2288
 msgid "All"
 msgstr "всі"
 
-#: source\gui\dialogs.py:2290
 msgid "Categories"
 msgstr "Категорія"
 
-#: source\gui\dialogs.py:2295
 msgid "Filter:"
 msgstr "Фільтр:"
 
-#: source\gui\dialogs.py:2448
 #, python-brace-format
 msgid "Forward {count} message"
 msgid_plural "Forward {count} messages"
@@ -1256,35 +896,27 @@ msgstr[0] "Переслати {count} повідомлення"
 msgstr[1] "Переслати {count} повідомлення"
 msgstr[2] "Переслати {count} повідомлень"
 
-#: source\gui\dialogs.py:2466
 msgid "Chats:"
 msgstr "Чати:"
 
-#: source\gui\dialogs.py:2478
 msgid "Topic:"
 msgstr "Тема:"
 
-#: source\gui\dialogs.py:2510
 msgid "Advanced options"
 msgstr "Розширені параметри"
 
-#: source\gui\dialogs.py:2517
 msgid "Hide sender name"
 msgstr "Приховати ім'я відправника"
 
-#: source\gui\dialogs.py:2517
 msgid "Hide sender name (if available)"
 msgstr "Приховати ім'я відправника (якщо доступно)"
 
-#: source\gui\dialogs.py:2523
 msgid "Remove caption"
 msgstr "Видалити підпис"
 
-#: source\gui\dialogs.py:2534 source\gui\dialogs.py:2632
 msgid "Forward in this chat"
 msgstr "Перейти в цей чат"
 
-#: source\gui\dialogs.py:2630
 #, python-brace-format
 msgid "Forward in {count} chat"
 msgid_plural "Forward in {count} chats"
@@ -1292,588 +924,440 @@ msgstr[0] "Переслати в {count} чат"
 msgstr[1] "Переслати в {count} чати"
 msgstr[2] "Переслати в {count} чатів"
 
-#: source\gui\dialogs.py:2771 source\gui\login.py:78
-#: source\gui\settings.py:1198
 msgid "Add..."
 msgstr "додати..."
 
-#: source\gui\dialogs.py:2785
 msgid "Properties"
 msgstr "Властивості"
 
-#: source\gui\dialogs.py:2821
 msgid "Send without compression"
 msgstr "Надіслати без стиснення"
 
-#: source\gui\dialogs.py:2883
 msgid "Attach files"
 msgstr "Прикріпити файли"
 
-#: source\gui\dialogs.py:3135
 msgid "Service notification"
 msgstr "Сервісне повідомлення"
 
-#: source\gui\dialogs.py:3144 source\gui\dialogs.py:3453
 msgid "Log out"
 msgstr "Вийти"
 
-#: source\gui\dialogs.py:3179 source\gui\dialogs.py:3403
 msgid "Change personal information"
 msgstr "Змінити особисту інформацію"
 
-#: source\gui\dialogs.py:3185
 msgid "Basic information"
 msgstr "Основна інформація"
 
-#: source\gui\dialogs.py:3188 source\gui\dialogs.py:3375
 msgid "Your name:"
 msgstr "Ваше ім'я:"
 
-#: source\gui\dialogs.py:3204 source\gui\dialogs.py:3390
 msgid "Your bio:"
 msgstr "Ваша біографія:"
 
-#: source\gui\dialogs.py:3213
 msgid "Birthday"
 msgstr "день народження"
 
-#: source\gui\dialogs.py:3216 source\gui\dialogs.py:3290
 msgid "None"
 msgstr "Немає"
 
-#: source\gui\dialogs.py:3219
 msgid "Day:"
 msgstr "День:"
 
-#: source\gui\dialogs.py:3227
 msgid "Month:"
 msgstr "Місяць:"
 
-#: source\gui\dialogs.py:3236
 msgid "Year:"
 msgstr "Рік:"
 
-#: source\gui\dialogs.py:3308
 msgid "January"
 msgstr "Січня"
 
-#: source\gui\dialogs.py:3308
 msgid "February"
 msgstr "Лютий"
 
-#: source\gui\dialogs.py:3308
 msgid "March"
 msgstr "Березень"
 
-#: source\gui\dialogs.py:3308
 msgid "April"
 msgstr "Квітень"
 
-#: source\gui\dialogs.py:3308
 msgid "May"
 msgstr "Травня"
 
-#: source\gui\dialogs.py:3308
 msgid "June"
 msgstr "Червень"
 
-#: source\gui\dialogs.py:3308
 msgid "July"
 msgstr "Липень"
 
-#: source\gui\dialogs.py:3308
 msgid "August"
 msgstr "Серпень"
 
-#: source\gui\dialogs.py:3308
 msgid "September"
 msgstr "Вересень"
 
-#: source\gui\dialogs.py:3308
 msgid "October"
 msgstr "Жовтень"
 
-#: source\gui\dialogs.py:3308
 msgid "November"
 msgstr "Листопад"
 
-#: source\gui\dialogs.py:3308
 msgid "December"
 msgstr "Грудень"
 
-#: source\gui\dialogs.py:3367 source\gui\__init__.py:267
 msgid "My profile"
 msgstr "Мій профіль"
 
-#: source\gui\dialogs.py:3417 source\gui\login.py:480 source\gui\login.py:577
 msgid "Change phone number"
 msgstr "Змінити номер телефону"
 
-#: source\gui\dialogs.py:3426
 msgid "Change personal channel"
 msgstr "Змінити особистий канал"
 
-#: source\gui\dialogs.py:3440
 msgid "Change User name"
 msgstr "Змінити ім'я користувача"
 
-#: source\gui\dialogs.py:3470
 msgid "Are you sure you want to log out of your account?"
 msgstr "Ви впевнені, що бажаєте вийти зі свого облікового запису?"
 
-#: source\gui\dialogs.py:3496
 msgid "Feature not yet supported!"
 msgstr "Функція ще не підтримується!"
 
-#: source\gui\dialogs.py:3500
 msgid "Failed to get full profile information."
 msgstr "Не вдалося отримати повну інформацію профілю."
 
-#: source\gui\dialogs.py:3551
 msgid "Topics:"
 msgstr "Теми:"
 
-#: source\gui\dialogs.py:3619 source\gui\dialogs.py:3632
-#: source\gui\dialogs.py:4375 source\gui\dialogs.py:4411
-#: source\gui\dialogs.py:4428 source\gui\__init__.py:271
 msgid "Search"
 msgstr "Пошук"
 
-#: source\gui\dialogs.py:3624 source\gui\dialogs.py:4362
 msgid "Search query:"
 msgstr "Пошуковий запит:"
 
-#: source\gui\dialogs.py:3637
 msgid "Search Results"
 msgstr "Результати пошуку"
 
-#: source\gui\dialogs.py:3643
 msgid "Clear history"
 msgstr "Очистити історію"
 
-#: source\gui\dialogs.py:3726
 msgid "From your chats"
 msgstr "З ваших чатів"
 
-#: source\gui\dialogs.py:3737
 msgid "Global search"
 msgstr "Глобальний пошук"
 
-#: source\gui\dialogs.py:3746
 msgid "No results"
 msgstr "Результатів немає"
 
-#: source\gui\dialogs.py:3749
 msgid "An error has occurred"
 msgstr "Сталася помилка"
 
-#: source\gui\dialogs.py:3765
 msgid "Do you really want to clear search history?"
 msgstr "Ви дійсно хочете очистити історію пошуку?"
 
-#: source\gui\dialogs.py:3788 source\gui\menu.py:589
-#: source\gui\settings.py:428
 msgid "Enable notifications"
 msgstr "Увімкнути сповіщення"
 
-#: source\gui\dialogs.py:3789 source\gui\settings.py:429
 msgid "Show message previews"
 msgstr "Показувати текст повідомлень"
 
-#: source\gui\dialogs.py:3795 source\gui\settings.py:164
-#: source\gui\settings.py:336 source\gui\settings.py:435
-#: source\gui\settings.py:1268
 msgid "Apply"
 msgstr "Застосувати"
 
-#: source\gui\dialogs.py:3830 source\gui\settings.py:937
 msgid "Notifications settings"
 msgstr "Налаштування сповіщень"
 
-#: source\gui\dialogs.py:3844 source\gui\__init__.py:256
 msgid "Add contact"
 msgstr "Додати контакт"
 
-#: source\gui\dialogs.py:3875 source\gui\proxy.py:68
 msgid "Add"
 msgstr "Додати"
 
-#: source\gui\dialogs.py:3930
 msgid "Call"
 msgstr "Дзвінок"
 
-#: source\gui\dialogs.py:3954
 msgid "Initialization..."
 msgstr "Ініціалізація..."
 
-#: source\gui\dialogs.py:3957
 msgid "Disable microphone"
 msgstr "Вимкнути мікрофон"
 
-#: source\gui\dialogs.py:3961 source\gui\dialogs.py:4086
 msgid "Decline"
 msgstr "Відхилити"
 
-#: source\gui\dialogs.py:3985
 msgid "There is already an active call."
 msgstr "Уже є активний дзвінок."
 
-#: source\gui\dialogs.py:4021
 msgid "Ringing..."
 msgstr "Виклик..."
 
-#: source\gui\dialogs.py:4029 source\gui\login.py:385 source\gui\login.py:508
-#: source\gui\login.py:607 source\gui\login.py:706 source\gui\__init__.py:1437
 msgid "Connecting..."
 msgstr "Підключення..."
 
-#: source\gui\dialogs.py:4032 source\gui\login.py:389 source\gui\login.py:512
-#: source\gui\login.py:611 source\gui\login.py:710 source\gui\__init__.py:1441
 msgid "Connected"
 msgstr "Підключено"
 
-#: source\gui\dialogs.py:4050
 msgid "Do you really want to end the call?"
 msgstr "Ви справді хочете завершити дзвінок?"
 
-#: source\gui\dialogs.py:4050
 msgid "Warning!"
 msgstr "Попередження!"
 
-#: source\gui\dialogs.py:4059
 msgid "Incoming call"
 msgstr "Вхідний дзвінок"
 
-#: source\gui\dialogs.py:4076
 #, python-brace-format
 msgid "Incoming call from {name}"
 msgstr "Вхідний дзвінок від {name}"
 
-#: source\gui\dialogs.py:4078
 #, python-brace-format
 msgid "Incoming call from {id}"
 msgstr "Вхідний дзвінок від {id}"
 
-#: source\gui\dialogs.py:4082
 msgid "Accept"
 msgstr "Прийняти"
 
-#: source\gui\dialogs.py:4122
 msgid "Someone has accessed your chats"
 msgstr "Хтось отримав доступ до ваших чатів"
 
-#: source\gui\dialogs.py:4131
 #, python-brace-format
 msgid "Login to your account was detected on a new device: {device}"
 msgstr "Виявлено вхід у ваш обліковий запис на новому пристрої: {device}"
 
-#: source\gui\dialogs.py:4136
 #, python-brace-format
 msgid "When: {date} at {time}"
 msgstr "Коли: {date} о {time}"
 
-#: source\gui\dialogs.py:4139
 #, python-brace-format
 msgid "Where: {location}"
 msgstr "Де: {location}"
 
-#: source\gui\dialogs.py:4140
 msgid "Was it you?"
 msgstr "Це були ви?"
 
-#: source\gui\dialogs.py:4143
 msgid "Yes it's me."
 msgstr "Так, це я."
 
-#: source\gui\dialogs.py:4147
 msgid "No. Protect your account."
 msgstr "Ні. Захистити ваш обліковий запис."
 
-#: source\gui\dialogs.py:4163
 msgid "Login allowed."
 msgstr "Вхід дозволено."
 
-#: source\gui\dialogs.py:4166 source\gui\dialogs.py:4178
 msgid "Unknown error."
 msgstr "Невідома помилка."
 
-#: source\gui\dialogs.py:4175
 msgid "Login disallowed."
 msgstr "Вхід заборонено."
 
-#: source\gui\dialogs.py:4185
 msgid "Contact Sorting"
 msgstr "Сортування контактів"
 
-#: source\gui\dialogs.py:4189
 msgid "Sort"
 msgstr "Сортувати"
 
-#: source\gui\dialogs.py:4189
 msgid "By name"
 msgstr "За іменем"
 
-#: source\gui\dialogs.py:4189
 msgid "By status"
 msgstr "За статусом"
 
-#: source\gui\dialogs.py:4192
 msgid "Order"
 msgstr "Порядок"
 
-#: source\gui\dialogs.py:4192
 msgid "Ascending"
 msgstr "За зростанням"
 
-#: source\gui\dialogs.py:4192
 msgid "Descending"
 msgstr "За спаданням"
 
-#: source\gui\dialogs.py:4252
 msgid "Select a user"
 msgstr "Виберіть користувача"
 
-#: source\gui\dialogs.py:4282
 msgid "Users:"
 msgstr "Користувачі:"
 
-#: source\gui\dialogs.py:4283 source\gui\settings.py:1129
 msgid "Name"
 msgstr "Ім'я"
 
-#: source\gui\dialogs.py:4341
 msgid "Search messages"
 msgstr "Пошук повідомлень"
 
-#: source\gui\dialogs.py:4344
 msgctxt "Messages search filter"
 msgid "Any"
 msgstr "Будь-який"
 
-#: source\gui\dialogs.py:4345
 msgctxt "Messages search filter"
 msgid "Animation"
 msgstr "Анімація"
 
-#: source\gui\dialogs.py:4346
 msgctxt "Messages search filter"
 msgid "Music"
 msgstr "Музика"
 
-#: source\gui\dialogs.py:4347
 msgctxt "Messages search filter"
 msgid "Files"
 msgstr "Файли"
 
-#: source\gui\dialogs.py:4348
 msgctxt "Messages search filter"
 msgid "Photos"
 msgstr "Фото"
 
-#: source\gui\dialogs.py:4349
 msgctxt "Messages search filter"
 msgid "Polls"
 msgstr "Опитування"
 
-#: source\gui\dialogs.py:4350
 msgctxt "Messages search filter"
 msgid "Videos"
 msgstr "Відео"
 
-#: source\gui\dialogs.py:4351
 msgctxt "Messages search filter"
 msgid "Voice messages"
 msgstr "Голосові повідомлення"
 
-#: source\gui\dialogs.py:4352
 msgctxt "Messages search filter"
 msgid "Photos and videos"
 msgstr "Фото й відео"
 
-#: source\gui\dialogs.py:4353
 msgctxt "Messages search filter"
 msgid "Links"
 msgstr "Посилання"
 
-#: source\gui\dialogs.py:4354
 msgctxt "Messages search filter"
 msgid "Video messages"
 msgstr "Відеоповідомлення"
 
-#: source\gui\dialogs.py:4355
 msgctxt "Messages search filter"
 msgid "Voice and video messages"
 msgstr "Голосові й відеоповідомлення"
 
-#: source\gui\dialogs.py:4356
 msgctxt "Messages search filter"
 msgid "Failed to send"
 msgstr "Не вдалося надіслати"
 
-#: source\gui\dialogs.py:4371
 msgid "Content type"
 msgstr "Тип вмісту"
 
-#: source\gui\dialogs.py:4411
 msgid "Enter a search query or select a content type."
 msgstr "Введіть пошуковий запит або виберіть тип вмісту."
 
-#: source\gui\dialogs.py:4428
 msgid "Nothing was found."
 msgstr "Нічого не знайдено."
 
-#: source\gui\editor.py:28
 msgid "Insert link"
 msgstr "Вставити посилання"
 
-#: source\gui\editor.py:32
 msgid "Link text:"
 msgstr "Текст посилання:"
 
-#: source\gui\editor.py:40
 msgid "URL address:"
 msgstr "URL-адреса:"
 
 #. standard items
-#: source\gui\editor.py:267
 msgid "&Undo"
 msgstr "&Скасувати"
 
-#: source\gui\editor.py:268
 msgid "&Redo"
 msgstr "П&овернути"
 
-#: source\gui\editor.py:270
 msgid "Cu&t"
 msgstr "&Вирізати"
 
-#: source\gui\editor.py:271
 msgid "&Copy"
 msgstr "&Копіювати"
 
-#: source\gui\editor.py:272
 msgid "&Paste"
 msgstr "Вст&авити"
 
-#: source\gui\editor.py:273 source\gui\menu.py:156 source\gui\menu.py:493
-#: source\gui\menu.py:530
 msgid "&Delete"
 msgstr "В&идалити"
 
-#: source\gui\editor.py:277
 msgid "Select &all"
 msgstr "Виділити &все"
 
-#: source\gui\editor.py:282
 msgid "&Bold"
 msgstr "&Жирний"
 
-#: source\gui\editor.py:284
 msgid "&Italic"
 msgstr "&Курсив"
 
-#: source\gui\editor.py:286
 msgid "&Strikethrough"
 msgstr "&Закреслений"
 
-#: source\gui\editor.py:288
 msgid "&Monospace"
 msgstr "&Моноширинний"
 
-#: source\gui\editor.py:290
 msgid "S&poiler"
 msgstr "С&пойлер"
 
-#: source\gui\editor.py:293
 msgid "&Link"
 msgstr "&Посилання"
 
-#: source\gui\editor.py:295
 msgid "&Formatting"
 msgstr "&Форматування"
 
-#: source\gui\editor.py:298
 msgid "C&lear"
 msgstr "О&чистити"
 
-#: source\gui\editor.py:327
 msgid "Cleared"
 msgstr "Очищено"
 
-#: source\gui\login.py:30
 msgid "Network configuration"
 msgstr "Конфігурація мережі"
 
-#: source\gui\login.py:39 source\gui\settings.py:1161
 msgid "Connection"
 msgstr "Підключення"
 
-#: source\gui\login.py:41 source\gui\settings.py:1164
 msgid "Connection Type"
 msgstr "Тип підключення"
 
-#: source\gui\login.py:41 source\gui\settings.py:1164
 msgid "Direct connection"
 msgstr "Пряме підключення"
 
-#: source\gui\login.py:41 source\gui\settings.py:1164
 msgid "Use system proxy settings"
 msgstr "Використовувати системні налаштування проксі"
 
-#: source\gui\login.py:41 source\gui\settings.py:1164
 msgid "Manual proxy configuration"
 msgstr "Ручне налаштування проксі"
 
-#: source\gui\login.py:49 source\gui\settings.py:1171
 msgid "Proxy servers:"
 msgstr "Проксі-сервери:"
 
-#: source\gui\login.py:58 source\gui\settings.py:1178
 msgid "Enable"
 msgstr "Увімкнути"
 
-#: source\gui\login.py:63 source\gui\settings.py:1183
 msgid "Edit..."
 msgstr "Змінити..."
 
-#: source\gui\login.py:68 source\gui\settings.py:1188
 msgid "Ping..."
 msgstr "Пінг..."
 
-#: source\gui\login.py:89
 msgid "Ok"
 msgstr "ОК"
 
-#: source\gui\login.py:109 source\gui\settings.py:1353
 msgid "Are you sure you want to delete this proxy?"
 msgstr "Ви справді хочете видалити цей проксі?"
 
-#: source\gui\login.py:121 source\gui\settings.py:1362
 msgid "An error occurred while deleting the proxy."
 msgstr "Сталася помилка під час видалення проксі."
 
-#: source\gui\login.py:143 source\gui\settings.py:1302
 #, python-brace-format
 msgid "{ms} MS"
 msgstr "{ms} мс"
 
-#: source\gui\login.py:143 source\gui\settings.py:1302
 msgid "Ping"
 msgstr "Пінг"
 
-#: source\gui\login.py:145 source\gui\settings.py:1304
 msgid "An error occurred while pinging the proxy."
 msgstr "Сталася помилка під час перевірки проксі."
 
-#: source\gui\login.py:225 source\gui\settings.py:1368
 msgid "An error occurred while adding the proxy."
 msgstr "Сталася помилка під час додавання проксі."
 
-#: source\gui\login.py:255 source\gui\settings.py:1374
 msgid "An error occurred while editing the proxy."
 msgstr "Сталася помилка під час зміни проксі."
 
-#: source\gui\login.py:280 source\gui\settings.py:1663
 msgid ""
 "You have selected to use a proxy, but you have not added any proxies. Please"
 " add a proxy or select direct connection."
@@ -1881,7 +1365,6 @@ msgstr ""
 "Ви вибрали використання проксі, але не додали жодного проксі-сервера. "
 "Додайте проксі або виберіть пряме підключення."
 
-#: source\gui\login.py:284 source\gui\settings.py:1669
 msgid ""
 "You have selected to use a proxy, but you have not enabled any proxies. "
 "Please enable a proxy or select direct connection."
@@ -1889,85 +1372,62 @@ msgstr ""
 "Ви вибрали використання проксі, але не ввімкнули жодного проксі-сервера. "
 "Увімкніть проксі або виберіть пряме підключення."
 
-#: source\gui\login.py:317
 msgid "Enter the phone number"
 msgstr "Введіть номер телефону"
 
-#: source\gui\login.py:327
 msgid "Country:"
 msgstr "країна:"
 
-#: source\gui\login.py:328
 msgid "Country"
 msgstr "Країна"
 
-#: source\gui\login.py:344 source\gui\login.py:645
 msgid "Log in by QR Code"
 msgstr "Увійти за допомогою QR-коду"
 
-#: source\gui\login.py:348 source\gui\login.py:670
 msgid "Connection settings..."
 msgstr "Налаштування підключення..."
 
-#: source\gui\login.py:352 source\gui\login.py:469 source\gui\login.py:566
 msgid "Next"
 msgstr "Далі"
 
-#: source\gui\login.py:387 source\gui\login.py:510 source\gui\login.py:609
-#: source\gui\login.py:708 source\gui\__init__.py:1439
 msgid "Connecting to a proxy server..."
 msgstr "Підключення до проксі-сервера..."
 
-#: source\gui\login.py:391 source\gui\login.py:514 source\gui\login.py:613
-#: source\gui\login.py:712 source\gui\__init__.py:1443
 msgid "Updating..."
 msgstr "Оновлення..."
 
-#: source\gui\login.py:393 source\gui\login.py:516 source\gui\login.py:615
-#: source\gui\login.py:714 source\gui\__init__.py:1445
 msgid "Waiting for network..."
 msgstr "Очікування мережі..."
 
-#: source\gui\login.py:430 source\gui\login.py:524 source\gui\login.py:626
-#: source\gui\login.py:752 source\gui\login.py:810
 msgid "Do you want to stop the verification process?"
 msgstr "Ви хочете зупинити процес перевірки?"
 
-#: source\gui\login.py:444
 msgid "Enter confirmation code"
 msgstr "Введіть код підтвердження"
 
-#: source\gui\login.py:454
 #, python-brace-format
 msgid "The code was sent to you via Telegram to {number}."
 msgstr "Код надіслано вам через Telegram на номер {number}."
 
-#: source\gui\login.py:456
 #, python-brace-format
 msgid "The code was sent to you via SMS to {number}."
 msgstr "Вам було надіслано SMS на номер {number}."
 
-#: source\gui\login.py:461
 msgid "Confirmation code:"
 msgstr "Код підтвердження:"
 
-#: source\gui\login.py:479 source\gui\login.py:576
 msgid "Incorrect phone number?"
 msgstr "Неправильний номер телефону?"
 
-#: source\gui\login.py:538
 msgid "Enter password"
 msgstr "Введіть пароль"
 
-#: source\gui\login.py:546
 msgid "Password:"
 msgstr "Пароль:"
 
-#: source\gui\login.py:552
 msgid "Password hint:"
 msgstr "Підказка до пароля:"
 
-#: source\gui\login.py:655
 msgid ""
 "\n"
 "Instruction:\n"
@@ -1983,23 +1443,18 @@ msgstr ""
 "\t\t3: Наведіть телефон на цей екран, щоб підтвердити вхід.\n"
 "\t\t"
 
-#: source\gui\login.py:666
 msgid "Log in by phone number"
 msgstr "Увійти за номером телефону"
 
-#: source\gui\login.py:768
 msgid "Registration"
 msgstr "Реєстрація"
 
-#: source\gui\login.py:788
 msgid "Terms of service"
 msgstr "Умови обслуговування"
 
-#: source\gui\login.py:796
 msgid "Register"
 msgstr "зареєструватися"
 
-#: source\gui\login.py:853
 #, python-brace-format
 msgid ""
 "The following phone number will be confirmed: +{code}{number}. This number "
@@ -2008,195 +1463,146 @@ msgstr ""
 "Наступний номер телефону буде підтверджено: +{code}{number}. Цей номер "
 "правильний?"
 
-#: source\gui\login.py:863
 msgid "Incorrect phone number!"
 msgstr "Невірний номер телефону!"
 
-#: source\gui\login.py:890
 msgid "Incorrect confirmation code!"
 msgstr "Неправильний код підтвердження!"
 
-#: source\gui\login.py:939
 msgid "Incorrect password!"
 msgstr "Невірний пароль!"
 
-#: source\gui\menu.py:51
 msgid "S&how in chat"
 msgstr "Показати в &чаті"
 
-#: source\gui\menu.py:58
 msgid "Detailed &view\tSpace"
 msgstr "&Докладний перегляд\tПробіл"
 
-#: source\gui\menu.py:61 source\gui\menu.py:299
 msgid "&Copy text"
 msgstr "&Копіювати текст"
 
-#: source\gui\menu.py:66
 msgid "Hide transcription"
 msgstr "Приховати розшифрування"
 
-#: source\gui\menu.py:68
 msgid "Show &transcription"
 msgstr "Показати роз&шифрування"
 
-#: source\gui\menu.py:72
 msgid "&Save in downloads"
 msgstr "&Зберегти в завантаженнях"
 
-#: source\gui\menu.py:75
 msgid "Save fi&le as..."
 msgstr "Зберегти &файл як..."
 
-#: source\gui\menu.py:79
 msgid "&Save VCard"
 msgstr "&Зберегти VCard"
 
-#: source\gui\menu.py:82
 msgid "Impor&t in to contacts"
 msgstr "Імпор&тувати до контактів"
 
-#: source\gui\menu.py:88
 msgid "&Reply"
 msgstr "&Відповісти"
 
-#: source\gui\menu.py:92 source\gui\menu.py:325
 msgid "&Pin"
 msgstr "За&кріпити"
 
-#: source\gui\menu.py:96 source\gui\menu.py:328
 msgid "Un&pin"
 msgstr "Від&кріпити"
 
-#: source\gui\menu.py:101
 msgid "Go to &quoted message"
 msgstr "Перейти до &цитованого повідомлення"
 
-#: source\gui\menu.py:105
 #, python-brace-format
 msgid "Co&mments: {count}"
 msgstr "Ко&ментарі: {count}"
 
-#: source\gui\menu.py:109
 msgid "&Go to original message"
 msgstr "&Перейти до вихідного повідомлення"
 
-#: source\gui\menu.py:113 source\gui\menu.py:526
 msgid "&Add to favorites"
 msgstr "&Додати до вибраного"
 
-#: source\gui\menu.py:117 source\gui\menu.py:523
 msgid "&Forward"
 msgstr "Пере&слати"
 
-#: source\gui\menu.py:121
 msgid "Copy lin&k"
 msgstr "Копіювати пос&илання"
 
-#: source\gui\menu.py:126
 msgid "Add react&ion"
 msgstr "Додати &реакцію"
 
-#: source\gui\menu.py:134
 #, python-brace-format
 msgid "Remove reacti&on {r}"
 msgstr "Видалити реакці&ю {r}"
 
-#: source\gui\menu.py:138
 msgid "Open the &user profile"
 msgstr "Відкрийте &профіль користувача"
 
-#: source\gui\menu.py:148
 msgid "Open the channel &profile"
 msgstr "Відкрити &профіль каналу"
 
-#: source\gui\menu.py:152
 msgid "&Edit message"
 msgstr "&Змінити повідомлення"
 
-#: source\gui\menu.py:321
 msgid "&Open"
 msgstr "&Відкрити"
 
-#: source\gui\menu.py:332
 msgid "Mark as &read"
 msgstr "Позначити як п&рочитане"
 
-#: source\gui\menu.py:336
 msgid "Mark all &mentions as read"
 msgstr "Позначити всі &згадки прочитаними"
 
-#: source\gui\menu.py:340
 msgid "Mark all reactio&ns as read"
 msgstr "Позначити всі реак&ції прочитаними"
 
-#: source\gui\menu.py:344
 msgid "&View as messages"
 msgstr "П&ерегляд як повідомлення"
 
-#: source\gui\menu.py:347
 msgid "&View as topics"
 msgstr "П&ерегляд як теми"
 
-#: source\gui\menu.py:351
 msgid "Move to &archive"
 msgstr "Перемістити в &архів"
 
-#: source\gui\menu.py:355
 msgid "Un&archive"
 msgstr "Роз&архівувати"
 
-#: source\gui\menu.py:359
 msgid "A&bout user"
 msgstr "&Про користувача"
 
-#: source\gui\menu.py:363
 msgid "A&bout the channel"
 msgstr "&Про канал"
 
-#: source\gui\menu.py:367
 msgid "&Leave channel"
 msgstr "&Покинути канал"
 
-#: source\gui\menu.py:371
 msgid "&Leave group"
 msgstr "&Покинути групу"
 
-#: source\gui\menu.py:375
 msgid "&Clear history"
 msgstr "О&чистити історію"
 
-#: source\gui\menu.py:408
 msgid "Are you sure you want to leave this channel?"
 msgstr "Ви впевнені, що бажаєте залишити цей канал?"
 
-#: source\gui\menu.py:408
 msgid "Leave channel"
 msgstr "Залишити канал"
 
-#: source\gui\menu.py:412
 msgid "Are you sure you want to leave this group?"
 msgstr "Ви впевнені, що бажаєте залишити цю групу?"
 
-#: source\gui\menu.py:412
 msgid "Leave group"
 msgstr "Вийти з групи"
 
-#: source\gui\menu.py:437
 msgid "&Show window"
 msgstr "П&оказати вікно"
 
-#: source\gui\menu.py:440
 msgid "E&xit"
 msgstr "В&ийти"
 
-#: source\gui\menu.py:452 source\gui\__init__.py:165
-#: source\gui\__init__.py:508 source\gui\__init__.py:546
-#: source\gui\__init__.py:547 source\gui\__init__.py:640
 msgid "All chats"
 msgstr "Всі чати"
 
-#: source\gui\menu.py:463
 #, python-brace-format
 msgid "{title}: {count} unread chat"
 msgid_plural "{title}: {count} unread chats"
@@ -2204,101 +1610,76 @@ msgstr[0] "{title}: {count} непрочитаний чат"
 msgstr[1] "{title}: {count} непрочитані чати"
 msgstr[2] "{title}: {count} непрочитаних чатів"
 
-#: source\gui\menu.py:487
 msgid "Open &chat"
 msgstr "Відкрити &чат"
 
-#: source\gui\menu.py:490
 msgid "Contact &information"
 msgstr "&Інформація про контакт"
 
-#: source\gui\menu.py:550
 msgid "Delete from Favorites"
 msgstr "Видалити з обраного"
 
-#: source\gui\menu.py:553
 msgid "Add to Favorites"
 msgstr "Додати до обраного"
 
-#: source\gui\menu.py:590
 msgid "Disable for 30 minutes"
 msgstr "Вимкнути на 30 хвилин"
 
-#: source\gui\menu.py:591
 msgid "Disable for 1 hour"
 msgstr "Вимкнути на 1 годину"
 
-#: source\gui\menu.py:592
 msgid "Disable for 2 hours"
 msgstr "Вимкнути на 2 години"
 
-#: source\gui\menu.py:593
 msgid "Disable for 3 hours"
 msgstr "Вимкнути на 3 години"
 
-#: source\gui\menu.py:594
 msgid "Disable for 8 hours"
 msgstr "Вимкнути на 8 годин"
 
-#: source\gui\menu.py:595
 msgid "Disable for 1 day"
 msgstr "Вимкнути на 1 день"
 
-#: source\gui\menu.py:596
 msgid "Disable for 2 days"
 msgstr "Вимкнути на 2 дні"
 
-#: source\gui\menu.py:597
 msgid "Disable for 3 days"
 msgstr "Вимкнути на 3 дні"
 
-#: source\gui\menu.py:598
 msgid "Disable for 4 days"
 msgstr "Вимкнути на 4 дні"
 
-#: source\gui\menu.py:599
 msgid "Disable for 1 week"
 msgstr "Вимкнути на 1 тиждень"
 
-#: source\gui\menu.py:600
 msgid "Disable for 1 month"
 msgstr "Вимкнути на 1 місяць"
 
-#: source\gui\menu.py:601
 msgid "Disable for 1 year"
 msgstr "Вимкнути на 1 рік"
 
-#: source\gui\menu.py:602
 msgid "Disable forever"
 msgstr "Вимкнути назавжди"
 
-#: source\gui\menu.py:603
 msgid "Customize..."
 msgstr "Налаштувати..."
 
-#: source\gui\presentation.py:42 source\gui\presentation.py:67
 msgid "You"
 msgstr "Ви"
 
-#: source\gui\presentation.py:57
 msgid "Administrator"
 msgstr "Адміністратор"
 
-#: source\gui\presentation.py:59
 msgid "Owner"
 msgstr "Власник"
 
-#: source\gui\presentation.py:123
 msgid "Contains keyboard"
 msgstr "Містить клавіатуру"
 
-#: source\gui\presentation.py:129 source\gui\presentation.py:133
-#: source\gui\presentation.py:135
 #, python-brace-format
 msgid "Forwarded from {name}"
 msgstr "Переслано з {name}"
 
-#: source\gui\presentation.py:167
 #, python-brace-format
 msgid "Received {count} reply"
 msgid_plural "Received {count} replies"
@@ -2306,300 +1687,234 @@ msgstr[0] "Отримано {count} відповідь"
 msgstr[1] "Отримано {count} відповіді"
 msgstr[2] "Отримано {count} відповідей"
 
-#: source\gui\presentation.py:207
 #, python-brace-format
 msgid "Photo {caption}"
 msgstr "Фото {caption}"
 
-#: source\gui\presentation.py:210
 #, python-brace-format
 msgid "Gif {caption}"
 msgstr "GIF {caption}"
 
-#: source\gui\presentation.py:212
 msgid "The user is now in telegram."
 msgstr "Користувач зараз у Telegram."
 
-#: source\gui\presentation.py:214
 msgid "Channel created."
 msgstr "Канал створено."
 
 #. TRANSLATORS: This is the text of the message when the user creates a group.
-#: source\gui\presentation.py:219
 msgid "Group created"
 msgstr "Групу створено"
 
-#: source\gui\presentation.py:221
 msgid "Channel photo updated"
 msgstr "Фото каналу оновлено"
 
-#: source\gui\presentation.py:223
 msgid "Group photo updated"
 msgstr "Фото групи оновлено"
 
-#: source\gui\presentation.py:227
 msgid "This group has become a supergroup."
 msgstr "Ця група стала супергрупою."
 
 #. TRANSLATORS: this is the message when a user has joined a group
-#: source\gui\presentation.py:232
 msgid "joined the group"
 msgstr "приєднався до групи"
 
 #. TRANSLATORS: this is the message when someone added a new user to the group
-#: source\gui\presentation.py:240
 #, python-brace-format
 msgid "added {users}"
 msgstr "додано {users}"
 
 #. TRANSLATORS: This is the message when a user leaves the group.
-#: source\gui\presentation.py:244
 msgid "left the group"
 msgstr "залишив групу"
 
 #. TRANSLATORS: This is the message when someone has been removed from the
 #. group.
-#: source\gui\presentation.py:249
 #, python-brace-format
 msgid "removed {user}"
 msgstr "видалено {user}"
 
-#: source\gui\presentation.py:251
 msgid "joined the group via invite link"
 msgstr "приєднався до групи за посиланням для запрошення"
 
-#: source\gui\presentation.py:253
 msgid "was accepted into the group"
 msgstr "прийнято до групи"
 
-#: source\gui\presentation.py:255
 #, python-brace-format
 msgid "Contact: {name}"
 msgstr "Контакт: {name}"
 
-#: source\gui\presentation.py:257
 msgid "Location"
 msgstr "Місцезнаходження"
 
-#: source\gui\presentation.py:262
 msgid "Pinned message"
 msgstr "Закріплене повідомлення"
 
-#: source\gui\presentation.py:266
 #, python-brace-format
 msgid "Changed the title to: {title}"
 msgstr "Змінив назву на: {title}"
 
-#: source\gui\presentation.py:268
 msgid "Expired voice message"
 msgstr "Термін дії голосового повідомлення минув"
 
-#: source\gui\presentation.py:271
 msgid "Closed the topic."
 msgstr "Закрив(ла) тему."
 
-#: source\gui\presentation.py:273
 msgid "Opened the topic."
 msgstr "Відкрив(ла) тему."
 
-#: source\gui\presentation.py:281
 #, python-brace-format
 msgid "The topic {name} has been created"
 msgstr "Тему {name} створено"
 
-#: source\gui\presentation.py:284
 #, python-brace-format
 msgid "Topic name changed to {name}"
 msgstr "Назву теми змінено на {name}"
 
-#: source\gui\presentation.py:291
 #, python-brace-format
 msgid "Audio {title} - {performer}"
 msgstr "Аудіо {title} - {performer}"
 
-#: source\gui\presentation.py:307 source\gui\vdm.py:353
 msgid "Video"
 msgstr "відео"
 
-#: source\gui\presentation.py:323
 msgid "One-time voice message"
 msgstr "Одноразове голосове повідомлення"
 
-#: source\gui\presentation.py:325
 msgid "Voice message"
 msgstr "Голосове повідомлення"
 
-#: source\gui\presentation.py:338
 #, python-brace-format
 msgid "Caption: {text}"
 msgstr "Підпис: {text}"
 
-#: source\gui\presentation.py:342
 msgid "(listened)"
 msgstr "(прослухано)"
 
-#: source\gui\presentation.py:344
 msgid "(not listened)"
 msgstr "(не прослухано)"
 
-#: source\gui\presentation.py:350
 msgid "Video message"
 msgstr "Відеоповідомлення"
 
-#: source\gui\presentation.py:373
 #, python-brace-format
 msgid "File {description}"
 msgstr "Файл {description}"
 
 #. default (unsupported type)
-#: source\gui\presentation.py:385
 msgid "Unsupported message type"
 msgstr "Непідтримуваний тип повідомлення"
 
-#: source\gui\presentation.py:395
 #, python-brace-format
 msgid "Pinned message: {name}: {message}..."
 msgstr "Закріплене повідомлення: {name}: {message}..."
 
-#: source\gui\presentation.py:402 source\gui\presentation.py:411
-#: source\gui\presentation.py:419
 #, python-brace-format
 msgid "In reply to {name}: {message}..."
 msgstr "У відповідь на {name}: {message}..."
 
-#: source\gui\presentation.py:440
 msgid "Bytes"
 msgstr "Байти"
 
-#: source\gui\presentation.py:440
 msgid "KB"
 msgstr "Кілобайти"
 
-#: source\gui\presentation.py:440
 msgid "MB"
 msgstr "Мегабайти"
 
-#: source\gui\presentation.py:440
 msgid "GB"
 msgstr "Гігабайти"
 
-#: source\gui\presentation.py:440
 msgid "TB"
 msgstr "Терабайти"
 
-#: source\gui\presentation.py:440
 msgid "PB"
 msgstr "ПБ"
 
-#: source\gui\presentation.py:440
 msgid "EB"
 msgstr "ЕБ"
 
-#: source\gui\presentation.py:440
 msgid "ZB"
 msgstr "ЗБ"
 
-#: source\gui\presentation.py:440
 msgid "YB"
 msgstr "ЙБ"
 
-#: source\gui\presentation.py:446
 msgid "I don't know what to call such a big size!"
 msgstr "Я не знаю, як назвати такий великий розмір!"
 
-#: source\gui\presentation.py:477 source\objects\messages.py:1220
 #, python-brace-format
 msgid "Scheduled at {time}"
 msgstr "Заплановано о {time}"
 
-#: source\gui\presentation.py:479 source\objects\messages.py:1222
 #, python-brace-format
 msgid "Scheduled {date} at {time}"
 msgstr "За розкладом {date} в {time}"
 
-#: source\gui\presentation.py:481
 msgid "Send when online."
 msgstr "Надіслати, коли буде в мережі."
 
-#: source\gui\presentation.py:483 source\objects\messages.py:1224
 #, python-brace-format
 msgid "Sent at {time}"
 msgstr "Надіслано о {time}"
 
-#: source\gui\presentation.py:485 source\objects\messages.py:1226
 #, python-brace-format
 msgid "Sent {date} at {time}"
 msgstr "Надіслано {date} в {time}"
 
-#: source\gui\presentation.py:487 source\objects\messages.py:1228
 #, python-brace-format
 msgid "Sending... at {time}"
 msgstr "Надсилання... о {time}"
 
-#: source\gui\presentation.py:489 source\objects\messages.py:1230
 #, python-brace-format
 msgid "Sending... {date} at {time}"
 msgstr "Надсилання... {date} в {time}"
 
-#: source\gui\presentation.py:491
 #, python-brace-format
 msgid "Sending failed. at {time}"
 msgstr "Помилка надсилання. о {time}"
 
-#: source\gui\presentation.py:493
 #, python-brace-format
 msgid "Sending failed. {date} at {time}"
 msgstr "Помилка надсилання. {date} о {time}"
 
-#: source\gui\presentation.py:495 source\objects\messages.py:1232
 #, python-brace-format
 msgid "Received at {time}"
 msgstr "Отримано о {time}"
 
-#: source\gui\presentation.py:497 source\objects\messages.py:1234
 #, python-brace-format
 msgid "Received {date} at {time}"
 msgstr "Отримано {date} в {time}"
 
-#: source\gui\presentation.py:515
 #, python-brace-format
 msgid "Custom emoji: {c}"
 msgstr "Користувацький емодзі: {c}"
 
-#: source\gui\presentation.py:517
 #, python-brace-format
 msgid "Reaction paid: {c}"
 msgstr "Платна реакція: {c}"
 
-#: source\gui\presentation.py:519
 #, python-brace-format
 msgid "Unknown reaction: {c}"
 msgstr "Невідома реакція: {c}"
 
-#: source\gui\presentation.py:539
 #, python-brace-format
 msgid "Reactions: {reactions}"
 msgstr "реакції: {reactions}"
 
-#: source\gui\presentation.py:645
 #, python-brace-format
 msgid "Changed at {time}"
 msgstr "Змінено о {time}"
 
-#: source\gui\presentation.py:647
 #, python-brace-format
 msgid "Changed {date} at {time}"
 msgstr "Змінено {date} о {time}"
 
-#: source\gui\presentation.py:672
 msgid "Transcription error"
 msgstr "Помилка розшифрування"
 
-#: source\gui\presentation.py:674
 msgid "Recognition in progress..."
 msgstr "Розпізнавання триває..."
 
-#: source\gui\presentation.py:702
 #, python-brace-format
 msgid "{0} hour"
 msgid_plural "{0} hours"
@@ -2607,7 +1922,6 @@ msgstr[0] "{0} година"
 msgstr[1] "{0} години"
 msgstr[2] "{0} годин"
 
-#: source\gui\presentation.py:703
 #, python-brace-format
 msgid "{0} minute"
 msgid_plural "{0} minutes"
@@ -2615,7 +1929,6 @@ msgstr[0] "{0} хвилина"
 msgstr[1] "{0} хвилини"
 msgstr[2] "{0} хвилин"
 
-#: source\gui\presentation.py:709
 #, python-brace-format
 msgid "{0} second"
 msgid_plural "{0} seconds"
@@ -2623,7 +1936,6 @@ msgstr[0] "{0} секунда"
 msgstr[1] "{0} секунди"
 msgstr[2] "{0} секунд"
 
-#: source\gui\presentation.py:786
 #, python-brace-format
 msgid "{count} hour"
 msgid_plural "{count} hours"
@@ -2631,7 +1943,6 @@ msgstr[0] "{count} година"
 msgstr[1] "{count} години"
 msgstr[2] "{count} годин"
 
-#: source\gui\presentation.py:788
 #, python-brace-format
 msgid "{count} minute"
 msgid_plural "{count} minutes"
@@ -2639,7 +1950,6 @@ msgstr[0] "{count} хвилина"
 msgstr[1] "{count} хвилини"
 msgstr[2] "{count} хвилин"
 
-#: source\gui\presentation.py:790
 #, python-brace-format
 msgid "{count} second"
 msgid_plural "{count} seconds"
@@ -2647,194 +1957,146 @@ msgstr[0] "{count} секунда"
 msgstr[1] "{count} секунди"
 msgstr[2] "{count} секунд"
 
-#: source\gui\proxy.py:12
 msgid "Add proxy"
 msgstr "Додати проксі"
 
-#: source\gui\proxy.py:18
 msgid "Enable proxy"
 msgstr "Увімкнути проксі"
 
-#: source\gui\proxy.py:21
 msgid "Proxy server:"
 msgstr "Проксі-сервер:"
 
-#: source\gui\proxy.py:25
 msgid "Port:"
 msgstr "Порт:"
 
-#: source\gui\proxy.py:29
 msgid "Proxy type"
 msgstr "Тип проксі"
 
-#: source\gui\proxy.py:35
 msgid "MTProto secret:"
 msgstr "Ключ MTProto:"
 
-#: source\gui\proxy.py:42
 msgid "Socks5 username (optional):"
 msgstr "Ім'я користувача Socks5 (необов'язково):"
 
-#: source\gui\proxy.py:46
 msgid "Socks5 password (optional):"
 msgstr "Пароль Socks5 (необов'язково):"
 
-#: source\gui\proxy.py:54
 msgid "Http username (optional):"
 msgstr "Ім'я користувача HTTP (необов'язково):"
 
-#: source\gui\proxy.py:58
 msgid "Http password (optional):"
 msgstr "Пароль HTTP (необов'язково):"
 
-#: source\gui\proxy.py:138
 msgid "Enter server"
 msgstr "Введіть сервер"
 
-#: source\gui\proxy.py:142
 msgid "Enter port"
 msgstr "Введіть порт"
 
-#: source\gui\proxy.py:147
 msgid "Port must be a number"
 msgstr "Порт має бути числом"
 
-#: source\gui\proxy.py:150
 msgid "Port must be 1–65535"
 msgstr "Порт має бути в діапазоні 1–65535"
 
-#: source\gui\proxy.py:156
 msgid "Please enter MTProto secret"
 msgstr "Введіть ключ MTProto"
 
-#: source\gui\proxy.py:171
 msgid "Please select a proxy type"
 msgstr "Виберіть тип проксі"
 
-#: source\gui\proxy.py:207
 msgid "Edit proxy"
 msgstr "Змінити проксі"
 
-#: source\gui\settings.py:78
 msgid "Microphone parameters"
 msgstr "Параметри мікрофона"
 
-#: source\gui\settings.py:82
 msgid "These settings apply only when recording voice messages."
 msgstr ""
 "Ці налаштування застосовуються лише під час запису голосових повідомлень."
 
-#: source\gui\settings.py:84
 msgid "Disable stereo (if your microphone outputs to one channel only)"
 msgstr ""
 "Вимкнути стерео (якщо ваш мікрофон виводить сигнал лише на один канал)"
 
-#: source\gui\settings.py:90
 msgid "Gain"
 msgstr "Підсилення"
 
-#: source\gui\settings.py:97
 msgid "Microphone processing"
 msgstr "Обробка мікрофона"
 
-#: source\gui\settings.py:99
 msgid "Noise suppression"
 msgstr "Придушення шуму"
 
-#: source\gui\settings.py:106
 msgid "Suppression level"
 msgstr "Рівень придушення"
 
-#: source\gui\settings.py:113
 msgid "Automatic gain control"
 msgstr "Автоматичне регулювання підсилення"
 
-#: source\gui\settings.py:122
 msgid "Target level"
 msgstr "Цільовий рівень"
 
-#: source\gui\settings.py:132
 msgid "Attack"
 msgstr "Атака"
 
-#: source\gui\settings.py:142
 msgid "Release"
 msgstr "Відновлення"
 
-#: source\gui\settings.py:152
 msgid "Maximum gain"
 msgstr "Максимальне підсилення"
 
-#: source\gui\settings.py:258 source\gui\settings.py:1136
 msgid "Storage settings"
 msgstr "Налаштування сховища"
 
-#: source\gui\settings.py:265 source\gui\settings.py:1004
-#: source\gui\settings.py:1042 source\gui\vdm.py:521
 msgid "Never"
 msgstr "Ніколи"
 
-#: source\gui\settings.py:266
 msgid "1 day"
 msgstr "1 день"
 
-#: source\gui\settings.py:267
 msgid "1 week"
 msgstr "1 тиждень"
 
-#: source\gui\settings.py:268
 msgid "1 month"
 msgstr "1 місяць"
 
-#: source\gui\settings.py:269
 msgid "1 year"
 msgstr "1 рік"
 
-#: source\gui\settings.py:281
 msgid "No limit"
 msgstr "Без обмежень"
 
-#: source\gui\settings.py:282
 msgid "100 MB"
 msgstr "100 МБ"
 
-#: source\gui\settings.py:283
 msgid "200 MB"
 msgstr "200 МБ"
 
-#: source\gui\settings.py:284
 msgid "500 MB"
 msgstr "500 МБ"
 
-#: source\gui\settings.py:285
 msgid "1 GB"
 msgstr "1 ГБ"
 
-#: source\gui\settings.py:286
 msgid "2 GB"
 msgstr "2 ГБ"
 
-#: source\gui\settings.py:287
 msgid "5 GB"
 msgstr "5 ГБ"
 
-#: source\gui\settings.py:288
 msgid "10 GB"
 msgstr "10 ГБ"
 
-#: source\gui\settings.py:289
 msgid "20 GB"
 msgstr "20 ГБ"
 
-#: source\gui\settings.py:290
 msgid "50 GB"
 msgstr "50 ГБ"
 
-#: source\gui\settings.py:310
 msgid "Auto-remove cached media"
 msgstr "Автоматично видаляти кешовані медіа"
 
-#: source\gui\settings.py:311
 msgid ""
 "Photos, videos and other files from cloud chats that you have not accessed "
 "during this period will be removed from this device to save disk space."
@@ -2842,23 +2104,18 @@ msgstr ""
 "Фото, відео та інші файли з хмарних чатів, до яких ви не зверталися протягом"
 " цього періоду, буде видалено з цього пристрою для економії місця на диску."
 
-#: source\gui\settings.py:313
 msgid "Personal chats: unknown"
 msgstr "Особисті чати: невідомо"
 
-#: source\gui\settings.py:317
 msgid "Groups: unknown"
 msgstr "Групи: невідомо"
 
-#: source\gui\settings.py:321
 msgid "Channels: unknown"
 msgstr "Канали: невідомо"
 
-#: source\gui\settings.py:326
 msgid "Maximum cache size"
 msgstr "Максимальний розмір кешу"
 
-#: source\gui\settings.py:327
 msgid ""
 "If your cache size exceeds this limit, the oldest unused media will be "
 "removed from the device."
@@ -2866,210 +2123,161 @@ msgstr ""
 "Якщо розмір кешу перевищить це обмеження, найстаріші невикористані медіа "
 "буде видалено з пристрою."
 
-#: source\gui\settings.py:355 source\gui\settings.py:380
 #, python-brace-format
 msgid "Personal chats: {time}"
 msgstr "Особисті чати: {time}"
 
-#: source\gui\settings.py:361 source\gui\settings.py:386
 #, python-brace-format
 msgid "Groups: {time}"
 msgstr "Групи: {time}"
 
-#: source\gui\settings.py:367 source\gui\settings.py:392
 #, python-brace-format
 msgid "Channels: {time}"
 msgstr "Канали: {time}"
 
-#: source\gui\settings.py:477
 msgid "Groups notification settings"
 msgstr "Налаштування сповіщень для груп"
 
-#: source\gui\settings.py:485
 msgid "Channels notification settings"
 msgstr "Налаштування сповіщень для каналів"
 
-#: source\gui\settings.py:493
 msgid "Private chats notification settings"
 msgstr "Налаштування сповіщень для особистих чатів"
 
-#: source\gui\settings.py:501
 #, python-brace-format
 msgid "{program} preferences"
 msgstr "{program} Налаштуваня"
 
-#: source\gui\settings.py:517
 msgid "General settings"
 msgstr "Загальні налаштування"
 
-#: source\gui\settings.py:521
 msgid "Interface"
 msgstr "Інтерфейс"
 
-#: source\gui\settings.py:526
 msgid "Default"
 msgstr "За замовчуванням"
 
-#: source\gui\settings.py:534
 msgid "Language (Restart required):"
 msgstr "Мова (потрібен перезапуск):"
 
-#: source\gui\settings.py:544
 msgid "Minimize on tray instead of exit"
 msgstr "Згорнути в трей замість виходу"
 
-#: source\gui\settings.py:548
 msgid "Confirmation before closing"
 msgstr "Підтвердження перед закриттям"
 
-#: source\gui\settings.py:552
 msgid "Close windows by pressing the ESCAPE key"
 msgstr "Закривати вікна натисканням клавіші ESCAPE"
 
-#: source\gui\settings.py:556
 msgid "Open window after download completes"
 msgstr "Відкривати вікно після завершення завантаження"
 
-#: source\gui\settings.py:562
 msgid "Downloads"
 msgstr "Завантаження"
 
-#: source\gui\settings.py:565
 msgid "Path to save files:"
 msgstr "Шлях для збереження файлів:"
 
-#: source\gui\settings.py:585
 msgid "Default path"
 msgstr "Шлях за замовчуванням"
 
-#: source\gui\settings.py:591
 msgid "Logging"
 msgstr "Ведення журналу"
 
-#: source\gui\settings.py:593
 msgid "Enable logging (restart required)"
 msgstr "Увімкнути журналювання (restart required)"
 
 #. TRANSLATORS: This is a logging option.
-#: source\gui\settings.py:598
 msgid "Infos"
 msgstr "Інформація"
 
-#: source\gui\settings.py:598
 msgid "Warnings"
 msgstr "Попередження"
 
-#: source\gui\settings.py:598
 msgid "Errors"
 msgstr "Помилки"
 
-#: source\gui\settings.py:598
 msgid "Debug"
 msgstr "Налагодження"
 
-#: source\gui\settings.py:602
 msgid "Logging level:"
 msgstr "Рівень реєстрації:"
 
-#: source\gui\settings.py:608
 msgid "Flush log on startup"
 msgstr "Очищати журнал під час запуску"
 
-#: source\gui\settings.py:612
 msgid "Log rotation"
 msgstr "Ротація журналу"
 
-#: source\gui\settings.py:621
 msgid "View settings"
 msgstr "Налаштування вигляду"
 
-#: source\gui\settings.py:625
 msgid "Display Format"
 msgstr "Формат відображення"
 
-#: source\gui\settings.py:631
 #, python-brace-format
 msgid "24-hour short ({example})"
 msgstr "24-годинний короткий ({example})"
 
-#: source\gui\settings.py:632
 #, python-brace-format
 msgid "24-hour detailed ({example})"
 msgstr "24-годинний докладний ({example})"
 
-#: source\gui\settings.py:633
 #, python-brace-format
 msgid "12-hour ({example})"
 msgstr "12-годинний ({example})"
 
-#: source\gui\settings.py:636
 msgid "Time format"
 msgstr "Формат часу"
 
-#: source\gui\settings.py:645
 #, python-brace-format
 msgid "Digital ({example})"
 msgstr "Цифровий ({example})"
 
-#: source\gui\settings.py:646
 #, python-brace-format
 msgid "Text ({example})"
 msgstr "Текстовий ({example})"
 
-#: source\gui\settings.py:649
 msgid "Duration format"
 msgstr "Формат тривалості"
 
-#: source\gui\settings.py:659
 msgid "Chat list"
 msgstr "Список чатів"
 
-#: source\gui\settings.py:661
 msgid "Show time after message text"
 msgstr "Показувати час після тексту повідомлення"
 
-#: source\gui\settings.py:666
 msgid "Mark chats without notifications"
 msgstr "Позначати чати без сповіщень"
 
-#: source\gui\settings.py:673 source\gui\settings.py:705
 msgid "Chat window"
 msgstr "Вікно чату"
 
-#: source\gui\settings.py:675
 msgid "Display the \"Send\" button after the message input field"
 msgstr "Показувати кнопку \"Надіслати\" після поля введення повідомлення"
 
-#: source\gui\settings.py:681
 msgid "List of messages"
 msgstr "Список повідомлень"
 
-#: source\gui\settings.py:683
 msgid "Show names in private chats"
 msgstr "Показувати імена в особистих чатах"
 
-#: source\gui\settings.py:687
 msgid "Show reading information before message text"
 msgstr "Показувати інформацію про прочитання перед текстом повідомлення"
 
-#: source\gui\settings.py:691
 msgid "Show the time after the caption (For Audio, video, and voice messages)"
 msgstr ""
 "Показувати час після підпису (для аудіо, відео та голосових повідомлень)"
 
-#: source\gui\settings.py:701
 msgid "Behavior settings"
 msgstr "Налаштування поведінки"
 
-#: source\gui\settings.py:707
 msgid "Break up long messages"
 msgstr "Розбивати довгі повідомлення"
 
-#: source\gui\settings.py:712
 msgid "Focus input field when typing in message list"
 msgstr "Фокусувати поле введення під час набору тексту в списку повідомлень"
 
-#: source\gui\settings.py:717
 msgid ""
 "Automatically reply to the message under the cursor when moving to the "
 "message input field"
@@ -3077,323 +2285,248 @@ msgstr ""
 "Автоматично відповідати на повідомлення під курсором під час переходу до "
 "поля введення повідомлення"
 
-#: source\gui\settings.py:729
 msgid "Keyboard settings"
 msgstr "Налаштування клавіатури"
 
-#: source\gui\settings.py:733
 msgid "Multimedia keys"
 msgstr "Мультимедійні клавіші"
 
-#: source\gui\settings.py:735
 msgid "Handle multimedia keys"
 msgstr "Обробляти мультимедійні клавіші"
 
-#: source\gui\settings.py:743
 msgid "Multimedia keys:"
 msgstr "Мультимедійні клавіші:"
 
-#: source\gui\settings.py:770
 msgid "chats settings"
 msgstr "налаштування чатів"
 
-#: source\gui\settings.py:774
 msgid "Send messages by pressing enter"
 msgstr "Надсилайте повідомлення, натиснувши enter"
 
-#: source\gui\settings.py:778
 msgid "Sequentially play voice messages and audio files in chats"
 msgstr "Послідовне відтворення голосових повідомлень і аудіофайлів у чатах"
 
-#: source\gui\settings.py:782
 msgid "Automatically start recording a voice message"
 msgstr "Автоматичний початок запису голосового повідомлення"
 
-#: source\gui\settings.py:786
 msgid "Show emoji button"
 msgstr "Показати кнопку emoji"
 
-#: source\gui\settings.py:790
 msgid ""
 "Disable Markdown markup (if there are issues with the messages being sent)"
 msgstr ""
 "Вимкнути розмітку Markdown (якщо є проблеми з надсиланням повідомлень)"
 
-#: source\gui\settings.py:794
 msgid "Don't show dialog box \"Message scheduled\""
 msgstr "Не показувати діалогове вікно «Повідомлення заплановано»"
 
-#: source\gui\settings.py:798
 msgid "Use new search style in chat and message lists"
 msgstr "Використовуйте новий стиль пошуку в чатах і списках повідомлень"
 
-#: source\gui\settings.py:803
 msgid "Trim long messages (1 - 4096 characters, 0 - do not trim):"
 msgstr "Обрізати довгі повідомлення (1 - 4096 символів, 0 - не обрізати):"
 
 #. TRANSLATORS: this is an option when selecting the quality of voice
 #. messages.
-#: source\gui\settings.py:814
 msgid "Auto (optimal: approximately 800 KB/Min)"
 msgstr "Авто (оптимально: приблизно 800 КБ/хв)"
 
 #. TRANSLATORS: this is an option when selecting the quality of voice
 #. messages.
-#: source\gui\settings.py:816
 msgid "Very high (approximately 2 MB/Min)"
 msgstr "Дуже висока (приблизно 2 МБ/хв)"
 
 #. TRANSLATORS: this is an option when selecting the quality of voice
 #. messages.
-#: source\gui\settings.py:818
 msgid "High (approximately 1.3 MB/Min)"
 msgstr "Висока (приблизно 1,3 МБ/хв)"
 
 #. TRANSLATORS: this is an option when selecting the quality of voice
 #. messages.
-#: source\gui\settings.py:820
 msgid "Medium (approximately 800 KB/Min)"
 msgstr "Середня (приблизно 800 КБ/хв)"
 
 #. TRANSLATORS: this is an option when selecting the quality of voice
 #. messages.
-#: source\gui\settings.py:822
 msgid "Low (approximately 440 KB/Min)"
 msgstr "Низька (приблизно 440 КБ/хв)"
 
 #. TRANSLATORS: this is an option when selecting the quality of voice
 #. messages.
-#: source\gui\settings.py:824
 msgid "Very low (approximately 290 KB/Min)"
 msgstr "Дуже низька (приблизно 290 КБ/хв)"
 
-#: source\gui\settings.py:828
 msgid "Voice message quality:"
 msgstr "Якість голосового повідомлення:"
 
-#: source\gui\settings.py:834
 msgid "Display size for:"
 msgstr "Розмір дисплея для:"
 
-#: source\gui\settings.py:836
 msgid "Documents"
 msgstr "Документи"
 
-#: source\gui\settings.py:840
 msgid "Voice messages"
 msgstr "Голосові повідомлення"
 
-#: source\gui\settings.py:844
 msgid "Audio messages"
 msgstr "Аудіо повідомлення"
 
-#: source\gui\settings.py:848
 msgid "Video messages"
 msgstr "Відеоповідомлення"
 
-#: source\gui\settings.py:858
 msgid "Sound scheme settings"
 msgstr "Налаштування звукової схеми"
 
-#: source\gui\settings.py:862
 msgid "Play the sounds of events"
 msgstr "Відтворювати звуки подій"
 
-#: source\gui\settings.py:868
 msgid "Events:"
 msgstr "Події:"
 
-#: source\gui\settings.py:877
 msgid "New incoming message in open chat "
 msgstr "Нове вхідне повідомлення у відкритому чаті "
 
-#: source\gui\settings.py:878
 msgid "New outgoing message in open chat"
 msgstr "Нове вихідне повідомлення у відкритому чаті"
 
-#: source\gui\settings.py:879
 msgid "New unread message"
 msgstr "Нове непрочитане повідомлення"
 
-#: source\gui\settings.py:880 source\objects\sounds.py:27
 msgid "Record"
 msgstr "Запис"
 
-#: source\gui\settings.py:881
 msgid "Chat action"
 msgstr "Дія в чаті"
 
-#: source\gui\settings.py:882
 msgid "Download is completed"
 msgstr "Завантаження завершено"
 
-#: source\gui\settings.py:883 source\objects\sounds.py:38
 msgid "Important notification"
 msgstr "Важливе сповіщення"
 
-#: source\gui\settings.py:901
 msgid "Select sound:"
 msgstr "Виберіть звук:"
 
-#: source\gui\settings.py:912
 msgid "Play this sound"
 msgstr "Відтворити цей звук"
 
-#: source\gui\settings.py:918
 msgid "Add new sound..."
 msgstr "Додати новий звук..."
 
-#: source\gui\settings.py:924
 msgid "Delete sound"
 msgstr "Видалити звук"
 
-#: source\gui\settings.py:941
 msgid "General notification settings"
 msgstr "Загальні налаштування сповіщень"
 
-#: source\gui\settings.py:943
 msgid "Private chats"
 msgstr "Особисті чати"
 
-#: source\gui\settings.py:947
 msgid "Groups"
 msgstr "Групи"
 
-#: source\gui\settings.py:951
 msgid "Channels"
 msgstr "Канали"
 
-#: source\gui\settings.py:957
 msgid "Advanced notification settings"
 msgstr "Додаткові налаштування сповіщень"
 
-#: source\gui\settings.py:959
 msgid ""
 "Show notifications only when the program is minimized to the system tray"
 msgstr ""
 "Показувати сповіщення лише тоді, коли програму згорнуто до системного трея"
 
-#: source\gui\settings.py:963
 msgid "Always show message text, ignore custom chat settings"
 msgstr ""
 "Завжди показувати текст повідомлення, ігнорувати користувацькі налаштування "
 "чату"
 
-#: source\gui\settings.py:973
 msgid "Speech settings"
 msgstr "Налаштування мовлення"
 
-#: source\gui\settings.py:977
 msgid "Speech module settings"
 msgstr "Налаштування мовного модуля"
 
-#: source\gui\settings.py:979
 msgid "Enable speech"
 msgstr "Увімкнути мовлення"
 
-#: source\gui\settings.py:983
 msgid "Allow use of Microsoft Speech API"
 msgstr "Дозволити використання Microsoft Speech API"
 
-#: source\gui\settings.py:987
 msgid "Prefer using the Microsoft Speech API"
 msgstr "Віддавайте перевагу Microsoft Speech API"
 
-#: source\gui\settings.py:991
 msgid "Always interrupt speech before new notifications"
 msgstr "Завжди переривайте мову перед новими сповіщеннями"
 
-#: source\gui\settings.py:995
 msgid "Interrupt speaking before starting recording"
 msgstr "Переривайте розмову перед початком запису"
 
-#: source\gui\settings.py:1001
 msgid "Speech notifications settings"
 msgstr "Налаштування мовних сповіщень"
 
 #. TRANSLATORS: These are the options for reading notifications.
-#: source\gui\settings.py:1004 source\gui\settings.py:1042
 msgid "Always"
 msgstr "Завжди"
 
-#: source\gui\settings.py:1004
 msgid "In the foreground"
 msgstr "На передньому плані"
 
-#: source\gui\settings.py:1009
 msgid "Network Status Changes:"
 msgstr "Зміни стану мережі:"
 
-#: source\gui\settings.py:1017
 msgid "Incoming messages:"
 msgstr "Вхідні повідомлення:"
 
-#: source\gui\settings.py:1025
 msgid "Outgoing messages:"
 msgstr "Вихідні повідомлення:"
 
-#: source\gui\settings.py:1031
 msgid "Speak outgoing messages only after confirmation by the server"
 msgstr "Озвучувати вихідні повідомлення лише після підтвердження сервером"
 
-#: source\gui\settings.py:1036
 msgid "Chat actions:"
 msgstr "Дії в чаті:"
 
-#: source\gui\settings.py:1047
 msgid "Media player:"
 msgstr "Медіаплеєр:"
 
-#: source\gui\settings.py:1059
 msgid "Devices settings"
 msgstr "Налаштування пристроїв"
 
-#: source\gui\settings.py:1064
 msgid "Microphone:"
 msgstr "Мікрофон:"
 
 #. Add default device
-#: source\gui\settings.py:1068
 msgid "Default input device"
 msgstr "Пристрій введення за замовчуванням"
 
-#: source\gui\settings.py:1081
 msgid "Microphone parameters..."
 msgstr "Параметри мікрофона..."
 
-#: source\gui\settings.py:1086
 msgid "Speakers:"
 msgstr "Доповідачі:"
 
-#: source\gui\settings.py:1091
 msgid "Default playback device"
 msgstr "Пристрій відтворення за умовчанням"
 
-#: source\gui\settings.py:1121
 msgid "File storage"
 msgstr "Зберігання файлів"
 
-#: source\gui\settings.py:1128
 msgid "Statistics:"
 msgstr "Статистика:"
 
-#: source\gui\settings.py:1132
 msgid "Clear cache"
 msgstr "Очистити кеш"
 
-#: source\gui\settings.py:1144
 msgid "Delete all cloud drafts..."
 msgstr "Видалити всі хмарні чернетки..."
 
-#: source\gui\settings.py:1157
 msgid "Network settings"
 msgstr "Налаштування мережі"
 
-#: source\gui\settings.py:1213 source\gui\settings.py:1245
 msgid "Troubleshooting"
 msgstr "Усунення проблем"
 
-#: source\gui\settings.py:1217
 msgid ""
 "Allow media sound volume to be increased to 200% (may cause sound distortion"
 " above the 100% level)"
@@ -3401,87 +2534,67 @@ msgstr ""
 "Дозволити збільшувати гучність медіа до 200% (вище рівня 100% можуть "
 "виникати спотворення звуку)"
 
-#: source\gui\settings.py:1222
 msgid "Keep the cursor position in the chat list"
 msgstr "Зберігати позицію курсора в списку чатів"
 
-#: source\gui\settings.py:1227
 msgid "Process internal Telegram links in the app (If available)"
 msgstr "Обробляти внутрішні посилання Telegram у застосунку (якщо доступно)"
 
-#: source\gui\settings.py:1234
 msgid "General"
 msgstr "Загальний"
 
-#: source\gui\settings.py:1235
 msgid "View"
 msgstr "Вигляд"
 
-#: source\gui\settings.py:1236
 msgid "Behavior"
 msgstr "Поведінка"
 
-#: source\gui\settings.py:1237
 msgid "Keyboard"
 msgstr "Клавіатура"
 
-#: source\gui\settings.py:1238 source\gui\__init__.py:154
 msgid "Chats"
 msgstr "Чати"
 
-#: source\gui\settings.py:1239
 msgid "Sounds"
 msgstr "Звуки"
 
-#: source\gui\settings.py:1240
 msgid "Notifications"
 msgstr "Сповіщення"
 
-#: source\gui\settings.py:1241
 msgid "Speech"
 msgstr "Мовлення"
 
-#: source\gui\settings.py:1242
 msgid "Devices"
 msgstr "Пристрої"
 
-#: source\gui\settings.py:1243
 msgid "Storage"
 msgstr "Зберігання"
 
-#: source\gui\settings.py:1244
 msgid "Network"
 msgstr "Мережа"
 
-#: source\gui\settings.py:1461
 msgid ""
 "Are you sure you want to delete all cloud drafts? This action cannot be "
 "undone!"
 msgstr ""
 "Ви справді хочете видалити всі хмарні чернетки? Цю дію неможливо скасувати!"
 
-#: source\gui\settings.py:1467
 msgid "All cloud drafts have been successfully deleted."
 msgstr "Усі хмарні чернетки успішно видалено."
 
-#: source\gui\settings.py:1467
 msgid "Message"
 msgstr "Повідомлення"
 
-#: source\gui\settings.py:1469
 msgid "An error occurred while deleting cloud drafts."
 msgstr "Сталася помилка під час видалення хмарних чернеток."
 
-#: source\gui\settings.py:1490
 msgid "Sound files"
 msgstr "Звукові файли"
 
-#: source\gui\settings.py:1506
 #, python-brace-format
 msgid "A file with this name already exists: {name}"
 msgstr "Файл із такою назвою вже існує: {name}"
 
-#: source\gui\settings.py:1628
 #, python-brace-format
 msgid "Disk usage: {size}, {count} file"
 msgid_plural "Disk usage: {size}, {count} files"
@@ -3489,7 +2602,6 @@ msgstr[0] "Використання диска: {size}, {count} файл"
 msgstr[1] "Використання диска: {size}, {count} файли"
 msgstr[2] "Використання диска: {size}, {count} файлів"
 
-#: source\gui\settings.py:1635
 msgid ""
 "Are you sure you want to clear storage? After this, all local copies of "
 "files from the cache will be deleted. Your search queries will also be "
@@ -3499,7 +2611,6 @@ msgstr ""
 " кешу буде видалено. Ваші пошукові запити також буде очищено. Цю дію "
 "неможливо скасувати!"
 
-#: source\gui\settings.py:1826
 msgid ""
 "To apply some settings, it is required to reboot Easygram. Do you want to "
 "reboot Easygram right now?"
@@ -3507,73 +2618,55 @@ msgstr ""
 "Щоб застосувати деякі налаштування, потрібно перезапустити Easygram. "
 "Перезапустити Easygram зараз?"
 
-#: source\gui\settings.py:1826
 msgid "Restart is required"
 msgstr "Потрібен перезапуск"
 
-#: source\gui\vdm.py:191 source\gui\VListBox\Model.py:187
 msgid "Seen"
 msgstr "бачили"
 
-#: source\gui\vdm.py:193 source\gui\VListBox\Model.py:189
-#: source\gui\VListBox\Model.py:191
 msgid "Not seen"
 msgstr "ще не хто не бачив"
 
-#: source\gui\vdm.py:196 source\gui\VListBox\Model.py:194
-#: source\mediaPlayer\player.py:250
 msgid "Playing"
 msgstr "віт творюється"
 
-#: source\gui\vdm.py:198 source\gui\VListBox\Model.py:196
 msgid "Paused"
 msgstr "Призупинено"
 
-#: source\gui\vdm.py:200 source\gui\VListBox\Model.py:198
 msgid "Stopped"
 msgstr "Зупинився"
 
-#: source\gui\vdm.py:202 source\gui\VListBox\Model.py:200
 msgid "Played"
 msgstr "Грав"
 
-#: source\gui\vdm.py:204 source\gui\VListBox\Model.py:202
 msgid "Loading"
 msgstr "Завантаження"
 
-#: source\gui\vdm.py:207 source\gui\VListBox\Model.py:205
 msgid "Pinned"
 msgstr "Закріплено"
 
-#: source\gui\vdm.py:229 source\gui\vdm.py:311 source\gui\vdm.py:439
 #, python-brace-format
 msgid "{name} (channel)"
 msgstr "{name} (канал)"
 
-#: source\gui\vdm.py:231 source\gui\vdm.py:313 source\gui\vdm.py:441
 #, python-brace-format
 msgid "{name} (group)"
 msgstr "{name} (група)"
 
-#: source\gui\vdm.py:236 source\gui\vdm.py:318 source\gui\vdm.py:446
 #, python-brace-format
 msgid "{name} (bot)"
 msgstr "{name} (бот)"
 
-#: source\gui\vdm.py:245 source\gui\vdm.py:324 source\gui\vdm.py:451
 #, python-brace-format
 msgid "{title} (online)"
 msgstr "{title} (онлайн)"
 
-#: source\gui\vdm.py:252 source\gui\vdm.py:331 source\gui\vdm.py:365
 msgid "(pinned)"
 msgstr "(закріплено)"
 
-#: source\gui\vdm.py:257
 msgid "Muted"
 msgstr "Без сповіщень"
 
-#: source\gui\vdm.py:261 source\gui\vdm.py:374 source\gui\__init__.py:1581
 #, python-brace-format
 msgid "{count} unread message"
 msgid_plural "{count} unread messages"
@@ -3581,7 +2674,6 @@ msgstr[0] "{count} непрочитане повідомлення"
 msgstr[1] "{count} непрочитані повідомлення"
 msgstr[2] "{count} непрочитаних повідомлень"
 
-#: source\gui\vdm.py:264 source\gui\vdm.py:377
 #, python-brace-format
 msgid "{count} mention"
 msgid_plural "{count} mentions"
@@ -3589,7 +2681,6 @@ msgstr[0] "{count} згадка"
 msgstr[1] "{count} згадки"
 msgstr[2] "{count} згадок"
 
-#: source\gui\vdm.py:267
 #, python-brace-format
 msgid "{count} new reaction"
 msgid_plural "{count} new reactions"
@@ -3597,67 +2688,53 @@ msgstr[0] "{count} нова реакція"
 msgstr[1] "{count} нові реакції"
 msgstr[2] "{count} нових реакцій"
 
-#: source\gui\vdm.py:334
 msgid "A choice of topic is available"
 msgstr "Доступний вибір теми"
 
-#: source\gui\vdm.py:353
 msgid "Music"
 msgstr "Музика"
 
-#: source\gui\vdm.py:353
 msgid "Photo"
 msgstr "Фото"
 
-#: source\gui\vdm.py:353
 msgid "Animation"
 msgstr "Анімація"
 
-#: source\gui\vdm.py:353
 msgid "Document"
 msgstr "документ"
 
-#: source\gui\vdm.py:368
 msgid "(General topic)"
 msgstr "(Основна тема)"
 
-#: source\gui\vdm.py:371
 msgid "Closed"
 msgstr "Закрито"
 
-#: source\gui\vdm.py:380
 msgid "New reaction"
 msgid_plural "New reactions"
 msgstr[0] "Нова реакція"
 msgstr[1] "Нові реакції"
 msgstr[2] "Нових реакцій"
 
-#: source\gui\vdm.py:439
 #, python-brace-format
 msgid "{name} (@{username}) (channel)"
 msgstr "{name} (@{username}) (канал)"
 
-#: source\gui\vdm.py:441
 #, python-brace-format
 msgid "{name} (@{username}) (group)"
 msgstr "{name} (@{username}) (група)"
 
-#: source\gui\vdm.py:446
 #, python-brace-format
 msgid "{name} (@{username}) (bot)"
 msgstr "{name} (@{username}) (бот)"
 
-#: source\gui\vdm.py:451
 #, python-brace-format
 msgid "{title} (@{username}) (online)"
 msgstr "{title} (@{username}) (у мережі)"
 
-#: source\gui\vdm.py:453
 #, python-brace-format
 msgid "{title} (@{username})"
 msgstr "{title} (@{username})"
 
-#: source\gui\vdm.py:458
 #, python-brace-format
 msgid "{count} subscriber"
 msgid_plural "{count} subscribers"
@@ -3665,7 +2742,6 @@ msgstr[0] "{count} підписник"
 msgstr[1] "{count} підписники"
 msgstr[2] "{count} підписників"
 
-#: source\gui\vdm.py:460
 #, python-brace-format
 msgid "{count} member"
 msgid_plural "{count} members"
@@ -3673,91 +2749,70 @@ msgstr[0] "{count} учасник"
 msgstr[1] "{count} учасники"
 msgstr[2] "{count} учасників"
 
-#: source\gui\vdm.py:501
 #, python-brace-format
 msgid "{server}; Port: {port}"
 msgstr "{server}; порт: {port}"
 
-#: source\gui\vdm.py:509 source\gui\vdm.py:511 source\gui\vdm.py:513
 #, python-brace-format
 msgid "Type: {proxyType}"
 msgstr "Тип: {proxyType}"
 
-#: source\gui\vdm.py:519 source\gui\vdm.py:521
 #, python-brace-format
 msgid "Last used: {lastUsed}"
 msgstr "Останнє використання: {lastUsed}"
 
-#: source\gui\vdm.py:524
 msgid "Enabled"
 msgstr "Увімкнено"
 
-#: source\gui\vdm.py:527
 #, python-brace-format
 msgid "Ping: {time} MS"
 msgstr "Пінг: {time} мс"
 
-#: source\gui\__init__.py:104
 msgid "Offline"
 msgstr "Офлайн"
 
-#: source\gui\__init__.py:160
 msgid "Someone has accessed your chats..."
 msgstr "Хтось отримав доступ до ваших чатів..."
 
-#: source\gui\__init__.py:173
 msgid "Loading chats..."
 msgstr "Завантаження чатів..."
 
-#: source\gui\__init__.py:182 source\gui\__init__.py:515
-#: source\gui\__init__.py:1328
 msgid "Archive"
 msgstr "Архів"
 
-#: source\gui\__init__.py:187
 msgid "Mark all chats as read"
 msgstr "Позначте всі чати як прочитані"
 
-#: source\gui\__init__.py:197
 #, python-brace-format
 msgid "Chats ({0})"
 msgstr "Чати ({0})"
 
-#: source\gui\__init__.py:201
 msgid "Contacts"
 msgstr "Контакти"
 
-#: source\gui\__init__.py:205
 msgid "Sort..."
 msgstr "Сортувати..."
 
-#: source\gui\__init__.py:263 source\gui\__init__.py:1265
 #, python-brace-format
 msgid "Contacts ({0})"
 msgstr "Контакти ({0})"
 
-#: source\gui\__init__.py:275
 msgid "Preferences"
 msgstr "Налаштуваня"
 
-#: source\gui\__init__.py:407
 #, python-brace-format
 msgid "Failed to add contact: {message}"
 msgstr "Не вдалося додати контакт: {message}"
 
-#: source\gui\__init__.py:417
 msgid "The contact was added successfully"
 msgstr "Контакт успішно додано"
 
-#: source\gui\__init__.py:418
 msgid "Success"
 msgstr "Успішно"
 
-#: source\gui\__init__.py:425
 msgid "Failed to add contact: no contacts were imported"
 msgstr "Не вдалося додати контакт: контакти не було імпортовано"
 
-#: source\gui\__init__.py:515 source\gui\__init__.py:1328
 #, python-brace-format
 msgid "Archive: {count} unread chat"
 msgid_plural "Archive: {count} unread chats"
@@ -3765,20 +2820,16 @@ msgstr[0] "Архів: {count} непрочитаний чат"
 msgstr[1] "Архів: {count} непрочитані чати"
 msgstr[2] "Архів: {count} непрочитаних чатів"
 
-#: source\gui\__init__.py:551
 msgid "Archived chats"
 msgstr "Архівовані чати"
 
-#: source\gui\__init__.py:636
 msgid "Folder not found"
 msgstr "Папку не знайдено"
 
-#: source\gui\__init__.py:655
 #, python-brace-format
 msgid "{name} folder already selected"
 msgstr "{name}: папку вже вибрано"
 
-#: source\gui\__init__.py:655
 #, python-brace-format
 msgid "{name} ({count} unread chat) folder already selected"
 msgid_plural "{name} ({count} unread chats) folder already selected"
@@ -3786,12 +2837,10 @@ msgstr[0] "{name} ({count} непрочитаний чат): папку вже �
 msgstr[1] "{name} ({count} непрочитані чати): папку вже вибрано"
 msgstr[2] "{name} ({count} непрочитаних чатів): папку вже вибрано"
 
-#: source\gui\__init__.py:659
 #, python-brace-format
 msgid "{name} folder selected"
 msgstr "{name}: папку вибрано"
 
-#: source\gui\__init__.py:659
 #, python-brace-format
 msgid "{name} ({count} unread chat) folder selected"
 msgid_plural "{name} ({count} unread chats) folder selected"
@@ -3799,36 +2848,28 @@ msgstr[0] "{name} ({count} непрочитаний чат): папку вибр
 msgstr[1] "{name} ({count} непрочитані чати): папку вибрано"
 msgstr[2] "{name} ({count} непрочитаних чатів): папку вибрано"
 
-#: source\gui\__init__.py:786
 #, python-brace-format
 msgid "Do you really want to delete this \"{name}\" contact?"
 msgstr "Ви дійсно хочете видалити цей контакт \"{name}\"?"
 
-#: source\gui\__init__.py:1024
 msgid "Are you sure you want to close application?"
 msgstr "Ви впевнені, що бажаєте закрити програму?"
 
-#: source\gui\__init__.py:1024
 msgid "Exit the program"
 msgstr "Вийти з програми"
 
-#: source\gui\__init__.py:1090
 msgid "Loading..."
 msgstr "Завантаження..."
 
-#: source\gui\__init__.py:1111
 msgid "Invalid verification code!"
 msgstr "Недійсний код підтвердження!"
 
-#: source\gui\__init__.py:1113
 msgid "Invalid password!"
 msgstr "Невірний пароль!"
 
-#: source\gui\__init__.py:1120
 msgid "Authorisation Error"
 msgstr "Помилка авторизації"
 
-#: source\gui\__init__.py:1157
 msgid ""
 "Easygram: Someone has accessed your chats. Press Control+N to open this "
 "notification."
@@ -3836,17 +2877,14 @@ msgstr ""
 "Easygram: хтось отримав доступ до ваших чатів. Натисніть Control+N, щоб "
 "відкрити це сповіщення."
 
-#: source\gui\__init__.py:1201
 #, python-brace-format
 msgid "New message from {sender}: {text}"
 msgstr "Нове повідомлення від {sender}: {text}"
 
-#: source\gui\__init__.py:1201
 #, python-brace-format
 msgid "New message from {sender}"
 msgstr "Нове повідомлення від {sender}"
 
-#: source\gui\__init__.py:1208
 #, python-brace-format
 msgid ""
 "{count} new message from {sender}:\n"
@@ -3864,7 +2902,6 @@ msgstr[2] ""
 "{count} нових повідомлень від {sender}:\n"
 "{text}"
 
-#: source\gui\__init__.py:1208
 #, python-brace-format
 msgid "{count} new message from {sender}"
 msgid_plural "{count} new messages from {sender}"
@@ -3872,7 +2909,6 @@ msgstr[0] "{count} нове повідомлення від {sender}"
 msgstr[1] "{count} нові повідомлення від {sender}"
 msgstr[2] "{count} нових повідомлень від {sender}"
 
-#: source\gui\__init__.py:1218
 #, python-brace-format
 msgid "{count} new message"
 msgid_plural "{count} new messages"
@@ -3880,7 +2916,6 @@ msgstr[0] "{count} нове повідомлення"
 msgstr[1] "{count} нові повідомлення"
 msgstr[2] "{count} нових повідомлень"
 
-#: source\gui\__init__.py:1218
 #, python-brace-format
 msgid "from {count} chat"
 msgid_plural "from {count} chats"
@@ -3888,7 +2923,6 @@ msgstr[0] "з {count} чату"
 msgstr[1] "з {count} чатів"
 msgstr[2] "з {count} чатів"
 
-#: source\gui\__init__.py:1219
 #, python-brace-format
 msgid ""
 "{title}:\n"
@@ -3897,17 +2931,13 @@ msgstr ""
 "{title}:\n"
 "{text}"
 
-#: source\gui\__init__.py:1337
 msgid "Do you really want to mark all the chats on this list as read?"
 msgstr "Ви дійсно хочете позначити всі чати в цьому списку як прочитані?"
 
-#: source\gui\__init__.py:1575
 #, python-brace-format
 msgid "Chats: {count}"
 msgstr "Чати: {count}"
 
-#: source\gui\__init__.py:1746 source\gui\__init__.py:1748
-#: source\gui\__init__.py:1750
 #, python-brace-format
 msgid ""
 "Are you sure you want to add this proxy server to the application: Type: "
@@ -3916,27 +2946,21 @@ msgstr ""
 "Ви справді хочете додати цей проксі-сервер до застосунку: тип: {type}, "
 "сервер: {server}, порт: {port}?"
 
-#: source\gui\__init__.py:1752
 msgid "Unsupported proxy type"
 msgstr "Непідтримуваний тип проксі"
 
-#: source\gui\__init__.py:1787
 msgid "Proxy server was added successfully. Do you want to enable it now?"
 msgstr "Проксі-сервер успішно додано. Увімкнути його зараз?"
 
-#: source\gui\__init__.py:1793
 msgid "Proxy server was enabled successfully."
 msgstr "Проксі-сервер успішно ввімкнено."
 
-#: source\gui\__init__.py:1806
 msgid "Not supported in this time."
 msgstr "Наразі не підтримується."
 
-#: source\gui\__init__.py:1832
 msgid "The invitation link is invalid"
 msgstr "Посилання-запрошення недійсне"
 
-#: source\gui\__init__.py:1842
 #, python-brace-format
 msgid ""
 "Would you like to join this group?\n"
@@ -3949,19 +2973,15 @@ msgstr ""
 "Учасники: {members},\n"
 "Опис: {description}"
 
-#: source\gui\__init__.py:1844
 msgid "Join this chat"
 msgstr "Приєднатися до цього чату"
 
-#: source\gui\__init__.py:1879 source\gui\__init__.py:1914
 msgid "It is not possible to open this link in the application"
 msgstr "Неможливо відкрити це посилання в застосунку"
 
-#: source\gui\__init__.py:1887 source\gui\__init__.py:1922
 msgid "Couldn't open the link in the app!"
 msgstr "Не вдалося відкрити посилання в застосунку!"
 
-#: source\gui\__init__.py:1902
 msgid ""
 "It is not possible to open this link in the application. Most likely you are"
 " not a member of this chat."
@@ -3969,245 +2989,184 @@ msgstr ""
 "Неможливо відкрити це посилання в застосунку. Найімовірніше, ви не є "
 "учасником цього чату."
 
-#: source\gui\VListBox\Accessible.py:52
 msgid "List"
 msgstr "Список"
 
-#: source\gui\VListBox\Accessible.py:59
 msgid "Selected"
 msgstr "Вибрано"
 
-#: source\gui\VListBox\Accessible.py:59
 msgid "Not selected"
 msgstr "Не вибрано"
 
-#: source\keyboardHandler\keyboard.py:31
 msgid "Play/Pause"
 msgstr "Відтворити/пауза"
 
-#: source\keyboardHandler\keyboard.py:32
 msgid "Mute/Unmute"
 msgstr "Вимкнути/увімкнути звук"
 
-#: source\keyboardHandler\keyboard.py:33
 msgid "Volume down"
 msgstr "Зменшити гучність"
 
-#: source\keyboardHandler\keyboard.py:34
 msgid "Volume up"
 msgstr "Збільшити гучність"
 
-#: source\mediaPlayer\gui.py:15
 msgid "Disabled"
 msgstr "Вимкнено"
 
-#: source\mediaPlayer\gui.py:24
 msgid "Equalizer"
 msgstr "Еквалайзер"
 
-#: source\mediaPlayer\gui.py:69 source\mediaPlayer\gui.py:108
-#: source\mediaPlayer\__init__.py:112
 #, python-brace-format
 msgid "Time: {t}/{l}"
 msgstr "час: {t}/{l}"
 
-#: source\mediaPlayer\gui.py:72 source\mediaPlayer\gui.py:97
 #, python-brace-format
 msgid "Playback rate: {rate}"
 msgstr "Швидкість відтворення: {rate}"
 
-#: source\mediaPlayer\gui.py:75
 msgid "Player control panel"
 msgstr "Панель керування плеєром"
 
-#: source\mediaPlayer\gui.py:100
 msgid "Media player"
 msgstr "Медіаплеєр"
 
-#: source\mediaPlayer\gui.py:190
 msgid "Audio player"
 msgstr "Аудіоплеєр"
 
-#: source\mediaPlayer\gui.py:193 source\mediaPlayer\gui.py:198
 #, python-brace-format
 msgid "Now playing: {title} - {artist}"
 msgstr "Зараз грає: {title} - {artist}"
 
-#: source\mediaPlayer\gui.py:205
 msgid "Video player"
 msgstr "Відеоплеєр"
 
-#: source\mediaPlayer\photo.py:25
 msgid "Photo viewer"
 msgstr "Переглядач фотографій"
 
-#: source\mediaPlayer\photo.py:41
 msgid "Copy to clipboard"
 msgstr "Копіювати до буфера обміну"
 
-#: source\mediaPlayer\photo.py:61
 msgid "Copied to clipboard."
 msgstr "Скопійовано до буфера обміну."
 
-#: source\mediaPlayer\player.py:266
 msgid "Stop"
 msgstr "Стоп"
 
-#: source\mediaPlayer\player.py:271
 msgid "Pause"
 msgstr "Пауза"
 
-#: source\mediaPlayer\player.py:285 source\mediaPlayer\player.py:297
-#: source\mediaPlayer\__init__.py:43
 msgid "Nothing is playing"
 msgstr "Нічого не грає"
 
-#: source\mediaPlayer\player.py:293 source\mediaPlayer\player.py:305
 #, python-brace-format
 msgid "Volume {v}"
 msgstr "Гучнисть {v}"
 
-#: source\mediaPlayer\player.py:311
 msgid "Sound unmuted"
 msgstr "Звук увімкнено"
 
-#: source\mediaPlayer\player.py:311
 msgid "Sound muted"
 msgstr "Звук вимкнено"
 
-#: source\mediaPlayer\player.py:350 source\mediaPlayer\player.py:358
-#: source\mediaPlayer\player.py:363
 #, python-brace-format
 msgid "Playback rate {rate}"
 msgstr "Швидкість відтворення {rate}"
 
-#: source\objects\descriptions.py:14
 msgid "Selects a contact"
 msgstr "Вибирає контакт"
 
-#: source\objects\descriptions.py:15
 msgid "Selects location"
 msgstr "Вибирає місце розташування"
 
-#: source\objects\descriptions.py:16
 msgid "Selects a sticker"
 msgstr "Вибирає наклейку"
 
-#: source\objects\descriptions.py:17 source\objects\descriptions.py:18
 msgid "Recording video"
 msgstr "Запис відео"
 
-#: source\objects\descriptions.py:19
 msgid "Recording voice"
 msgstr "Запис голосу"
 
-#: source\objects\descriptions.py:20
 msgid "Start playing game"
 msgstr "Почніть грати в гру"
 
-#: source\objects\descriptions.py:21
 msgid "Typing"
 msgstr "Введення"
 
-#: source\objects\descriptions.py:22
 msgid "Sending a file"
 msgstr "Надсилання файлу"
 
-#: source\objects\descriptions.py:23
 msgid "Sending a photo"
 msgstr "Надсилання фото"
 
-#: source\objects\descriptions.py:24 source\objects\descriptions.py:25
 msgid "Sending a video"
 msgstr "Надсилання відео"
 
-#: source\objects\descriptions.py:26
 msgid "Sending an audio"
 msgstr "Надсилання аудіо"
 
-#: source\objects\descriptions.py:27
 msgid "Watching animations"
 msgstr "Перегляд анімацій"
 
-#: source\objects\messages.py:1250
 msgid "Outgoing"
 msgstr "Вихідний"
 
-#: source\objects\messages.py:1252
 msgid "Incoming"
 msgstr "Вхідні"
 
-#: source\objects\messages.py:1254
 msgid "Cancelled"
 msgstr "Скасовано"
 
-#: source\objects\messages.py:1256
 msgid "Missed"
 msgstr "Пропущений"
 
-#: source\objects\messages.py:1258
 msgid "Declined"
 msgstr "Відхилено"
 
-#: source\objects\messages.py:1262
 msgid "video call"
 msgstr "відеодзвінок"
 
-#: source\objects\messages.py:1264
 msgid "audio call"
 msgstr "аудіодзвінок"
 
-#: source\objects\sounds.py:28
 msgid "Action"
 msgstr "Дія"
 
-#: source\objects\sounds.py:29
 msgid "Foreground message"
 msgstr "Повідомлення на передньому плані"
 
-#: source\objects\sounds.py:30
 msgid "Background message"
 msgstr "Фонове повідомлення"
 
-#: source\objects\sounds.py:31
 msgid "Operation completed"
 msgstr "Операцію завершено"
 
-#: source\objects\sounds.py:33
 msgid "Background message classic"
 msgstr "Класичне фонове повідомлення"
 
-#: source\objects\sounds.py:34
 msgid "Message notification telegram"
 msgstr "Сповіщення про повідомлення Telegram"
 
-#: source\objects\sounds.py:35
 msgid "Incoming message telegram"
 msgstr "Вхідне повідомлення Telegram"
 
-#: source\objects\sounds.py:36
 msgid "Outgoing message telegram"
 msgstr "Вихідне повідомлення Telegram"
 
-#: source\objects\sounds.py:37
 msgid "Outgoing message"
 msgstr "Вихідне повідомлення"
 
-#: source\objects\sounds.py:49
 #, python-brace-format
 msgid "{sound} (builtin)"
 msgstr "{sound} (вбудований)"
 
-#: source\objects\sounds.py:51
 #, python-brace-format
 msgid "{sound} (user)"
 msgstr "{sound} (користувацький)"
 
-#: source\recording\util.py:50
 msgid "Unknown device"
 msgstr "Невідомий пристрій"
 
-#: source\td\tdjson.py:90
 msgid ""
 "A mismatch between the database version and the TDLib version was detected. "
 "Do you want to reset the database and log in again?"
@@ -4215,6 +3174,5 @@ msgstr ""
 "Виявлено невідповідність між версією бази даних і версією TDLib. Скинути "
 "базу даних і ввійти знову?"
 
-#: source\td\tdjson.py:90
 msgid "Database error"
 msgstr "Помилка бази даних"
